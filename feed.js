@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-15T09:49:19.230442+00:00",
+  "lastUpdated": "2026-09-15T13:54:56.737659+00:00",
   "items": [
+    {
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month).",
+      "source": "The Verge",
+      "published": "2026-09-15T13:36:45+00:00",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+    },
+    {
+      "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
+      "summary": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-15T12:57:10+00:00",
+      "link": "https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/"
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "Last year, the clinical trial policy analyst Ruxandra Teslo posted an idea for super-charging medical AI systems: use data from failed biotech companies.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+    },
+    {
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute.",
+      "source": "The Decoder",
+      "published": "2026-09-15T10:33:03+00:00",
+      "link": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/"
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 74 # Comments: 93",
+      "source": "Hacker News",
+      "published": "2026-09-15T09:47:48+00:00",
+      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
+    },
     {
       "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
       "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back.",
@@ -17,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 169 # Comments: 105",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 192 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -73,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 147 # Comments: 132",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 152 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -108,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "When LLM judges agree, should we believe them?",
-      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 42",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-09-14T16:29:30+00:00",
       "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
@@ -122,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "For AI leaders Doom is a form of hype",
-      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 129 # Comments: 176",
+      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 130 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-09-14T16:15:05+00:00",
       "link": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
@@ -185,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 113 # Comments: 27",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 142 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-14T14:29:23+00:00",
       "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
     },
     {
       "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 102 # Comments: 46",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 106 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-09-14T14:04:53+00:00",
       "link": "https://spectrum.ieee.org/adversarial-fashion"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 222 # Comments: 157",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 223 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-09-14T12:01:32+00:00",
       "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
@@ -262,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI sets out its terms for regulatory capture",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 117 # Comments: 68",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 118 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-14T10:28:28+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
@@ -297,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 137 # Comments: 31",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 139 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-09-14T07:55:19+00:00",
       "link": "https://github.com/anuj0456/OpenArch"
@@ -311,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Malicious Use of Artificial Intelligence",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 85 # Comments: 24",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 86 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-14T01:22:35+00:00",
       "link": "https://arxiv.org/abs/1802.07228"
     },
     {
       "title": "Open-source AI and open models reading list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 154 # Comments: 29",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 155 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-09-14T00:22:51+00:00",
       "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
@@ -360,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 409 # Comments: 235",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 411 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-09-13T15:44:38+00:00",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
@@ -374,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI models don't kill people – people kill people",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 50 # Comments: 69",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 50 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-13T13:33:34+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368"
@@ -416,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 649 # Comments: 686",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 651 # Comments: 687",
       "source": "Hacker News",
       "published": "2026-09-13T01:22:31+00:00",
       "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-09T14:06:57+00:00",
       "link": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
-    },
-    {
-      "title": "Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome",
-      "summary": "Google Deepmind has used the AlphaGenome Atlas to predict what each of the roughly nine billion possible single-letter changes in the human genome could do. The dataset spans one petabyte, more than 30 times the size of the AlphaFold database.",
-      "source": "The Decoder",
-      "published": "2026-09-09T13:40:40+00:00",
-      "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
-    },
-    {
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "source": "Wired",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
-    },
-    {
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio.",
-      "source": "The Verge",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
-    },
-    {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
-    },
-    {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-    },
-    {
-      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
-      "summary": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction.",
-      "source": "The Decoder",
-      "published": "2026-09-09T12:48:41+00:00",
-      "link": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/"
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
-    },
-    {
-      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
-      "summary": "Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference. The article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-09T12:27:42+00:00",
-      "link": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/"
-    },
-    {
-      "title": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
-      "summary": "OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits.",
-      "source": "The Decoder",
-      "published": "2026-09-09T12:17:58+00:00",
-      "link": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/"
     }
   ]
 };
