@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-14T23:37:50.000453+00:00",
+  "lastUpdated": "2026-09-15T05:49:14.299689+00:00",
   "items": [
     {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
