@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-16T19:49:18.055445+00:00",
+  "lastUpdated": "2026-09-16T23:26:57.426788+00:00",
   "items": [
+    {
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "source": "Wired",
+      "published": "2026-09-16T22:07:24+00:00",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T21:07:24+00:00",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+    },
+    {
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "source": "Wired",
+      "published": "2026-09-16T21:00:00+00:00",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
+    },
+    {
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers.",
+      "source": "The Verge",
+      "published": "2026-09-16T20:59:13+00:00",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
+    },
+    {
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row.",
+      "source": "The Verge",
+      "published": "2026-09-16T20:40:46+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "source": "TechCrunch",
+      "published": "2026-09-16T20:12:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
+    },
     {
       "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
       "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks.",
@@ -112,6 +154,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-16T14:59:58+00:00",
       "link": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/"
+    },
+    {
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights.",
+      "source": "AI News",
+      "published": "2026-09-16T14:47:32+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/"
     },
     {
       "title": "The sexy AI-powered dating app scams are here",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-10T16:33:44+00:00",
       "link": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/"
-    },
-    {
-      "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
-      "summary": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according...",
-      "source": "The Decoder",
-      "published": "2026-09-10T16:31:02+00:00",
-      "link": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/"
-    },
-    {
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday.",
-      "source": "The Verge",
-      "published": "2026-09-10T15:38:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 443 # Comments: 189",
-      "source": "Hacker News",
-      "published": "2026-09-10T15:29:47+00:00",
-      "link": "https://cognition.com/blog/swe-2"
-    },
-    {
-      "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
-      "summary": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose.",
-      "source": "The Decoder",
-      "published": "2026-09-10T15:26:58+00:00",
-      "link": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/"
-    },
-    {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more.",
-      "source": "The Verge",
-      "published": "2026-09-10T15:00:00+00:00",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T14:53:50+00:00",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
-    },
-    {
-      "title": "AI 2027 (2025)",
-      "summary": "Article URL: https://ai-2027.com Comments URL: https://news.ycombinator.com/item?id=49644294 Points: 57 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-09-10T14:27:00+00:00",
-      "link": "https://ai-2027.com"
     }
   ]
 };
