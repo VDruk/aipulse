@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-16T05:38:04.822776+00:00",
+  "lastUpdated": "2026-09-16T09:44:42.335549+00:00",
   "items": [
+    {
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "source": "Wired",
+      "published": "2026-09-16T09:30:00+00:00",
+      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
+    },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
@@ -1389,13 +1396,6 @@ const FEED_DATA = {
     },
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
-      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-      "source": "Ars Technica",
-      "published": "2026-09-09T20:55:02+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
-    },
-    {
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "source": "Ars Technica",
       "published": "2026-09-09T20:55:02+00:00",
