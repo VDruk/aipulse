@@ -1,9 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-16T17:31:59.447773+00:00",
+  "lastUpdated": "2026-09-16T19:49:18.055445+00:00",
   "items": [
     {
+      "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+      "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks.",
+      "source": "The Decoder",
+      "published": "2026-09-16T19:02:25+00:00",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/"
+    },
+    {
+      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+      "source": "Wired",
+      "published": "2026-09-16T19:00:00+00:00",
+      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/"
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T18:25:25+00:00",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
+    },
+    {
+      "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+      "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips.",
+      "source": "The Decoder",
+      "published": "2026-09-16T18:16:27+00:00",
+      "link": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/"
+    },
+    {
       "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since.",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since.",
       "source": "The Verge",
       "published": "2026-09-16T17:20:29+00:00",
       "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-10T14:27:00+00:00",
       "link": "https://ai-2027.com"
-    },
-    {
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 122 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-09-10T14:21:20+00:00",
-      "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
-    },
-    {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T14:17:37+00:00",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
-    },
-    {
-      "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
-      "summary": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research.",
-      "source": "The Decoder",
-      "published": "2026-09-10T13:45:32+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/"
-    },
-    {
-      "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-      "summary": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token.",
-      "source": "The Decoder",
-      "published": "2026-09-10T12:40:51+00:00",
-      "link": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/"
     }
   ]
 };
