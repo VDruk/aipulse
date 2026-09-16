@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-15T23:20:40.672268+00:00",
+  "lastUpdated": "2026-09-16T05:38:04.822776+00:00",
   "items": [
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T00:20:39+00:00",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+    },
+    {
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular.",
+      "source": "The Verge",
+      "published": "2026-09-15T23:34:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+    },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
       "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
@@ -73,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 204 # Comments: 143",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 215 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-09-15T16:38:45+00:00",
       "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 81 # Comments: 69",
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 104 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-15T15:26:45+00:00",
       "link": "https://www.formas.ai/cartesian"
@@ -129,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking our proxies for expertise",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 82 # Comments: 71",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 85 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:55+00:00",
       "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
+    },
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 52 # Comments: 112",
+      "source": "Hacker News",
+      "published": "2026-09-15T13:41:28+00:00",
+      "link": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
     },
     {
       "title": "This doorbell camera lets a human security guard watch your front door",
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 119 # Comments: 164",
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 128 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-15T09:47:48+00:00",
       "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 218 # Comments: 132",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 223 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 158 # Comments: 150",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 160 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -318,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "When LLM judges agree, should we believe them?",
-      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 46",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 53 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-09-14T16:29:30+00:00",
       "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
@@ -360,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 57 # Comments: 52",
+      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 58 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-09-14T15:30:56+00:00",
       "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation"
@@ -395,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 149 # Comments: 29",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 150 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-14T14:29:23+00:00",
       "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
     },
     {
       "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 110 # Comments: 48",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 111 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-09-14T14:04:53+00:00",
       "link": "https://spectrum.ieee.org/adversarial-fashion"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 224 # Comments: 160",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 224 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-09-14T12:01:32+00:00",
       "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI sets out its terms for regulatory capture",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 119 # Comments: 69",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 119 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-09-14T10:28:28+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
@@ -507,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 139 # Comments: 31",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 139 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-09-14T07:55:19+00:00",
       "link": "https://github.com/anuj0456/OpenArch"
@@ -542,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "summary": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 77 # Comments: 109",
+      "summary": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 78 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-09-13T19:41:06+00:00",
       "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-09-09T20:55:02+00:00",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
-    },
-    {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.",
-      "source": "The Verge",
-      "published": "2026-09-09T20:44:43+00:00",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
-    },
-    {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T20:24:48+00:00",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
-    },
-    {
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T20:03:43+00:00",
-      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
     }
   ]
 };
