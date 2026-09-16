@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-16T13:47:10.311743+00:00",
+  "lastUpdated": "2026-09-16T17:31:59.447773+00:00",
   "items": [
+    {
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since.",
+      "source": "The Verge",
+      "published": "2026-09-16T17:20:29+00:00",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
+    },
+    {
+      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI.",
+      "source": "The Decoder",
+      "published": "2026-09-16T17:00:28+00:00",
+      "link": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+    },
+    {
+      "title": "Google will now let any AI agent run your smart home",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
+      "source": "The Verge",
+      "published": "2026-09-16T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
+    },
+    {
+      "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+      "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow.",
+      "source": "The Decoder",
+      "published": "2026-09-16T16:31:41+00:00",
+      "link": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+    },
+    {
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.",
+      "source": "The Verge",
+      "published": "2026-09-16T16:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
+    },
+    {
+      "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices.",
+      "source": "The Decoder",
+      "published": "2026-09-16T15:19:19+00:00",
+      "link": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/"
+    },
+    {
+      "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+      "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-16T15:01:38+00:00",
+      "link": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/"
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-16T15:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+    },
+    {
+      "title": "Political opposites unite in Washington to rein in AI",
+      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence.",
+      "source": "The Decoder",
+      "published": "2026-09-16T14:59:58+00:00",
+      "link": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/"
+    },
+    {
+      "title": "The sexy AI-powered dating app scams are here",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings.",
+      "source": "The Verge",
+      "published": "2026-09-16T14:45:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"
+    },
+    {
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+    },
     {
       "title": "Building the materials foundation for AI",
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it.",
@@ -247,18 +345,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
     },
     {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
-    },
-    {
       "title": "AI models need more data about biology, and OpenAI is paying to create it",
       "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.",
       "source": "MIT Tech Review",
       "published": "2026-09-15T12:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
     },
     {
       "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-10T12:40:51+00:00",
       "link": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/"
-    },
-    {
-      "title": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
-      "summary": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT.",
-      "source": "The Decoder",
-      "published": "2026-09-10T12:27:18+00:00",
-      "link": "https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/"
-    },
-    {
-      "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation",
-      "summary": "Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-10T12:23:16+00:00",
-      "link": "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/"
-    },
-    {
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-10T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.",
-      "source": "The Verge",
-      "published": "2026-09-10T11:00:57+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
-    },
-    {
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-10T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
-    },
-    {
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-10T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
-    },
-    {
-      "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
-      "summary": "Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic.",
-      "source": "The Decoder",
-      "published": "2026-09-10T10:31:20+00:00",
-      "link": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/"
-    },
-    {
-      "title": "Everything New You Can Do With Siri AI",
-      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-      "source": "Wired",
-      "published": "2026-09-10T10:30:00+00:00",
-      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/"
-    },
-    {
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones.",
-      "source": "AI News",
-      "published": "2026-09-10T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/"
-    },
-    {
-      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-      "source": "Wired",
-      "published": "2026-09-10T10:00:00+00:00",
-      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/"
-    },
-    {
-      "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
-      "summary": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August.",
-      "source": "The Decoder",
-      "published": "2026-09-10T09:34:21+00:00",
-      "link": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/"
-    },
-    {
-      "title": "Healthcare AI’s next test is integration",
-      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-10T08:58:01+00:00",
-      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
-    },
-    {
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 115 # Comments: 20",
-      "source": "Hacker News",
-      "published": "2026-09-10T02:04:11+00:00",
-      "link": "https://hugovergnes.github.io/little-lm-3-8b/"
-    },
-    {
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 94 # Comments: 64",
-      "source": "Hacker News",
-      "published": "2026-09-10T01:59:51+00:00",
-      "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
     }
   ]
 };
