@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-17T05:44:25.594361+00:00",
+  "lastUpdated": "2026-09-17T09:52:24.940315+00:00",
   "items": [
+    {
+      "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
+      "summary": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route.",
+      "source": "The Decoder",
+      "published": "2026-09-17T09:45:55+00:00",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/"
+    },
+    {
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 68 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-09-17T08:36:37+00:00",
+      "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
+    },
     {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
@@ -35,6 +49,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-16T23:40:00+00:00",
       "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 138 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-09-16T23:06:39+00:00",
+      "link": "https://openspec.dev/"
     },
     {
       "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
@@ -91,6 +112,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-16T19:00:00+00:00",
       "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/"
+    },
+    {
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 74 # Comments: 277",
+      "source": "Hacker News",
+      "published": "2026-09-16T18:59:42+00:00",
+      "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
     },
     {
       "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
@@ -205,6 +233,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"
     },
     {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 74 # Comments: 44",
+      "source": "Hacker News",
+      "published": "2026-09-16T13:01:52+00:00",
+      "link": "https://stale.jock.pl/"
+    },
+    {
       "title": "Former Infosys chief’s AI startup nabs another $53M",
       "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
       "source": "TechCrunch",
@@ -255,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 206 # Comments: 64",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 564 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-09-16T08:08:57+00:00",
       "link": "https://mistral.ai/news/mistral-x-mozilla/"
     },
     {
       "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 80 # Comments: 44",
+      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 84 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-09-16T02:25:18+00:00",
       "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 224 # Comments: 163",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 229 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-09-15T16:38:45+00:00",
       "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 109 # Comments: 78",
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 114 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-15T15:26:45+00:00",
       "link": "https://www.formas.ai/cartesian"
@@ -416,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking our proxies for expertise",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 90 # Comments: 79",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 92 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:55+00:00",
       "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
     },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 57 # Comments: 120",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:28+00:00",
       "link": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
@@ -493,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 137 # Comments: 175",
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 144 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-15T09:47:48+00:00",
       "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
@@ -521,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 225 # Comments: 135",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 229 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -577,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 163 # Comments: 151",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 165 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "When LLM judges agree, should we believe them?",
-      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 54 # Comments: 47",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 54 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-09-14T16:29:30+00:00",
       "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
@@ -626,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "For AI leaders Doom is a form of hype",
-      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 131 # Comments: 181",
+      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 131 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-09-14T16:15:05+00:00",
       "link": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
@@ -654,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 58 # Comments: 52",
+      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 58 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-09-14T15:30:56+00:00",
       "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation"
@@ -689,14 +724,14 @@ const FEED_DATA = {
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 152 # Comments: 29",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 153 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-14T14:29:23+00:00",
       "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
     },
     {
       "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 111 # Comments: 48",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 112 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-09-14T14:04:53+00:00",
       "link": "https://spectrum.ieee.org/adversarial-fashion"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-10T21:51:59+00:00",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T20:59:51+00:00",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T20:57:30+00:00",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
-    },
-    {
-      "title": "Is AI Actually Going to Kill Us All?",
-      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-      "source": "Wired",
-      "published": "2026-09-10T20:30:37+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/"
-    },
-    {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T19:50:04+00:00",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T17:54:44+00:00",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
     }
   ]
 };
