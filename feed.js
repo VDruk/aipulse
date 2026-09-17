@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-17T19:57:58.943484+00:00",
+  "lastUpdated": "2026-09-17T23:17:33.514845+00:00",
   "items": [
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T22:34:09+00:00",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+    },
+    {
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "source": "Wired",
+      "published": "2026-09-17T22:20:21+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T22:14:59+00:00",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+    },
+    {
+      "title": "Sex, AI, and the Apocalypse",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 69 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-09-17T21:15:52+00:00",
+      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 204 # Comments: 114",
+      "source": "Hacker News",
+      "published": "2026-09-17T20:36:13+00:00",
+      "link": "https://bend-lang.com/"
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T20:34:47+00:00",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T20:34:24+00:00",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T20:19:37+00:00",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T20:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
+    },
+    {
+      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+      "source": "Wired",
+      "published": "2026-09-17T19:58:28+00:00",
+      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
+    },
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
       "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
@@ -66,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Classification Is Feature Engineering",
-      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 72 # Comments: 12",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 86 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-09-17T15:40:17+00:00",
       "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
     },
     {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 99 # Comments: 82",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 108 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-09-17T15:13:30+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
@@ -185,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 227 # Comments: 175",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 260 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
@@ -227,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 186 # Comments: 92",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 189 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 79 # Comments: 306",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -331,18 +401,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/"
     },
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
-    },
-    {
       "title": "Google will now let any AI agent run your smart home",
       "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
       "source": "The Verge",
       "published": "2026-09-16T17:00:00+00:00",
       "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
     },
     {
       "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
@@ -380,18 +450,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/"
     },
     {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
-    },
-    {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.",
       "source": "MIT Tech Review",
       "published": "2026-09-16T15:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
     },
     {
       "title": "Political opposites unite in Washington to rein in AI",
@@ -472,14 +542,14 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 578 # Comments: 201",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 580 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-09-16T08:08:57+00:00",
       "link": "https://mistral.ai/news/mistral-x-mozilla/"
     },
     {
       "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 85 # Comments: 49",
+      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 86 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-09-16T02:25:18+00:00",
       "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
@@ -584,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 115 # Comments: 79",
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 115 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-15T15:26:45+00:00",
       "link": "https://www.formas.ai/cartesian"
@@ -640,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 134",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:28+00:00",
       "link": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-12T00:24:36+00:00",
       "link": "https://twitter.com/venturetwins/status/2098456905526211026"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "source": "TechCrunch",
-      "published": "2026-09-11T22:58:17+00:00",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-    },
-    {
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 118 # Comments: 116",
-      "source": "Hacker News",
-      "published": "2026-09-11T21:35:29+00:00",
-      "link": "https://www.dwarkesh.com/p/john-beren-charlie"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "source": "TechCrunch",
-      "published": "2026-09-11T20:59:47+00:00",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "source": "TechCrunch",
-      "published": "2026-09-11T20:57:36+00:00",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-    },
-    {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters.",
-      "source": "The Verge",
-      "published": "2026-09-11T20:44:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-11T20:05:06+00:00",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
-    },
-    {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "source": "TechCrunch",
-      "published": "2026-09-11T19:35:54+00:00",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
-    },
-    {
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
-      "source": "Wired",
-      "published": "2026-09-11T18:59:25+00:00",
-      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/"
-    },
-    {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back.",
-      "source": "TechCrunch",
-      "published": "2026-09-11T18:41:49+00:00",
-      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/"
-    },
-    {
-      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
-      "summary": "Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely.",
-      "source": "The Decoder",
-      "published": "2026-09-11T17:57:42+00:00",
-      "link": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/"
     }
   ]
 };
