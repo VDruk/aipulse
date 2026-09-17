@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-17T09:52:24.940315+00:00",
+  "lastUpdated": "2026-09-17T13:49:58.944490+00:00",
   "items": [
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions",
+      "source": "TechCrunch",
+      "published": "2026-09-17T13:46:16+00:00",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+    },
+    {
+      "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T13:38:33+00:00",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
+    },
+    {
+      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
+      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports.",
+      "source": "The Decoder",
+      "published": "2026-09-17T13:37:55+00:00",
+      "link": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/"
+    },
+    {
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-17T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier.",
+      "source": "The Verge",
+      "published": "2026-09-17T11:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
+    },
+    {
+      "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
+      "summary": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each other and end up double-checking everyone's work.",
+      "source": "The Decoder",
+      "published": "2026-09-17T11:03:32+00:00",
+      "link": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/"
+    },
+    {
+      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
+      "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens.",
+      "source": "The Decoder",
+      "published": "2026-09-17T10:24:32+00:00",
+      "link": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/"
+    },
     {
       "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
       "summary": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route.",
@@ -10,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 68 # Comments: 19",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 149 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
     },
     {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "source": "TechCrunch",
       "published": "2026-09-17T05:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
@@ -52,10 +101,17 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 138 # Comments: 60",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 166 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
+    },
+    {
+      "title": "An OpenAI Agent Tried to Jailbreak Itself",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "source": "Wired",
+      "published": "2026-09-16T22:07:24+00:00",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
     },
     {
       "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
@@ -115,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 74 # Comments: 277",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 74 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -234,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 74 # Comments: 44",
+      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 78 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-09-16T13:01:52+00:00",
       "link": "https://stale.jock.pl/"
@@ -290,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 564 # Comments: 193",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 573 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-09-16T08:08:57+00:00",
       "link": "https://mistral.ai/news/mistral-x-mozilla/"
     },
     {
       "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 84 # Comments: 49",
+      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 85 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-09-16T02:25:18+00:00",
       "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
@@ -388,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 229 # Comments: 168",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 230 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-09-15T16:38:45+00:00",
       "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
@@ -402,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 114 # Comments: 79",
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 115 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-15T15:26:45+00:00",
       "link": "https://www.formas.ai/cartesian"
@@ -451,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking our proxies for expertise",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 92 # Comments: 77",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 92 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:55+00:00",
       "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-11T09:15:10+00:00",
       "link": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/"
-    },
-    {
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "source": "Wired",
-      "published": "2026-09-11T09:00:00+00:00",
-      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/"
-    },
-    {
-      "title": "Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid",
-      "summary": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history. The article Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-11T08:40:01+00:00",
-      "link": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/"
-    },
-    {
-      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
-      "summary": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents.",
-      "source": "The Decoder",
-      "published": "2026-09-11T08:11:46+00:00",
-      "link": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/"
-    },
-    {
-      "title": "GPT‑Live‑1 in the API",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 54 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-09-11T05:45:19+00:00",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
-    },
-    {
-      "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 58 # Comments: 104",
-      "source": "Hacker News",
-      "published": "2026-09-11T01:05:59+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
-    },
-    {
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "source": "Wired",
-      "published": "2026-09-10T23:28:42+00:00",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/"
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 121 # Comments: 128",
-      "source": "Hacker News",
-      "published": "2026-09-10T23:10:06+00:00",
-      "link": "https://system76.com/workstations/thelio-mira-ai"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "source": "TechCrunch",
-      "published": "2026-09-10T21:51:59+00:00",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
     }
   ]
 };
