@@ -1,16 +1,65 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-17T13:49:58.944490+00:00",
+  "lastUpdated": "2026-09-17T17:31:44.548309+00:00",
   "items": [
     {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T17:15:59+00:00",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting and other changes in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T17:15:00+00:00",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/"
+    },
+    {
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 67 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-09-17T15:13:30+00:00",
+      "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
+    },
+    {
+      "title": "GPT-6 Astra crushes Pokemon, Factorio, and Fallout 3 then spirals into Minecraft potato farming after one bad Creeper",
+      "summary": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal.",
+      "source": "The Decoder",
+      "published": "2026-09-17T14:42:05+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/"
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T14:06:14+00:00",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.",
+      "source": "The Verge",
+      "published": "2026-09-17T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude"
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality.",
+      "source": "The Verge",
+      "published": "2026-09-17T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs"
+    },
+    {
       "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
       "source": "TechCrunch",
       "published": "2026-09-17T13:46:16+00:00",
       "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
     },
     {
-      "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
       "source": "TechCrunch",
       "published": "2026-09-17T13:38:33+00:00",
       "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
@@ -21,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-17T13:37:55+00:00",
       "link": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/"
+    },
+    {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use?",
+      "source": "Hacker News",
+      "published": "2026-09-17T13:01:44+00:00",
+      "link": "https://mysetup.ai/"
     },
     {
       "title": "The Download: mice with part-human brains and climate tech innovators",
@@ -44,11 +100,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/"
     },
     {
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "summary": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group announced on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees.",
+      "source": "AI News",
+      "published": "2026-09-17T11:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/"
+    },
+    {
       "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
       "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens.",
       "source": "The Decoder",
       "published": "2026-09-17T10:24:32+00:00",
       "link": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/"
+    },
+    {
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store.",
+      "source": "AI News",
+      "published": "2026-09-17T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/"
     },
     {
       "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
@@ -58,8 +128,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/"
     },
     {
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 149 # Comments: 117",
+      "title": "AI safety is mostly a sex cult",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 172 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
@@ -101,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 166 # Comments: 78",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 182 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
@@ -171,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 74 # Comments: 291",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 78 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -346,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 573 # Comments: 197",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 577 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-09-16T08:08:57+00:00",
       "link": "https://mistral.ai/news/mistral-x-mozilla/"
@@ -584,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 144 # Comments: 180",
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 145 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-09-15T09:47:48+00:00",
       "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
@@ -668,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 165 # Comments: 153",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 165 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-11T15:00:00+00:00",
       "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/"
-    },
-    {
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism.",
-      "source": "The Verge",
-      "published": "2026-09-11T14:25:21+00:00",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions"
-    },
-    {
-      "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-      "summary": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or extracted training data, with Qwen alone accounting for more than 151 million exchanges.",
-      "source": "The Decoder",
-      "published": "2026-09-11T13:50:28+00:00",
-      "link": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/"
-    },
-    {
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news.",
-      "source": "Hacker News",
-      "published": "2026-09-11T13:11:04+00:00",
-      "link": "https://news.ycombinator.com/item?id=49657850"
-    },
-    {
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-11T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
-    },
-    {
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token.",
-      "source": "AI News",
-      "published": "2026-09-11T12:00:18+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/"
-    },
-    {
-      "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
-      "summary": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-11T11:59:19+00:00",
-      "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/"
-    },
-    {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 333 # Comments: 299",
-      "source": "Hacker News",
-      "published": "2026-09-11T11:17:50+00:00",
-      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
-    },
-    {
-      "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 181",
-      "source": "Hacker News",
-      "published": "2026-09-11T10:19:59+00:00",
-      "link": "https://ronjeffries.com/articles/-v026/x/t/"
-    },
-    {
-      "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
-      "summary": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-11T09:45:58+00:00",
-      "link": "https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/"
-    },
-    {
-      "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
-      "summary": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI).",
-      "source": "The Decoder",
-      "published": "2026-09-11T09:15:10+00:00",
-      "link": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/"
     }
   ]
 };
