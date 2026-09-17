@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-17T17:31:44.548309+00:00",
+  "lastUpdated": "2026-09-17T19:57:58.943484+00:00",
   "items": [
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T19:46:08+00:00",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too.",
+      "source": "The Verge",
+      "published": "2026-09-17T19:28:24+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
+    },
+    {
+      "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
+      "summary": "OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge conjecture.",
+      "source": "The Decoder",
+      "published": "2026-09-17T19:05:56+00:00",
+      "link": "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/"
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts.",
+      "source": "The Verge",
+      "published": "2026-09-17T18:58:05+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
+    },
+    {
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "source": "Wired",
+      "published": "2026-09-17T18:42:25+00:00",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/"
+    },
+    {
+      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
+      "summary": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests.",
+      "source": "The Decoder",
+      "published": "2026-09-17T18:35:01+00:00",
+      "link": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/"
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T17:26:25+00:00",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/"
+    },
     {
       "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
       "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
@@ -10,14 +59,21 @@ const FEED_DATA = {
     },
     {
       "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting and other changes in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
       "source": "TechCrunch",
       "published": "2026-09-17T17:15:00+00:00",
       "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/"
     },
     {
+      "title": "LLM Classification Is Feature Engineering",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 72 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-09-17T15:40:17+00:00",
+      "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
+    },
+    {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 67 # Comments: 52",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 99 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-17T15:13:30+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
@@ -129,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 172 # Comments: 135",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 227 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
@@ -171,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 182 # Comments: 90",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 186 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
@@ -241,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 78 # Comments: 303",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 79 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -360,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 78 # Comments: 44",
+      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 78 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-16T13:01:52+00:00",
       "link": "https://stale.jock.pl/"
@@ -416,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 577 # Comments: 196",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 578 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-09-16T08:08:57+00:00",
       "link": "https://mistral.ai/news/mistral-x-mozilla/"
@@ -584,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 129",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:28+00:00",
       "link": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
@@ -682,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 229 # Comments: 142",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 229 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-11T17:57:42+00:00",
       "link": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/"
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...",
-      "source": "Hacker News",
-      "published": "2026-09-11T17:45:12+00:00",
-      "link": "https://mathandai.org/"
-    },
-    {
-      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
-      "summary": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment.",
-      "source": "The Decoder",
-      "published": "2026-09-11T17:22:18+00:00",
-      "link": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/"
-    },
-    {
-      "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 179 # Comments: 307",
-      "source": "Hacker News",
-      "published": "2026-09-11T16:50:51+00:00",
-      "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "source": "TechCrunch",
-      "published": "2026-09-11T16:46:25+00:00",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
-    },
-    {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks.",
-      "source": "The Verge",
-      "published": "2026-09-11T16:09:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
-    },
-    {
-      "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 197 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-09-11T16:08:50+00:00",
-      "link": "https://www.unslop.news/"
-    },
-    {
-      "title": "Hacker News with reduced priority for AI driven content",
-      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 121 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-09-11T15:52:49+00:00",
-      "link": "https://sprinklz.io/public/pdwt4dve5uai"
-    },
-    {
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "source": "Wired",
-      "published": "2026-09-11T15:00:00+00:00",
-      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/"
     }
   ]
 };
