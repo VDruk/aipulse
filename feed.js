@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-18T09:28:59.775527+00:00",
+  "lastUpdated": "2026-09-18T13:12:12.904302+00:00",
   "items": [
+    {
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments.",
+      "source": "AI News",
+      "published": "2026-09-18T12:49:34+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/"
+    },
+    {
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-18T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
+    },
+    {
+      "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
+      "summary": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter.",
+      "source": "The Decoder",
+      "published": "2026-09-18T11:41:16+00:00",
+      "link": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/"
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-18T11:29:22+00:00",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+    },
+    {
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard.",
+      "source": "The Verge",
+      "published": "2026-09-18T11:00:00+00:00",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning"
+    },
+    {
+      "title": "The Leftist Split Over AI Doom",
+      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "source": "Wired",
+      "published": "2026-09-18T10:15:00+00:00",
+      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/"
+    },
+    {
+      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
+      "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-18T09:37:03+00:00",
+      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/"
+    },
+    {
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model.",
+      "source": "AI News",
+      "published": "2026-09-18T09:15:15+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/"
+    },
     {
       "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
       "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-12T15:52:11+00:00",
       "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 575 # Comments: 396",
-      "source": "Hacker News",
-      "published": "2026-09-12T15:08:27+00:00",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
-    },
-    {
-      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
-      "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development.",
-      "source": "The Decoder",
-      "published": "2026-09-12T15:03:21+00:00",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/"
-    },
-    {
-      "title": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report.",
-      "source": "The Verge",
-      "published": "2026-09-12T14:41:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
-    },
-    {
-      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
-      "summary": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one.",
-      "source": "The Decoder",
-      "published": "2026-09-12T14:26:09+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/"
-    },
-    {
-      "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-      "summary": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history.",
-      "source": "The Decoder",
-      "published": "2026-09-12T14:05:18+00:00",
-      "link": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/"
-    },
-    {
-      "title": "LLMs are real, AI is fake",
-      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 75 # Comments: 37",
-      "source": "Hacker News",
-      "published": "2026-09-12T13:47:28+00:00",
-      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
-    },
-    {
-      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-      "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals.",
-      "source": "The Decoder",
-      "published": "2026-09-12T13:39:43+00:00",
-      "link": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/"
-    },
-    {
-      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-      "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher.",
-      "source": "The Decoder",
-      "published": "2026-09-12T13:10:11+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/"
     }
   ]
 };
