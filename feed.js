@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-18T13:12:12.904302+00:00",
+  "lastUpdated": "2026-09-18T16:58:23.313050+00:00",
   "items": [
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T16:35:49+00:00",
+      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
+    },
+    {
+      "title": "What Hollywood thinks about existential AI warnings",
+      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening.",
+      "source": "The Verge",
+      "published": "2026-09-18T16:35:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings"
+    },
+    {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports.",
+      "source": "The Verge",
+      "published": "2026-09-18T15:30:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
+    },
+    {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T15:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+      "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense.",
+      "source": "The Decoder",
+      "published": "2026-09-18T15:27:29+00:00",
+      "link": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/"
+    },
+    {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T15:22:48+00:00",
+      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"
+    },
+    {
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+      "source": "Wired",
+      "published": "2026-09-18T15:00:08+00:00",
+      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/"
+    },
+    {
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "source": "Wired",
+      "published": "2026-09-18T15:00:00+00:00",
+      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/"
+    },
+    {
+      "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
+      "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-18T14:32:49+00:00",
+      "link": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/"
+    },
+    {
+      "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
+      "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February.",
+      "source": "The Decoder",
+      "published": "2026-09-18T14:06:50+00:00",
+      "link": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/"
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T14:00:14+00:00",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+    },
+    {
+      "title": "OpenAI takes aim at the legal market with Astra for Law",
+      "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-18T13:42:43+00:00",
+      "link": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/"
+    },
     {
       "title": "Gartner outlines four AI tiers in warehouse automation",
       "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments.",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-13T09:27:01+00:00",
       "link": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/"
-    },
-    {
-      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
-      "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns.",
-      "source": "The Decoder",
-      "published": "2026-09-13T08:53:00+00:00",
-      "link": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/"
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 651 # Comments: 687",
-      "source": "Hacker News",
-      "published": "2026-09-13T01:22:31+00:00",
-      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
-    },
-    {
-      "title": "Everyone should slow down AI development except for me",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 803 # Comments: 450",
-      "source": "Hacker News",
-      "published": "2026-09-13T00:30:44+00:00",
-      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
-    },
-    {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33",
-      "source": "Hacker News",
-      "published": "2026-09-12T23:45:58+00:00",
-      "link": "https://agentsdock.net/"
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
-      "source": "The Verge",
-      "published": "2026-09-12T21:41:36+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
-    },
-    {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
-      "source": "The Verge",
-      "published": "2026-09-12T21:16:28+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
-    },
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 272 # Comments: 154",
-      "source": "Hacker News",
-      "published": "2026-09-12T20:25:48+00:00",
-      "link": "https://withspecific.com/benchmarks/real-swe"
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "source": "TechCrunch",
-      "published": "2026-09-12T20:19:16+00:00",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "source": "TechCrunch",
-      "published": "2026-09-12T19:34:44+00:00",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
-    },
-    {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 56 # Comments: 109",
-      "source": "Hacker News",
-      "published": "2026-09-12T16:56:52+00:00",
-      "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o"
-    },
-    {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace...",
-      "source": "The Verge",
-      "published": "2026-09-12T16:23:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
-    },
-    {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "source": "TechCrunch",
-      "published": "2026-09-12T15:52:11+00:00",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
     }
   ]
 };
