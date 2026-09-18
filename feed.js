@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-17T23:17:33.514845+00:00",
+  "lastUpdated": "2026-09-18T05:33:10.525291+00:00",
   "items": [
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "source": "TechCrunch",
+      "published": "2026-09-17T23:25:52+00:00",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "source": "TechCrunch",
+      "published": "2026-09-17T23:21:17+00:00",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+    },
     {
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
       "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
@@ -23,15 +37,22 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
     },
     {
+      "title": "How to Write with an LLM",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 79 # Comments: 62",
+      "source": "Hacker News",
+      "published": "2026-09-17T21:48:38+00:00",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
       "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 69 # Comments: 41",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 174 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-09-17T21:15:52+00:00",
       "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
     },
     {
       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 204 # Comments: 114",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 381 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-09-17T20:36:13+00:00",
       "link": "https://bend-lang.com/"
@@ -114,6 +135,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/"
     },
     {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "source": "Ars Technica",
+      "published": "2026-09-17T18:33:13+00:00",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
+    },
+    {
       "title": "Even the king of England has his hesitations about AI",
       "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
       "source": "TechCrunch",
@@ -135,15 +163,22 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/"
     },
     {
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync (https://skillsync.com)Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents.",
+      "source": "Hacker News",
+      "published": "2026-09-17T16:22:15+00:00",
+      "link": "https://news.ycombinator.com/item?id=49743049"
+    },
+    {
       "title": "LLM Classification Is Feature Engineering",
-      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 86 # Comments: 18",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 96 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-09-17T15:40:17+00:00",
       "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
     },
     {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 108 # Comments: 95",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 115 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-09-17T15:13:30+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
@@ -255,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 260 # Comments: 213",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 286 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 189 # Comments: 95",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 192 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 307",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 308",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -486,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 78 # Comments: 45",
+      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 78 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-09-16T13:01:52+00:00",
       "link": "https://stale.jock.pl/"
@@ -542,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 580 # Comments: 204",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 582 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-09-16T08:08:57+00:00",
       "link": "https://mistral.ai/news/mistral-x-mozilla/"
     },
     {
       "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 86 # Comments: 49",
+      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 86 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-09-16T02:25:18+00:00",
       "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
@@ -710,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 135",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:28+00:00",
       "link": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
@@ -808,7 +843,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 229 # Comments: 144",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 229 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-12T11:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
-    },
-    {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "source": "Wired",
-      "published": "2026-09-12T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/"
-    },
-    {
-      "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-      "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments.",
-      "source": "The Decoder",
-      "published": "2026-09-12T10:08:43+00:00",
-      "link": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/"
-    },
-    {
-      "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
-      "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts.",
-      "source": "The Decoder",
-      "published": "2026-09-12T09:26:05+00:00",
-      "link": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/"
-    },
-    {
-      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-      "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding.",
-      "source": "The Decoder",
-      "published": "2026-09-12T08:28:53+00:00",
-      "link": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/"
-    },
-    {
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 65 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-09-12T00:24:36+00:00",
-      "link": "https://twitter.com/venturetwins/status/2098456905526211026"
     }
   ]
 };
