@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-18T19:22:47.415072+00:00",
+  "lastUpdated": "2026-09-18T22:55:50.360390+00:00",
   "items": [
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T21:44:33+00:00",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+      "source": "The Verge",
+      "published": "2026-09-18T21:07:24+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+    },
+    {
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "source": "Wired",
+      "published": "2026-09-18T19:21:09+00:00",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/"
+    },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
@@ -35,6 +56,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-18T17:33:50+00:00",
       "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
+    },
+    {
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 339 # Comments: 273",
+      "source": "Hacker News",
+      "published": "2026-09-18T17:28:01+00:00",
+      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
     },
     {
       "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
@@ -107,6 +135,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"
     },
     {
+      "title": "AI is an elite crime spree",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 112 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-09-18T15:15:33+00:00",
+      "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
+    },
+    {
       "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
       "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
       "source": "Wired",
@@ -119,6 +154,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-18T15:00:00+00:00",
       "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/"
+    },
+    {
+      "title": "AI Protest in Montreal",
+      "summary": "Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/ Comments URL: https://news.ycombinator.com/item?id=49755162 Points: 52 # Comments: 83",
+      "source": "Hacker News",
+      "published": "2026-09-18T14:45:41+00:00",
+      "link": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/"
     },
     {
       "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
@@ -147,6 +189,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-18T13:42:43+00:00",
       "link": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/"
+    },
+    {
+      "title": "AI chatbots are becoming experts at changing people's minds",
+      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 78 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-09-18T13:39:27+00:00",
+      "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
     },
     {
       "title": "Gartner outlines four AI tiers in warehouse automation",
@@ -185,10 +234,17 @@ const FEED_DATA = {
     },
     {
       "title": "The Leftist Split Over AI Doom",
-      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
       "source": "Wired",
       "published": "2026-09-18T10:15:00+00:00",
       "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/"
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 842 # Comments: 751",
+      "source": "Hacker News",
+      "published": "2026-09-18T09:45:07+00:00",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
     },
     {
       "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
@@ -262,17 +318,24 @@ const FEED_DATA = {
     },
     {
       "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 79 # Comments: 62",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 346 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-09-17T21:48:38+00:00",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
       "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 174 # Comments: 183",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 217 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-09-17T21:15:52+00:00",
       "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+    },
+    {
+      "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 588 # Comments: 302",
+      "source": "Hacker News",
+      "published": "2026-09-17T20:36:13+00:00",
+      "link": "https://bend-lang.com/"
     },
     {
       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
@@ -315,13 +378,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-17T19:58:28+00:00",
       "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T19:46:08+00:00",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -395,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Classification Is Feature Engineering",
-      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 96 # Comments: 19",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 110 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-17T15:40:17+00:00",
       "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
     },
     {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 115 # Comments: 96",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 123 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-17T15:13:30+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
@@ -514,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 286 # Comments: 232",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 311 # Comments: 255",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
@@ -556,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 192 # Comments: 96",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 196 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
@@ -626,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 308",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -745,7 +801,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 78 # Comments: 46",
+      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 79 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-09-16T13:01:52+00:00",
       "link": "https://stale.jock.pl/"
@@ -899,7 +955,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 230 # Comments: 168",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 230 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-15T16:38:45+00:00",
       "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
@@ -913,7 +969,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 115 # Comments: 80",
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 115 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-15T15:26:45+00:00",
       "link": "https://www.formas.ai/cartesian"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-09-14T08:04:35+00:00",
       "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/"
-    },
-    {
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over.",
-      "source": "AI News",
-      "published": "2026-09-14T07:56:45+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/"
-    },
-    {
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 139 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-09-14T07:55:19+00:00",
-      "link": "https://github.com/anuj0456/OpenArch"
-    },
-    {
-      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "summary": "Live translation has long been one of travel’s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once.",
-      "source": "AI News",
-      "published": "2026-09-14T07:39:28+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/"
-    },
-    {
-      "title": "The Malicious Use of Artificial Intelligence",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 87 # Comments: 24",
-      "source": "Hacker News",
-      "published": "2026-09-14T01:22:35+00:00",
-      "link": "https://arxiv.org/abs/1802.07228"
-    },
-    {
-      "title": "Open-source AI and open models reading list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 156 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-09-14T00:22:51+00:00",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
-    },
-    {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X.",
-      "source": "The Verge",
-      "published": "2026-09-13T19:41:48+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
-    },
-    {
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "summary": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 78 # Comments: 109",
-      "source": "Hacker News",
-      "published": "2026-09-13T19:41:06+00:00",
-      "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "source": "TechCrunch",
-      "published": "2026-09-13T19:40:15+00:00",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
     }
   ]
 };
