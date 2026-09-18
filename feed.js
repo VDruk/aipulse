@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-18T16:58:23.313050+00:00",
+  "lastUpdated": "2026-09-18T19:22:47.415072+00:00",
   "items": [
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T18:49:30+00:00",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+    },
+    {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.",
+      "source": "The Verge",
+      "published": "2026-09-18T18:29:17+00:00",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T17:59:53+00:00",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
+    },
+    {
+      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
+      "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations.",
+      "source": "The Decoder",
+      "published": "2026-09-18T17:45:17+00:00",
+      "link": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/"
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T17:33:50+00:00",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
+    },
+    {
+      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
+      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure.",
+      "source": "The Decoder",
+      "published": "2026-09-18T17:20:30+00:00",
+      "link": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T17:09:56+00:00",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+    },
+    {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T17:06:32+00:00",
+      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/"
+    },
+    {
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday.",
+      "source": "The Verge",
+      "published": "2026-09-18T17:04:51+00:00",
+      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+    },
     {
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-13T19:40:15+00:00",
       "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
-    },
-    {
-      "title": "AI recursive self-improvement might not come so quickly after all",
-      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 80 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-09-13T18:49:44+00:00",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "source": "TechCrunch",
-      "published": "2026-09-13T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
-    },
-    {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 411 # Comments: 236",
-      "source": "Hacker News",
-      "published": "2026-09-13T15:44:38+00:00",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-    },
-    {
-      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
-      "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor.",
-      "source": "The Decoder",
-      "published": "2026-09-13T13:40:36+00:00",
-      "link": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/"
-    },
-    {
-      "title": "AI models don't kill people – people kill people",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 50 # Comments: 68",
-      "source": "Hacker News",
-      "published": "2026-09-13T13:33:34+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368"
-    },
-    {
-      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
-      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes.",
-      "source": "The Decoder",
-      "published": "2026-09-13T12:58:18+00:00",
-      "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/"
-    },
-    {
-      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
-      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to.",
-      "source": "The Decoder",
-      "published": "2026-09-13T10:52:16+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/"
-    },
-    {
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "source": "Wired",
-      "published": "2026-09-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/"
-    },
-    {
-      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
-      "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years.",
-      "source": "The Decoder",
-      "published": "2026-09-13T09:27:01+00:00",
-      "link": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/"
     }
   ]
 };
