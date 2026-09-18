@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-18T05:33:10.525291+00:00",
+  "lastUpdated": "2026-09-18T09:28:59.775527+00:00",
   "items": [
+    {
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "source": "Wired",
+      "published": "2026-09-18T09:15:00+00:00",
+      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-18T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
+    },
+    {
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "source": "Wired",
+      "published": "2026-09-18T09:00:00+00:00",
+      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/"
+    },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "summary": "The round values the data center giant at $30.9 billion.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-12T13:10:11+00:00",
       "link": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/"
-    },
-    {
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 124 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-09-12T11:13:38+00:00",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
-    },
-    {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 66 # Comments: 36",
-      "source": "Hacker News",
-      "published": "2026-09-12T11:13:38+00:00",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem.",
-      "source": "The Verge",
-      "published": "2026-09-12T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
     }
   ]
 };
