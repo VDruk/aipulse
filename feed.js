@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-19T05:29:25.943291+00:00",
+  "lastUpdated": "2026-09-19T09:15:01.564672+00:00",
   "items": [
+    {
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "source": "Wired",
+      "published": "2026-09-19T09:00:00+00:00",
+      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/"
+    },
+    {
+      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+      "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components.",
+      "source": "The Decoder",
+      "published": "2026-09-19T08:10:55+00:00",
+      "link": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/"
+    },
     {
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-14T12:01:32+00:00",
       "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
-    },
-    {
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "source": "Wired",
-      "published": "2026-09-14T11:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
-    },
-    {
-      "title": "Big AI sets out its terms for regulatory capture",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 119 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-09-14T10:28:28+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
     }
   ]
 };
