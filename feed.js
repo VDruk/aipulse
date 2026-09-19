@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-19T12:43:22.080441+00:00",
+  "lastUpdated": "2026-09-19T16:17:45.097848+00:00",
   "items": [
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
+      "source": "The Verge",
+      "published": "2026-09-19T15:25:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "source": "TechCrunch",
+      "published": "2026-09-19T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "source": "TechCrunch",
+      "published": "2026-09-19T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+    },
+    {
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 54 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-09-19T14:36:28+00:00",
+      "link": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q"
+    },
+    {
+      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies.",
+      "source": "The Decoder",
+      "published": "2026-09-19T14:30:57+00:00",
+      "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/"
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration.",
+      "source": "The Verge",
+      "published": "2026-09-19T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+    },
+    {
+      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+      "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-19T13:31:46+00:00",
+      "link": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
+    },
+    {
+      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
+      "summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove.",
+      "source": "The Decoder",
+      "published": "2026-09-19T13:28:55+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/"
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "source": "TechCrunch",
+      "published": "2026-09-19T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+    },
+    {
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
+      "source": "The Verge",
+      "published": "2026-09-19T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over"
+    },
     {
       "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
       "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43.",
@@ -38,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 328 # Comments: 208",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 696 # Comments: 420",
       "source": "Hacker News",
       "published": "2026-09-19T09:20:58+00:00",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
@@ -59,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 161 # Comments: 91",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 241 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-09-19T06:41:44+00:00",
       "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     },
     {
       "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 63 # Comments: 65",
+      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 66 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-09-19T01:40:35+00:00",
       "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
@@ -80,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 130 # Comments: 16",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 139 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-09-18T23:54:42+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
@@ -129,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 71 # Comments: 28",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 74 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-09-18T19:00:06+00:00",
       "link": "https://arxiv.org/abs/2609.02852"
@@ -171,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 466 # Comments: 350",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 482 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-09-18T17:28:01+00:00",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
@@ -248,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is an elite crime spree",
-      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 116 # Comments: 41",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 117 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-09-18T15:15:33+00:00",
       "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
@@ -304,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots are becoming experts at changing people's minds",
-      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 109 # Comments: 97",
+      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 112 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-09-18T13:39:27+00:00",
       "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
@@ -353,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 897 # Comments: 794",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 907 # Comments: 801",
       "source": "Hacker News",
       "published": "2026-09-18T09:45:07+00:00",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
@@ -430,21 +500,21 @@ const FEED_DATA = {
     },
     {
       "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 515 # Comments: 344",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 554 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-09-17T21:48:38+00:00",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
       "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 221 # Comments: 268",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 228 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-09-17T21:15:52+00:00",
       "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
     },
     {
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 599 # Comments: 305",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 602 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-09-17T20:36:13+00:00",
       "link": "https://bend-lang.com/"
@@ -563,14 +633,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Classification Is Feature Engineering",
-      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 111 # Comments: 24",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 112 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-17T15:40:17+00:00",
       "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
     },
     {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 125 # Comments: 104",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 126 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-17T15:13:30+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
@@ -679,13 +749,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-17T09:45:55+00:00",
       "link": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/"
-    },
-    {
-      "title": "AI safety is mostly a sex cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 316 # Comments: 266",
-      "source": "Hacker News",
-      "published": "2026-09-17T08:36:37+00:00",
-      "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
     },
     {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-14T16:27:53+00:00",
       "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
-    },
-    {
-      "title": "For AI leaders Doom is a form of hype",
-      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 131 # Comments: 182",
-      "source": "Hacker News",
-      "published": "2026-09-14T16:15:05+00:00",
-      "link": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-14T16:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-    },
-    {
-      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman.",
-      "source": "The Decoder",
-      "published": "2026-09-14T15:52:51+00:00",
-      "link": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/"
-    },
-    {
-      "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "summary": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation.",
-      "source": "The Decoder",
-      "published": "2026-09-14T15:46:45+00:00",
-      "link": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/"
-    },
-    {
-      "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 58 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-09-14T15:30:56+00:00",
-      "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation"
-    },
-    {
-      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment.",
-      "source": "AI News",
-      "published": "2026-09-14T15:30:41+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/"
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
-    },
-    {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T14:45:44+00:00",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
     }
   ]
 };
