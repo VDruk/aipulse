@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-19T09:15:01.564672+00:00",
+  "lastUpdated": "2026-09-19T12:43:22.080441+00:00",
   "items": [
+    {
+      "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+      "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43.",
+      "source": "The Decoder",
+      "published": "2026-09-19T11:08:06+00:00",
+      "link": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/"
+    },
+    {
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "source": "Wired",
+      "published": "2026-09-19T11:00:00+00:00",
+      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
+    },
+    {
+      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+      "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers.",
+      "source": "The Decoder",
+      "published": "2026-09-19T10:37:04+00:00",
+      "link": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/"
+    },
+    {
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "source": "Wired",
+      "published": "2026-09-19T10:00:00+00:00",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/"
+    },
+    {
+      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+      "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources.",
+      "source": "The Decoder",
+      "published": "2026-09-19T09:31:03+00:00",
+      "link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 328 # Comments: 208",
+      "source": "Hacker News",
+      "published": "2026-09-19T09:20:58+00:00",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+    },
     {
       "title": "Join the WIRED World Fair in Miami on November 4",
       "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
@@ -16,11 +58,32 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/"
     },
     {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 161 # Comments: 91",
+      "source": "Hacker News",
+      "published": "2026-09-19T06:41:44+00:00",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 63 # Comments: 65",
+      "source": "Hacker News",
+      "published": "2026-09-19T01:40:35+00:00",
+      "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
+    },
+    {
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "source": "TechCrunch",
       "published": "2026-09-19T00:12:07+00:00",
       "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 130 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-09-18T23:54:42+00:00",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
     },
     {
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
@@ -65,6 +128,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/"
     },
     {
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 71 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-09-18T19:00:06+00:00",
+      "link": "https://arxiv.org/abs/2609.02852"
+    },
+    {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
       "source": "TechCrunch",
@@ -101,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 339 # Comments: 273",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 466 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-09-18T17:28:01+00:00",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
@@ -178,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is an elite crime spree",
-      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 112 # Comments: 38",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 116 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-09-18T15:15:33+00:00",
       "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
@@ -199,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Protest in Montreal",
-      "summary": "Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/ Comments URL: https://news.ycombinator.com/item?id=49755162 Points: 52 # Comments: 83",
+      "summary": "Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/ Comments URL: https://news.ycombinator.com/item?id=49755162 Points: 52 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-09-18T14:45:41+00:00",
       "link": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/"
@@ -234,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots are becoming experts at changing people's minds",
-      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 78 # Comments: 94",
+      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 109 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-09-18T13:39:27+00:00",
       "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
@@ -283,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 842 # Comments: 751",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 897 # Comments: 794",
       "source": "Hacker News",
       "published": "2026-09-18T09:45:07+00:00",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
@@ -360,21 +430,21 @@ const FEED_DATA = {
     },
     {
       "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 346 # Comments: 237",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 515 # Comments: 344",
       "source": "Hacker News",
       "published": "2026-09-17T21:48:38+00:00",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
       "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 217 # Comments: 253",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 221 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-09-17T21:15:52+00:00",
       "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
     },
     {
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 588 # Comments: 302",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 599 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-09-17T20:36:13+00:00",
       "link": "https://bend-lang.com/"
@@ -493,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Classification Is Feature Engineering",
-      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 110 # Comments: 24",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 111 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-17T15:40:17+00:00",
       "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
     },
     {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 123 # Comments: 104",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 125 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-17T15:13:30+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
@@ -612,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 311 # Comments: 255",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 316 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-09-17T08:36:37+00:00",
       "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
@@ -654,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 196 # Comments: 98",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 198 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-09-16T23:06:39+00:00",
       "link": "https://openspec.dev/"
@@ -724,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 311",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-09-16T18:59:42+00:00",
       "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-14T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 153 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-09-14T14:29:23+00:00",
-      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
-    },
-    {
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 112 # Comments: 48",
-      "source": "Hacker News",
-      "published": "2026-09-14T14:04:53+00:00",
-      "link": "https://spectrum.ieee.org/adversarial-fashion"
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T13:55:00+00:00",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
-    },
-    {
-      "title": "The AI job market in 2026",
-      "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026 Comments URL: https://news.ycombinator.com/item?id=49696867 Points: 67 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-09-14T13:49:57+00:00",
-      "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026"
-    },
-    {
-      "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
-      "summary": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway.",
-      "source": "The Decoder",
-      "published": "2026-09-14T13:01:26+00:00",
-      "link": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/"
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress.",
-      "source": "The Verge",
-      "published": "2026-09-14T13:00:00+00:00",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
-    },
-    {
-      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
-      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 91 # Comments: 123",
-      "source": "Hacker News",
-      "published": "2026-09-14T12:40:57+00:00",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
-    },
-    {
-      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
-      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders.",
-      "source": "The Decoder",
-      "published": "2026-09-14T12:20:22+00:00",
-      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/"
-    },
-    {
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Roundtables: could AI really kill us all?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-14T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
-    },
-    {
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 225 # Comments: 161",
-      "source": "Hacker News",
-      "published": "2026-09-14T12:01:32+00:00",
-      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
     }
   ]
 };
