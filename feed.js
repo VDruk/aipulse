@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-19T19:06:45.675724+00:00",
+  "lastUpdated": "2026-09-19T22:35:32.979120+00:00",
   "items": [
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
+      "source": "The Verge",
+      "published": "2026-09-19T20:44:40+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
+    },
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "source": "TechCrunch",
+      "published": "2026-09-19T20:39:13+00:00",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source": "TechCrunch",
+      "published": "2026-09-19T19:57:47+00:00",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+    },
+    {
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "summary": "Article URL:...",
+      "source": "Hacker News",
+      "published": "2026-09-19T18:21:30+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
+    },
     {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
       "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "source": "TechCrunch",
       "published": "2026-09-19T17:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+    },
+    {
+      "title": "I think you should almost never use AI to write",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 169 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-09-19T16:35:24+00:00",
+      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
     },
     {
       "title": "Almost Never Use AI to Write Anything Substantive",
@@ -38,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 60 # Comments: 30",
+      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 63 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-09-19T14:36:28+00:00",
       "link": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 964 # Comments: 569",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1255 # Comments: 702",
       "source": "Hacker News",
       "published": "2026-09-19T09:20:58+00:00",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
@@ -143,21 +178,21 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 289 # Comments: 147",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 347 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-09-19T06:41:44+00:00",
       "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     },
     {
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 50 # Comments: 5",
+      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 50 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-09-19T04:44:35+00:00",
       "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
     },
     {
       "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 70 # Comments: 68",
+      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 71 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-19T01:40:35+00:00",
       "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 141 # Comments: 19",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 145 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-09-18T23:54:42+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
@@ -262,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 490 # Comments: 365",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 494 # Comments: 373",
       "source": "Hacker News",
       "published": "2026-09-18T17:28:01+00:00",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots are becoming experts at changing people's minds",
-      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 117 # Comments: 99",
+      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 118 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-18T13:39:27+00:00",
       "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
@@ -444,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 910 # Comments: 809",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 915 # Comments: 811",
       "source": "Hacker News",
       "published": "2026-09-18T09:45:07+00:00",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
@@ -521,21 +556,21 @@ const FEED_DATA = {
     },
     {
       "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 582 # Comments: 366",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 608 # Comments: 370",
       "source": "Hacker News",
       "published": "2026-09-17T21:48:38+00:00",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
       "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 228 # Comments: 276",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 228 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-09-17T21:15:52+00:00",
       "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
     },
     {
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 602 # Comments: 308",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 603 # Comments: 308",
       "source": "Hacker News",
       "published": "2026-09-17T20:36:13+00:00",
       "link": "https://bend-lang.com/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-14T20:44:14+00:00",
       "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
-    },
-    {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd.",
-      "source": "The Verge",
-      "published": "2026-09-14T20:03:37+00:00",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
-    },
-    {
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 165 # Comments: 154",
-      "source": "Hacker News",
-      "published": "2026-09-14T19:56:20+00:00",
-      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-14T17:54:22+00:00",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
-    },
-    {
-      "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-      "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data.",
-      "source": "The Decoder",
-      "published": "2026-09-14T17:15:28+00:00",
-      "link": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/"
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T17:10:30+00:00",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
     }
   ]
 };
