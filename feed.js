@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-19T22:35:32.979120+00:00",
+  "lastUpdated": "2026-09-20T05:43:11.569317+00:00",
   "items": [
+    {
+      "title": "Can you tell which images are AI-generated?",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 72 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-09-19T23:02:34+00:00",
+      "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
+    },
     {
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 169 # Comments: 96",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 272 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-09-19T16:35:24+00:00",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
@@ -73,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 63 # Comments: 35",
+      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 70 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-09-19T14:36:28+00:00",
       "link": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1255 # Comments: 702",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1486 # Comments: 805",
       "source": "Hacker News",
       "published": "2026-09-19T09:20:58+00:00",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
@@ -178,21 +185,21 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 347 # Comments: 159",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 377 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-09-19T06:41:44+00:00",
       "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     },
     {
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 50 # Comments: 6",
+      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 52 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-09-19T04:44:35+00:00",
       "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
     },
     {
       "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 71 # Comments: 68",
+      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 73 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-09-19T01:40:35+00:00",
       "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 76 # Comments: 29",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 77 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-18T19:00:06+00:00",
       "link": "https://arxiv.org/abs/2609.02852"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 494 # Comments: 373",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 500 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-09-18T17:28:01+00:00",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
@@ -374,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is an elite crime spree",
-      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 118 # Comments: 42",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 120 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-09-18T15:15:33+00:00",
       "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
@@ -430,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots are becoming experts at changing people's minds",
-      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 118 # Comments: 100",
+      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 124 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-18T13:39:27+00:00",
       "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
@@ -479,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 915 # Comments: 811",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 922 # Comments: 816",
       "source": "Hacker News",
       "published": "2026-09-18T09:45:07+00:00",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
@@ -556,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 608 # Comments: 370",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 652 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-09-17T21:48:38+00:00",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
       "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 228 # Comments: 278",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 229 # Comments: 279",
       "source": "Hacker News",
       "published": "2026-09-17T21:15:52+00:00",
       "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-09-14T21:04:32+00:00",
       "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T20:44:14+00:00",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
     }
   ]
 };
