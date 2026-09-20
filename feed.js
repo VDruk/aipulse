@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-20T09:38:19.250659+00:00",
+  "lastUpdated": "2026-09-20T13:15:00.246953+00:00",
   "items": [
+    {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey.",
+      "source": "The Verge",
+      "published": "2026-09-20T12:00:00+00:00",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
+    },
+    {
+      "title": "Runway wants to turn AI video generation into a live stream you control in real time",
+      "summary": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame.",
+      "source": "The Decoder",
+      "published": "2026-09-20T11:56:59+00:00",
+      "link": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/"
+    },
+    {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "source": "Ars Technica",
+      "published": "2026-09-20T11:07:00+00:00",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+    },
+    {
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "source": "Wired",
+      "published": "2026-09-20T10:30:00+00:00",
+      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"
+    },
+    {
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "source": "Wired",
+      "published": "2026-09-20T10:30:00+00:00",
+      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"
+    },
+    {
+      "title": "Daily AI usage in the U.S. has more than doubled in just six months",
+      "summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent.",
+      "source": "The Decoder",
+      "published": "2026-09-20T10:03:29+00:00",
+      "link": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/"
+    },
+    {
+      "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+      "summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4.",
+      "source": "The Decoder",
+      "published": "2026-09-20T09:50:32+00:00",
+      "link": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/"
+    },
     {
       "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
       "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-09-15T10:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
-    },
-    {
-      "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 145 # Comments: 181",
-      "source": "Hacker News",
-      "published": "2026-09-15T09:47:48+00:00",
-      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
-    },
-    {
-      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back.",
-      "source": "The Decoder",
-      "published": "2026-09-15T09:04:36+00:00",
-      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
-    },
-    {
-      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back.",
-      "source": "The Decoder",
-      "published": "2026-09-15T09:04:36+00:00",
-      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
-    },
-    {
-      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem.",
-      "source": "AI News",
-      "published": "2026-09-15T07:14:47+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/"
-    },
-    {
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 229 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-09-15T00:40:14+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately.",
-      "source": "The Verge",
-      "published": "2026-09-14T22:59:41+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "source": "TechCrunch",
-      "published": "2026-09-14T21:51:02+00:00",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
     }
   ]
 };
