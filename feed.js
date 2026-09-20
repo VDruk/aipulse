@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-20T16:42:32.825189+00:00",
+  "lastUpdated": "2026-09-20T19:13:08.571371+00:00",
   "items": [
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "source": "TechCrunch",
+      "published": "2026-09-20T18:56:04+00:00",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+    },
     {
       "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
       "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pirate Face Rescues LLM Models from Deletion",
-      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 70 # Comments: 16",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 266 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-09-20T15:16:07+00:00",
       "link": "https://pirateface.co/"
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 59 # Comments: 102",
+      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 65 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-20T11:37:10+00:00",
       "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"
@@ -73,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI and the Destruction of the Creative Commons",
-      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 209 # Comments: 227",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 213 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-09-20T10:07:51+00:00",
       "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
@@ -108,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
-      "summary": "Article URL: https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2 Comments URL: https://news.ycombinator.com/item?id=49772544 Points: 51 # Comments: 42",
+      "summary": "Article URL: https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2 Comments URL: https://news.ycombinator.com/item?id=49772544 Points: 55 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-09-20T04:39:12+00:00",
       "link": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2"
     },
     {
       "title": "Can you tell which images are AI-generated?",
-      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 102 # Comments: 76",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 103 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-09-19T23:02:34+00:00",
       "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
@@ -143,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 52 # Comments: 20",
+      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 53 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-09-19T18:36:44+00:00",
       "link": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"
@@ -164,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 324 # Comments: 158",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 331 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-09-19T16:35:24+00:00",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
@@ -283,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1724 # Comments: 888",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1746 # Comments: 901",
       "source": "Hacker News",
       "published": "2026-09-19T09:20:58+00:00",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
@@ -332,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 148 # Comments: 22",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 149 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-18T23:54:42+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
@@ -423,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 509 # Comments: 387",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 510 # Comments: 387",
       "source": "Hacker News",
       "published": "2026-09-18T17:28:01+00:00",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
@@ -605,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 932 # Comments: 823",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 934 # Comments: 823",
       "source": "Hacker News",
       "published": "2026-09-18T09:45:07+00:00",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-15T13:36:45+00:00",
       "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs"
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
     }
   ]
 };
