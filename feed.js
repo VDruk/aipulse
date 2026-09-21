@@ -1,9 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-21T18:32:09.814859+00:00",
+  "lastUpdated": "2026-09-21T20:43:19.694180+00:00",
   "items": [
     {
+      "title": "California tightens rules on AI data center energy and water use",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times.",
+      "source": "The Verge",
+      "published": "2026-09-21T20:29:45+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T20:15:58+00:00",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T19:19:21+00:00",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+    },
+    {
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+      "source": "Wired",
+      "published": "2026-09-21T18:33:02+00:00",
+      "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/"
+    },
+    {
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Muse isn't welcome as a shopper anymore.",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
       "source": "TechCrunch",
       "published": "2026-09-21T17:55:18+00:00",
       "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
@@ -14,6 +42,27 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-21T17:44:10+00:00",
       "link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 160 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-09-21T17:30:21+00:00",
+      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 57 # Comments: 39",
+      "source": "Hacker News",
+      "published": "2026-09-21T17:27:49+00:00",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
+    },
+    {
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 130 # Comments: 130",
+      "source": "Hacker News",
+      "published": "2026-09-21T17:00:23+00:00",
+      "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
     },
     {
       "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
@@ -52,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
       "source": "TechCrunch",
       "published": "2026-09-21T14:39:22+00:00",
       "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
@@ -70,6 +119,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-21T14:15:00+00:00",
       "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 171 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-09-21T14:10:49+00:00",
+      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
     },
     {
       "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
@@ -98,6 +154,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-21T13:36:52+00:00",
       "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
+    },
+    {
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 51 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-09-21T12:28:17+00:00",
+      "link": "https://github.com/aru-labs/lossless-memory"
     },
     {
       "title": "The Download: investigating deaths at the US border’s “virtual wall”",
@@ -156,6 +219,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
     },
     {
+      "title": "Don't Use AI to Write",
+      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 128 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-09-21T08:54:44+00:00",
+      "link": "https://paulbakker.io/writing/no-ai-for-writing/"
+    },
+    {
       "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
       "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls.",
       "source": "AI News",
@@ -164,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 112 # Comments: 48",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 146 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-09-21T04:28:44+00:00",
       "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
     },
     {
       "title": "I stopped drinking the AI Kool-Aid",
-      "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 62 # Comments: 44",
+      "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 64 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-20T21:17:26+00:00",
       "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pirate Face Rescues LLM Models from Deletion",
-      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 537 # Comments: 143",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 545 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-09-20T15:16:07+00:00",
       "link": "https://pirateface.co/"
@@ -234,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 94 # Comments: 143",
+      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 115 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-09-20T11:37:10+00:00",
       "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"
@@ -262,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI and the Destruction of the Creative Commons",
-      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 229 # Comments: 274",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 234 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-09-20T10:07:51+00:00",
       "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
@@ -304,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can you tell which images are AI-generated?",
-      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 107 # Comments: 82",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 109 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-09-19T23:02:34+00:00",
       "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
@@ -353,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 349 # Comments: 168",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 358 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-19T16:35:24+00:00",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
@@ -472,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1821 # Comments: 922",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1851 # Comments: 941",
       "source": "Hacker News",
       "published": "2026-09-19T09:20:58+00:00",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
@@ -493,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 394 # Comments: 178",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 395 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-19T06:41:44+00:00",
       "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-16T14:59:58+00:00",
       "link": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/"
-    },
-    {
-      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
-      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights.",
-      "source": "AI News",
-      "published": "2026-09-16T14:47:32+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/"
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings.",
-      "source": "The Verge",
-      "published": "2026-09-16T14:45:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"
-    },
-    {
-      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 79 # Comments: 49",
-      "source": "Hacker News",
-      "published": "2026-09-16T13:01:52+00:00",
-      "link": "https://stale.jock.pl/"
-    },
-    {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
-    },
-    {
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-16T12:47:34+00:00",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
-    },
-    {
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-16T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
-    },
-    {
-      "title": "A brief history of AI executives calling for regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis,...",
-      "source": "The Verge",
-      "published": "2026-09-16T12:00:00+00:00",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation"
-    },
-    {
-      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
-      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture.",
-      "source": "AI News",
-      "published": "2026-09-16T10:31:09+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/"
-    },
-    {
-      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
-      "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a former Deepmind researcher says AI could kill us all.",
-      "source": "The Decoder",
-      "published": "2026-09-16T10:20:02+00:00",
-      "link": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/"
-    },
-    {
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-      "source": "Wired",
-      "published": "2026-09-16T09:30:00+00:00",
-      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
     }
   ]
 };
