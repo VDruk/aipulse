@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-21T10:28:10.724782+00:00",
+  "lastUpdated": "2026-09-21T15:22:59.746300+00:00",
   "items": [
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T14:39:22+00:00",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+    },
+    {
+      "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
+      "summary": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-21T14:35:11+00:00",
+      "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T14:15:00+00:00",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
+      "summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit.",
+      "source": "The Decoder",
+      "published": "2026-09-21T14:06:28+00:00",
+      "link": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/"
+    },
+    {
+      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+      "summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level.",
+      "source": "The Decoder",
+      "published": "2026-09-21T13:43:33+00:00",
+      "link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/"
+    },
+    {
+      "title": "Amazon blocks Meta's AI agent Muse from online shopping",
+      "summary": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com. The article Amazon blocks Meta's AI agent Muse from online shopping appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-21T13:37:51+00:00",
+      "link": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/"
+    },
+    {
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout.",
+      "source": "The Verge",
+      "published": "2026-09-21T13:36:52+00:00",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
+    },
+    {
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:20:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+    },
+    {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
+    },
+    {
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "source": "Wired",
+      "published": "2026-09-21T10:34:43+00:00",
+      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/"
+    },
     {
       "title": "UN says AI safeguards can’t wait for certainty",
       "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year.",
@@ -9,11 +100,25 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
     },
     {
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
+      "source": "The Verge",
+      "published": "2026-09-21T09:21:47+00:00",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+    },
+    {
       "title": "Amazon doesn’t trust Meta’s Muse AI agent",
       "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
       "source": "The Verge",
       "published": "2026-09-21T09:21:47+00:00",
       "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+    },
+    {
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls.",
+      "source": "AI News",
+      "published": "2026-09-21T07:50:48+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/"
     },
     {
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
@@ -31,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "source": "TechCrunch",
       "published": "2026-09-20T18:56:04+00:00",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-15T20:12:53+00:00",
       "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T18:29:20+00:00",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-    },
-    {
-      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard.",
-      "source": "The Decoder",
-      "published": "2026-09-15T18:23:20+00:00",
-      "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-      "source": "Wired",
-      "published": "2026-09-15T18:00:09+00:00",
-      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/"
-    },
-    {
-      "title": "AI labs have a data trust problem that their policies haven't solved",
-      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work.",
-      "source": "The Decoder",
-      "published": "2026-09-15T17:52:05+00:00",
-      "link": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/"
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-15T17:47:51+00:00",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
-    },
-    {
-      "title": "AI agents now have a place to snitch",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T17:42:59+00:00",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T17:05:24+00:00",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
-    },
-    {
-      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 230 # Comments: 170",
-      "source": "Hacker News",
-      "published": "2026-09-15T16:38:45+00:00",
-      "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T15:47:03+00:00",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
-    },
-    {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 115 # Comments: 81",
-      "source": "Hacker News",
-      "published": "2026-09-15T15:26:45+00:00",
-      "link": "https://www.formas.ai/cartesian"
-    },
-    {
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T15:22:48+00:00",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
-    },
-    {
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "summary": "Hi HN - long-time lurker (since 2012!), first time poster.Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI.",
-      "source": "Hacker News",
-      "published": "2026-09-15T15:20:26+00:00",
-      "link": "https://github.com/pizza-bot-app/pizza-bot"
-    },
-    {
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
-      "source": "The Verge",
-      "published": "2026-09-15T15:00:00+00:00",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
-    },
-    {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T14:42:37+00:00",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
     }
   ]
 };
