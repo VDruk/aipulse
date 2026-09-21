@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-20T22:50:12.839147+00:00",
+  "lastUpdated": "2026-09-21T05:54:29.852998+00:00",
   "items": [
     {
       "title": "Is the AI industry really ready to slow down?",
