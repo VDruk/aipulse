@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-21T15:22:59.746300+00:00",
+  "lastUpdated": "2026-09-21T18:32:09.814859+00:00",
   "items": [
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "summary": "Muse isn't welcome as a shopper anymore.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T17:55:18+00:00",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+    },
+    {
+      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it.",
+      "source": "The Decoder",
+      "published": "2026-09-21T17:44:10+00:00",
+      "link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/"
+    },
+    {
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each.",
+      "source": "The Decoder",
+      "published": "2026-09-21T16:56:36+00:00",
+      "link": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/"
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T16:38:51+00:00",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
+    },
+    {
+      "title": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
+      "summary": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-generated.",
+      "source": "The Decoder",
+      "published": "2026-09-21T16:01:31+00:00",
+      "link": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/"
+    },
+    {
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution.",
+      "source": "AI News",
+      "published": "2026-09-21T15:32:54+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/"
+    },
     {
       "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
       "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026.",
@@ -24,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m.",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m.",
       "source": "TechCrunch",
       "published": "2026-09-21T14:15:00+00:00",
       "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-16T09:30:00+00:00",
       "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
-    },
-    {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 582 # Comments: 204",
-      "source": "Hacker News",
-      "published": "2026-09-16T08:08:57+00:00",
-      "link": "https://mistral.ai/news/mistral-x-mozilla/"
-    },
-    {
-      "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 86 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-09-16T02:25:18+00:00",
-      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T00:20:39+00:00",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
-    },
-    {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular.",
-      "source": "The Verge",
-      "published": "2026-09-15T23:34:25+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T21:47:38+00:00",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "source": "TechCrunch",
-      "published": "2026-09-15T20:12:53+00:00",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
     }
   ]
 };
