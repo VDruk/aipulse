@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-21T20:43:19.694180+00:00",
+  "lastUpdated": "2026-09-21T23:44:42.683965+00:00",
   "items": [
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T23:44:28+00:00",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "source": "Ars Technica",
+      "published": "2026-09-21T22:24:38+00:00",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+    },
     {
       "title": "California tightens rules on AI data center energy and water use",
       "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times.",
@@ -16,11 +30,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
     },
     {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 112 # Comments: 95",
+      "source": "Hacker News",
+      "published": "2026-09-21T19:23:33+00:00",
+      "link": "https://linear.app/now/ci-bottleneck-reworked"
+    },
+    {
       "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
       "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
       "source": "TechCrunch",
       "published": "2026-09-21T19:19:21+00:00",
       "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 71 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-09-21T19:17:42+00:00",
+      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 79 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-09-21T18:53:01+00:00",
+      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
     },
     {
       "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
@@ -45,21 +80,21 @@ const FEED_DATA = {
     },
     {
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 160 # Comments: 97",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 227 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-09-21T17:30:21+00:00",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 57 # Comments: 39",
+      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 67 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-09-21T17:27:49+00:00",
       "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
     },
     {
       "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 130 # Comments: 130",
+      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 138 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-09-21T17:00:23+00:00",
       "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 171 # Comments: 77",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 206 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-21T14:10:49+00:00",
       "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 51 # Comments: 19",
+      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 55 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-09-21T12:28:17+00:00",
       "link": "https://github.com/aru-labs/lossless-memory"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't Use AI to Write",
-      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 128 # Comments: 71",
+      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 134 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-09-21T08:54:44+00:00",
       "link": "https://paulbakker.io/writing/no-ai-for-writing/"
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 146 # Comments: 84",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 150 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-09-21T04:28:44+00:00",
       "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
@@ -283,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pirate Face Rescues LLM Models from Deletion",
-      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 545 # Comments: 144",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 546 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-09-20T15:16:07+00:00",
       "link": "https://pirateface.co/"
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 115 # Comments: 160",
+      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 117 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-09-20T11:37:10+00:00",
       "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI and the Destruction of the Creative Commons",
-      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 234 # Comments: 275",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 235 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-09-20T10:07:51+00:00",
       "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
@@ -423,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 358 # Comments: 170",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 359 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-19T16:35:24+00:00",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-16T16:30:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
-    },
-    {
-      "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
-      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices.",
-      "source": "The Decoder",
-      "published": "2026-09-16T15:19:19+00:00",
-      "link": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/"
-    },
-    {
-      "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
-      "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-16T15:01:38+00:00",
-      "link": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/"
-    },
-    {
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-16T15:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Political opposites unite in Washington to rein in AI",
-      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence.",
-      "source": "The Decoder",
-      "published": "2026-09-16T14:59:58+00:00",
-      "link": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/"
     }
   ]
 };
