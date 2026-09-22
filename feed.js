@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-22T13:42:32.878127+00:00",
+  "lastUpdated": "2026-09-22T17:32:57.896680+00:00",
   "items": [
+    {
+      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+      "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5.",
+      "source": "The Decoder",
+      "published": "2026-09-22T17:11:07+00:00",
+      "link": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "source": "TechCrunch",
+      "published": "2026-09-22T16:30:07+00:00",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.",
+      "source": "The Verge",
+      "published": "2026-09-22T16:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+    },
+    {
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of...",
+      "source": "The Verge",
+      "published": "2026-09-22T16:01:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence"
+    },
+    {
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+      "source": "Wired",
+      "published": "2026-09-22T16:00:00+00:00",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/"
+    },
+    {
+      "title": "OpenAI calls for international standards on AI that could improve itself",
+      "summary": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process.",
+      "source": "The Decoder",
+      "published": "2026-09-22T15:29:51+00:00",
+      "link": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/"
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
+    },
+    {
+      "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
+      "summary": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells.",
+      "source": "The Decoder",
+      "published": "2026-09-22T13:58:20+00:00",
+      "link": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T13:42:05+00:00",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    },
     {
       "title": "Everyone can find a reason to dislike data center construction",
       "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-09-17T11:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/"
-    },
-    {
-      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
-      "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens.",
-      "source": "The Decoder",
-      "published": "2026-09-17T10:24:32+00:00",
-      "link": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/"
-    },
-    {
-      "title": "Lidl deploys driverless truck for store deliveries in Germany",
-      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store.",
-      "source": "AI News",
-      "published": "2026-09-17T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
-      "summary": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route.",
-      "source": "The Decoder",
-      "published": "2026-09-17T09:45:55+00:00",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/"
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "source": "TechCrunch",
-      "published": "2026-09-17T05:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T03:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T00:58:49+00:00",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
-    },
-    {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T23:43:09+00:00",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
-    },
-    {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information.",
-      "source": "The Verge",
-      "published": "2026-09-16T23:40:00+00:00",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
-    },
-    {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 198 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-09-16T23:06:39+00:00",
-      "link": "https://openspec.dev/"
-    },
-    {
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "source": "Wired",
-      "published": "2026-09-16T22:07:24+00:00",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
-    },
-    {
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "source": "Wired",
-      "published": "2026-09-16T22:07:24+00:00",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
     }
   ]
 };
