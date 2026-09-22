@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-21T23:44:42.683965+00:00",
+  "lastUpdated": "2026-09-22T05:51:40.154085+00:00",
   "items": [
+    {
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 78 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-09-22T01:24:49+00:00",
+      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
+    },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 112 # Comments: 95",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 192 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-09-21T19:23:33+00:00",
       "link": "https://linear.app/now/ci-bottleneck-reworked"
@@ -45,14 +52,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 71 # Comments: 36",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 116 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-21T19:17:42+00:00",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
     },
     {
       "title": "Frontier AI on Your Own Hardware",
-      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 79 # Comments: 43",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 135 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-09-21T18:53:01+00:00",
       "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
@@ -80,21 +87,21 @@ const FEED_DATA = {
     },
     {
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 227 # Comments: 148",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 272 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-09-21T17:30:21+00:00",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 67 # Comments: 53",
+      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 72 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-21T17:27:49+00:00",
       "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
     },
     {
       "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 138 # Comments: 143",
+      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 145 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-09-21T17:00:23+00:00",
       "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 206 # Comments: 93",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 220 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-09-21T14:10:49+00:00",
       "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
@@ -192,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 55 # Comments: 20",
+      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 59 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-09-21T12:28:17+00:00",
       "link": "https://github.com/aru-labs/lossless-memory"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't Use AI to Write",
-      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 134 # Comments: 75",
+      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 138 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-21T08:54:44+00:00",
       "link": "https://paulbakker.io/writing/no-ai-for-writing/"
@@ -269,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 150 # Comments: 85",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 152 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-09-21T04:28:44+00:00",
       "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pirate Face Rescues LLM Models from Deletion",
-      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 546 # Comments: 144",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 548 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-09-20T15:16:07+00:00",
       "link": "https://pirateface.co/"
@@ -339,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 117 # Comments: 164",
+      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 119 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-09-20T11:37:10+00:00",
       "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"
@@ -458,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 359 # Comments: 170",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 360 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-19T16:35:24+00:00",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-16T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
-    },
-    {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.",
-      "source": "The Verge",
-      "published": "2026-09-16T16:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
     }
   ]
 };
