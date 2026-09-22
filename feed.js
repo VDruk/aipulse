@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-22T09:40:49.648559+00:00",
+  "lastUpdated": "2026-09-22T13:42:32.878127+00:00",
   "items": [
+    {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
+    },
+    {
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+      "source": "Wired",
+      "published": "2026-09-22T13:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/"
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T12:23:05+00:00",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
+    },
+    {
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
+      "source": "The Verge",
+      "published": "2026-09-22T11:53:58+00:00",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"
+    },
+    {
+      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million.",
+      "source": "The Decoder",
+      "published": "2026-09-22T11:42:11+00:00",
+      "link": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/"
+    },
+    {
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data.",
+      "source": "AI News",
+      "published": "2026-09-22T11:34:39+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/"
+    },
+    {
+      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
+      "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study.",
+      "source": "The Decoder",
+      "published": "2026-09-22T11:17:59+00:00",
+      "link": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T11:04:51+00:00",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+    },
+    {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+      "source": "Wired",
+      "published": "2026-09-22T10:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
+    },
+    {
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+      "source": "Wired",
+      "published": "2026-09-22T10:00:00+00:00",
+      "link": "https://www.wired.com/story/big-interview-patti-harrison/"
+    },
+    {
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+      "source": "Wired",
+      "published": "2026-09-22T10:00:00+00:00",
+      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
+    },
+    {
+      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+      "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028.",
+      "source": "AI News",
+      "published": "2026-09-22T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/"
+    },
     {
       "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
       "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-16T22:07:24+00:00",
       "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T21:07:24+00:00",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
-    },
-    {
-      "title": "Washington Won’t Be Regulating AI Anytime Soon",
-      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
-      "source": "Wired",
-      "published": "2026-09-16T21:00:00+00:00",
-      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
-    },
-    {
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers.",
-      "source": "The Verge",
-      "published": "2026-09-16T20:59:13+00:00",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
-    },
-    {
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row.",
-      "source": "The Verge",
-      "published": "2026-09-16T20:40:46+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "source": "TechCrunch",
-      "published": "2026-09-16T20:12:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
-    },
-    {
-      "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
-      "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks.",
-      "source": "The Decoder",
-      "published": "2026-09-16T19:02:25+00:00",
-      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/"
-    },
-    {
-      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "source": "Wired",
-      "published": "2026-09-16T19:00:00+00:00",
-      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/"
-    },
-    {
-      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 312",
-      "source": "Hacker News",
-      "published": "2026-09-16T18:59:42+00:00",
-      "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T18:25:25+00:00",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
-    },
-    {
-      "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
-      "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips.",
-      "source": "The Decoder",
-      "published": "2026-09-16T18:16:27+00:00",
-      "link": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/"
-    },
-    {
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since.",
-      "source": "The Verge",
-      "published": "2026-09-16T17:20:29+00:00",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
-    },
-    {
-      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
-      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI.",
-      "source": "The Decoder",
-      "published": "2026-09-16T17:00:28+00:00",
-      "link": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/"
-    },
-    {
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
-      "source": "The Verge",
-      "published": "2026-09-16T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
     }
   ]
 };
