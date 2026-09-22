@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-22T05:51:40.154085+00:00",
+  "lastUpdated": "2026-09-22T09:40:49.648559+00:00",
   "items": [
+    {
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+      "source": "Wired",
+      "published": "2026-09-22T09:30:00+00:00",
+      "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"
+    },
+    {
+      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-22T09:27:16+00:00",
+      "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/"
+    },
+    {
+      "title": "How to Use AI With Your Privacy Intact",
+      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+      "source": "Wired",
+      "published": "2026-09-22T09:00:00+00:00",
+      "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/"
+    },
     {
       "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
       "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 78 # Comments: 47",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-16T17:00:00+00:00",
       "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
-    },
-    {
-      "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
-      "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow.",
-      "source": "The Decoder",
-      "published": "2026-09-16T16:31:41+00:00",
-      "link": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/"
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "source": "TechCrunch",
-      "published": "2026-09-16T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
     }
   ]
 };
