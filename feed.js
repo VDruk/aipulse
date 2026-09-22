@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-22T17:32:57.896680+00:00",
+  "lastUpdated": "2026-09-22T19:58:55.516721+00:00",
   "items": [
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "source": "Ars Technica",
+      "published": "2026-09-22T19:45:47+00:00",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T19:09:11+00:00",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
+    },
+    {
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/ Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 152 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-09-22T19:03:38+00:00",
+      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+    },
+    {
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+      "source": "Wired",
+      "published": "2026-09-22T18:19:13+00:00",
+      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 633 # Comments: 365",
+      "source": "Hacker News",
+      "published": "2026-09-22T18:00:34+00:00",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+    },
     {
       "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
       "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5.",
       "source": "The Decoder",
       "published": "2026-09-22T17:11:07+00:00",
       "link": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 137 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-09-22T16:51:31+00:00",
+      "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
     },
     {
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
@@ -72,11 +121,32 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/"
     },
     {
+      "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 78 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-09-22T13:52:56+00:00",
+      "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 452 # Comments: 331",
+      "source": "Hacker News",
+      "published": "2026-09-22T13:52:15+00:00",
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
+    },
+    {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
       "source": "MIT Tech Review",
       "published": "2026-09-22T13:42:05+00:00",
       "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    },
+    {
+      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/ Comments URL: https://news.ycombinator.com/item?id=49800953 Points: 67 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-09-22T13:27:29+00:00",
+      "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
     },
     {
       "title": "Everyone can find a reason to dislike data center construction",
@@ -98,6 +168,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-22T12:23:05+00:00",
       "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
+    },
+    {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 349 # Comments: 489",
+      "source": "Hacker News",
+      "published": "2026-09-22T12:11:09+00:00",
+      "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
     },
     {
       "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -184,6 +261,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/"
     },
     {
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "summary": "Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 62 # Comments: 112",
+      "source": "Hacker News",
+      "published": "2026-09-22T09:18:54+00:00",
+      "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/"
+    },
+    {
       "title": "How to Use AI With Your Privacy Intact",
       "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
       "source": "Wired",
@@ -191,8 +275,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/"
     },
     {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 147 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-09-22T04:02:09+00:00",
+      "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
+    },
+    {
       "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 78 # Comments: 47",
+      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 93 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-09-22T01:24:49+00:00",
       "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
@@ -227,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 192 # Comments: 196",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 305 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-09-21T19:23:33+00:00",
       "link": "https://linear.app/now/ci-bottleneck-reworked"
@@ -241,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 116 # Comments: 55",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 153 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-21T19:17:42+00:00",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
     },
     {
       "title": "Frontier AI on Your Own Hardware",
-      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 135 # Comments: 69",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 176 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-09-21T18:53:01+00:00",
       "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
@@ -276,21 +367,21 @@ const FEED_DATA = {
     },
     {
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 272 # Comments: 185",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 339 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-09-21T17:30:21+00:00",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 72 # Comments: 55",
+      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 75 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-09-21T17:27:49+00:00",
       "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
     },
     {
       "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 145 # Comments: 152",
+      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 150 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-09-21T17:00:23+00:00",
       "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
@@ -353,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 220 # Comments: 110",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 235 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-09-21T14:10:49+00:00",
       "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
@@ -388,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 59 # Comments: 21",
+      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 64 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-21T12:28:17+00:00",
       "link": "https://github.com/aru-labs/lossless-memory"
@@ -399,6 +490,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-09-21T12:20:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+    },
+    {
+      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "summary": "Article URL: https://www.noemamag.com/the-end-of-upward-mobility/ Comments URL: https://news.ycombinator.com/item?id=49786210 Points: 63 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-09-21T12:07:16+00:00",
+      "link": "https://www.noemamag.com/the-end-of-upward-mobility/"
     },
     {
       "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
@@ -451,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't Use AI to Write",
-      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 138 # Comments: 82",
+      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 143 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-09-21T08:54:44+00:00",
       "link": "https://paulbakker.io/writing/no-ai-for-writing/"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-17T16:22:15+00:00",
       "link": "https://news.ycombinator.com/item?id=49743049"
-    },
-    {
-      "title": "LLM Classification Is Feature Engineering",
-      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 113 # Comments: 24",
-      "source": "Hacker News",
-      "published": "2026-09-17T15:40:17+00:00",
-      "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
-    },
-    {
-      "title": "Artificial intelligence now beats some of the best human forecasters",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters Comments URL: https://news.ycombinator.com/item?id=49742021 Points: 126 # Comments: 104",
-      "source": "Hacker News",
-      "published": "2026-09-17T15:13:30+00:00",
-      "link": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
-    },
-    {
-      "title": "GPT-6 Astra crushes Pokemon, Factorio, and Fallout 3 then spirals into Minecraft potato farming after one bad Creeper",
-      "summary": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal.",
-      "source": "The Decoder",
-      "published": "2026-09-17T14:42:05+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/"
-    },
-    {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T14:06:14+00:00",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
-    },
-    {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.",
-      "source": "The Verge",
-      "published": "2026-09-17T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude"
-    },
-    {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality.",
-      "source": "The Verge",
-      "published": "2026-09-17T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs"
-    },
-    {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T13:46:16+00:00",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
-    },
-    {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T13:38:33+00:00",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
-    },
-    {
-      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
-      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports.",
-      "source": "The Decoder",
-      "published": "2026-09-17T13:37:55+00:00",
-      "link": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/"
-    },
-    {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use?",
-      "source": "Hacker News",
-      "published": "2026-09-17T13:01:44+00:00",
-      "link": "https://mysetup.ai/"
-    },
-    {
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-17T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
-    },
-    {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier.",
-      "source": "The Verge",
-      "published": "2026-09-17T11:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
-    },
-    {
-      "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
-      "summary": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each other and end up double-checking everyone's work.",
-      "source": "The Decoder",
-      "published": "2026-09-17T11:03:32+00:00",
-      "link": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/"
-    },
-    {
-      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-      "summary": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group announced on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees.",
-      "source": "AI News",
-      "published": "2026-09-17T11:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/"
     }
   ]
 };
