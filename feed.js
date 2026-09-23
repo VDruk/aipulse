@@ -1,12 +1,124 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-23T13:54:00.025895+00:00",
+  "lastUpdated": "2026-09-23T17:45:50.018461+00:00",
   "items": [
+    {
+      "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
+      "summary": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages.",
+      "source": "The Decoder",
+      "published": "2026-09-23T17:39:10+00:00",
+      "link": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T16:49:58+00:00",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/"
+    },
+    {
+      "title": "YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing",
+      "summary": "YouTube is adding AI tools to its creator studio. A storytelling assistant analyzes scripts and rough cuts, Gemini becomes a chat-based editing assistant for Shorts, and a new live translation feature turns English streams into Spanish.",
+      "source": "The Decoder",
+      "published": "2026-09-23T16:37:43+00:00",
+      "link": "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/"
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T15:19:30+00:00",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
+    },
+    {
+      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans.",
+      "source": "The Decoder",
+      "published": "2026-09-23T15:14:34+00:00",
+      "link": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/"
+    },
+    {
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 180 # Comments: 154",
+      "source": "Hacker News",
+      "published": "2026-09-23T15:14:22+00:00",
+      "link": "https://drivingbench.com/"
+    },
+    {
+      "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
+      "summary": "Nscale, the Nvidia-backed AI cloud provider, leaves its most important customer, Bytedance, out of the main prospectus for its planned US IPO. The article Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-23T14:44:22+00:00",
+      "link": "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/"
+    },
+    {
+      "title": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
+      "summary": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the open-source project OpenClaw, and some of the file names and contents are nearly identical.",
+      "source": "The Decoder",
+      "published": "2026-09-23T14:42:38+00:00",
+      "link": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/"
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do.",
+      "source": "The Verge",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
+    },
     {
       "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
       "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies.",
       "source": "The Decoder",
       "published": "2026-09-23T13:52:23+00:00",
       "link": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/"
+    },
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 118 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-09-23T13:38:00+00:00",
+      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
+    },
+    {
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial tracking, allowing U.S. Transportation Command (TRANSCOM) to insulate global distribution networks against contested disruption.",
+      "source": "AI News",
+      "published": "2026-09-23T13:13:15+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/"
+    },
+    {
+      "title": "The Price of Intelligence Is Falling Rapidly",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 73 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-09-23T13:08:59+00:00",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
+    },
+    {
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
     },
     {
       "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
@@ -45,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product.",
+      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product.",
       "source": "The Verge",
       "published": "2026-09-23T11:02:39+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"
@@ -80,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The new CC, an AI agent built for families",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 50 # Comments: 61",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 50 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T23:46:07+00:00",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
@@ -108,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Ass Bench",
-      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 157 # Comments: 45",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 160 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-22T20:34:19+00:00",
       "link": "https://www.assbench.com/"
@@ -143,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 750 # Comments: 374",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 849 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-09-22T19:03:38+00:00",
       "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
@@ -164,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1634 # Comments: 784",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1681 # Comments: 806",
       "source": "Hacker News",
       "published": "2026-09-22T18:00:34+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
@@ -185,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 313 # Comments: 99",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 323 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-09-22T16:51:31+00:00",
       "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
@@ -255,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 84 # Comments: 63",
+      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 84 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:56+00:00",
       "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 696 # Comments: 408",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 711 # Comments: 428",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:15+00:00",
       "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
@@ -276,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/ Comments URL: https://news.ycombinator.com/item?id=49800953 Points: 76 # Comments: 54",
+      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/ Comments URL: https://news.ycombinator.com/item?id=49800953 Points: 76 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-22T13:27:29+00:00",
       "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
@@ -289,18 +401,18 @@ const FEED_DATA = {
       "link": "https://arxiv.org/abs/2609.15369"
     },
     {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
-    },
-    {
       "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
       "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
       "source": "Wired",
       "published": "2026-09-22T13:00:00+00:00",
       "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/"
+    },
+    {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
     },
     {
       "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
@@ -311,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Has No Wisdom and Neither Will You",
-      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 381 # Comments: 533",
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 539",
       "source": "Hacker News",
       "published": "2026-09-22T12:11:09+00:00",
       "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
@@ -416,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 156 # Comments: 63",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 160 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T04:02:09+00:00",
       "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
@@ -458,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 311 # Comments: 396",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 312 # Comments: 399",
       "source": "Hacker News",
       "published": "2026-09-21T19:23:33+00:00",
       "link": "https://linear.app/now/ci-bottleneck-reworked"
@@ -479,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI on Your Own Hardware",
-      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 181 # Comments: 102",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 182 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-09-21T18:53:01+00:00",
       "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
@@ -507,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 345 # Comments: 222",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 346 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-09-21T17:30:21+00:00",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-18T13:39:27+00:00",
       "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
-    },
-    {
-      "title": "Gartner outlines four AI tiers in warehouse automation",
-      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments.",
-      "source": "AI News",
-      "published": "2026-09-18T12:49:34+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/"
-    },
-    {
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-18T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
-    },
-    {
-      "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
-      "summary": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter.",
-      "source": "The Decoder",
-      "published": "2026-09-18T11:41:16+00:00",
-      "link": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/"
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-18T11:29:22+00:00",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-    },
-    {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard.",
-      "source": "The Verge",
-      "published": "2026-09-18T11:00:00+00:00",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning"
-    },
-    {
-      "title": "The Leftist Split Over AI Doom",
-      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
-      "source": "Wired",
-      "published": "2026-09-18T10:15:00+00:00",
-      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/"
-    },
-    {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 934 # Comments: 823",
-      "source": "Hacker News",
-      "published": "2026-09-18T09:45:07+00:00",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
-    },
-    {
-      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
-      "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-18T09:37:03+00:00",
-      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/"
-    },
-    {
-      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model.",
-      "source": "AI News",
-      "published": "2026-09-18T09:15:15+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/"
-    },
-    {
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "source": "Wired",
-      "published": "2026-09-18T09:15:00+00:00",
-      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"
-    },
-    {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-18T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
-    },
-    {
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "source": "Wired",
-      "published": "2026-09-18T09:00:00+00:00",
-      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/"
-    },
-    {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T23:25:52+00:00",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
-    },
-    {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "source": "TechCrunch",
-      "published": "2026-09-17T23:21:17+00:00",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
-    },
-    {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T22:34:09+00:00",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
-    },
-    {
-      "title": "Here’s What the AI Apocalypse Could Look Like",
-      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "source": "Wired",
-      "published": "2026-09-17T22:20:21+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/"
     }
   ]
 };
