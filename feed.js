@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-23T09:48:09.467044+00:00",
+  "lastUpdated": "2026-09-23T13:54:00.025895+00:00",
   "items": [
+    {
+      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies.",
+      "source": "The Decoder",
+      "published": "2026-09-23T13:52:23+00:00",
+      "link": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/"
+    },
+    {
+      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations",
+      "source": "TechCrunch",
+      "published": "2026-09-23T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
+    },
+    {
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+      "source": "Wired",
+      "published": "2026-09-23T12:54:58+00:00",
+      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/"
+    },
+    {
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
+      "summary": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions.",
+      "source": "The Decoder",
+      "published": "2026-09-23T12:31:20+00:00",
+      "link": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/"
+    },
+    {
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-23T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
+    },
+    {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+    },
+    {
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product.",
+      "source": "The Verge",
+      "published": "2026-09-23T11:02:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"
+    },
+    {
+      "title": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division",
+      "summary": "OpenAI has hired Patreon co-founder Sam Yam to lead a new \"Creator Product\" division. After more than 13 years at the creator platform, he's bringing two Patreon executives with him.",
+      "source": "The Decoder",
+      "published": "2026-09-23T10:04:07+00:00",
+      "link": "https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/"
+    },
     {
       "title": "AI Agents Are Becoming a New Malware Distribution Channel",
       "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July...",
@@ -21,6 +77,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-23T00:17:17+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 50 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-09-22T23:46:07+00:00",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
     },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
@@ -45,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Ass Bench",
-      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 154 # Comments: 43",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 157 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-22T20:34:19+00:00",
       "link": "https://www.assbench.com/"
@@ -80,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 650 # Comments: 334",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 750 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-09-22T19:03:38+00:00",
       "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
@@ -101,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1528 # Comments: 732",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1634 # Comments: 784",
       "source": "Hacker News",
       "published": "2026-09-22T18:00:34+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
@@ -122,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 290 # Comments: 91",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 313 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-09-22T16:51:31+00:00",
       "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
@@ -192,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 83 # Comments: 62",
+      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 84 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:56+00:00",
       "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 659 # Comments: 386",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 696 # Comments: 408",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:15+00:00",
       "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
@@ -213,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/ Comments URL: https://news.ycombinator.com/item?id=49800953 Points: 74 # Comments: 53",
+      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/ Comments URL: https://news.ycombinator.com/item?id=49800953 Points: 76 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-09-22T13:27:29+00:00",
       "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Has No Wisdom and Neither Will You",
-      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 377 # Comments: 528",
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 381 # Comments: 533",
       "source": "Hacker News",
       "published": "2026-09-22T12:11:09+00:00",
       "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
@@ -339,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-      "summary": "Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 65 # Comments: 119",
+      "summary": "Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 66 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-09-22T09:18:54+00:00",
       "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/"
@@ -353,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 156 # Comments: 62",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 156 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T04:02:09+00:00",
       "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
@@ -395,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 311 # Comments: 391",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 311 # Comments: 396",
       "source": "Hacker News",
       "published": "2026-09-21T19:23:33+00:00",
       "link": "https://linear.app/now/ci-bottleneck-reworked"
@@ -416,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI on Your Own Hardware",
-      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 179 # Comments: 102",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 181 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-09-21T18:53:01+00:00",
       "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-17T22:20:21+00:00",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/"
-    },
-    {
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T22:14:59+00:00",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
-    },
-    {
-      "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 671 # Comments: 392",
-      "source": "Hacker News",
-      "published": "2026-09-17T21:48:38+00:00",
-      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
-    },
-    {
-      "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 230 # Comments: 279",
-      "source": "Hacker News",
-      "published": "2026-09-17T21:15:52+00:00",
-      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
-    },
-    {
-      "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 606 # Comments: 309",
-      "source": "Hacker News",
-      "published": "2026-09-17T20:36:13+00:00",
-      "link": "https://bend-lang.com/"
-    },
-    {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 381 # Comments: 191",
-      "source": "Hacker News",
-      "published": "2026-09-17T20:36:13+00:00",
-      "link": "https://bend-lang.com/"
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T20:34:47+00:00",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T20:34:24+00:00",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
-    },
-    {
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T20:19:37+00:00",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "source": "TechCrunch",
-      "published": "2026-09-17T20:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
     }
   ]
 };
