@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-23T19:55:58.356514+00:00",
+  "lastUpdated": "2026-09-23T23:22:14.464424+00:00",
   "items": [
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks.",
+      "source": "The Verge",
+      "published": "2026-09-23T23:19:42+00:00",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories.",
+      "source": "The Verge",
+      "published": "2026-09-23T22:45:00+00:00",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
+    },
+    {
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live.",
+      "source": "The Verge",
+      "published": "2026-09-23T22:30:00+00:00",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T22:17:39+00:00",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+    },
+    {
+      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "source": "Wired",
+      "published": "2026-09-23T21:00:00+00:00",
+      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/"
+    },
     {
       "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
       "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra has gained the ability to drive a car",
-      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 228 # Comments: 195",
+      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 265 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-09-23T15:14:22+00:00",
       "link": "https://drivingbench.com/"
@@ -114,18 +149,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
-    },
-    {
       "title": "YouTube releases new AI features for creators within its Studio app",
       "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
       "source": "TechCrunch",
       "published": "2026-09-23T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
     },
     {
       "title": "YouTube is building AI creator tools that do almost everything for them",
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stripe's Knowledge AI Platform",
-      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 142 # Comments: 94",
+      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 167 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-09-23T13:38:00+00:00",
       "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Price of Intelligence Is Falling Rapidly",
-      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 77 # Comments: 80",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 77 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-23T13:08:59+00:00",
       "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
@@ -219,6 +254,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/"
     },
     {
+      "title": "The AI Hype Index: AI loves cheating",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-23T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
+    },
+    {
       "title": "AI Agents Are Becoming a New Malware Distribution Channel",
       "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July...",
       "source": "AI News",
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Ass Bench",
-      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 162 # Comments: 45",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 163 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-22T20:34:19+00:00",
       "link": "https://www.assbench.com/"
@@ -304,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 870 # Comments: 469",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 886 # Comments: 490",
       "source": "Hacker News",
       "published": "2026-09-22T19:03:38+00:00",
       "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1704 # Comments: 814",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1729 # Comments: 821",
       "source": "Hacker News",
       "published": "2026-09-22T18:00:34+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 326 # Comments: 103",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 329 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-09-22T16:51:31+00:00",
       "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
@@ -416,14 +458,14 @@ const FEED_DATA = {
     },
     {
       "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 84 # Comments: 64",
+      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 85 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:56+00:00",
       "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 715 # Comments: 428",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 720 # Comments: 437",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:15+00:00",
       "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
@@ -472,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Has No Wisdom and Neither Will You",
-      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 540",
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 542",
       "source": "Hacker News",
       "published": "2026-09-22T12:11:09+00:00",
       "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
@@ -576,8 +618,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/"
     },
     {
+      "title": "Jev introduces a new shape of LLM",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/21/jev/ Comments URL: https://news.ycombinator.com/item?id=49796843 Points: 52 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-09-22T04:38:31+00:00",
+      "link": "https://simonwillison.net/2026/Sep/21/jev/"
+    },
+    {
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 162 # Comments: 63",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 162 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-09-22T04:02:09+00:00",
       "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
@@ -619,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 312 # Comments: 399",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 312 # Comments: 402",
       "source": "Hacker News",
       "published": "2026-09-21T19:23:33+00:00",
       "link": "https://linear.app/now/ci-bottleneck-reworked"
@@ -633,14 +682,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 160 # Comments: 81",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 160 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-09-21T19:17:42+00:00",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
     },
     {
       "title": "Frontier AI on Your Own Hardware",
-      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 182 # Comments: 102",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 183 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-09-21T18:53:01+00:00",
       "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-18T16:35:49+00:00",
       "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
-    },
-    {
-      "title": "What Hollywood thinks about existential AI warnings",
-      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening.",
-      "source": "The Verge",
-      "published": "2026-09-18T16:35:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings"
-    },
-    {
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports.",
-      "source": "The Verge",
-      "published": "2026-09-18T15:30:16+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
-    },
-    {
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T15:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-      "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense.",
-      "source": "The Decoder",
-      "published": "2026-09-18T15:27:29+00:00",
-      "link": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/"
-    },
-    {
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T15:22:48+00:00",
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"
-    },
-    {
-      "title": "AI is an elite crime spree",
-      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 124 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-09-18T15:15:33+00:00",
-      "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
-    },
-    {
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "source": "Wired",
-      "published": "2026-09-18T15:00:08+00:00",
-      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/"
     }
   ]
 };
