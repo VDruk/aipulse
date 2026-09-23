@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-23T17:45:50.018461+00:00",
+  "lastUpdated": "2026-09-23T19:55:58.356514+00:00",
   "items": [
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T19:31:28+00:00",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
+    },
+    {
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of.",
+      "source": "The Verge",
+      "published": "2026-09-23T19:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"
+    },
+    {
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "source": "Wired",
+      "published": "2026-09-23T18:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/"
+    },
+    {
+      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+      "source": "Wired",
+      "published": "2026-09-23T18:03:00+00:00",
+      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/"
+    },
+    {
+      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr.",
+      "source": "The Verge",
+      "published": "2026-09-23T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+    },
+    {
+      "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access",
+      "summary": "ChatGPT Voice now runs on OpenAI's new GPT-6 Astra, Sol, and Luna models and can tap into plugins like email, calendar, and Slack. Users can manage appointments, send emails, or build websites just by talking.",
+      "source": "The Decoder",
+      "published": "2026-09-23T17:57:37+00:00",
+      "link": "https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/"
+    },
     {
       "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
       "summary": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages.",
       "source": "The Decoder",
       "published": "2026-09-23T17:39:10+00:00",
       "link": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/"
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
     },
     {
       "title": "Even Americans who use AI every day are worried about it",
@@ -38,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra has gained the ability to drive a car",
-      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 180 # Comments: 154",
+      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 228 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-09-23T15:14:22+00:00",
       "link": "https://drivingbench.com/"
@@ -65,18 +114,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
-    },
-    {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
       "source": "TechCrunch",
       "published": "2026-09-23T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
     },
     {
       "title": "YouTube is building AI creator tools that do almost everything for them",
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stripe's Knowledge AI Platform",
-      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 118 # Comments: 66",
+      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 142 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-09-23T13:38:00+00:00",
       "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
@@ -108,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Price of Intelligence Is Falling Rapidly",
-      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 73 # Comments: 75",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 77 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-23T13:08:59+00:00",
       "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The new CC, an AI agent built for families",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 50 # Comments: 63",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 51 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T23:46:07+00:00",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
@@ -220,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Ass Bench",
-      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 160 # Comments: 45",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 162 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-22T20:34:19+00:00",
       "link": "https://www.assbench.com/"
@@ -255,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 849 # Comments: 455",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 870 # Comments: 469",
       "source": "Hacker News",
       "published": "2026-09-22T19:03:38+00:00",
       "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
@@ -276,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1681 # Comments: 806",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1704 # Comments: 814",
       "source": "Hacker News",
       "published": "2026-09-22T18:00:34+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 323 # Comments: 101",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 326 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-09-22T16:51:31+00:00",
       "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
@@ -374,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 711 # Comments: 428",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 715 # Comments: 428",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:15+00:00",
       "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
@@ -423,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Has No Wisdom and Neither Will You",
-      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 539",
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 540",
       "source": "Hacker News",
       "published": "2026-09-22T12:11:09+00:00",
       "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
@@ -485,18 +534,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/big-interview-patti-harrison/"
     },
     {
-      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
-      "source": "Wired",
-      "published": "2026-09-22T10:00:00+00:00",
-      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
-    },
-    {
       "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
       "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028.",
       "source": "AI News",
       "published": "2026-09-22T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/"
+    },
+    {
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+      "source": "Wired",
+      "published": "2026-09-22T10:00:00+00:00",
+      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
     },
     {
       "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
@@ -528,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 160 # Comments: 63",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 162 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T04:02:09+00:00",
       "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
@@ -584,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 160 # Comments: 80",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 160 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-21T19:17:42+00:00",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
@@ -619,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 346 # Comments: 222",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 346 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-09-21T17:30:21+00:00",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-18T15:00:08+00:00",
       "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/"
-    },
-    {
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "source": "Wired",
-      "published": "2026-09-18T15:00:00+00:00",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/"
-    },
-    {
-      "title": "AI Protest in Montreal",
-      "summary": "Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/ Comments URL: https://news.ycombinator.com/item?id=49755162 Points: 53 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-09-18T14:45:41+00:00",
-      "link": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/"
-    },
-    {
-      "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
-      "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-18T14:32:49+00:00",
-      "link": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/"
-    },
-    {
-      "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
-      "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February.",
-      "source": "The Decoder",
-      "published": "2026-09-18T14:06:50+00:00",
-      "link": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/"
-    },
-    {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T14:00:14+00:00",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
-    },
-    {
-      "title": "OpenAI takes aim at the legal market with Astra for Law",
-      "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-18T13:42:43+00:00",
-      "link": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/"
-    },
-    {
-      "title": "AI chatbots are becoming experts at changing people's minds",
-      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 133 # Comments: 101",
-      "source": "Hacker News",
-      "published": "2026-09-18T13:39:27+00:00",
-      "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
     }
   ]
 };
