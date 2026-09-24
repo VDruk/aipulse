@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-23T23:22:14.464424+00:00",
+  "lastUpdated": "2026-09-24T05:51:28.206424+00:00",
   "items": [
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T01:13:32+00:00",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T00:46:17+00:00",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+    },
+    {
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 191 # Comments: 172",
+      "source": "Hacker News",
+      "published": "2026-09-24T00:41:31+00:00",
+      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
+    },
+    {
+      "title": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation.",
+      "source": "The Verge",
+      "published": "2026-09-24T00:15:20+00:00",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+    },
+    {
+      "title": "Muse is coming to Meta smart glasses",
+      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect.",
+      "source": "The Verge",
+      "published": "2026-09-23T23:40:56+00:00",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T23:39:44+00:00",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+    },
     {
       "title": "Meta is making Muse more powerful and will let you video chat with it, too",
       "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks.",
@@ -30,6 +72,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
     },
     {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 83 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-09-23T22:16:19+00:00",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5"
+    },
+    {
       "title": "A US-China AI Hotline Won't Be Ready For a While",
       "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
       "source": "Wired",
@@ -56,6 +105,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-23T18:30:00+00:00",
       "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/"
+    },
+    {
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "summary": "Article URL: https://normanponte.io/19df691f Comments URL: https://news.ycombinator.com/item?id=49820267 Points: 53 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-09-23T18:16:41+00:00",
+      "link": "https://normanponte.io/19df691f"
     },
     {
       "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
@@ -122,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra has gained the ability to drive a car",
-      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 265 # Comments: 219",
+      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 285 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-09-23T15:14:22+00:00",
       "link": "https://drivingbench.com/"
@@ -178,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stripe's Knowledge AI Platform",
-      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 167 # Comments: 102",
+      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 176 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-09-23T13:38:00+00:00",
       "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
@@ -192,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Price of Intelligence Is Falling Rapidly",
-      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 77 # Comments: 81",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 79 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-09-23T13:08:59+00:00",
       "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Ass Bench",
-      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 163 # Comments: 45",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 166 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-22T20:34:19+00:00",
       "link": "https://www.assbench.com/"
@@ -346,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 886 # Comments: 490",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 903 # Comments: 507",
       "source": "Hacker News",
       "published": "2026-09-22T19:03:38+00:00",
       "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
@@ -367,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1729 # Comments: 821",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1742 # Comments: 828",
       "source": "Hacker News",
       "published": "2026-09-22T18:00:34+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
@@ -388,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 329 # Comments: 103",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 330 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-09-22T16:51:31+00:00",
       "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
@@ -465,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 720 # Comments: 437",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 726 # Comments: 437",
       "source": "Hacker News",
       "published": "2026-09-22T13:52:15+00:00",
       "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
@@ -569,18 +625,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
     },
     {
-      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
-      "source": "Wired",
-      "published": "2026-09-22T10:00:00+00:00",
-      "link": "https://www.wired.com/story/big-interview-patti-harrison/"
-    },
-    {
       "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
       "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028.",
       "source": "AI News",
       "published": "2026-09-22T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/"
+    },
+    {
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+      "source": "Wired",
+      "published": "2026-09-22T10:00:00+00:00",
+      "link": "https://www.wired.com/story/big-interview-patti-harrison/"
     },
     {
       "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
@@ -633,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 96 # Comments: 62",
+      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 96 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-22T01:24:49+00:00",
       "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-18T17:59:53+00:00",
       "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
-    },
-    {
-      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
-      "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations.",
-      "source": "The Decoder",
-      "published": "2026-09-18T17:45:17+00:00",
-      "link": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/"
-    },
-    {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T17:33:50+00:00",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 513 # Comments: 388",
-      "source": "Hacker News",
-      "published": "2026-09-18T17:28:01+00:00",
-      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
-    },
-    {
-      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
-      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure.",
-      "source": "The Decoder",
-      "published": "2026-09-18T17:20:30+00:00",
-      "link": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T17:09:56+00:00",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
-    },
-    {
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T17:06:32+00:00",
-      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/"
-    },
-    {
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday.",
-      "source": "The Verge",
-      "published": "2026-09-18T17:04:51+00:00",
-      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
-    },
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T16:35:49+00:00",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
     }
   ]
 };
