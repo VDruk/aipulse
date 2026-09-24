@@ -1,6 +1,181 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-24T13:50:57.226467+00:00",
+  "lastUpdated": "2026-09-24T17:46:47.113302+00:00",
   "items": [
+    {
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T17:39:24+00:00",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L.",
+      "source": "The Verge",
+      "published": "2026-09-24T17:14:12+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate.",
+      "source": "The Verge",
+      "published": "2026-09-24T17:10:38+00:00",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike"
+    },
+    {
+      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
+      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next.",
+      "source": "The Decoder",
+      "published": "2026-09-24T17:01:03+00:00",
+      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/"
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
+    },
+    {
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
+      "source": "The Verge",
+      "published": "2026-09-24T17:00:00+00:00",
+      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:46:47+00:00",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+    },
+    {
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:35:13+00:00",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
+    },
+    {
+      "title": "Google launches Gemini 3.8 Flash TTS voice models",
+      "summary": "Google has launched two Gemini 3.8 Flash TTS voice models, introducing dedicated speech generation systems engineered for direct performance scripting and high-volume audio production.",
+      "source": "AI News",
+      "published": "2026-09-24T16:09:02+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/"
+    },
+    {
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment.",
+      "source": "The Verge",
+      "published": "2026-09-24T16:04:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls"
+    },
+    {
+      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-24T16:04:26+00:00",
+      "link": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:03:36+00:00",
+      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "AI performance costs are falling faster than those of any previous technology",
+      "summary": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year.",
+      "source": "The Decoder",
+      "published": "2026-09-24T16:00:18+00:00",
+      "link": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/"
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+    },
+    {
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "source": "Wired",
+      "published": "2026-09-24T16:00:00+00:00",
+      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/"
+    },
+    {
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T14:43:25+00:00",
+      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+    },
+    {
+      "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency",
+      "summary": "Senator Bernie Sanders and Representative Greg Casar introduced a bill on September 23 that would permanently ban the development and use of artificial superintelligence. The article U.S.",
+      "source": "The Decoder",
+      "published": "2026-09-24T14:42:23+00:00",
+      "link": "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/"
+    },
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T14:31:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
+    },
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow.",
+      "source": "The Verge",
+      "published": "2026-09-24T14:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
+    },
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times.",
+      "source": "The Verge",
+      "published": "2026-09-24T14:15:17+00:00",
+      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
+    },
+    {
+      "title": "The vibes are bad for Flock in Washington",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday.",
+      "source": "The Verge",
+      "published": "2026-09-24T14:15:05+00:00",
+      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing"
+    },
+    {
+      "title": "I have some questions for Mark Zuckerberg",
+      "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit.",
+      "source": "The Verge",
+      "published": "2026-09-24T14:15:00+00:00",
+      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers"
+    },
+    {
+      "title": "OpenAI's agents went after government and university sites months before Hugging Face",
+      "summary": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search.",
+      "source": "The Decoder",
+      "published": "2026-09-24T14:01:05+00:00",
+      "link": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/"
+    },
     {
       "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
       "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity.",
@@ -101,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
       "source": "TechCrunch",
       "published": "2026-09-23T23:39:44+00:00",
       "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
@@ -142,7 +317,7 @@ const FEED_DATA = {
       "link": "https://artificialanalysis.ai/models/mercury-2-5"
     },
     {
-      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "title": "A US-China AI Hotline Won’t Be Ready for a While",
       "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
       "source": "Wired",
       "published": "2026-09-23T21:00:00+00:00",
@@ -905,13 +1080,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/"
     },
     {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m.",
-      "source": "TechCrunch",
-      "published": "2026-09-21T14:15:00+00:00",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
-    },
-    {
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 236 # Comments: 121",
       "source": "Hacker News",
@@ -1232,174 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-19T16:35:24+00:00",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
-      "source": "The Verge",
-      "published": "2026-09-19T15:25:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
-    },
-    {
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 75 # Comments: 44",
-      "source": "Hacker News",
-      "published": "2026-09-19T14:36:28+00:00",
-      "link": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q"
-    },
-    {
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies.",
-      "source": "The Decoder",
-      "published": "2026-09-19T14:30:57+00:00",
-      "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/"
-    },
-    {
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration.",
-      "source": "The Verge",
-      "published": "2026-09-19T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
-    },
-    {
-      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-      "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-19T13:31:46+00:00",
-      "link": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
-    },
-    {
-      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-      "summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove.",
-      "source": "The Decoder",
-      "published": "2026-09-19T13:28:55+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
-    },
-    {
-      "title": "The AI regulation smackdown isn’t over",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
-      "source": "The Verge",
-      "published": "2026-09-19T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over"
-    },
-    {
-      "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
-      "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43.",
-      "source": "The Decoder",
-      "published": "2026-09-19T11:08:06+00:00",
-      "link": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/"
-    },
-    {
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "source": "Wired",
-      "published": "2026-09-19T11:00:00+00:00",
-      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
-    },
-    {
-      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
-      "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers.",
-      "source": "The Decoder",
-      "published": "2026-09-19T10:37:04+00:00",
-      "link": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/"
-    },
-    {
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "source": "Wired",
-      "published": "2026-09-19T10:00:00+00:00",
-      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/"
-    },
-    {
-      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
-      "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources.",
-      "source": "The Decoder",
-      "published": "2026-09-19T09:31:03+00:00",
-      "link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/"
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1851 # Comments: 941",
-      "source": "Hacker News",
-      "published": "2026-09-19T09:20:58+00:00",
-      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
-    },
-    {
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "source": "Wired",
-      "published": "2026-09-19T09:00:00+00:00",
-      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/"
-    },
-    {
-      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
-      "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components.",
-      "source": "The Decoder",
-      "published": "2026-09-19T08:10:55+00:00",
-      "link": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/"
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 395 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-09-19T06:41:44+00:00",
-      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
-    },
-    {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 53 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-09-19T04:44:35+00:00",
-      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 76 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-09-19T01:40:35+00:00",
-      "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T00:12:07+00:00",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
-    },
-    {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 151 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-09-18T23:54:42+00:00",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
-    },
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T23:25:01+00:00",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
     }
   ]
 };
