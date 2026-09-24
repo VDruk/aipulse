@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-24T05:51:28.206424+00:00",
+  "lastUpdated": "2026-09-24T09:44:50.982377+00:00",
   "items": [
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases.",
+      "source": "The Verge",
+      "published": "2026-09-24T09:04:18+00:00",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+    },
     {
       "title": "Everything new coming to Meta’s AI agent Muse",
       "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
@@ -205,18 +212,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
-    },
-    {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
       "source": "TechCrunch",
       "published": "2026-09-23T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
     },
     {
       "title": "YouTube is building AI creator tools that do almost everything for them",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-18T18:29:17+00:00",
       "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
-    },
-    {
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T17:59:53+00:00",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
     }
   ]
 };
