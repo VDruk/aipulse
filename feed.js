@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-24T09:44:50.982377+00:00",
+  "lastUpdated": "2026-09-24T13:50:57.226467+00:00",
   "items": [
+    {
+      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
+      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity.",
+      "source": "The Decoder",
+      "published": "2026-09-24T13:35:44+00:00",
+      "link": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/"
+    },
+    {
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year.",
+      "source": "The Verge",
+      "published": "2026-09-24T13:31:43+00:00",
+      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem"
+    },
+    {
+      "title": "Meta gives its Muse AI agent video avatars, email addresses, and Mac control",
+      "summary": "At Meta Connect 2026, Meta expanded its AI agent, Muse, and unveiled several new devices. The article Meta gives its Muse AI agent video avatars, email addresses, and Mac control appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-24T13:10:54+00:00",
+      "link": "https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/"
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T12:54:19+00:00",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
+    },
+    {
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-24T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"
+    },
+    {
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites.",
+      "source": "The Verge",
+      "published": "2026-09-24T11:52:32+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+    },
+    {
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "source": "Wired",
+      "published": "2026-09-24T10:46:56+00:00",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+    },
+    {
+      "title": "AI is dominating the conversation at Climate Week",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-24T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
+    },
     {
       "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
       "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases.",
@@ -212,18 +268,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
-    },
-    {
       "title": "YouTube releases new AI features for creators within its Studio app",
       "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
       "source": "TechCrunch",
       "published": "2026-09-23T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
+      "source": "TechCrunch",
+      "published": "2026-09-23T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
     },
     {
       "title": "YouTube is building AI creator tools that do almost everything for them",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-18T23:25:01+00:00",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T23:13:31+00:00",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T23:12:32+00:00",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T21:44:33+00:00",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
-    },
-    {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
-      "source": "The Verge",
-      "published": "2026-09-18T21:07:24+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
-    },
-    {
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "source": "Wired",
-      "published": "2026-09-18T19:21:09+00:00",
-      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/"
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 78 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-09-18T19:00:06+00:00",
-      "link": "https://arxiv.org/abs/2609.02852"
-    },
-    {
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "source": "TechCrunch",
-      "published": "2026-09-18T18:49:30+00:00",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
-    },
-    {
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.",
-      "source": "The Verge",
-      "published": "2026-09-18T18:29:17+00:00",
-      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
     }
   ]
 };
