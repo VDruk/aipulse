@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-24T20:13:48.727344+00:00",
+  "lastUpdated": "2026-09-24T23:41:48.034821+00:00",
   "items": [
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
+      "source": "The Verge",
+      "published": "2026-09-24T19:59:26+00:00",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+    },
     {
       "title": "I Think I Found an AI Agent Worth the Risk",
       "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
@@ -28,6 +35,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-24T18:06:13+00:00",
       "link": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/"
+    },
+    {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show.",
+      "source": "The Verge",
+      "published": "2026-09-24T18:04:44+00:00",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform.",
+      "source": "The Verge",
+      "published": "2026-09-24T17:52:29+00:00",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
     },
     {
       "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
       "source": "TechCrunch",
       "published": "2026-09-24T14:31:00+00:00",
       "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-20T04:39:12+00:00",
       "link": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2"
-    },
-    {
-      "title": "Can you tell which images are AI-generated?",
-      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 109 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-09-19T23:02:34+00:00",
-      "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
-      "source": "The Verge",
-      "published": "2026-09-19T20:44:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T20:39:13+00:00",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
     }
   ]
 };
