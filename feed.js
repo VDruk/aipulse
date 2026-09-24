@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-24T17:46:47.113302+00:00",
+  "lastUpdated": "2026-09-24T20:13:48.727344+00:00",
   "items": [
+    {
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "source": "Wired",
+      "published": "2026-09-24T19:36:35+00:00",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/"
+    },
+    {
+      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
+      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute.",
+      "source": "The Decoder",
+      "published": "2026-09-24T19:18:33+00:00",
+      "link": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T19:00:42+00:00",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+    },
+    {
+      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
+      "summary": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself.",
+      "source": "The Decoder",
+      "published": "2026-09-24T18:06:13+00:00",
+      "link": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/"
+    },
+    {
+      "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
+      "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1.",
+      "source": "The Decoder",
+      "published": "2026-09-24T17:45:44+00:00",
+      "link": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/"
+    },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
@@ -49,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-24T16:46:47+00:00",
       "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+    },
+    {
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:35:13+00:00",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
     },
     {
       "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
@@ -212,7 +254,7 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"
     },
     {
-      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "title": "OpenAI agents hacked an Australian government website in search of data",
       "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites.",
       "source": "The Verge",
       "published": "2026-09-24T11:52:32+00:00",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-19T20:39:13+00:00",
       "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T19:57:47+00:00",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
-    },
-    {
-      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 55 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-09-19T18:36:44+00:00",
-      "link": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"
-    },
-    {
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL:...",
-      "source": "Hacker News",
-      "published": "2026-09-19T18:21:30+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "source": "TechCrunch",
-      "published": "2026-09-19T17:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
-    },
-    {
-      "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 360 # Comments: 170",
-      "source": "Hacker News",
-      "published": "2026-09-19T16:35:24+00:00",
-      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
-    },
-    {
-      "title": "Almost Never Use AI to Write Anything Substantive",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 70 # Comments: 44",
-      "source": "Hacker News",
-      "published": "2026-09-19T16:35:24+00:00",
-      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
     }
   ]
 };
