@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-25T10:02:54.144204+00:00",
+  "lastUpdated": "2026-09-25T14:13:45.340191+00:00",
   "items": [
+    {
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it.",
+      "source": "The Verge",
+      "published": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
+    },
+    {
+      "title": "Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux",
+      "summary": "Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A \"Sentinel\" process monitors sensitive actions outside the user's workspace, while users can inspect every file in the system.",
+      "source": "The Decoder",
+      "published": "2026-09-25T12:22:27+00:00",
+      "link": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/"
+    },
+    {
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-25T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
+    },
+    {
+      "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
+      "summary": "The NSA is already spending billions of dollars to test advanced AI models, mostly on computing power, according to The Washington Sun.",
+      "source": "The Decoder",
+      "published": "2026-09-25T12:03:24+00:00",
+      "link": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/"
+    },
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents.",
+      "source": "The Verge",
+      "published": "2026-09-25T12:00:00+00:00",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+    },
+    {
+      "title": "Google's \"Call for Me\" lets Gemini phone businesses for you",
+      "summary": "Google is testing \"Call for Me,\" a feature that lets Gemini call businesses on a user's behalf. The article Google's \"Call for Me\" lets Gemini phone businesses for you appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-25T11:49:52+00:00",
+      "link": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/"
+    },
+    {
+      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
+      "summary": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute deals have reportedly totaled $517 billion in 11 months.",
+      "source": "The Decoder",
+      "published": "2026-09-25T10:43:15+00:00",
+      "link": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/"
+    },
     {
       "title": "Ruby on Rails creator DHH says he's done writing code by hand",
       "summary": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-20T21:17:26+00:00",
       "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/"
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-      "source": "TechCrunch",
-      "published": "2026-09-20T18:56:04+00:00",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
-    },
-    {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.",
-      "source": "The Verge",
-      "published": "2026-09-20T18:50:18+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
-    },
-    {
-      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
-      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license.",
-      "source": "The Decoder",
-      "published": "2026-09-20T16:10:52+00:00",
-      "link": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
-    },
-    {
-      "title": "Tencent's Gander aims to keep talking while it works in the background",
-      "summary": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files, writes code, or tackles other complex work.",
-      "source": "The Decoder",
-      "published": "2026-09-20T15:41:30+00:00",
-      "link": "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/"
-    },
-    {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development.",
-      "source": "The Verge",
-      "published": "2026-09-20T15:39:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
-    },
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 548 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-09-20T15:16:07+00:00",
-      "link": "https://pirateface.co/"
-    },
-    {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey.",
-      "source": "The Verge",
-      "published": "2026-09-20T12:00:00+00:00",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
     }
   ]
 };
