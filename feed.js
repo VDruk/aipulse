@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-25T17:48:34.782694+00:00",
+  "lastUpdated": "2026-09-25T20:11:54.974422+00:00",
   "items": [
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T19:13:38+00:00",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+    },
+    {
+      "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
+      "summary": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations.",
+      "source": "The Decoder",
+      "published": "2026-09-25T18:40:22+00:00",
+      "link": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T18:33:59+00:00",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+    },
+    {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?",
+      "source": "TechCrunch",
+      "published": "2026-09-25T18:22:47+00:00",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+    },
+    {
+      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+      "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify.",
+      "source": "The Decoder",
+      "published": "2026-09-25T17:55:51+00:00",
+      "link": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/"
+    },
     {
       "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
       "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
@@ -35,6 +70,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-25T16:16:52+00:00",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?",
+      "source": "TechCrunch",
+      "published": "2026-09-25T16:00:00+00:00",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
     },
     {
       "title": "Sony and UMG are suing Suno again",
@@ -310,18 +352,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/"
     },
     {
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-    },
-    {
       "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
       "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
       "source": "Wired",
       "published": "2026-09-24T16:00:00+00:00",
       "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/"
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
     },
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-21T13:43:33+00:00",
       "link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/"
-    },
-    {
-      "title": "Amazon blocks Meta's AI agent Muse from online shopping",
-      "summary": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com. The article Amazon blocks Meta's AI agent Muse from online shopping appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-21T13:37:51+00:00",
-      "link": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/"
-    },
-    {
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout.",
-      "source": "The Verge",
-      "published": "2026-09-21T13:36:52+00:00",
-      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
-    },
-    {
-      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 66 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-09-21T12:28:17+00:00",
-      "link": "https://github.com/aru-labs/lossless-memory"
-    },
-    {
-      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:20:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
-    },
-    {
-      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
-      "summary": "Article URL: https://www.noemamag.com/the-end-of-upward-mobility/ Comments URL: https://news.ycombinator.com/item?id=49786210 Points: 63 # Comments: 43",
-      "source": "Hacker News",
-      "published": "2026-09-21T12:07:16+00:00",
-      "link": "https://www.noemamag.com/the-end-of-upward-mobility/"
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
     }
   ]
 };
