@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-25T20:11:54.974422+00:00",
+  "lastUpdated": "2026-09-25T23:43:47.600558+00:00",
   "items": [
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T23:11:10+00:00",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T22:20:47+00:00",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+    },
+    {
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "summary": "They wanted the silicon. They got the sand.",
+      "source": "Wired",
+      "published": "2026-09-25T20:30:40+00:00",
+      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/"
+    },
     {
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-21T14:35:11+00:00",
       "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 236 # Comments: 121",
-      "source": "Hacker News",
-      "published": "2026-09-21T14:10:49+00:00",
-      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
-    },
-    {
-      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
-      "summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit.",
-      "source": "The Decoder",
-      "published": "2026-09-21T14:06:28+00:00",
-      "link": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/"
-    },
-    {
-      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
-      "summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level.",
-      "source": "The Decoder",
-      "published": "2026-09-21T13:43:33+00:00",
-      "link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/"
     }
   ]
 };
