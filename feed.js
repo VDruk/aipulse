@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-25T14:13:45.340191+00:00",
+  "lastUpdated": "2026-09-25T17:48:34.782694+00:00",
   "items": [
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T17:29:46+00:00",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T17:24:36+00:00",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
+    },
+    {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "source": "Wired",
+      "published": "2026-09-25T16:58:20+00:00",
+      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
+    },
+    {
+      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
+      "summary": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft.",
+      "source": "The Decoder",
+      "published": "2026-09-25T16:30:57+00:00",
+      "link": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/"
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T16:16:52+00:00",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+    },
+    {
+      "title": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
+      "source": "The Verge",
+      "published": "2026-09-25T15:51:56+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
+    },
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:48:14+00:00",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+    },
+    {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:40:03+00:00",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+    },
+    {
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety.",
+      "source": "The Verge",
+      "published": "2026-09-25T15:39:48+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+    },
     {
       "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
       "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it.",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-09-21T12:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
-    },
-    {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "source": "Wired",
-      "published": "2026-09-21T10:34:43+00:00",
-      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/"
-    },
-    {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year.",
-      "source": "The Verge",
-      "published": "2026-09-21T10:18:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
-    },
-    {
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
-      "source": "The Verge",
-      "published": "2026-09-21T09:21:47+00:00",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
-    },
-    {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
-      "source": "The Verge",
-      "published": "2026-09-21T09:21:47+00:00",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
-    },
-    {
-      "title": "Don't Use AI to Write",
-      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 143 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-09-21T08:54:44+00:00",
-      "link": "https://paulbakker.io/writing/no-ai-for-writing/"
-    },
-    {
-      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
-      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls.",
-      "source": "AI News",
-      "published": "2026-09-21T07:50:48+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/"
-    },
-    {
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 152 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-09-21T04:28:44+00:00",
-      "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
-    },
-    {
-      "title": "I stopped drinking the AI Kool-Aid",
-      "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 64 # Comments: 45",
-      "source": "Hacker News",
-      "published": "2026-09-20T21:17:26+00:00",
-      "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/"
     }
   ]
 };
