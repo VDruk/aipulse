@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-24T23:41:48.034821+00:00",
+  "lastUpdated": "2026-09-25T05:49:18.669348+00:00",
   "items": [
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T05:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+    },
     {
       "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
       "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-20T08:35:25+00:00",
       "link": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/"
-    },
-    {
-      "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
-      "summary": "Article URL: https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2 Comments URL: https://news.ycombinator.com/item?id=49772544 Points: 56 # Comments: 39",
-      "source": "Hacker News",
-      "published": "2026-09-20T04:39:12+00:00",
-      "link": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2"
     }
   ]
 };
