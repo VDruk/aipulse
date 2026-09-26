@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-26T19:31:03.212236+00:00",
+  "lastUpdated": "2026-09-26T23:16:43.146882+00:00",
   "items": [
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source": "TechCrunch",
+      "published": "2026-09-26T21:02:06+00:00",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+    },
     {
       "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
       "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-22T01:24:49+00:00",
       "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
-    },
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "source": "TechCrunch",
-      "published": "2026-09-21T23:44:28+00:00",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
     }
   ]
 };
