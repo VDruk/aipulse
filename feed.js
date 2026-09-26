@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-26T09:44:28.418226+00:00",
+  "lastUpdated": "2026-09-26T13:25:33.880333+00:00",
   "items": [
+    {
+      "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+      "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment.",
+      "source": "The Decoder",
+      "published": "2026-09-26T10:30:32+00:00",
+      "link": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/"
+    },
+    {
+      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+      "source": "Wired",
+      "published": "2026-09-26T10:30:00+00:00",
+      "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/"
+    },
+    {
+      "title": "One Month Without AI",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 92 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-09-26T10:08:21+00:00",
+      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+      "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent.",
+      "source": "The Decoder",
+      "published": "2026-09-26T09:44:54+00:00",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/"
+    },
     {
       "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
       "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions.",
@@ -16,6 +44,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
     },
     {
+      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 55 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-09-25T22:49:41+00:00",
+      "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/"
+    },
+    {
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "source": "TechCrunch",
@@ -24,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Too AI; Didn't Read",
-      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 108 # Comments: 107",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 109 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-09-25T20:37:56+00:00",
       "link": "https://www.tai-dr.com/"
@@ -164,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 123 # Comments: 117",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 126 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-09-25T14:07:08+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
@@ -255,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 78 # Comments: 58",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 87 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-24T20:51:50+00:00",
       "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 136 # Comments: 222",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 137 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-09-24T15:09:38+00:00",
       "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
@@ -507,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Best LLM for every budget, updated daily",
-      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 180 # Comments: 111",
+      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 181 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-09-24T14:09:57+00:00",
       "link": "https://bestmodelforyourbudget.terrydjony.com/"
@@ -549,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 202 # Comments: 306",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 205 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-09-24T12:23:41+00:00",
       "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
@@ -591,14 +626,14 @@ const FEED_DATA = {
     },
     {
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 626 # Comments: 382",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 626 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-09-24T08:23:03+00:00",
       "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
     },
     {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 264 # Comments: 304",
+      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 264 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-09-24T05:21:10+00:00",
       "link": "https://transluce.org/agent-activity"
@@ -619,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 387 # Comments: 449",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 387 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-09-24T00:41:31+00:00",
       "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
@@ -710,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloud Agents Are Inevitable AI Prisons",
-      "summary": "Article URL: https://normanponte.io/19df691f Comments URL: https://news.ycombinator.com/item?id=49820267 Points: 72 # Comments: 156",
+      "summary": "Article URL: https://normanponte.io/19df691f Comments URL: https://news.ycombinator.com/item?id=49820267 Points: 73 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-09-23T18:16:41+00:00",
       "link": "https://normanponte.io/19df691f"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-21T18:33:02+00:00",
       "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "source": "TechCrunch",
-      "published": "2026-09-21T17:55:18+00:00",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
-    },
-    {
-      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
-      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it.",
-      "source": "The Decoder",
-      "published": "2026-09-21T17:44:10+00:00",
-      "link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/"
-    },
-    {
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 346 # Comments: 223",
-      "source": "Hacker News",
-      "published": "2026-09-21T17:30:21+00:00",
-      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 77 # Comments: 67",
-      "source": "Hacker News",
-      "published": "2026-09-21T17:27:49+00:00",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
-    },
-    {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 151 # Comments: 158",
-      "source": "Hacker News",
-      "published": "2026-09-21T17:00:23+00:00",
-      "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
     }
   ]
 };
