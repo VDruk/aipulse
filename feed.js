@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-26T13:25:33.880333+00:00",
+  "lastUpdated": "2026-09-26T16:55:28.741809+00:00",
   "items": [
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.",
+      "source": "The Verge",
+      "published": "2026-09-26T16:34:59+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": "TechCrunch",
+      "published": "2026-09-26T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.",
+      "source": "The Verge",
+      "published": "2026-09-26T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+    },
     {
       "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
       "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-21T19:19:21+00:00",
       "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 160 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-09-21T19:17:42+00:00",
-      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 183 # Comments: 102",
-      "source": "Hacker News",
-      "published": "2026-09-21T18:53:01+00:00",
-      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
-    },
-    {
-      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
-      "source": "Wired",
-      "published": "2026-09-21T18:33:02+00:00",
-      "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/"
     }
   ]
 };
