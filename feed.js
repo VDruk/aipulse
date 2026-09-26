@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-26T05:51:20.261421+00:00",
+  "lastUpdated": "2026-09-26T09:44:28.418226+00:00",
   "items": [
+    {
+      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions.",
+      "source": "The Decoder",
+      "published": "2026-09-26T09:06:36+00:00",
+      "link": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/"
+    },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Too AI; Didn't Read",
-      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 107 # Comments: 103",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 108 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-09-25T20:37:56+00:00",
       "link": "https://www.tai-dr.com/"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 105 # Comments: 96",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 123 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-09-25T14:07:08+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
@@ -245,6 +252,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-25T05:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 78 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-09-24T20:51:50+00:00",
+      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
     },
     {
       "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 135 # Comments: 222",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 136 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-09-24T15:09:38+00:00",
       "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
@@ -535,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 201 # Comments: 303",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 202 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-09-24T12:23:41+00:00",
       "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
@@ -577,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 624 # Comments: 379",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 626 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-09-24T08:23:03+00:00",
       "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
@@ -605,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 387 # Comments: 447",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 387 # Comments: 449",
       "source": "Hacker News",
       "published": "2026-09-24T00:41:31+00:00",
       "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-21T17:00:23+00:00",
       "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
-    },
-    {
-      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
-      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each.",
-      "source": "The Decoder",
-      "published": "2026-09-21T16:56:36+00:00",
-      "link": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "source": "TechCrunch",
-      "published": "2026-09-21T16:38:51+00:00",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
     }
   ]
 };
