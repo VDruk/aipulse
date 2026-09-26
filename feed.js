@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-25T23:43:47.600558+00:00",
+  "lastUpdated": "2026-09-26T05:51:20.261421+00:00",
   "items": [
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "source": "TechCrunch",
       "published": "2026-09-25T23:11:10+00:00",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
@@ -14,6 +14,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-25T22:20:47+00:00",
       "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+    },
+    {
+      "title": "Too AI; Didn't Read",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 107 # Comments: 103",
+      "source": "Hacker News",
+      "published": "2026-09-25T20:37:56+00:00",
+      "link": "https://www.tai-dr.com/"
     },
     {
       "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
@@ -79,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
     },
     {
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "summary": "Map your AI worldview by answering a few questions, and see how you compare with others.only takes a few minutes && free & open source && private by default && powered by JevI think this is a really important question for everyone to be asking themselves, and my hope is that...",
+      "source": "Hacker News",
+      "published": "2026-09-25T16:51:28+00:00",
+      "link": "https://www.doom-or-bloom.com"
+    },
+    {
       "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
       "summary": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft.",
       "source": "The Decoder",
@@ -128,11 +142,25 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
     },
     {
+      "title": "Classified estimates show the NSA is paying billions to test AI models",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 171 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-09-25T15:27:35+00:00",
+      "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+    },
+    {
       "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
       "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
       "source": "TechCrunch",
       "published": "2026-09-25T15:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+    },
+    {
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 105 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-09-25T14:07:08+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
     },
     {
       "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 115 # Comments: 178",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 135 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-09-24T15:09:38+00:00",
       "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
@@ -416,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult in Berkeley",
-      "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 116 # Comments: 29",
+      "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 119 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-09-24T14:38:31+00:00",
       "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
@@ -465,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Best LLM for every budget, updated daily",
-      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 173 # Comments: 108",
+      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 180 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-09-24T14:09:57+00:00",
       "link": "https://bestmodelforyourbudget.terrydjony.com/"
@@ -507,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 161 # Comments: 222",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 201 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-09-24T12:23:41+00:00",
       "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
@@ -549,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 611 # Comments: 367",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 624 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-09-24T08:23:03+00:00",
       "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
     },
     {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 257 # Comments: 264",
+      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 264 # Comments: 304",
       "source": "Hacker News",
       "published": "2026-09-24T05:21:10+00:00",
       "link": "https://transluce.org/agent-activity"
@@ -577,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 380 # Comments: 424",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 387 # Comments: 447",
       "source": "Hacker News",
       "published": "2026-09-24T00:41:31+00:00",
       "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
@@ -633,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 148 # Comments: 90",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 149 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-09-23T22:16:19+00:00",
       "link": "https://artificialanalysis.ai/models/mercury-2-5"
@@ -668,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloud Agents Are Inevitable AI Prisons",
-      "summary": "Article URL: https://normanponte.io/19df691f Comments URL: https://news.ycombinator.com/item?id=49820267 Points: 71 # Comments: 153",
+      "summary": "Article URL: https://normanponte.io/19df691f Comments URL: https://news.ycombinator.com/item?id=49820267 Points: 72 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-09-23T18:16:41+00:00",
       "link": "https://normanponte.io/19df691f"
@@ -738,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra has gained the ability to drive a car",
-      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 308 # Comments: 246",
+      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 312 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-09-23T15:14:22+00:00",
       "link": "https://drivingbench.com/"
@@ -794,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stripe's Knowledge AI Platform",
-      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 184 # Comments: 117",
+      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 187 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-09-23T13:38:00+00:00",
       "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
@@ -905,6 +933,13 @@ const FEED_DATA = {
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
     },
     {
+      "title": "The ruble markup on AI tokens",
+      "summary": "Article URL: https://infertrail.com/blog/ruble-markup-ai-tokens/ Comments URL: https://news.ycombinator.com/item?id=49809698 Points: 53 # Comments: 9",
+      "source": "Hacker News",
+      "published": "2026-09-22T23:30:11+00:00",
+      "link": "https://infertrail.com/blog/ruble-markup-ai-tokens/"
+    },
+    {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
       "source": "TechCrunch",
@@ -927,7 +962,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Ass Bench",
-      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 167 # Comments: 45",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 167 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-09-22T20:34:19+00:00",
       "link": "https://www.assbench.com/"
@@ -962,7 +997,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 951 # Comments: 539",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 960 # Comments: 546",
       "source": "Hacker News",
       "published": "2026-09-22T19:03:38+00:00",
       "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-21T16:38:51+00:00",
       "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
-    },
-    {
-      "title": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
-      "summary": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-generated.",
-      "source": "The Decoder",
-      "published": "2026-09-21T16:01:31+00:00",
-      "link": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/"
-    },
-    {
-      "title": "Multi-agent AI systems are taking over supply chain execution",
-      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution.",
-      "source": "AI News",
-      "published": "2026-09-21T15:32:54+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/"
-    },
-    {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "published": "2026-09-21T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "source": "TechCrunch",
-      "published": "2026-09-21T14:39:22+00:00",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
-    },
-    {
-      "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
-      "summary": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-21T14:35:11+00:00",
-      "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/"
     }
   ]
 };
