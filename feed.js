@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-27T10:24:00.728442+00:00",
+  "lastUpdated": "2026-09-27T14:21:10.588112+00:00",
   "items": [
+    {
+      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+      "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry.",
+      "source": "The Decoder",
+      "published": "2026-09-27T13:03:05+00:00",
+      "link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/"
+    },
+    {
+      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+      "summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-27T11:01:13+00:00",
+      "link": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/"
+    },
+    {
+      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+      "summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating.",
+      "source": "The Decoder",
+      "published": "2026-09-27T10:59:11+00:00",
+      "link": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
+    },
+    {
+      "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
+      "summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets.",
+      "source": "The Decoder",
+      "published": "2026-09-27T10:36:29+00:00",
+      "link": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/"
+    },
     {
       "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
       "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-22T10:00:00+00:00",
       "link": "https://www.wired.com/story/big-interview-patti-harrison/"
-    },
-    {
-      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
-      "source": "Wired",
-      "published": "2026-09-22T10:00:00+00:00",
-      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
-    },
-    {
-      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
-      "source": "Wired",
-      "published": "2026-09-22T09:30:00+00:00",
-      "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"
-    },
-    {
-      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
-      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-22T09:27:16+00:00",
-      "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/"
-    },
-    {
-      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-      "summary": "Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 66 # Comments: 119",
-      "source": "Hacker News",
-      "published": "2026-09-22T09:18:54+00:00",
-      "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/"
     }
   ]
 };
