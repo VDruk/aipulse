@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-26T23:16:43.146882+00:00",
+  "lastUpdated": "2026-09-27T06:13:25.878211+00:00",
   "items": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "source": "TechCrunch",
+      "published": "2026-09-27T01:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+    },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
       "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
@@ -52,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 56 # Comments: 65",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 56 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-09-26T13:05:36+00:00",
       "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
     },
     {
       "title": "CEO of Mistral: AI is software. It can be controlled",
-      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 83 # Comments: 152",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 89 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-09-26T12:52:04+00:00",
       "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "One Month Without AI",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 165 # Comments: 199",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 171 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-09-26T10:08:21+00:00",
       "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 61 # Comments: 20",
+      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 67 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-09-25T22:49:41+00:00",
       "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/"
@@ -122,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Too AI; Didn't Read",
-      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 110",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-09-25T20:37:56+00:00",
       "link": "https://www.tai-dr.com/"
@@ -248,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Classified estimates show the NSA is paying billions to test AI models",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 173 # Comments: 103",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 176 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-09-25T15:27:35+00:00",
       "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
@@ -262,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 136 # Comments: 130",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 145 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-09-25T14:07:08+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
@@ -352,8 +359,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
     },
     {
+      "title": "Evolving programming languages in the AI era",
+      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 78 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-09-25T02:34:39+00:00",
+      "link": "https://dashbit.co/blog/evolving-ai-era"
+    },
+    {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 92 # Comments: 99",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 173 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-09-24T20:51:50+00:00",
       "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
@@ -528,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 141 # Comments: 226",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 142 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-09-24T15:09:38+00:00",
       "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
@@ -605,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Best LLM for every budget, updated daily",
-      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 182 # Comments: 111",
+      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 182 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-09-24T14:09:57+00:00",
       "link": "https://bestmodelforyourbudget.terrydjony.com/"
@@ -647,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 208 # Comments: 313",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 210 # Comments: 316",
       "source": "Hacker News",
       "published": "2026-09-24T12:23:41+00:00",
       "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
@@ -696,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 265 # Comments: 307",
+      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 265 # Comments: 308",
       "source": "Hacker News",
       "published": "2026-09-24T05:21:10+00:00",
       "link": "https://transluce.org/agent-activity"
@@ -717,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 389 # Comments: 450",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 391 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-09-24T00:41:31+00:00",
       "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-22T04:38:31+00:00",
       "link": "https://simonwillison.net/2026/Sep/21/jev/"
-    },
-    {
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 162 # Comments: 65",
-      "source": "Hacker News",
-      "published": "2026-09-22T04:02:09+00:00",
-      "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
-    },
-    {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 96 # Comments: 63",
-      "source": "Hacker News",
-      "published": "2026-09-22T01:24:49+00:00",
-      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
     }
   ]
 };
