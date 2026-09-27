@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-27T17:34:58.446016+00:00",
+  "lastUpdated": "2026-09-27T19:56:31.361194+00:00",
   "items": [
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -14,6 +14,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-27T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+    },
+    {
+      "title": "There are no \"rogue\" AI agents",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 257 # Comments: 186",
+      "source": "Hacker News",
+      "published": "2026-09-27T16:19:46+00:00",
+      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+    },
+    {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid.",
+      "source": "Hacker News",
+      "published": "2026-09-27T15:51:28+00:00",
+      "link": "https://tinyaiarena.com/"
     },
     {
       "title": "AI agents do more of the work in model development, but humans still make the decisions",
@@ -49,6 +63,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-27T10:36:29+00:00",
       "link": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/"
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 97 # Comments: 100",
+      "source": "Hacker News",
+      "published": "2026-09-27T10:26:25+00:00",
+      "link": "https://arxiv.org/abs/2609.25021"
     },
     {
       "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
@@ -122,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 56 # Comments: 70",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 56 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-26T13:05:36+00:00",
       "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
     },
     {
       "title": "CEO of Mistral: AI is software. It can be controlled",
-      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 89 # Comments: 159",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 96 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-09-26T12:52:04+00:00",
       "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "One Month Without AI",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 171 # Comments: 217",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-09-26T10:08:21+00:00",
       "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
@@ -168,6 +189,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-26T09:06:36+00:00",
       "link": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/"
+    },
+    {
+      "title": "Generate fonts where every LLM token is the same width",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 86 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-09-26T00:30:03+00:00",
+      "link": "https://ampdot.mesh.host/token-space-fonts.html"
     },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Too AI; Didn't Read",
-      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 111",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-09-25T20:37:56+00:00",
       "link": "https://www.tai-dr.com/"
@@ -318,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Classified estimates show the NSA is paying billions to test AI models",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 176 # Comments: 106",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 177 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-09-25T15:27:35+00:00",
       "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 145 # Comments: 141",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 153 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-09-25T14:07:08+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
@@ -423,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "Evolving programming languages in the AI era",
-      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 78 # Comments: 46",
+      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 132 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-09-25T02:34:39+00:00",
       "link": "https://dashbit.co/blog/evolving-ai-era"
     },
     {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 173 # Comments: 158",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 275 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-09-24T20:51:50+00:00",
       "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
@@ -605,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 142 # Comments: 230",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 142 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-09-24T15:09:38+00:00",
       "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
@@ -633,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI safety is mostly a sex cult in Berkeley",
-      "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 120 # Comments: 30",
+      "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 121 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-09-24T14:38:31+00:00",
       "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
@@ -724,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 210 # Comments: 316",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 213 # Comments: 317",
       "source": "Hacker News",
       "published": "2026-09-24T12:23:41+00:00",
       "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
@@ -766,14 +794,14 @@ const FEED_DATA = {
     },
     {
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 628 # Comments: 390",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 630 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-09-24T08:23:03+00:00",
       "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
     },
     {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 265 # Comments: 308",
+      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 265 # Comments: 309",
       "source": "Hacker News",
       "published": "2026-09-24T05:21:10+00:00",
       "link": "https://transluce.org/agent-activity"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-22T11:53:58+00:00",
       "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"
-    },
-    {
-      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million.",
-      "source": "The Decoder",
-      "published": "2026-09-22T11:42:11+00:00",
-      "link": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/"
-    },
-    {
-      "title": "AutoScheduler launches warehouse app builder for logistics teams",
-      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data.",
-      "source": "AI News",
-      "published": "2026-09-22T11:34:39+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/"
-    },
-    {
-      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-      "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study.",
-      "source": "The Decoder",
-      "published": "2026-09-22T11:17:59+00:00",
-      "link": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/"
-    },
-    {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-22T11:04:51+00:00",
-      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
     }
   ]
 };
