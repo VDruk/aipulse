@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-27T19:56:31.361194+00:00",
+  "lastUpdated": "2026-09-27T23:31:08.304694+00:00",
   "items": [
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.",
+      "source": "The Verge",
+      "published": "2026-09-27T20:46:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch",
+      "published": "2026-09-27T20:34:28+00:00",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "published": "2026-09-27T19:57:30+00:00",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
@@ -16,8 +37,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
     },
     {
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 52 # Comments: 103",
+      "source": "Hacker News",
+      "published": "2026-09-27T16:29:38+00:00",
+      "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+    },
+    {
       "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 257 # Comments: 186",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 321 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-09-27T16:19:46+00:00",
       "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 97 # Comments: 100",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 99 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-27T10:26:25+00:00",
       "link": "https://arxiv.org/abs/2609.25021"
@@ -150,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEO of Mistral: AI is software. It can be controlled",
-      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 96 # Comments: 167",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 97 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-09-26T12:52:04+00:00",
       "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "One Month Without AI",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 224",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-09-26T10:08:21+00:00",
       "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generate fonts where every LLM token is the same width",
-      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 86 # Comments: 22",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 87 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-26T00:30:03+00:00",
       "link": "https://ampdot.mesh.host/token-space-fonts.html"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 153 # Comments: 146",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 154 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-09-25T14:07:08+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
@@ -451,14 +479,14 @@ const FEED_DATA = {
     },
     {
       "title": "Evolving programming languages in the AI era",
-      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 132 # Comments: 89",
+      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 135 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-25T02:34:39+00:00",
       "link": "https://dashbit.co/blog/evolving-ai-era"
     },
     {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 275 # Comments: 267",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 280 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-09-24T20:51:50+00:00",
       "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
@@ -710,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Best LLM for every budget, updated daily",
-      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 182 # Comments: 112",
+      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 184 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-09-24T14:09:57+00:00",
       "link": "https://bestmodelforyourbudget.terrydjony.com/"
@@ -794,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 630 # Comments: 393",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 631 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-09-24T08:23:03+00:00",
       "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-22T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
-    },
-    {
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T12:23:05+00:00",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
-    },
-    {
-      "title": "AI Has No Wisdom and Neither Will You",
-      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 542",
-      "source": "Hacker News",
-      "published": "2026-09-22T12:11:09+00:00",
-      "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
-    },
-    {
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-22T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
-    },
-    {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
-      "source": "The Verge",
-      "published": "2026-09-22T11:53:58+00:00",
-      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"
     }
   ]
 };
