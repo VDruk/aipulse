@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-27T06:13:25.878211+00:00",
+  "lastUpdated": "2026-09-27T10:24:00.728442+00:00",
   "items": [
+    {
+      "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+      "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets.",
+      "source": "The Decoder",
+      "published": "2026-09-27T09:23:36+00:00",
+      "link": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/"
+    },
+    {
+      "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+      "summary": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels.",
+      "source": "The Decoder",
+      "published": "2026-09-27T08:17:47+00:00",
+      "link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/"
+    },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-22T09:18:54+00:00",
       "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/"
-    },
-    {
-      "title": "How to Use AI With Your Privacy Intact",
-      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
-      "source": "Wired",
-      "published": "2026-09-22T09:00:00+00:00",
-      "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/"
-    },
-    {
-      "title": "Jev introduces a new shape of LLM",
-      "summary": "Article URL: https://simonwillison.net/2026/Sep/21/jev/ Comments URL: https://news.ycombinator.com/item?id=49796843 Points: 52 # Comments: 18",
-      "source": "Hacker News",
-      "published": "2026-09-22T04:38:31+00:00",
-      "link": "https://simonwillison.net/2026/Sep/21/jev/"
     }
   ]
 };
