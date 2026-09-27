@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-27T14:21:10.588112+00:00",
+  "lastUpdated": "2026-09-27T17:34:58.446016+00:00",
   "items": [
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
+      "source": "The Verge",
+      "published": "2026-09-27T17:21:07+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch",
+      "published": "2026-09-27T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+    },
+    {
+      "title": "AI agents do more of the work in model development, but humans still make the decisions",
+      "summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions.",
+      "source": "The Decoder",
+      "published": "2026-09-27T15:18:39+00:00",
+      "link": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/"
+    },
     {
       "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
       "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-09-22T11:04:51+00:00",
       "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
-    },
-    {
-      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
-      "source": "Wired",
-      "published": "2026-09-22T10:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
-    },
-    {
-      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
-      "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028.",
-      "source": "AI News",
-      "published": "2026-09-22T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/"
-    },
-    {
-      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
-      "source": "Wired",
-      "published": "2026-09-22T10:00:00+00:00",
-      "link": "https://www.wired.com/story/big-interview-patti-harrison/"
     }
   ]
 };
