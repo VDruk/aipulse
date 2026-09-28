@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-28T20:01:53.815905+00:00",
+  "lastUpdated": "2026-09-28T22:22:33.153416+00:00",
   "items": [
+    {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion.",
+      "source": "The Verge",
+      "published": "2026-09-28T21:31:35+00:00",
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T21:29:18+00:00",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 129 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-09-28T19:53:35+00:00",
+      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
+    },
     {
       "title": "Shopify opens checkout to browser-based AI agents",
       "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-28T19:26:21+00:00",
       "link": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 90 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-09-28T18:58:53+00:00",
+      "link": "https://stateofutopia.com/experiments/microllmlab/"
     },
     {
       "title": "OpenAI’s AI agents need to catch up",
@@ -100,11 +128,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
     },
     {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 333 # Comments: 220",
+      "source": "Hacker News",
+      "published": "2026-09-28T16:11:42+00:00",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
+    },
+    {
       "title": "The problem is not the AI code, but nobody knows anything anymore",
       "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 169 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-09-28T16:11:42+00:00",
       "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 67 # Comments: 118",
+      "source": "Hacker News",
+      "published": "2026-09-28T15:46:36+00:00",
+      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
     },
     {
       "title": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
@@ -129,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jensen Huang says AI distillation is 'competition.'",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 66 # Comments: 64",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 72 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-28T14:55:34+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
       "source": "TechCrunch",
       "published": "2026-09-28T13:38:48+00:00",
       "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
@@ -196,6 +238,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-28T11:32:19+00:00",
       "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+    },
+    {
+      "title": "What would a serious AI product look like?",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 119 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-09-28T11:02:12+00:00",
+      "link": "https://blog.glyph.im/2026/09/serious-ai-product.html"
     },
     {
       "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
@@ -234,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 408 # Comments: 367",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 424 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-09-28T08:35:40+00:00",
       "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 160 # Comments: 61",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 169 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-09-28T03:23:53+00:00",
       "link": "https://arxiv.org/abs/2110.01834"
@@ -262,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
       "source": "TechCrunch",
       "published": "2026-09-27T20:34:28+00:00",
       "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
@@ -276,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 73 # Comments: 18",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 83 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-09-27T17:24:17+00:00",
       "link": "https://earnanhonestdollar.com/bench"
@@ -289,8 +338,8 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
     },
     {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "summary": "\"AI is the devil and I its maker.\"",
+      "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
+      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
       "source": "TechCrunch",
       "published": "2026-09-27T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
@@ -304,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 384 # Comments: 265",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 388 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-09-27T16:19:46+00:00",
       "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
@@ -353,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 102 # Comments: 104",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 103 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-27T10:26:25+00:00",
       "link": "https://arxiv.org/abs/2609.25021"
@@ -430,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 58 # Comments: 71",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 58 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-09-26T13:05:36+00:00",
       "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
@@ -458,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "One Month Without AI",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 184 # Comments: 227",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 187 # Comments: 227",
       "source": "Hacker News",
       "published": "2026-09-26T10:08:21+00:00",
       "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
@@ -479,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generate fonts where every LLM token is the same width",
-      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 92 # Comments: 23",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 93 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-09-26T00:30:03+00:00",
       "link": "https://ampdot.mesh.host/token-space-fonts.html"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-23T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
-    },
-    {
-      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations",
-      "source": "TechCrunch",
-      "published": "2026-09-23T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
-    },
-    {
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
-      "source": "Wired",
-      "published": "2026-09-23T12:54:58+00:00",
-      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/"
-    },
-    {
-      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
-      "summary": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions.",
-      "source": "The Decoder",
-      "published": "2026-09-23T12:31:20+00:00",
-      "link": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/"
-    },
-    {
-      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-23T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
-    },
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product.",
-      "source": "The Verge",
-      "published": "2026-09-23T11:02:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"
-    },
-    {
-      "title": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division",
-      "summary": "OpenAI has hired Patreon co-founder Sam Yam to lead a new \"Creator Product\" division. After more than 13 years at the creator platform, he's bringing two Patreon executives with him.",
-      "source": "The Decoder",
-      "published": "2026-09-23T10:04:07+00:00",
-      "link": "https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/"
     }
   ]
 };
