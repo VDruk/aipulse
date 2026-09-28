@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-28T06:19:07.884739+00:00",
+  "lastUpdated": "2026-09-28T11:31:15.857914+00:00",
   "items": [
+    {
+      "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
+      "summary": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works.",
+      "source": "The Decoder",
+      "published": "2026-09-28T10:39:52+00:00",
+      "link": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/"
+    },
+    {
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "source": "Wired",
+      "published": "2026-09-28T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/"
+    },
+    {
+      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+      "source": "Wired",
+      "published": "2026-09-28T09:30:00+00:00",
+      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/"
+    },
+    {
+      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "source": "Wired",
+      "published": "2026-09-28T09:00:00+00:00",
+      "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/"
+    },
+    {
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+      "source": "Wired",
+      "published": "2026-09-28T09:00:00+00:00",
+      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+    },
+    {
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-28T08:06:22+00:00",
+      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+    },
     {
       "title": "Engram is a sampler that turns broken AI hallucinations into music",
       "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-22T13:52:56+00:00",
       "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
-    },
-    {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 733 # Comments: 442",
-      "source": "Hacker News",
-      "published": "2026-09-22T13:52:15+00:00",
-      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-22T13:42:05+00:00",
-      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
-    },
-    {
-      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/ Comments URL: https://news.ycombinator.com/item?id=49800953 Points: 78 # Comments: 57",
-      "source": "Hacker News",
-      "published": "2026-09-22T13:27:29+00:00",
-      "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (https://sitefire.ai).",
-      "source": "Hacker News",
-      "published": "2026-09-22T13:00:49+00:00",
-      "link": "https://arxiv.org/abs/2609.15369"
-    },
-    {
-      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
-      "source": "Wired",
-      "published": "2026-09-22T13:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/"
-    },
-    {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
     }
   ]
 };
