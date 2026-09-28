@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-28T11:31:15.857914+00:00",
+  "lastUpdated": "2026-09-28T17:05:16.948381+00:00",
   "items": [
+    {
+      "title": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
+      "summary": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints.",
+      "source": "The Decoder",
+      "published": "2026-09-28T16:56:06+00:00",
+      "link": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/"
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T16:52:38+00:00",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+    },
+    {
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 169 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-09-28T16:11:42+00:00",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
+    },
+    {
+      "title": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
+      "summary": "Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a \"spectator sport.\" Alexander puts the odds that AI wipes out humanity at 20 percent.",
+      "source": "The Decoder",
+      "published": "2026-09-28T15:32:57+00:00",
+      "link": "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T15:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing...",
+      "source": "TechCrunch",
+      "published": "2026-09-28T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
+    },
+    {
+      "title": "Jensen Huang says AI distillation is 'competition.'",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 66 # Comments: 64",
+      "source": "Hacker News",
+      "published": "2026-09-28T14:55:34+00:00",
+      "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
+    },
+    {
+      "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses",
+      "summary": "Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies. The article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-28T14:48:26+00:00",
+      "link": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/"
+    },
+    {
+      "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
+      "summary": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds.",
+      "source": "The Decoder",
+      "published": "2026-09-28T14:32:00+00:00",
+      "link": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/"
+    },
+    {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "source": "TechCrunch",
+      "published": "2026-09-28T14:05:00+00:00",
+      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
+    },
+    {
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T13:38:48+00:00",
+      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+    },
+    {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters.",
+      "source": "The Verge",
+      "published": "2026-09-28T13:36:06+00:00",
+      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+    },
+    {
+      "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
+      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path.",
+      "source": "The Decoder",
+      "published": "2026-09-28T12:11:27+00:00",
+      "link": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/"
+    },
+    {
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-28T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
+    },
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "source": "Wired",
+      "published": "2026-09-28T11:32:19+00:00",
+      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+    },
     {
       "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
       "summary": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works.",
@@ -37,11 +149,25 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
     },
     {
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 408 # Comments: 367",
+      "source": "Hacker News",
+      "published": "2026-09-28T08:35:40+00:00",
+      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
+    },
+    {
       "title": "Who’s liable when AI agents go rogue?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
       "source": "MIT Tech Review",
       "published": "2026-09-28T08:06:22+00:00",
       "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 160 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-09-28T03:23:53+00:00",
+      "link": "https://arxiv.org/abs/2110.01834"
     },
     {
       "title": "Engram is a sampler that turns broken AI hallucinations into music",
@@ -65,6 +191,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
     },
     {
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 73 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-09-27T17:24:17+00:00",
+      "link": "https://earnanhonestdollar.com/bench"
+    },
+    {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
       "source": "The Verge",
@@ -80,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 52 # Comments: 103",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 58 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-09-27T16:29:38+00:00",
       "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
     },
     {
       "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 321 # Comments: 236",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 384 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-09-27T16:19:46+00:00",
       "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
@@ -136,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 99 # Comments: 100",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 102 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-27T10:26:25+00:00",
       "link": "https://arxiv.org/abs/2609.25021"
@@ -213,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 56 # Comments: 71",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 58 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-26T13:05:36+00:00",
       "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
     },
     {
       "title": "CEO of Mistral: AI is software. It can be controlled",
-      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 97 # Comments: 168",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 98 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-09-26T12:52:04+00:00",
       "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
@@ -241,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "One Month Without AI",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 225",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 184 # Comments: 227",
       "source": "Hacker News",
       "published": "2026-09-26T10:08:21+00:00",
       "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
@@ -262,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generate fonts where every LLM token is the same width",
-      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 87 # Comments: 22",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 92 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-09-26T00:30:03+00:00",
       "link": "https://ampdot.mesh.host/token-space-fonts.html"
@@ -276,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 67 # Comments: 21",
+      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 71 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-09-25T22:49:41+00:00",
       "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/"
@@ -290,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Too AI; Didn't Read",
-      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 112",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-25T20:37:56+00:00",
       "link": "https://www.tai-dr.com/"
@@ -430,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 154 # Comments: 147",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 156 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-09-25T14:07:08+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
@@ -521,14 +654,14 @@ const FEED_DATA = {
     },
     {
       "title": "Evolving programming languages in the AI era",
-      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 135 # Comments: 93",
+      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 136 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-09-25T02:34:39+00:00",
       "link": "https://dashbit.co/blog/evolving-ai-era"
     },
     {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 280 # Comments: 269",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 297 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-09-24T20:51:50+00:00",
       "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
@@ -1267,139 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-22T20:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
-    },
-    {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "source": "Ars Technica",
-      "published": "2026-09-22T19:45:47+00:00",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T19:09:11+00:00",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 960 # Comments: 546",
-      "source": "Hacker News",
-      "published": "2026-09-22T19:03:38+00:00",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
-    },
-    {
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/ Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 152 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-09-22T19:03:38+00:00",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
-    },
-    {
-      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
-      "source": "Wired",
-      "published": "2026-09-22T18:19:13+00:00",
-      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/"
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1766 # Comments: 843",
-      "source": "Hacker News",
-      "published": "2026-09-22T18:00:34+00:00",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
-    },
-    {
-      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
-      "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5.",
-      "source": "The Decoder",
-      "published": "2026-09-22T17:11:07+00:00",
-      "link": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
-    },
-    {
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 331 # Comments: 105",
-      "source": "Hacker News",
-      "published": "2026-09-22T16:51:31+00:00",
-      "link": "https://artificialanalysis.ai/models/claude-opus-5-5"
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "source": "TechCrunch",
-      "published": "2026-09-22T16:30:07+00:00",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.",
-      "source": "The Verge",
-      "published": "2026-09-22T16:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
-    },
-    {
-      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of...",
-      "source": "The Verge",
-      "published": "2026-09-22T16:01:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence"
-    },
-    {
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
-      "source": "Wired",
-      "published": "2026-09-22T16:00:00+00:00",
-      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/"
-    },
-    {
-      "title": "OpenAI calls for international standards on AI that could improve itself",
-      "summary": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process.",
-      "source": "The Decoder",
-      "published": "2026-09-22T15:29:51+00:00",
-      "link": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/"
-    },
-    {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "published": "2026-09-22T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
-    },
-    {
-      "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
-      "summary": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells.",
-      "source": "The Decoder",
-      "published": "2026-09-22T13:58:20+00:00",
-      "link": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/"
-    },
-    {
-      "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 88 # Comments: 64",
-      "source": "Hacker News",
-      "published": "2026-09-22T13:52:56+00:00",
-      "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
     }
   ]
 };
