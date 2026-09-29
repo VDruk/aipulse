@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-28T22:22:33.153416+00:00",
+  "lastUpdated": "2026-09-29T00:45:24.278199+00:00",
   "items": [
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T23:39:20+00:00",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-28T22:17:07+00:00",
+      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    },
     {
       "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
       "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion.",
@@ -16,8 +30,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
     },
     {
+      "title": "Pacing the Frontier is not the actual goal for AI labs",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 71 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-09-28T20:47:26+00:00",
+      "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs"
+    },
+    {
       "title": "It's Time to Investigate the AI Labs",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 129 # Comments: 29",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 254 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-28T19:53:35+00:00",
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
@@ -37,8 +58,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
     },
     {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T19:21:59+00:00",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
+    },
+    {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 90 # Comments: 36",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 114 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-09-28T18:58:53+00:00",
       "link": "https://stateofutopia.com/experiments/microllmlab/"
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem.",
+      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
       "source": "TechCrunch",
       "published": "2026-09-28T18:31:23+00:00",
       "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
       "source": "TechCrunch",
       "published": "2026-09-28T17:29:50+00:00",
       "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
@@ -129,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 333 # Comments: 220",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 342 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-09-28T16:11:42+00:00",
       "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 67 # Comments: 118",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 94 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-09-28T15:46:36+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "What would a serious AI product look like?",
-      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 119 # Comments: 46",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 129 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-09-28T11:02:12+00:00",
       "link": "https://blog.glyph.im/2026/09/serious-ai-product.html"
@@ -283,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 424 # Comments: 382",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 426 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-09-28T08:35:40+00:00",
       "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
@@ -297,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 169 # Comments: 73",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 169 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-09-28T03:23:53+00:00",
       "link": "https://arxiv.org/abs/2110.01834"
@@ -325,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 83 # Comments: 33",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 84 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-09-27T17:24:17+00:00",
       "link": "https://earnanhonestdollar.com/bench"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 388 # Comments: 267",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 389 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-09-27T16:19:46+00:00",
       "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
@@ -427,6 +455,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-27T01:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+    },
+    {
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "summary": "Article URL: https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/ Comments URL: https://news.ycombinator.com/item?id=49861755 Points: 59 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-09-26T23:49:01+00:00",
+      "link": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/"
     },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-23T14:30:00+00:00",
       "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
-    },
-    {
-      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
-      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies.",
-      "source": "The Decoder",
-      "published": "2026-09-23T13:52:23+00:00",
-      "link": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/"
-    },
-    {
-      "title": "Stripe's Knowledge AI Platform",
-      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 189 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-09-23T13:38:00+00:00",
-      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
-    },
-    {
-      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
-      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial tracking, allowing U.S. Transportation Command (TRANSCOM) to insulate global distribution networks against contested disruption.",
-      "source": "AI News",
-      "published": "2026-09-23T13:13:15+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/"
-    },
-    {
-      "title": "The Price of Intelligence Is Falling Rapidly",
-      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html Comments URL: https://news.ycombinator.com/item?id=49815526 Points: 81 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-09-23T13:08:59+00:00",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
-    },
-    {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
     }
   ]
 };
