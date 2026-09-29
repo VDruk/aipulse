@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-29T18:29:48.375987+00:00",
+  "lastUpdated": "2026-09-29T21:11:48.730181+00:00",
   "items": [
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T20:15:47+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+    },
+    {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T19:52:37+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+    },
+    {
+      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled.",
+      "source": "The Decoder",
+      "published": "2026-09-29T19:24:12+00:00",
+      "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/"
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "source": "Wired",
+      "published": "2026-09-29T19:05:00+00:00",
+      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T18:35:00+00:00",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+    },
     {
       "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
       "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth.",
@@ -51,18 +86,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
     },
     {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
-    },
-    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
       "source": "TechCrunch",
       "published": "2026-09-29T17:15:00+00:00",
       "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
     },
     {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-24T14:30:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
-    },
-    {
-      "title": "Google is sending an AI satellite into space next week",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times.",
-      "source": "The Verge",
-      "published": "2026-09-24T14:15:17+00:00",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
-    },
-    {
-      "title": "The vibes are bad for Flock in Washington",
-      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-09-24T14:15:05+00:00",
-      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing"
-    },
-    {
-      "title": "I have some questions for Mark Zuckerberg",
-      "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit.",
-      "source": "The Verge",
-      "published": "2026-09-24T14:15:00+00:00",
-      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers"
-    },
-    {
-      "title": "Best LLM for every budget, updated daily",
-      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 184 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-09-24T14:09:57+00:00",
-      "link": "https://bestmodelforyourbudget.terrydjony.com/"
-    },
-    {
-      "title": "OpenAI's agents went after government and university sites months before Hugging Face",
-      "summary": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search.",
-      "source": "The Decoder",
-      "published": "2026-09-24T14:01:05+00:00",
-      "link": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/"
     }
   ]
 };
