@@ -1,12 +1,180 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-29T15:09:55.359245+00:00",
+  "lastUpdated": "2026-09-29T18:29:48.375987+00:00",
   "items": [
+    {
+      "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
+      "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth.",
+      "source": "The Decoder",
+      "published": "2026-09-29T18:10:34+00:00",
+      "link": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/"
+    },
+    {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "source": "Wired",
+      "published": "2026-09-29T18:03:01+00:00",
+      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:45:51+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic.",
+      "source": "The Verge",
+      "published": "2026-09-29T17:35:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
+    },
+    {
+      "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+      "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots.",
+      "source": "The Decoder",
+      "published": "2026-09-29T17:23:22+00:00",
+      "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:20:00+00:00",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:17:15+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots.",
+      "source": "The Verge",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+    },
+    {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+      "source": "Wired",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+    },
+    {
+      "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
+      "summary": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams.",
+      "source": "The Decoder",
+      "published": "2026-09-29T17:14:45+00:00",
+      "link": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/"
+    },
+    {
+      "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
+      "summary": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions.",
+      "source": "The Decoder",
+      "published": "2026-09-29T17:14:41+00:00",
+      "link": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/"
+    },
+    {
+      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+      "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now.",
+      "source": "The Decoder",
+      "published": "2026-09-29T17:14:27+00:00",
+      "link": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
+    },
+    {
+      "title": "AMD buys AI world model startup World Labs for $8.2 billion",
+      "summary": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su.",
+      "source": "The Decoder",
+      "published": "2026-09-29T17:13:51+00:00",
+      "link": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/"
+    },
+    {
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants.",
+      "source": "The Verge",
+      "published": "2026-09-29T17:12:27+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 361 # Comments: 296",
+      "source": "Hacker News",
+      "published": "2026-09-29T17:06:45+00:00",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T16:55:56+00:00",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+    },
+    {
+      "title": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
+      "summary": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews.",
+      "source": "The Decoder",
+      "published": "2026-09-29T16:31:36+00:00",
+      "link": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/"
+    },
+    {
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 227 # Comments: 160",
+      "source": "Hacker News",
+      "published": "2026-09-29T16:30:48+00:00",
+      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "summary": "It’s OpenAI’s turn in the fall tech events calendar.",
+      "source": "The Verge",
+      "published": "2026-09-29T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T15:12:07+00:00",
+      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+    },
     {
       "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
       "summary": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents.",
       "source": "The Decoder",
       "published": "2026-09-29T14:45:17+00:00",
       "link": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/"
+    },
+    {
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 145 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-09-29T14:15:24+00:00",
+      "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
     },
     {
       "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
@@ -17,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
       "source": "TechCrunch",
       "published": "2026-09-29T13:53:01+00:00",
       "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
@@ -100,6 +268,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
     },
     {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 384 # Comments: 123",
+      "source": "Hacker News",
+      "published": "2026-09-29T09:03:41+00:00",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+    },
+    {
       "title": "AI companies leak data to advertisers [pdf]",
       "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 309 # Comments: 102",
       "source": "Hacker News",
@@ -129,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 117 # Comments: 123",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 128 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-09-28T23:40:59+00:00",
       "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
@@ -171,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's Time to Investigate the AI Labs",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 556 # Comments: 237",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 584 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-09-28T19:53:35+00:00",
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
@@ -199,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 265 # Comments: 97",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 272 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-09-28T18:58:53+00:00",
       "link": "https://stateofutopia.com/experiments/microllmlab/"
@@ -240,18 +415,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
     },
     {
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/ Comments URL: https://news.ycombinator.com/item?id=49881484 Points: 107 # Comments: 111",
+      "source": "Hacker News",
+      "published": "2026-09-28T17:33:34+00:00",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+    },
+    {
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
       "source": "TechCrunch",
       "published": "2026-09-28T17:29:50+00:00",
       "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T17:09:02+00:00",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
     },
     {
       "title": "When can we say AI made a scientific discovery?",
@@ -290,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 371 # Comments: 237",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 377 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-09-28T16:11:42+00:00",
       "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
@@ -304,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 208 # Comments: 273",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 218 # Comments: 284",
       "source": "Hacker News",
       "published": "2026-09-28T15:46:36+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
@@ -332,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jensen Huang says AI distillation is 'competition.'",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 72 # Comments: 79",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 72 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-28T14:55:34+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
@@ -402,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "What would a serious AI product look like?",
-      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 165 # Comments: 74",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 166 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-28T11:02:12+00:00",
       "link": "https://blog.glyph.im/2026/09/serious-ai-product.html"
@@ -444,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 433 # Comments: 390",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 434 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-09-28T08:35:40+00:00",
       "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
@@ -486,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 87 # Comments: 39",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 91 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-09-27T17:24:17+00:00",
       "link": "https://earnanhonestdollar.com/bench"
@@ -507,14 +682,14 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 58 # Comments: 117",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 59 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-09-27T16:29:38+00:00",
       "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
     },
     {
       "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 391 # Comments: 268",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 393 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-09-27T16:19:46+00:00",
       "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
@@ -563,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 103 # Comments: 106",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 103 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-09-27T10:26:25+00:00",
       "link": "https://arxiv.org/abs/2609.25021"
@@ -1225,181 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-24T14:01:05+00:00",
       "link": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/"
-    },
-    {
-      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity.",
-      "source": "The Decoder",
-      "published": "2026-09-24T13:35:44+00:00",
-      "link": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/"
-    },
-    {
-      "title": "Meta’s Muse AI Charms can interact with each other",
-      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year.",
-      "source": "The Verge",
-      "published": "2026-09-24T13:31:43+00:00",
-      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem"
-    },
-    {
-      "title": "Meta gives its Muse AI agent video avatars, email addresses, and Mac control",
-      "summary": "At Meta Connect 2026, Meta expanded its AI agent, Muse, and unveiled several new devices. The article Meta gives its Muse AI agent video avatars, email addresses, and Mac control appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-24T13:10:54+00:00",
-      "link": "https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/"
-    },
-    {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T12:54:19+00:00",
-      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
-    },
-    {
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 213 # Comments: 317",
-      "source": "Hacker News",
-      "published": "2026-09-24T12:23:41+00:00",
-      "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
-    },
-    {
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-24T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"
-    },
-    {
-      "title": "OpenAI agents hacked an Australian government website in search of data",
-      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites.",
-      "source": "The Verge",
-      "published": "2026-09-24T11:52:32+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
-    },
-    {
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
-      "source": "Wired",
-      "published": "2026-09-24T10:46:56+00:00",
-      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
-    },
-    {
-      "title": "AI is dominating the conversation at Climate Week",
-      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-24T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
-    },
-    {
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases.",
-      "source": "The Verge",
-      "published": "2026-09-24T09:04:18+00:00",
-      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 631 # Comments: 393",
-      "source": "Hacker News",
-      "published": "2026-09-24T08:23:03+00:00",
-      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 265 # Comments: 309",
-      "source": "Hacker News",
-      "published": "2026-09-24T05:21:10+00:00",
-      "link": "https://transluce.org/agent-activity"
-    },
-    {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T01:13:32+00:00",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
-    },
-    {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T00:46:17+00:00",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-    },
-    {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 391 # Comments: 456",
-      "source": "Hacker News",
-      "published": "2026-09-24T00:41:31+00:00",
-      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
-    },
-    {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation.",
-      "source": "The Verge",
-      "published": "2026-09-24T00:15:20+00:00",
-      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
-    },
-    {
-      "title": "Muse is coming to Meta smart glasses",
-      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect.",
-      "source": "The Verge",
-      "published": "2026-09-23T23:40:56+00:00",
-      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
-    },
-    {
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T23:39:44+00:00",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks.",
-      "source": "The Verge",
-      "published": "2026-09-23T23:19:42+00:00",
-      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
-    },
-    {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories.",
-      "source": "The Verge",
-      "published": "2026-09-23T22:45:00+00:00",
-      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
-    },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live.",
-      "source": "The Verge",
-      "published": "2026-09-23T22:30:00+00:00",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
-    },
-    {
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T22:17:39+00:00",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
-    },
-    {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 150 # Comments: 92",
-      "source": "Hacker News",
-      "published": "2026-09-23T22:16:19+00:00",
-      "link": "https://artificialanalysis.ai/models/mercury-2-5"
-    },
-    {
-      "title": "A US-China AI Hotline Won’t Be Ready for a While",
-      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
-      "source": "Wired",
-      "published": "2026-09-23T21:00:00+00:00",
-      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/"
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T19:31:28+00:00",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
     }
   ]
 };
