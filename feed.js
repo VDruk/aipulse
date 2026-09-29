@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-29T06:34:24.562179+00:00",
+  "lastUpdated": "2026-09-29T11:11:15.711217+00:00",
   "items": [
+    {
+      "title": "Making AI an asset, not an expense",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-29T10:43:45+00:00",
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+    },
+    {
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "source": "Wired",
+      "published": "2026-09-29T10:36:22+00:00",
+      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
+    },
+    {
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+      "source": "Wired",
+      "published": "2026-09-29T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/"
+    },
+    {
+      "title": "Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks",
+      "summary": "Anthropic warns in its own IPO prospectus that its AI technology could pose \"existential risks to humanity.\" Revenue grew twelvefold in 2025 to $4.6 billion, but the operating loss widened to $8.06 billion.",
+      "source": "The Decoder",
+      "published": "2026-09-29T10:21:36+00:00",
+      "link": "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/"
+    },
+    {
+      "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
+      "summary": "OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says.",
+      "source": "The Decoder",
+      "published": "2026-09-29T10:05:14+00:00",
+      "link": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
+    },
+    {
+      "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
+      "summary": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers.",
+      "source": "The Decoder",
+      "published": "2026-09-29T08:47:37+00:00",
+      "link": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/"
+    },
+    {
+      "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+      "summary": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date.",
+      "source": "The Decoder",
+      "published": "2026-09-29T08:26:38+00:00",
+      "link": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/"
+    },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-23T15:19:30+00:00",
       "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
-    },
-    {
-      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
-      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans.",
-      "source": "The Decoder",
-      "published": "2026-09-23T15:14:34+00:00",
-      "link": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/"
-    },
-    {
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 314 # Comments: 248",
-      "source": "Hacker News",
-      "published": "2026-09-23T15:14:22+00:00",
-      "link": "https://drivingbench.com/"
-    },
-    {
-      "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
-      "summary": "Nscale, the Nvidia-backed AI cloud provider, leaves its most important customer, Bytedance, out of the main prospectus for its planned US IPO. The article Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-23T14:44:22+00:00",
-      "link": "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/"
-    },
-    {
-      "title": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
-      "summary": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the open-source project OpenClaw, and some of the file names and contents are nearly identical.",
-      "source": "The Decoder",
-      "published": "2026-09-23T14:42:38+00:00",
-      "link": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/"
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
-    },
-    {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
-    },
-    {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions.",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
     }
   ]
 };
