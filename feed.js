@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-30T10:59:00.670394+00:00",
+  "lastUpdated": "2026-09-30T15:25:38.389984+00:00",
   "items": [
+    {
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card.",
+      "source": "The Verge",
+      "published": "2026-09-30T15:18:49+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
+      "source": "The Verge",
+      "published": "2026-09-30T14:51:49+00:00",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
+      "summary": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA.",
+      "source": "The Decoder",
+      "published": "2026-09-30T14:37:24+00:00",
+      "link": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/"
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts.",
+      "source": "The Verge",
+      "published": "2026-09-30T14:30:00+00:00",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T14:27:11+00:00",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.",
+      "source": "The Verge",
+      "published": "2026-09-30T12:24:32+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
+    },
+    {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-30T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+    },
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+    },
+    {
+      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+      "summary": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices.",
+      "source": "The Decoder",
+      "published": "2026-09-30T11:05:05+00:00",
+      "link": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/"
+    },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires.",
@@ -16,6 +86,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/"
     },
     {
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 69 # Comments: 88",
+      "source": "Hacker News",
+      "published": "2026-09-30T09:59:03+00:00",
+      "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
+    },
+    {
       "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
       "summary": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended.",
       "source": "The Decoder",
@@ -24,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 53 # Comments: 53",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 55 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-09-30T02:36:12+00:00",
       "link": "https://agmai.org/general-sep29/"
@@ -66,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "McDonald's push to have AI price your Big Mac",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 55 # Comments: 30",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 57 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-09-29T19:58:50+00:00",
       "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
@@ -94,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 205 # Comments: 300",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 211 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-09-29T19:21:25+00:00",
       "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
@@ -234,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 961 # Comments: 842",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1017 # Comments: 890",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -255,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 545 # Comments: 402",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 548 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-09-29T16:30:48+00:00",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
@@ -388,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 418 # Comments: 135",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 419 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-09-29T09:03:41+00:00",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
@@ -415,6 +492,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/"
     },
     {
+      "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
+      "summary": "Article URL: https://hntrbrk.com/breaking-news/muse-doxxing Comments URL: https://news.ycombinator.com/item?id=49889780 Points: 73 # Comments: 0",
+      "source": "Hacker News",
+      "published": "2026-09-29T08:06:40+00:00",
+      "link": "https://hntrbrk.com/breaking-news/muse-doxxing"
+    },
+    {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
       "source": "TechCrunch",
@@ -423,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 134 # Comments: 139",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 136 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-09-28T23:40:59+00:00",
       "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
@@ -465,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's Time to Investigate the AI Labs",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 608 # Comments: 266",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 616 # Comments: 272",
       "source": "Hacker News",
       "published": "2026-09-28T19:53:35+00:00",
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
@@ -493,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 277 # Comments: 113",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 278 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-28T18:58:53+00:00",
       "link": "https://stateofutopia.com/experiments/microllmlab/"
@@ -584,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 382 # Comments: 239",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 384 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-09-28T16:11:42+00:00",
       "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
@@ -696,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "What would a serious AI product look like?",
-      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 171 # Comments: 82",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 172 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-28T11:02:12+00:00",
       "link": "https://blog.glyph.im/2026/09/serious-ai-product.html"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-24T17:45:44+00:00",
       "link": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/"
-    },
-    {
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T17:39:24+00:00",
-      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
-    },
-    {
-      "title": "Muse will apparently let you download its entire filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L.",
-      "source": "The Verge",
-      "published": "2026-09-24T17:14:12+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
-    },
-    {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate.",
-      "source": "The Verge",
-      "published": "2026-09-24T17:10:38+00:00",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike"
-    },
-    {
-      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
-      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next.",
-      "source": "The Decoder",
-      "published": "2026-09-24T17:01:03+00:00",
-      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/"
-    },
-    {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
-    },
-    {
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
-      "source": "The Verge",
-      "published": "2026-09-24T17:00:00+00:00",
-      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:46:47+00:00",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-    },
-    {
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:35:13+00:00",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
-    },
-    {
-      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:35:13+00:00",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
-    },
-    {
-      "title": "Google launches Gemini 3.8 Flash TTS voice models",
-      "summary": "Google has launched two Gemini 3.8 Flash TTS voice models, introducing dedicated speech generation systems engineered for direct performance scripting and high-volume audio production.",
-      "source": "AI News",
-      "published": "2026-09-24T16:09:02+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/"
-    },
-    {
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment.",
-      "source": "The Verge",
-      "published": "2026-09-24T16:04:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls"
-    },
-    {
-      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
-      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-24T16:04:26+00:00",
-      "link": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/"
     }
   ]
 };
