@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-30T06:17:27.308265+00:00",
+  "lastUpdated": "2026-09-30T10:59:00.670394+00:00",
   "items": [
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-30T10:40:30+00:00",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+    },
+    {
+      "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
+      "summary": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year.",
+      "source": "The Decoder",
+      "published": "2026-09-30T10:17:15+00:00",
+      "link": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/"
+    },
+    {
+      "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
+      "summary": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended.",
+      "source": "The Decoder",
+      "published": "2026-09-30T09:46:10+00:00",
+      "link": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/"
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 53 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-09-30T02:36:12+00:00",
+      "link": "https://agmai.org/general-sep29/"
+    },
     {
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
       "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight.",
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "McDonald's push to have AI price your Big Mac",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 51 # Comments: 23",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 55 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-09-29T19:58:50+00:00",
       "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 200 # Comments: 292",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 205 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-09-29T19:21:25+00:00",
       "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
@@ -206,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 870 # Comments: 788",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 961 # Comments: 842",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 537 # Comments: 392",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 545 # Comments: 402",
       "source": "Hacker News",
       "published": "2026-09-29T16:30:48+00:00",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 154 # Comments: 40",
+      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 158 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-09-29T14:15:24+00:00",
       "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Where's the \"Intelligence Explosion\"?",
-      "summary": "Article URL: https://www.noahpinion.blog/p/wheres-the-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49893266 Points: 58 # Comments: 29",
+      "summary": "Article URL: https://www.noahpinion.blog/p/wheres-the-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49893266 Points: 58 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-09-29T13:51:09+00:00",
       "link": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 414 # Comments: 130",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 418 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-09-29T09:03:41+00:00",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 134 # Comments: 138",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 134 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-09-28T23:40:59+00:00",
       "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
@@ -430,14 +458,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pacing the Frontier is not the actual goal for AI labs",
-      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 82 # Comments: 92",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 83 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-28T20:47:26+00:00",
       "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs"
     },
     {
       "title": "It's Time to Investigate the AI Labs",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 602 # Comments: 266",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 608 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-09-28T19:53:35+00:00",
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
@@ -465,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 276 # Comments: 113",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 277 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-28T18:58:53+00:00",
       "link": "https://stateofutopia.com/experiments/microllmlab/"
@@ -570,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 224 # Comments: 293",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 225 # Comments: 296",
       "source": "Hacker News",
       "published": "2026-09-28T15:46:36+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
@@ -668,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "What would a serious AI product look like?",
-      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 170 # Comments: 81",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 171 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-28T11:02:12+00:00",
       "link": "https://blog.glyph.im/2026/09/serious-ai-product.html"
@@ -724,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 176 # Comments: 78",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 177 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-28T03:23:53+00:00",
       "link": "https://arxiv.org/abs/2110.01834"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-24T16:04:26+00:00",
       "link": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/"
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:03:36+00:00",
-      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "AI performance costs are falling faster than those of any previous technology",
-      "summary": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year.",
-      "source": "The Decoder",
-      "published": "2026-09-24T16:00:18+00:00",
-      "link": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/"
-    },
-    {
-      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "source": "Wired",
-      "published": "2026-09-24T16:00:00+00:00",
-      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/"
-    },
-    {
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
     }
   ]
 };
