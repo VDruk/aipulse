@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-30T15:25:38.389984+00:00",
+  "lastUpdated": "2026-09-30T18:18:06.479426+00:00",
   "items": [
+    {
+      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
+      "summary": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically.",
+      "source": "The Decoder",
+      "published": "2026-09-30T18:16:04+00:00",
+      "link": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/"
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that.",
+      "source": "The Verge",
+      "published": "2026-09-30T18:07:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T17:24:45+00:00",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
+    },
+    {
+      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
+      "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion.",
+      "source": "The Decoder",
+      "published": "2026-09-30T17:22:34+00:00",
+      "link": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/"
+    },
+    {
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion.",
+      "source": "The Verge",
+      "published": "2026-09-30T17:15:49+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T16:24:23+00:00",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+    },
+    {
+      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+      "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands.",
+      "source": "The Decoder",
+      "published": "2026-09-30T16:20:04+00:00",
+      "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T16:00:24+00:00",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "source": "TechCrunch",
+      "published": "2026-09-30T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
+    },
     {
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
       "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card.",
@@ -38,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
       "source": "TechCrunch",
       "published": "2026-09-30T14:27:11+00:00",
       "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
@@ -254,6 +324,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
     },
     {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+      "source": "Wired",
+      "published": "2026-09-29T17:15:00+00:00",
+      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+    },
+    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
       "source": "TechCrunch",
@@ -266,13 +343,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-29T17:15:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-    },
-    {
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-      "source": "Wired",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
     },
     {
       "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-25T05:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
-    },
-    {
-      "title": "Evolving programming languages in the AI era",
-      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 136 # Comments: 97",
-      "source": "Hacker News",
-      "published": "2026-09-25T02:34:39+00:00",
-      "link": "https://dashbit.co/blog/evolving-ai-era"
-    },
-    {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 297 # Comments: 278",
-      "source": "Hacker News",
-      "published": "2026-09-24T20:51:50+00:00",
-      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
-    },
-    {
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
-      "source": "The Verge",
-      "published": "2026-09-24T19:59:26+00:00",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
-    },
-    {
-      "title": "I Think I Found an AI Agent Worth the Risk",
-      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-      "source": "Wired",
-      "published": "2026-09-24T19:36:35+00:00",
-      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/"
-    },
-    {
-      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
-      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute.",
-      "source": "The Decoder",
-      "published": "2026-09-24T19:18:33+00:00",
-      "link": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/"
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T19:00:42+00:00",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
-    },
-    {
-      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
-      "summary": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself.",
-      "source": "The Decoder",
-      "published": "2026-09-24T18:06:13+00:00",
-      "link": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/"
-    },
-    {
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show.",
-      "source": "The Verge",
-      "published": "2026-09-24T18:04:44+00:00",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
-    },
-    {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform.",
-      "source": "The Verge",
-      "published": "2026-09-24T17:52:29+00:00",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-    },
-    {
-      "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
-      "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1.",
-      "source": "The Decoder",
-      "published": "2026-09-24T17:45:44+00:00",
-      "link": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/"
     }
   ]
 };
