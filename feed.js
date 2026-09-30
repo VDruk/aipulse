@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-30T00:00:51.829792+00:00",
+  "lastUpdated": "2026-09-30T06:17:27.308265+00:00",
   "items": [
+    {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight.",
+      "source": "The Verge",
+      "published": "2026-09-30T00:19:13+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+    },
+    {
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.",
+      "source": "The Verge",
+      "published": "2026-09-29T22:25:45+00:00",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+    },
     {
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
@@ -9,11 +23,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
     },
     {
+      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause.",
+      "source": "The Verge",
+      "published": "2026-09-29T21:49:09+00:00",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+    },
+    {
       "title": "OpenAI’s latest features take direct aim at the app store model",
       "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
       "source": "TechCrunch",
       "published": "2026-09-29T20:15:47+00:00",
       "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+    },
+    {
+      "title": "McDonald's push to have AI price your Big Mac",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 51 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-09-29T19:58:50+00:00",
+      "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T19:52:37+00:00",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
     },
     {
       "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
@@ -28,6 +63,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-29T19:24:12+00:00",
       "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/"
+    },
+    {
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 200 # Comments: 292",
+      "source": "Hacker News",
+      "published": "2026-09-29T19:21:25+00:00",
+      "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
     },
     {
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 361 # Comments: 296",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 870 # Comments: 788",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -184,8 +226,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/"
     },
     {
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 227 # Comments: 160",
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 537 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-09-29T16:30:48+00:00",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 145 # Comments: 36",
+      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 154 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-09-29T14:15:24+00:00",
       "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
@@ -231,6 +273,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-29T13:53:01+00:00",
       "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
+    },
+    {
+      "title": "Where's the \"Intelligence Explosion\"?",
+      "summary": "Article URL: https://www.noahpinion.blog/p/wheres-the-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49893266 Points: 58 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-09-29T13:51:09+00:00",
+      "link": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion"
     },
     {
       "title": "Meta is expanding its AI agent Muse to small businesses",
@@ -311,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 384 # Comments: 123",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 414 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-09-29T09:03:41+00:00",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
@@ -346,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 128 # Comments: 133",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 134 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-09-28T23:40:59+00:00",
       "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
@@ -381,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pacing the Frontier is not the actual goal for AI labs",
-      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 82 # Comments: 90",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 82 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-09-28T20:47:26+00:00",
       "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs"
     },
     {
       "title": "It's Time to Investigate the AI Labs",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 584 # Comments: 246",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 602 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-09-28T19:53:35+00:00",
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
@@ -416,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 272 # Comments: 111",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 276 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-28T18:58:53+00:00",
       "link": "https://stateofutopia.com/experiments/microllmlab/"
@@ -458,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-      "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/ Comments URL: https://news.ycombinator.com/item?id=49881484 Points: 107 # Comments: 111",
+      "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/ Comments URL: https://news.ycombinator.com/item?id=49881484 Points: 108 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-09-28T17:33:34+00:00",
       "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
@@ -507,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 377 # Comments: 238",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 382 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-09-28T16:11:42+00:00",
       "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
@@ -521,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 218 # Comments: 284",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 224 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-09-28T15:46:36+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
@@ -619,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "What would a serious AI product look like?",
-      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 166 # Comments: 78",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 170 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-28T11:02:12+00:00",
       "link": "https://blog.glyph.im/2026/09/serious-ai-product.html"
@@ -661,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 434 # Comments: 392",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 438 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-09-28T08:35:40+00:00",
       "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
@@ -675,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 175 # Comments: 77",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 176 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-28T03:23:53+00:00",
       "link": "https://arxiv.org/abs/2110.01834"
@@ -703,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 91 # Comments: 40",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 95 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-09-27T17:24:17+00:00",
       "link": "https://earnanhonestdollar.com/bench"
@@ -724,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 59 # Comments: 117",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 59 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-09-27T16:29:38+00:00",
       "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-24T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-    },
-    {
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 142 # Comments: 231",
-      "source": "Hacker News",
-      "published": "2026-09-24T15:09:38+00:00",
-      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
-    },
-    {
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T14:43:25+00:00",
-      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
-    },
-    {
-      "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency",
-      "summary": "Senator Bernie Sanders and Representative Greg Casar introduced a bill on September 23 that would permanently ban the development and use of artificial superintelligence. The article U.S.",
-      "source": "The Decoder",
-      "published": "2026-09-24T14:42:23+00:00",
-      "link": "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/"
-    },
-    {
-      "title": "AI safety is mostly a sex cult in Berkeley",
-      "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 121 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-09-24T14:38:31+00:00",
-      "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
-    },
-    {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T14:31:00+00:00",
-      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25.",
-      "source": "TechCrunch",
-      "published": "2026-09-24T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
     }
   ]
 };
