@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-01T18:43:37.012658+00:00",
+  "lastUpdated": "2026-10-01T21:31:43.697165+00:00",
   "items": [
+    {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T21:08:11+00:00",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+    },
+    {
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "source": "Wired",
+      "published": "2026-10-01T19:58:31+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/"
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at.",
+      "source": "The Verge",
+      "published": "2026-10-01T19:47:51+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T19:21:53+00:00",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+    },
     {
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
@@ -30,6 +58,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/"
     },
     {
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters.",
+      "source": "The Verge",
+      "published": "2026-10-01T17:12:21+00:00",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+    },
+    {
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
       "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
       "source": "TechCrunch",
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 50 # Comments: 7",
+      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 64 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-10-01T15:11:10+00:00",
       "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
@@ -80,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 84 # Comments: 58",
+      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 86 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-01T13:01:02+00:00",
       "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
     },
     {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 167 # Comments: 109",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 193 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-10-01T13:00:55+00:00",
       "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 141 # Comments: 74",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 152 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-01T10:21:36+00:00",
       "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 109 # Comments: 61",
+      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 110 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-09-30T20:50:28+00:00",
       "link": "https://artificialanalysis.ai/models/gemini-4-argon"
@@ -311,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Race Just Got Awkward",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 400 # Comments: 448",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 404 # Comments: 449",
       "source": "Hacker News",
       "published": "2026-09-30T15:50:11+00:00",
       "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
@@ -423,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 112 # Comments: 168",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 117 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-09-30T02:36:12+00:00",
       "link": "https://agmai.org/general-sep29/"
@@ -493,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 222 # Comments: 331",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 222 # Comments: 334",
       "source": "Hacker News",
       "published": "2026-09-29T19:21:25+00:00",
       "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
@@ -633,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1058 # Comments: 944",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1060 # Comments: 945",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-26T12:52:04+00:00",
       "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
-    },
-    {
-      "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
-      "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment.",
-      "source": "The Decoder",
-      "published": "2026-09-26T10:30:32+00:00",
-      "link": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/"
-    },
-    {
-      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-      "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
-      "source": "Wired",
-      "published": "2026-09-26T10:30:00+00:00",
-      "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/"
-    },
-    {
-      "title": "One Month Without AI",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 187 # Comments: 227",
-      "source": "Hacker News",
-      "published": "2026-09-26T10:08:21+00:00",
-      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
-      "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent.",
-      "source": "The Decoder",
-      "published": "2026-09-26T09:44:54+00:00",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/"
-    },
-    {
-      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-      "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions.",
-      "source": "The Decoder",
-      "published": "2026-09-26T09:06:36+00:00",
-      "link": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/"
     }
   ]
 };
