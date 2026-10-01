@@ -1,12 +1,103 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-01T11:26:03.539289+00:00",
+  "lastUpdated": "2026-10-01T15:46:23.339575+00:00",
   "items": [
     {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
-      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T15:12:00+00:00",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success.",
+      "source": "The Verge",
+      "published": "2026-10-01T14:36:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+    },
+    {
+      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
+      "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services.",
+      "source": "The Decoder",
+      "published": "2026-10-01T14:26:54+00:00",
+      "link": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+    },
+    {
+      "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
+      "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents came up with a workaround on their own.",
+      "source": "The Decoder",
+      "published": "2026-10-01T13:19:33+00:00",
+      "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/"
+    },
+    {
+      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 52 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-10-01T13:01:02+00:00",
+      "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 101 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-10-01T13:00:55+00:00",
+      "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+    },
+    {
+      "title": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
+      "summary": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down.",
+      "source": "The Decoder",
+      "published": "2026-10-01T12:58:02+00:00",
+      "link": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/"
+    },
+    {
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-01T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+    },
+    {
+      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI.",
+      "source": "The Decoder",
+      "published": "2026-10-01T12:05:49+00:00",
+      "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/"
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
+    {
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.",
       "source": "MIT Tech Review",
       "published": "2026-10-01T10:32:24+00:00",
       "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 112 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-10-01T10:21:36+00:00",
+      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
     },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
@@ -38,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 106 # Comments: 60",
+      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 108 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-09-30T20:50:28+00:00",
       "link": "https://artificialanalysis.ai/models/gemini-4-argon"
@@ -66,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "CS240 AI Cheating Retrospective",
-      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 106 # Comments: 100",
+      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 109 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-09-30T19:54:29+00:00",
       "link": "https://turkeyland.net/thoughts/ai.php"
@@ -178,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Race Just Got Awkward",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 389 # Comments: 432",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 396 # Comments: 442",
       "source": "Hacker News",
       "published": "2026-09-30T15:50:11+00:00",
       "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
@@ -276,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 80 # Comments: 100",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 80 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-09-30T09:59:03+00:00",
       "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
@@ -290,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 94 # Comments: 128",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 109 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-09-30T02:36:12+00:00",
       "link": "https://agmai.org/general-sep29/"
@@ -332,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "McDonald's push to have AI price your Big Mac",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 60 # Comments: 36",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 60 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-09-29T19:58:50+00:00",
       "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
@@ -500,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1053 # Comments: 937",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1057 # Comments: 944",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -521,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 564 # Comments: 427",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 565 # Comments: 427",
       "source": "Hacker News",
       "published": "2026-09-29T16:30:48+00:00",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
@@ -605,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49891721 Points: 50 # Comments: 2",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49891721 Points: 51 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-09-29T12:01:07+00:00",
       "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html"
@@ -661,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 422 # Comments: 137",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 423 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-09-29T09:03:41+00:00",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-25T20:30:40+00:00",
       "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/"
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T19:13:38+00:00",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
-    },
-    {
-      "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
-      "summary": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations.",
-      "source": "The Decoder",
-      "published": "2026-09-25T18:40:22+00:00",
-      "link": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/"
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T18:33:59+00:00",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
-    },
-    {
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?",
-      "source": "TechCrunch",
-      "published": "2026-09-25T18:22:47+00:00",
-      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
-    },
-    {
-      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
-      "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify.",
-      "source": "The Decoder",
-      "published": "2026-09-25T17:55:51+00:00",
-      "link": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/"
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T17:29:46+00:00",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
-    },
-    {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T17:24:36+00:00",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
-    },
-    {
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-      "source": "Wired",
-      "published": "2026-09-25T16:58:20+00:00",
-      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
-    },
-    {
-      "title": "Show HN: Doom or Bloom, map your AI worldview",
-      "summary": "Map your AI worldview by answering a few questions, and see how you compare with others.only takes a few minutes && free & open source && private by default && powered by JevI think this is a really important question for everyone to be asking themselves, and my hope is that...",
-      "source": "Hacker News",
-      "published": "2026-09-25T16:51:28+00:00",
-      "link": "https://www.doom-or-bloom.com"
-    },
-    {
-      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
-      "summary": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft.",
-      "source": "The Decoder",
-      "published": "2026-09-25T16:30:57+00:00",
-      "link": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T16:16:52+00:00",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
-    },
-    {
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?",
-      "source": "TechCrunch",
-      "published": "2026-09-25T16:00:00+00:00",
-      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
-    },
-    {
-      "title": "Sony and UMG are suing Suno again",
-      "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
-      "source": "The Verge",
-      "published": "2026-09-25T15:51:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
     }
   ]
 };
