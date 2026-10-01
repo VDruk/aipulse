@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-01T06:49:33.303120+00:00",
+  "lastUpdated": "2026-10-01T11:26:03.539289+00:00",
   "items": [
+    {
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-01T10:32:24+00:00",
+      "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+    },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
       "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 100 # Comments: 53",
+      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 106 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-09-30T20:50:28+00:00",
       "link": "https://artificialanalysis.ai/models/gemini-4-argon"
@@ -59,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "CS240 AI Cheating Retrospective",
-      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 104 # Comments: 91",
+      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 106 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-30T19:54:29+00:00",
       "link": "https://turkeyland.net/thoughts/ai.php"
@@ -171,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Race Just Got Awkward",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 383 # Comments: 422",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 389 # Comments: 432",
       "source": "Hacker News",
       "published": "2026-09-30T15:50:11+00:00",
       "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
@@ -189,6 +196,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-30T14:51:49+00:00",
       "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong.",
+      "source": "Hacker News",
+      "published": "2026-09-30T14:38:57+00:00",
+      "link": "https://lathoa.ai/en"
     },
     {
       "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 79 # Comments: 99",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 80 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-30T09:59:03+00:00",
       "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
@@ -276,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 89 # Comments: 109",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 94 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-09-30T02:36:12+00:00",
       "link": "https://agmai.org/general-sep29/"
@@ -346,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 219 # Comments: 327",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 220 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-09-29T19:21:25+00:00",
       "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
@@ -486,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1053 # Comments: 935",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1053 # Comments: 937",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -507,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 562 # Comments: 426",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 564 # Comments: 427",
       "source": "Hacker News",
       "published": "2026-09-29T16:30:48+00:00",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
@@ -731,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's Time to Investigate the AI Labs",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 620 # Comments: 276",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 620 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-09-28T19:53:35+00:00",
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-25T15:51:56+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
-    },
-    {
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T15:48:14+00:00",
-      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
-    },
-    {
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "source": "TechCrunch",
-      "published": "2026-09-25T15:40:03+00:00",
-      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
     }
   ]
 };
