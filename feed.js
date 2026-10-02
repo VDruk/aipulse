@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-02T06:41:07.422617+00:00",
+  "lastUpdated": "2026-10-02T10:56:15.679620+00:00",
   "items": [
+    {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "source": "Wired",
+      "published": "2026-10-02T09:45:00+00:00",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+    },
+    {
+      "title": "AI music maker Suno now generates spoken words",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions.",
+      "source": "The Verge",
+      "published": "2026-10-02T09:42:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+    },
+    {
+      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-02T09:20:39+00:00",
+      "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/"
+    },
+    {
+      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+      "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-02T09:09:21+00:00",
+      "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/"
+    },
+    {
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-02T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+      "source": "MIT Tech Review",
+      "published": "2026-10-02T08:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+    },
+    {
+      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K.",
+      "source": "The Decoder",
+      "published": "2026-10-02T07:44:44+00:00",
+      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
+    },
     {
       "title": "Whatever AI Safety Is, It’s Not This",
       "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-26T21:02:06+00:00",
       "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
-    },
-    {
-      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
-      "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat.",
-      "source": "The Decoder",
-      "published": "2026-09-26T19:10:20+00:00",
-      "link": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/"
-    },
-    {
-      "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
-      "summary": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands.",
-      "source": "The Decoder",
-      "published": "2026-09-26T17:27:52+00:00",
-      "link": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/"
-    },
-    {
-      "title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
-      "summary": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wrong.",
-      "source": "The Decoder",
-      "published": "2026-09-26T16:56:36+00:00",
-      "link": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/"
-    },
-    {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.",
-      "source": "The Verge",
-      "published": "2026-09-26T16:34:59+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "source": "TechCrunch",
-      "published": "2026-09-26T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
-    },
-    {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.",
-      "source": "The Verge",
-      "published": "2026-09-26T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
-    },
-    {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 58 # Comments: 72",
-      "source": "Hacker News",
-      "published": "2026-09-26T13:05:36+00:00",
-      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
     }
   ]
 };
