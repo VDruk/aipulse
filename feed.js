@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-02T18:15:32.570353+00:00",
+  "lastUpdated": "2026-10-02T21:07:16.333992+00:00",
   "items": [
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch.",
+      "source": "The Verge",
+      "published": "2026-10-02T20:08:40+00:00",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "title": "AI music generator Suno can now create spoken audio with matching background music",
+      "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories.",
+      "source": "The Decoder",
+      "published": "2026-10-02T20:07:36+00:00",
+      "link": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/"
+    },
+    {
+      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character.",
+      "source": "The Decoder",
+      "published": "2026-10-02T19:41:05+00:00",
+      "link": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/"
+    },
+    {
+      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+      "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev.",
+      "source": "The Decoder",
+      "published": "2026-10-02T18:19:51+00:00",
+      "link": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/"
+    },
     {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
       "source": "TechCrunch",
       "published": "2026-10-02T18:11:27+00:00",
       "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 63 # Comments: 5",
+      "source": "Hacker News",
+      "published": "2026-10-02T18:01:16+00:00",
+      "link": "https://dwarfstar.sh/"
     },
     {
       "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
@@ -66,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 162 # Comments: 184",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 172 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-10-02T15:18:00+00:00",
       "link": "https://mondobe.com/ai-makes-me-sad"
@@ -86,8 +121,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
     },
     {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 96 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-10-02T14:11:24+00:00",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+    },
+    {
       "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 66 # Comments: 51",
+      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 68 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-02T13:19:47+00:00",
       "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/"
@@ -184,6 +226,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
     },
     {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 108 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-10-02T02:51:27+00:00",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+    },
+    {
       "title": "Whatever AI Safety Is, It’s Not This",
       "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
       "source": "Wired",
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 193 # Comments: 242",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 195 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-10-01T17:32:43+00:00",
       "link": "https://stoppels.ch/goalposts/"
@@ -311,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 90 # Comments: 63",
+      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 90 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-10-01T13:01:02+00:00",
       "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
     },
     {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 206 # Comments: 159",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 207 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-10-01T13:00:55+00:00",
       "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
@@ -367,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 186 # Comments: 110",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 186 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-10-01T10:21:36+00:00",
       "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
@@ -654,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 121 # Comments: 203",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 121 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-09-30T02:36:12+00:00",
       "link": "https://agmai.org/general-sep29/"
@@ -864,7 +913,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1062 # Comments: 948",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1062 # Comments: 949",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-28T10:39:52+00:00",
       "link": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/"
-    },
-    {
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "source": "Wired",
-      "published": "2026-09-28T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/"
-    },
-    {
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "source": "Wired",
-      "published": "2026-09-28T09:30:00+00:00",
-      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/"
-    },
-    {
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "source": "Wired",
-      "published": "2026-09-28T09:00:00+00:00",
-      "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/"
-    },
-    {
-      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-      "source": "Wired",
-      "published": "2026-09-28T09:00:00+00:00",
-      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
-    },
-    {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 438 # Comments: 393",
-      "source": "Hacker News",
-      "published": "2026-09-28T08:35:40+00:00",
-      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T08:06:22+00:00",
-      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
-    },
-    {
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 177 # Comments: 78",
-      "source": "Hacker News",
-      "published": "2026-09-28T03:23:53+00:00",
-      "link": "https://arxiv.org/abs/2110.01834"
     }
   ]
 };
