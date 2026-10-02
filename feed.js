@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-02T15:07:19.681361+00:00",
+  "lastUpdated": "2026-10-02T18:15:32.570353+00:00",
   "items": [
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "source": "TechCrunch",
+      "published": "2026-10-02T18:11:27+00:00",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding.",
+      "source": "The Verge",
+      "published": "2026-10-02T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially...",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:56:00+00:00",
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially...",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:48:16+00:00",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+    },
     {
       "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
       "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
       "source": "TechCrunch",
-      "published": "2026-10-02T15:00:00+00:00",
+      "published": "2026-10-02T17:32:05+00:00",
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "source": "TechCrunch",
+      "published": "2026-10-02T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+    },
+    {
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "source": "Wired",
+      "published": "2026-10-02T16:00:00+00:00",
+      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/"
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-02T15:49:04+00:00",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "source": "TechCrunch",
+      "published": "2026-10-02T15:39:41+00:00",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+    },
+    {
+      "title": "AI Makes Me Sad",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 162 # Comments: 184",
+      "source": "Hacker News",
+      "published": "2026-10-02T15:18:00+00:00",
+      "link": "https://mondobe.com/ai-makes-me-sad"
     },
     {
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
@@ -21,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-02T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
+    },
+    {
+      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 66 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-10-02T13:19:47+00:00",
+      "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/"
     },
     {
       "title": "Three firings and a fourth departure shake up OpenAI's safety team",
@@ -70,6 +140,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-02T09:42:19+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+    },
+    {
+      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "source": "Wired",
+      "published": "2026-10-02T09:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/"
     },
     {
       "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
@@ -171,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 176 # Comments: 215",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 193 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-10-01T17:32:43+00:00",
       "link": "https://stoppels.ch/goalposts/"
@@ -199,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 74 # Comments: 25",
+      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 77 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-10-01T15:11:10+00:00",
       "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
@@ -241,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 204 # Comments: 155",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 206 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-10-01T13:00:55+00:00",
       "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
@@ -465,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Race Just Got Awkward",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 412 # Comments: 458",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 412 # Comments: 461",
       "source": "Hacker News",
       "published": "2026-09-30T15:50:11+00:00",
       "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
@@ -577,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 121 # Comments: 201",
+      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 121 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-09-30T02:36:12+00:00",
       "link": "https://agmai.org/general-sep29/"
@@ -787,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1061 # Comments: 948",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1062 # Comments: 948",
       "source": "Hacker News",
       "published": "2026-09-29T17:06:45+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
@@ -808,7 +885,7 @@ const FEED_DATA = {
     },
     {
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 568 # Comments: 428",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 568 # Comments: 429",
       "source": "Hacker News",
       "published": "2026-09-29T16:30:48+00:00",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-28T03:23:53+00:00",
       "link": "https://arxiv.org/abs/2110.01834"
-    },
-    {
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.",
-      "source": "The Verge",
-      "published": "2026-09-27T20:46:36+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
-    },
-    {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-      "source": "TechCrunch",
-      "published": "2026-09-27T20:34:28+00:00",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
-    },
-    {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "source": "TechCrunch",
-      "published": "2026-09-27T19:57:30+00:00",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
-    },
-    {
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "summary": "Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 95 # Comments: 41",
-      "source": "Hacker News",
-      "published": "2026-09-27T17:24:17+00:00",
-      "link": "https://earnanhonestdollar.com/bench"
-    },
-    {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
-      "source": "The Verge",
-      "published": "2026-09-27T17:21:07+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
-      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
-      "source": "TechCrunch",
-      "published": "2026-09-27T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
-    },
-    {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 59 # Comments: 118",
-      "source": "Hacker News",
-      "published": "2026-09-27T16:29:38+00:00",
-      "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 393 # Comments: 268",
-      "source": "Hacker News",
-      "published": "2026-09-27T16:19:46+00:00",
-      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid.",
-      "source": "Hacker News",
-      "published": "2026-09-27T15:51:28+00:00",
-      "link": "https://tinyaiarena.com/"
-    },
-    {
-      "title": "AI agents do more of the work in model development, but humans still make the decisions",
-      "summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions.",
-      "source": "The Decoder",
-      "published": "2026-09-27T15:18:39+00:00",
-      "link": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/"
-    },
-    {
-      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
-      "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry.",
-      "source": "The Decoder",
-      "published": "2026-09-27T13:03:05+00:00",
-      "link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/"
     }
   ]
 };
