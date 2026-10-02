@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-02T00:22:19.816520+00:00",
+  "lastUpdated": "2026-10-02T06:41:07.422617+00:00",
   "items": [
     {
       "title": "Whatever AI Safety Is, It’s Not This",
