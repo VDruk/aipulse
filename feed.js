@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-03T00:04:45.631667+00:00",
+  "lastUpdated": "2026-10-03T06:04:14.587312+00:00",
   "items": [
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "source": "Ars Technica",
+      "published": "2026-10-02T23:03:16+00:00",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+    },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
       "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
@@ -129,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
       "source": "Wired",
       "published": "2026-10-02T15:00:00+00:00",
       "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-28T12:11:27+00:00",
       "link": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/"
-    },
-    {
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
     }
   ]
 };
