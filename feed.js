@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-03T10:15:49.399488+00:00",
+  "lastUpdated": "2026-10-03T13:59:25.567163+00:00",
   "items": [
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "source": "Wired",
+      "published": "2026-10-03T12:00:00+00:00",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
+    },
+    {
+      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+      "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together.",
+      "source": "The Decoder",
+      "published": "2026-10-03T10:21:23+00:00",
+      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/"
+    },
     {
       "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
       "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-28T14:55:34+00:00",
       "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
-    },
-    {
-      "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses",
-      "summary": "Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies. The article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-28T14:48:26+00:00",
-      "link": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/"
-    },
-    {
-      "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
-      "summary": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds.",
-      "source": "The Decoder",
-      "published": "2026-09-28T14:32:00+00:00",
-      "link": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/"
     }
   ]
 };
