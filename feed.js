@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-03T19:38:49.018976+00:00",
+  "lastUpdated": "2026-10-03T23:27:25.954094+00:00",
   "items": [
+    {
+      "title": "Our AI Midwife",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 59 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-10-03T19:12:27+00:00",
+      "link": "https://www.astralcodexten.com/p/our-ai-midwife"
+    },
     {
       "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
       "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI.",
@@ -21,6 +28,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-03T18:00:00+00:00",
       "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
+    },
+    {
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 94 # Comments: 138",
+      "source": "Hacker News",
+      "published": "2026-10-03T17:57:03+00:00",
+      "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
     },
     {
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
@@ -72,11 +86,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
     },
     {
+      "title": "US killer's sentence quashed because of AI video of victim shown in court",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 68 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-10-03T13:34:18+00:00",
+      "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
+    },
+    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
       "source": "Wired",
       "published": "2026-10-03T12:00:00+00:00",
       "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
+    },
+    {
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 409 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-10-03T10:43:51+00:00",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri"
     },
     {
       "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
@@ -115,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Extra Big Ass Intelligence",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 299 # Comments: 62",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 476 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-10-03T03:19:10+00:00",
       "link": "https://www.extrabigassintelligence.com/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 243 # Comments: 65",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 340 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-02T18:01:16+00:00",
       "link": "https://dwarfstar.sh/"
@@ -247,8 +275,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
     },
     {
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832 Comments URL: https://news.ycombinator.com/item?id=49934569 Points: 50 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-10-02T15:24:54+00:00",
+      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
+    },
+    {
       "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 187 # Comments: 224",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 190 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-10-02T15:18:00+00:00",
       "link": "https://mondobe.com/ai-makes-me-sad"
@@ -269,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 218 # Comments: 109",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 277 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-10-02T14:11:24+00:00",
       "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
     },
     {
       "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 73 # Comments: 58",
+      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 75 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-02T13:19:47+00:00",
       "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 242 # Comments: 75",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 325 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-10-02T02:51:27+00:00",
       "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
@@ -444,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 197 # Comments: 259",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 200 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-10-01T17:32:43+00:00",
       "link": "https://stoppels.ch/goalposts/"
@@ -472,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 78 # Comments: 28",
+      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-10-01T15:11:10+00:00",
       "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
@@ -507,14 +542,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 90 # Comments: 64",
+      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 90 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-10-01T13:01:02+00:00",
       "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
     },
     {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 210 # Comments: 159",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 210 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-10-01T13:00:55+00:00",
       "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-28T18:02:10+00:00",
       "link": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/"
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
-    },
-    {
-      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-      "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/ Comments URL: https://news.ycombinator.com/item?id=49881484 Points: 108 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-09-28T17:33:34+00:00",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
-    },
-    {
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T17:29:50+00:00",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T17:03:16+00:00",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
-    },
-    {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
-      "source": "The Verge",
-      "published": "2026-09-28T17:00:23+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
     }
   ]
 };
