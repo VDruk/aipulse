@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-03T13:59:25.567163+00:00",
+  "lastUpdated": "2026-10-03T17:04:08.327169+00:00",
   "items": [
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.",
+      "source": "The Verge",
+      "published": "2026-10-03T16:49:10+00:00",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source": "TechCrunch",
+      "published": "2026-10-03T16:30:01+00:00",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter.",
+      "source": "The Verge",
+      "published": "2026-10-03T15:00:00+00:00",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
+      "source": "The Verge",
+      "published": "2026-10-03T14:31:56+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+    },
+    {
+      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+      "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control.",
+      "source": "The Decoder",
+      "published": "2026-10-03T14:28:51+00:00",
+      "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/"
+    },
+    {
+      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+      "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions.",
+      "source": "The Decoder",
+      "published": "2026-10-03T14:01:14+00:00",
+      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "published": "2026-10-03T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
     {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-28T16:52:38+00:00",
       "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
-    },
-    {
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 386 # Comments: 239",
-      "source": "Hacker News",
-      "published": "2026-09-28T16:11:42+00:00",
-      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
-    },
-    {
-      "title": "The problem is not the AI code, but nobody knows anything anymore",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 169 # Comments: 101",
-      "source": "Hacker News",
-      "published": "2026-09-28T16:11:42+00:00",
-      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
-    },
-    {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 226 # Comments: 298",
-      "source": "Hacker News",
-      "published": "2026-09-28T15:46:36+00:00",
-      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
-    },
-    {
-      "title": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
-      "summary": "Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a \"spectator sport.\" Alexander puts the odds that AI wipes out humanity at 20 percent.",
-      "source": "The Decoder",
-      "published": "2026-09-28T15:32:57+00:00",
-      "link": "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/"
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T15:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing...",
-      "source": "TechCrunch",
-      "published": "2026-09-28T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
-    },
-    {
-      "title": "Jensen Huang says AI distillation is 'competition.'",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 72 # Comments: 81",
-      "source": "Hacker News",
-      "published": "2026-09-28T14:55:34+00:00",
-      "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
     }
   ]
 };
