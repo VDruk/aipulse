@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-04T11:00:16.028246+00:00",
+  "lastUpdated": "2026-10-04T14:27:48.611129+00:00",
   "items": [
     {
+      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+      "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones.",
+      "source": "The Decoder",
+      "published": "2026-10-04T12:40:37+00:00",
+      "link": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
+    },
+    {
       "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science.",
+      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits.",
       "source": "The Decoder",
       "published": "2026-10-04T10:10:12+00:00",
       "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-28T19:33:57+00:00",
       "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
-    },
-    {
-      "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
-      "summary": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months.",
-      "source": "The Decoder",
-      "published": "2026-09-28T19:26:21+00:00",
-      "link": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
     }
   ]
 };
