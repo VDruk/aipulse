@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-04T17:20:26.118439+00:00",
+  "lastUpdated": "2026-10-04T19:52:41.087550+00:00",
   "items": [
+    {
+      "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+      "summary": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence.",
+      "source": "The Decoder",
+      "published": "2026-10-04T17:41:58+00:00",
+      "link": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/"
+    },
     {
       "title": "Well, if AI said it, it must be true",
       "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-09-28T22:17:07+00:00",
       "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
-    },
-    {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion.",
-      "source": "The Verge",
-      "published": "2026-09-28T21:31:35+00:00",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
     }
   ]
 };
