@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-04T06:37:05.020262+00:00",
+  "lastUpdated": "2026-10-04T11:00:16.028246+00:00",
   "items": [
+    {
+      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science.",
+      "source": "The Decoder",
+      "published": "2026-10-04T10:10:12+00:00",
+      "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/"
+    },
+    {
+      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+      "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced.",
+      "source": "The Decoder",
+      "published": "2026-10-04T08:47:52+00:00",
+      "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
+    },
+    {
+      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers.",
+      "source": "The Decoder",
+      "published": "2026-10-04T07:28:54+00:00",
+      "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/"
+    },
     {
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 259 # Comments: 3",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-28T19:26:21+00:00",
       "link": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
-    },
-    {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T19:21:59+00:00",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
-    },
-    {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 282 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-09-28T18:58:53+00:00",
-      "link": "https://stateofutopia.com/experiments/microllmlab/"
-    },
-    {
-      "title": "OpenAI’s AI agents need to catch up",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race.",
-      "source": "The Verge",
-      "published": "2026-09-28T18:45:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
     }
   ]
 };
