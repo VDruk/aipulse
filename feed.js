@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-03T23:27:25.954094+00:00",
+  "lastUpdated": "2026-10-04T06:37:05.020262+00:00",
   "items": [
     {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 259 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-10-03T22:18:13+00:00",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+    },
+    {
+      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 51 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-10-03T19:33:10+00:00",
+      "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/"
+    },
+    {
       "title": "Our AI Midwife",
-      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 59 # Comments: 49",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 62 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-03T19:12:27+00:00",
       "link": "https://www.astralcodexten.com/p/our-ai-midwife"
@@ -31,10 +45,17 @@ const FEED_DATA = {
     },
     {
       "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 94 # Comments: 138",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 98 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-10-03T17:57:03+00:00",
       "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 91 # Comments: 118",
+      "source": "Hacker News",
+      "published": "2026-10-03T17:44:29+00:00",
+      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
     },
     {
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 68 # Comments: 60",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 71 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-03T13:34:18+00:00",
       "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 409 # Comments: 11",
+      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 410 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-10-03T10:43:51+00:00",
       "link": "https://tej.as/blog/aleph-alpha-kolibri"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Extra Big Ass Intelligence",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 476 # Comments: 115",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 491 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-10-03T03:19:10+00:00",
       "link": "https://www.extrabigassintelligence.com/"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 340 # Comments: 98",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 345 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-10-02T18:01:16+00:00",
       "link": "https://dwarfstar.sh/"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 190 # Comments: 237",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 192 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-10-02T15:18:00+00:00",
       "link": "https://mondobe.com/ai-makes-me-sad"
@@ -304,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 277 # Comments: 141",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 280 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-10-02T14:11:24+00:00",
       "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
@@ -409,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 325 # Comments: 118",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 329 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-10-02T02:51:27+00:00",
       "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
@@ -479,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 200 # Comments: 267",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 201 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-10-01T17:32:43+00:00",
       "link": "https://stoppels.ch/goalposts/"
@@ -598,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 188 # Comments: 111",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 189 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-10-01T10:21:36+00:00",
       "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-28T18:45:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T18:31:23+00:00",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
-    },
-    {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses.",
-      "source": "The Verge",
-      "published": "2026-09-28T18:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
-    },
-    {
-      "title": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-09-28T18:02:10+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/"
     }
   ]
 };
