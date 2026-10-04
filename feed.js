@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-04T19:52:41.087550+00:00",
+  "lastUpdated": "2026-10-04T23:46:15.679003+00:00",
   "items": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "source": "TechCrunch",
+      "published": "2026-10-04T20:31:07+00:00",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source": "TechCrunch",
+      "published": "2026-10-04T20:08:34+00:00",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+    },
     {
       "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
       "summary": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence.",
       "source": "The Decoder",
       "published": "2026-10-04T17:41:58+00:00",
       "link": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/"
+    },
+    {
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt.",
+      "source": "The Verge",
+      "published": "2026-10-04T16:16:04+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
     },
     {
       "title": "Well, if AI said it, it must be true",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-29T05:13:43+00:00",
       "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
-    },
-    {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 139 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-09-28T23:40:59+00:00",
-      "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "source": "TechCrunch",
-      "published": "2026-09-28T23:39:20+00:00",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T22:17:07+00:00",
-      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
     }
   ]
 };
