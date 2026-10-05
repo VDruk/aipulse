@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-05T21:10:22.617277+00:00",
+  "lastUpdated": "2026-10-05T23:01:44.679986+00:00",
   "items": [
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "source": "Ars Technica",
+      "published": "2026-10-05T22:26:35+00:00",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+    },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
@@ -129,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
       "source": "TechCrunch",
       "published": "2026-10-05T15:14:24+00:00",
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-29T17:35:03+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
-    },
-    {
-      "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-      "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots.",
-      "source": "The Decoder",
-      "published": "2026-09-29T17:23:22+00:00",
-      "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
     }
   ]
 };
