@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-05T17:29:20.523194+00:00",
+  "lastUpdated": "2026-10-05T21:10:22.617277+00:00",
   "items": [
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T20:36:48+00:00",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+    },
+    {
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment.",
+      "source": "The Verge",
+      "published": "2026-10-05T20:14:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T19:33:53+00:00",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    },
+    {
+      "title": "All the drama around AI’s takeover of mathematics",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize...",
+      "source": "The Verge",
+      "published": "2026-10-05T19:28:59+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+    },
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms.",
+      "source": "The Verge",
+      "published": "2026-10-05T19:05:19+00:00",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
+    },
+    {
+      "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+      "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000.",
+      "source": "The Decoder",
+      "published": "2026-10-05T18:59:19+00:00",
+      "link": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T18:54:30+00:00",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T18:29:00+00:00",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+    },
+    {
+      "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+      "summary": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need.",
+      "source": "The Decoder",
+      "published": "2026-10-05T18:26:05+00:00",
+      "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/"
+    },
+    {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first.",
+      "source": "The Verge",
+      "published": "2026-10-05T18:08:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+      "summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced.",
+      "source": "The Decoder",
+      "published": "2026-10-05T17:32:42+00:00",
+      "link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/"
+    },
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T17:29:22+00:00",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
+    },
     {
       "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
       "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.",
@@ -9,7 +93,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
     },
     {
-      "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
+      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
       "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way.",
       "source": "The Verge",
       "published": "2026-10-05T16:44:21+00:00",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-29T17:23:22+00:00",
       "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:20:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
-    },
-    {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:17:15+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
-    },
-    {
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-      "source": "Wired",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
-    },
-    {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
-    },
-    {
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
-    },
-    {
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots.",
-      "source": "The Verge",
-      "published": "2026-09-29T17:15:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-    },
-    {
-      "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
-      "summary": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams.",
-      "source": "The Decoder",
-      "published": "2026-09-29T17:14:45+00:00",
-      "link": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/"
-    },
-    {
-      "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
-      "summary": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions.",
-      "source": "The Decoder",
-      "published": "2026-09-29T17:14:41+00:00",
-      "link": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/"
-    },
-    {
-      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
-      "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now.",
-      "source": "The Decoder",
-      "published": "2026-09-29T17:14:27+00:00",
-      "link": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
-    },
-    {
-      "title": "AMD buys AI world model startup World Labs for $8.2 billion",
-      "summary": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su.",
-      "source": "The Decoder",
-      "published": "2026-09-29T17:13:51+00:00",
-      "link": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/"
-    },
-    {
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants.",
-      "source": "The Verge",
-      "published": "2026-09-29T17:12:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
     }
   ]
 };
