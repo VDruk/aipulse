@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-04T23:46:15.679003+00:00",
+  "lastUpdated": "2026-10-05T06:32:48.150765+00:00",
   "items": [
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T04:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "summary": "AI slop seems to be overwhelming bug bounty programs.",
@@ -14,6 +21,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-04T20:08:34+00:00",
       "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 68 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-10-04T19:42:25+00:00",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 501 # Comments: 316",
+      "source": "Hacker News",
+      "published": "2026-10-04T19:42:25+00:00",
+      "link": "https://github.com/omlahore/RemoveMacAI"
     },
     {
       "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 76 # Comments: 40",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 149 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-10-04T09:24:52+00:00",
       "link": "https://github.com/allenv0/SCM"
@@ -79,6 +100,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
     },
     {
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 74 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-10-04T08:41:58+00:00",
+      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
+    },
+    {
+      "title": "What's the future for pure math research in the age of AI?",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 59 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-10-04T07:53:45+00:00",
+      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
+    },
+    {
       "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
       "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers.",
       "source": "The Decoder",
@@ -87,21 +122,21 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 266 # Comments: 3",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 267 # Comments: 3",
       "source": "Hacker News",
       "published": "2026-10-03T22:18:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     },
     {
       "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 56 # Comments: 90",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 57 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-10-03T19:33:10+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/"
     },
     {
       "title": "Our AI Midwife",
-      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 63 # Comments: 61",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 63 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-10-03T19:12:27+00:00",
       "link": "https://www.astralcodexten.com/p/our-ai-midwife"
@@ -129,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 113 # Comments: 161",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 116 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-10-03T17:57:03+00:00",
       "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 288 # Comments: 484",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 398 # Comments: 738",
       "source": "Hacker News",
       "published": "2026-10-03T17:44:29+00:00",
       "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
@@ -192,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 72 # Comments: 60",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 75 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-03T13:34:18+00:00",
       "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
@@ -206,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 416 # Comments: 12",
+      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 418 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-10-03T10:43:51+00:00",
       "link": "https://tej.as/blog/aleph-alpha-kolibri"
@@ -248,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Extra Big Ass Intelligence",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 503 # Comments: 123",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 513 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-10-03T03:19:10+00:00",
       "link": "https://www.extrabigassintelligence.com/"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 355 # Comments: 101",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 359 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-10-02T18:01:16+00:00",
       "link": "https://dwarfstar.sh/"
@@ -388,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 194 # Comments: 242",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 195 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-10-02T15:18:00+00:00",
       "link": "https://mondobe.com/ai-makes-me-sad"
@@ -409,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 284 # Comments: 147",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 286 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-10-02T14:11:24+00:00",
       "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 334 # Comments: 126",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 336 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-10-02T02:51:27+00:00",
       "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-29T09:03:41+00:00",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
-    },
-    {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 309 # Comments: 102",
-      "source": "Hacker News",
-      "published": "2026-09-29T09:03:41+00:00",
-      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
-    },
-    {
-      "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
-      "summary": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers.",
-      "source": "The Decoder",
-      "published": "2026-09-29T08:47:37+00:00",
-      "link": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/"
-    },
-    {
-      "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
-      "summary": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date.",
-      "source": "The Decoder",
-      "published": "2026-09-29T08:26:38+00:00",
-      "link": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/"
-    },
-    {
-      "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
-      "summary": "Article URL: https://hntrbrk.com/breaking-news/muse-doxxing Comments URL: https://news.ycombinator.com/item?id=49889780 Points: 85 # Comments: 0",
-      "source": "Hacker News",
-      "published": "2026-09-29T08:06:40+00:00",
-      "link": "https://hntrbrk.com/breaking-news/muse-doxxing"
-    },
-    {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T05:13:43+00:00",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
     }
   ]
 };
