@@ -1,6 +1,139 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-05T12:06:28.780089+00:00",
+  "lastUpdated": "2026-10-05T17:29:20.523194+00:00",
   "items": [
+    {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.",
+      "source": "The Verge",
+      "published": "2026-10-05T16:55:42+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
+    },
+    {
+      "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
+      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way.",
+      "source": "The Verge",
+      "published": "2026-10-05T16:44:21+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"
+    },
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T16:43:35+00:00",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
+    },
+    {
+      "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
+      "summary": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI company leaders.",
+      "source": "The Decoder",
+      "published": "2026-10-05T16:37:08+00:00",
+      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/"
+    },
+    {
+      "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+      "summary": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early employees.",
+      "source": "The Decoder",
+      "published": "2026-10-05T16:00:12+00:00",
+      "link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T15:47:52+00:00",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T15:14:24+00:00",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    },
+    {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T14:35:09+00:00",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
+    },
+    {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California.",
+      "source": "The Verge",
+      "published": "2026-10-05T14:30:00+00:00",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
+    },
+    {
+      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+      "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German.",
+      "source": "The Decoder",
+      "published": "2026-10-05T14:12:50+00:00",
+      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/"
+    },
+    {
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27.",
+      "source": "The Verge",
+      "published": "2026-10-05T13:47:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T13:29:32+00:00",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+    },
+    {
+      "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 54 # Comments: 74",
+      "source": "Hacker News",
+      "published": "2026-10-05T13:22:31+00:00",
+      "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
+    },
+    {
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday.",
+      "source": "The Verge",
+      "published": "2026-10-05T13:09:48+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+    },
+    {
+      "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 51 # Comments: 108",
+      "source": "Hacker News",
+      "published": "2026-10-05T12:56:18+00:00",
+      "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
+    },
+    {
+      "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
+      "summary": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them. The article ChatGPT's new ad format fills the image generation loading screen with product carousels appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-05T12:37:32+00:00",
+      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/"
+    },
+    {
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough?",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+    },
+    {
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "source": "TechCrunch",
+      "published": "2026-10-05T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
+    },
     {
       "title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
       "summary": "An MIT expert committee warns that AI is eroding key parts of the college experience: office hours, study groups, and the school's flagship research program for undergraduates are all fading.",
@@ -45,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "Homa: The end of TCP for AI clusters [video]",
-      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 78 # Comments: 43",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 79 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
     },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 623 # Comments: 417",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 723 # Comments: 481",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://github.com/omlahore/RemoveMacAI"
@@ -108,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 154 # Comments: 69",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 160 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-04T09:24:52+00:00",
       "link": "https://github.com/allenv0/SCM"
@@ -122,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to scale intent, quality, and artistry with AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 89 # Comments: 35",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 96 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-10-04T08:41:58+00:00",
       "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
     },
     {
       "title": "What's the future for pure math research in the age of AI?",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 62 # Comments: 50",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 67 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-10-04T07:53:45+00:00",
       "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
@@ -150,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 58 # Comments: 97",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 59 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-03T19:33:10+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/"
     },
     {
       "title": "Our AI Midwife",
-      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 63 # Comments: 64",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 64 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-10-03T19:12:27+00:00",
       "link": "https://www.astralcodexten.com/p/our-ai-midwife"
@@ -185,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 117 # Comments: 167",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 119 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-10-03T17:57:03+00:00",
       "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 405 # Comments: 772",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 408 # Comments: 808",
       "source": "Hacker News",
       "published": "2026-10-03T17:44:29+00:00",
       "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
@@ -248,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 76 # Comments: 61",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 76 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-03T13:34:18+00:00",
       "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
@@ -262,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 419 # Comments: 12",
+      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 420 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-10-03T10:43:51+00:00",
       "link": "https://tej.as/blog/aleph-alpha-kolibri"
@@ -303,8 +436,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/"
     },
     {
+      "title": "Understanding Frontier Artificial Intelligence",
+      "summary": "Article URL: https://casp.ac/reports/intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49942002 Points: 50 # Comments: 91",
+      "source": "Hacker News",
+      "published": "2026-10-03T07:06:02+00:00",
+      "link": "https://casp.ac/reports/intelligence-explosion"
+    },
+    {
       "title": "Extra Big Ass Intelligence",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 515 # Comments: 127",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 516 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-10-03T03:19:10+00:00",
       "link": "https://www.extrabigassintelligence.com/"
@@ -374,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 359 # Comments: 103",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 360 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-10-02T18:01:16+00:00",
       "link": "https://dwarfstar.sh/"
@@ -444,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 195 # Comments: 243",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 195 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-10-02T15:18:00+00:00",
       "link": "https://mondobe.com/ai-makes-me-sad"
@@ -1260,146 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-29T17:12:27+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1062 # Comments: 950",
-      "source": "Hacker News",
-      "published": "2026-09-29T17:06:45+00:00",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
-    },
-    {
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T16:55:56+00:00",
-      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
-    },
-    {
-      "title": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
-      "summary": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews.",
-      "source": "The Decoder",
-      "published": "2026-09-29T16:31:36+00:00",
-      "link": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/"
-    },
-    {
-      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 568 # Comments: 429",
-      "source": "Hacker News",
-      "published": "2026-09-29T16:30:48+00:00",
-      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
-    },
-    {
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "summary": "It’s OpenAI’s turn in the fall tech events calendar.",
-      "source": "The Verge",
-      "published": "2026-09-29T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
-    },
-    {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T15:12:07+00:00",
-      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
-    },
-    {
-      "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
-      "summary": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents.",
-      "source": "The Decoder",
-      "published": "2026-09-29T14:45:17+00:00",
-      "link": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/"
-    },
-    {
-      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 163 # Comments: 43",
-      "source": "Hacker News",
-      "published": "2026-09-29T14:15:24+00:00",
-      "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
-    },
-    {
-      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account.",
-      "source": "The Verge",
-      "published": "2026-09-29T14:08:21+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
-    },
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T13:53:01+00:00",
-      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
-    },
-    {
-      "title": "Where's the \"Intelligence Explosion\"?",
-      "summary": "Article URL: https://www.noahpinion.blog/p/wheres-the-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49893266 Points: 58 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-09-29T13:51:09+00:00",
-      "link": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion"
-    },
-    {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T13:47:30+00:00",
-      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
-    },
-    {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T12:45:05+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
-    },
-    {
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-29T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
-    },
-    {
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49891721 Points: 51 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-09-29T12:01:07+00:00",
-      "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html"
-    },
-    {
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world.",
-      "source": "The Verge",
-      "published": "2026-09-29T12:00:00+00:00",
-      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
-    },
-    {
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\"...",
-      "source": "The Verge",
-      "published": "2026-09-29T11:48:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-29T10:43:45+00:00",
-      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
-    },
-    {
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-      "source": "Wired",
-      "published": "2026-09-29T10:36:22+00:00",
-      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
     }
   ]
 };
