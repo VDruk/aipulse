@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-06T11:50:55.150762+00:00",
+  "lastUpdated": "2026-10-06T15:29:45.995989+00:00",
   "items": [
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T15:25:00+00:00",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T14:33:16+00:00",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+    },
+    {
+      "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
+      "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors.",
+      "source": "The Decoder",
+      "published": "2026-10-06T14:18:08+00:00",
+      "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/"
+    },
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T14:00:49+00:00",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
+    },
+    {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.",
+      "source": "The Verge",
+      "published": "2026-10-06T13:19:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+    },
+    {
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "source": "Wired",
+      "published": "2026-10-06T13:15:23+00:00",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/"
+    },
+    {
+      "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
+      "summary": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-06T12:54:31+00:00",
+      "link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/"
+    },
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "source": "Ars Technica",
+      "published": "2026-10-06T12:21:53+00:00",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+    },
+    {
+      "title": "Reflection's Beam becomes the most capable open-weight model built outside China",
+      "summary": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times less compute.",
+      "source": "The Decoder",
+      "published": "2026-10-06T12:11:22+00:00",
+      "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/"
+    },
+    {
+      "title": "The Download: 10 climate tech companies to watch",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-06T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
+    },
     {
       "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
       "summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine.",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-30T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
-    },
-    {
-      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
-      "summary": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices.",
-      "source": "The Decoder",
-      "published": "2026-09-30T11:05:05+00:00",
-      "link": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/"
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-30T10:40:30+00:00",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
-    },
-    {
-      "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
-      "summary": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year.",
-      "source": "The Decoder",
-      "published": "2026-09-30T10:17:15+00:00",
-      "link": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/"
-    },
-    {
-      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 80 # Comments: 101",
-      "source": "Hacker News",
-      "published": "2026-09-30T09:59:03+00:00",
-      "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
-    },
-    {
-      "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
-      "summary": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended.",
-      "source": "The Decoder",
-      "published": "2026-09-30T09:46:10+00:00",
-      "link": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/"
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 123 # Comments: 220",
-      "source": "Hacker News",
-      "published": "2026-09-30T02:36:12+00:00",
-      "link": "https://agmai.org/general-sep29/"
-    },
-    {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight.",
-      "source": "The Verge",
-      "published": "2026-09-30T00:19:13+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
-    },
-    {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.",
-      "source": "The Verge",
-      "published": "2026-09-29T22:25:45+00:00",
-      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T22:20:59+00:00",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
-    },
-    {
-      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause.",
-      "source": "The Verge",
-      "published": "2026-09-29T21:49:09+00:00",
-      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
     }
   ]
 };
