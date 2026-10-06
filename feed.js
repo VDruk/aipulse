@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-06T18:49:27.653212+00:00",
+  "lastUpdated": "2026-10-06T21:24:40.332907+00:00",
   "items": [
+    {
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T20:35:20+00:00",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T20:00:30+00:00",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T19:56:50+00:00",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+    },
+    {
+      "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+      "summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google.",
+      "source": "The Decoder",
+      "published": "2026-10-06T19:47:27+00:00",
+      "link": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/"
+    },
+    {
+      "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+      "summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.",
+      "source": "The Decoder",
+      "published": "2026-10-06T19:29:42+00:00",
+      "link": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/"
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "source": "Ars Technica",
+      "published": "2026-10-06T19:21:14+00:00",
+      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+    },
     {
       "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
       "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
@@ -129,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
       "source": "Ars Technica",
       "published": "2026-10-06T12:21:53+00:00",
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-30T17:24:45+00:00",
       "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
-    },
-    {
-      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
-      "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion.",
-      "source": "The Decoder",
-      "published": "2026-09-30T17:22:34+00:00",
-      "link": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/"
-    },
-    {
-      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion.",
-      "source": "The Verge",
-      "published": "2026-09-30T17:15:49+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments"
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-      "source": "TechCrunch",
-      "published": "2026-09-30T16:24:23+00:00",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
-    },
-    {
-      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands.",
-      "source": "The Decoder",
-      "published": "2026-09-30T16:20:04+00:00",
-      "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/"
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "source": "TechCrunch",
-      "published": "2026-09-30T16:00:24+00:00",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-      "source": "TechCrunch",
-      "published": "2026-09-30T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
     }
   ]
 };
