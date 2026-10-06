@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-06T07:11:10.000285+00:00",
+  "lastUpdated": "2026-10-06T11:50:55.150762+00:00",
   "items": [
+    {
+      "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+      "summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine.",
+      "source": "The Decoder",
+      "published": "2026-10-06T11:43:42+00:00",
+      "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/"
+    },
+    {
+      "title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
+      "summary": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-06T10:50:18+00:00",
+      "link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/"
+    },
+    {
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-06T10:35:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
+    },
+    {
+      "title": "BasiGo and its fleet of electric buses",
+      "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-06T10:35:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/"
+    },
+    {
+      "title": "Moment Energy and its shipping containers packed with old EV batteries",
+      "summary": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-06T10:35:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/"
+    },
+    {
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "source": "Wired",
+      "published": "2026-10-06T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
+    },
     {
       "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
       "summary": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions.",
       "source": "The Decoder",
       "published": "2026-10-06T06:58:19+00:00",
       "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/"
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 66 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-10-06T00:00:45+00:00",
+      "link": "https://edworkingpapers.com/ai26-1551"
     },
     {
       "title": "Gemini Call for Me might tell your mom you’re running late",
@@ -42,6 +91,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-05T19:33:53+00:00",
       "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    },
+    {
+      "title": "AI Companies Are Parasites",
+      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 66 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-10-05T19:30:10+00:00",
+      "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites"
     },
     {
       "title": "All the drama around AI’s takeover of mathematics",
@@ -156,6 +212,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
     },
     {
+      "title": "Florida woman arrested for allegedly making threats in an AI chat",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat Comments URL: https://news.ycombinator.com/item?id=49965895 Points: 50 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-10-05T15:11:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat"
+    },
+    {
       "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
       "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "source": "TechCrunch",
@@ -198,8 +261,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
     },
     {
-      "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 54 # Comments: 74",
+      "title": "Spending on AI is becoming almost impossible for businesses to budget",
+      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 59 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-10-05T13:22:31+00:00",
       "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
@@ -213,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 51 # Comments: 108",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 61 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-10-05T12:56:18+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
@@ -283,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "Homa: The end of TCP for AI clusters [video]",
-      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 79 # Comments: 49",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 80 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
     },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 723 # Comments: 481",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 760 # Comments: 535",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://github.com/omlahore/RemoveMacAI"
@@ -346,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 160 # Comments: 71",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 167 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-04T09:24:52+00:00",
       "link": "https://github.com/allenv0/SCM"
@@ -360,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to scale intent, quality, and artistry with AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 96 # Comments: 43",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 100 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-10-04T08:41:58+00:00",
       "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
@@ -381,21 +444,21 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 267 # Comments: 3",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 268 # Comments: 3",
       "source": "Hacker News",
       "published": "2026-10-03T22:18:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     },
     {
       "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 59 # Comments: 98",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 59 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-10-03T19:33:10+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/"
     },
     {
       "title": "Our AI Midwife",
-      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 64 # Comments: 64",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 64 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-10-03T19:12:27+00:00",
       "link": "https://www.astralcodexten.com/p/our-ai-midwife"
@@ -423,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 119 # Comments: 168",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 120 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-10-03T17:57:03+00:00",
       "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 408 # Comments: 808",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 412 # Comments: 833",
       "source": "Hacker News",
       "published": "2026-10-03T17:44:29+00:00",
       "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
@@ -486,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 76 # Comments: 62",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 78 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-03T13:34:18+00:00",
       "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
@@ -511,6 +574,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-03T10:21:23+00:00",
       "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/"
+    },
+    {
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why Comments URL: https://news.ycombinator.com/item?id=49942865 Points: 50 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-10-03T10:07:08+00:00",
+      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why"
     },
     {
       "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
@@ -549,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Extra Big Ass Intelligence",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 516 # Comments: 128",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 518 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-10-03T03:19:10+00:00",
       "link": "https://www.extrabigassintelligence.com/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-29T21:49:09+00:00",
       "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T20:15:47+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
-    },
-    {
-      "title": "McDonald's push to have AI price your Big Mac",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 61 # Comments: 38",
-      "source": "Hacker News",
-      "published": "2026-09-29T19:58:50+00:00",
-      "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T19:52:37+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
-    },
-    {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T19:52:37+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
-    },
-    {
-      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-      "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled.",
-      "source": "The Decoder",
-      "published": "2026-09-29T19:24:12+00:00",
-      "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/"
-    },
-    {
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 222 # Comments: 335",
-      "source": "Hacker News",
-      "published": "2026-09-29T19:21:25+00:00",
-      "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
-    },
-    {
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "source": "Wired",
-      "published": "2026-09-29T19:05:00+00:00",
-      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"
-    },
-    {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T18:35:00+00:00",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
-    },
-    {
-      "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
-      "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth.",
-      "source": "The Decoder",
-      "published": "2026-09-29T18:10:34+00:00",
-      "link": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/"
-    },
-    {
-      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-      "source": "Wired",
-      "published": "2026-09-29T18:03:01+00:00",
-      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/"
     }
   ]
 };
