@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-06T01:36:36.319846+00:00",
+  "lastUpdated": "2026-10-06T07:11:10.000285+00:00",
   "items": [
+    {
+      "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
+      "summary": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions.",
+      "source": "The Decoder",
+      "published": "2026-10-06T06:58:19+00:00",
+      "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/"
+    },
     {
       "title": "Gemini Call for Me might tell your mom you’re running late",
       "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-29T18:03:01+00:00",
       "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/"
-    },
-    {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:45:51+00:00",
-      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
     }
   ]
 };
