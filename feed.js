@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-06T15:29:45.995989+00:00",
+  "lastUpdated": "2026-10-06T18:49:27.653212+00:00",
   "items": [
+    {
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+      "source": "Wired",
+      "published": "2026-10-06T18:45:39+00:00",
+      "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/"
+    },
+    {
+      "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+      "summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling.",
+      "source": "The Decoder",
+      "published": "2026-10-06T18:29:35+00:00",
+      "link": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T18:22:45+00:00",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+    },
+    {
+      "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+      "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced.",
+      "source": "The Decoder",
+      "published": "2026-10-06T17:31:51+00:00",
+      "link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/"
+    },
+    {
+      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "source": "Wired",
+      "published": "2026-10-06T17:28:33+00:00",
+      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/"
+    },
+    {
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-06T16:40:36+00:00",
+      "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T16:35:00+00:00",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
+    },
+    {
+      "title": "We can’t just change the definition of ‘recording’",
+      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording.",
+      "source": "The Verge",
+      "published": "2026-10-06T16:29:44+00:00",
+      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording"
+    },
+    {
+      "title": "AI is now capable of developing its own inference hardware",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 136 # Comments: 121",
+      "source": "Hacker News",
+      "published": "2026-10-06T16:23:25+00:00",
+      "link": "https://github.com/FeSens/openTPU"
+    },
+    {
+      "title": "Insurers brace for millions in claims as AI agents spin out of control",
+      "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout.",
+      "source": "The Decoder",
+      "published": "2026-10-06T16:06:46+00:00",
+      "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "source": "TechCrunch",
+      "published": "2026-10-06T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+    },
     {
       "title": "LibreOffice says ‘no AI’ is now a software feature",
       "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
@@ -122,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 66 # Comments: 55",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 67 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-06T00:00:45+00:00",
       "link": "https://edworkingpapers.com/ai26-1551"
@@ -164,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Companies Are Parasites",
-      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 66 # Comments: 36",
+      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 70 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-10-05T19:30:10+00:00",
       "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites"
@@ -283,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida woman arrested for allegedly making threats in an AI chat",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat Comments URL: https://news.ycombinator.com/item?id=49965895 Points: 50 # Comments: 79",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat Comments URL: https://news.ycombinator.com/item?id=49965895 Points: 50 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-10-05T15:11:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat"
@@ -332,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Spending on AI is becoming almost impossible for businesses to budget",
-      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 59 # Comments: 83",
+      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 59 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-05T13:22:31+00:00",
       "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
@@ -346,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 61 # Comments: 115",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 63 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-10-05T12:56:18+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
@@ -423,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 760 # Comments: 535",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 764 # Comments: 538",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://github.com/omlahore/RemoveMacAI"
@@ -479,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 167 # Comments: 73",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 173 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-04T09:24:52+00:00",
       "link": "https://github.com/allenv0/SCM"
@@ -493,14 +570,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to scale intent, quality, and artistry with AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 100 # Comments: 49",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 101 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-10-04T08:41:58+00:00",
       "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
     },
     {
       "title": "What's the future for pure math research in the age of AI?",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 67 # Comments: 52",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 68 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-10-04T07:53:45+00:00",
       "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
@@ -556,14 +633,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 120 # Comments: 169",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 121 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-10-03T17:57:03+00:00",
       "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 412 # Comments: 833",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 414 # Comments: 839",
       "source": "Hacker News",
       "published": "2026-10-03T17:44:29+00:00",
       "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
@@ -633,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 420 # Comments: 12",
+      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 422 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-10-03T10:43:51+00:00",
       "link": "https://tej.as/blog/aleph-alpha-kolibri"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-30T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
-    },
-    {
-      "title": "The AI Race Just Got Awkward",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 412 # Comments: 462",
-      "source": "Hacker News",
-      "published": "2026-09-30T15:50:11+00:00",
-      "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
-    },
-    {
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card.",
-      "source": "The Verge",
-      "published": "2026-09-30T15:18:49+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
-    },
-    {
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
-      "source": "The Verge",
-      "published": "2026-09-30T14:51:49+00:00",
-      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
-    },
-    {
-      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong.",
-      "source": "Hacker News",
-      "published": "2026-09-30T14:38:57+00:00",
-      "link": "https://lathoa.ai/en"
-    },
-    {
-      "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
-      "summary": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA.",
-      "source": "The Decoder",
-      "published": "2026-09-30T14:37:24+00:00",
-      "link": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/"
-    },
-    {
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "source": "TechCrunch",
-      "published": "2026-09-30T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts.",
-      "source": "The Verge",
-      "published": "2026-09-30T14:30:00+00:00",
-      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
-    },
-    {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "source": "TechCrunch",
-      "published": "2026-09-30T14:27:11+00:00",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
-    },
-    {
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.",
-      "source": "The Verge",
-      "published": "2026-09-30T12:24:32+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
-    },
-    {
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-30T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
-    },
-    {
-      "title": "Airbnb adds AI search, more social features",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "source": "TechCrunch",
-      "published": "2026-09-30T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
     }
   ]
 };
