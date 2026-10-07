@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-07T06:50:47.714401+00:00",
+  "lastUpdated": "2026-10-07T11:36:03.177451+00:00",
   "items": [
+    {
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+      "source": "Wired",
+      "published": "2026-10-07T11:00:00+00:00",
+      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
+    },
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help...",
+      "source": "The Verge",
+      "published": "2026-10-07T09:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+    },
+    {
+      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+      "summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average.",
+      "source": "The Decoder",
+      "published": "2026-10-07T08:54:43+00:00",
+      "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/"
+    },
+    {
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "source": "Wired",
+      "published": "2026-10-07T08:30:00+00:00",
+      "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
+    },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-30T19:00:57+00:00",
       "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-    },
-    {
-      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
-      "source": "Wired",
-      "published": "2026-09-30T19:00:00+00:00",
-      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/"
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "source": "TechCrunch",
-      "published": "2026-09-30T18:23:57+00:00",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
-    },
-    {
-      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
-      "summary": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically.",
-      "source": "The Decoder",
-      "published": "2026-09-30T18:16:04+00:00",
-      "link": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/"
-    },
-    {
-      "title": "The AI Tamagotchis are coming",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that.",
-      "source": "The Verge",
-      "published": "2026-09-30T18:07:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
     }
   ]
 };
