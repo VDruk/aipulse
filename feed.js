@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-08T00:37:52.453008+00:00",
+  "lastUpdated": "2026-10-08T06:59:45.317673+00:00",
   "items": [
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
