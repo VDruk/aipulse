@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-07T21:43:08.535037+00:00",
+  "lastUpdated": "2026-10-08T00:37:52.453008+00:00",
   "items": [
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes agent raised a $90 million Series B.",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
       "source": "TechCrunch",
       "published": "2026-10-07T20:48:45+00:00",
       "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
@@ -28,6 +28,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-07T19:06:40+00:00",
       "link": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/"
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 256 # Comments: 251",
+      "source": "Hacker News",
+      "published": "2026-10-07T18:49:40+00:00",
+      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
     },
     {
       "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
@@ -70,6 +77,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-07T18:01:20+00:00",
       "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 469 # Comments: 244",
+      "source": "Hacker News",
+      "published": "2026-10-07T18:00:58+00:00",
+      "link": "https://openai.com/index/gpt-6-for-everyone/"
     },
     {
       "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
@@ -184,6 +198,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
     },
     {
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 108 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-10-07T14:10:55+00:00",
+      "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
+    },
+    {
       "title": "Google’s new SynthID website can identify AI-generated media",
       "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
       "source": "TechCrunch",
@@ -233,6 +254,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
     },
     {
+      "title": "Reasons to Dislike AI Coding",
+      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 60 # Comments: 93",
+      "source": "Hacker News",
+      "published": "2026-10-07T09:15:00+00:00",
+      "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
+    },
+    {
       "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
       "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help...",
       "source": "The Verge",
@@ -254,6 +282,27 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
     },
     {
+      "title": "Forever junior: Skills AI can't develop for you",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 64 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-10-07T08:00:06+00:00",
+      "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
+    },
+    {
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 54 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-10-07T03:30:44+00:00",
+      "link": "https://github.com/nano-muse/nanoMuse"
+    },
+    {
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 97 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-10-06T23:50:33+00:00",
+      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
+    },
+    {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers.",
       "source": "The Verge",
@@ -266,6 +315,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-06T22:34:03+00:00",
       "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1222 # Comments: 1399",
+      "source": "Hacker News",
+      "published": "2026-10-06T22:17:21+00:00",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 230 # Comments: 175",
+      "source": "Hacker News",
+      "published": "2026-10-06T21:59:43+00:00",
+      "link": "https://penguin-mail.com/"
     },
     {
       "title": "How AI decision models could change content moderation",
@@ -345,6 +408,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/"
     },
     {
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 137 # Comments: 127",
+      "source": "Hacker News",
+      "published": "2026-10-06T17:01:52+00:00",
+      "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
+    },
+    {
       "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
       "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years.",
       "source": "MIT Tech Review",
@@ -364,6 +434,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-06T16:29:44+00:00",
       "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording"
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 335 # Comments: 392",
+      "source": "Hacker News",
+      "published": "2026-10-06T16:23:25+00:00",
+      "link": "https://github.com/FeSens/openTPU"
     },
     {
       "title": "AI is now capable of developing its own inference hardware",
@@ -434,6 +511,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-06T12:54:31+00:00",
       "link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/"
+    },
+    {
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 116 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-10-06T12:53:58+00:00",
+      "link": "https://www.erdosproblems.com/forum/thread/blog:9"
     },
     {
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -507,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 67 # Comments: 62",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 73 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-10-06T00:00:45+00:00",
       "link": "https://edworkingpapers.com/ai26-1551"
@@ -549,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Companies Are Parasites",
-      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 70 # Comments: 37",
+      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 71 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-10-05T19:30:10+00:00",
       "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites"
@@ -717,7 +801,7 @@ const FEED_DATA = {
     },
     {
       "title": "Spending on AI is becoming almost impossible for businesses to budget",
-      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 59 # Comments: 86",
+      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 59 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-10-05T13:22:31+00:00",
       "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
@@ -731,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 63 # Comments: 118",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 63 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-10-05T12:56:18+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
@@ -801,14 +885,14 @@ const FEED_DATA = {
     },
     {
       "title": "Homa: The end of TCP for AI clusters [video]",
-      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 80 # Comments: 50",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 80 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
     },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 764 # Comments: 538",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 767 # Comments: 556",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://github.com/omlahore/RemoveMacAI"
@@ -864,7 +948,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 173 # Comments: 73",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 177 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-04T09:24:52+00:00",
       "link": "https://github.com/allenv0/SCM"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-02T09:20:39+00:00",
       "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/"
-    },
-    {
-      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-      "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-02T09:09:21+00:00",
-      "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/"
-    },
-    {
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-02T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-      "source": "MIT Tech Review",
-      "published": "2026-10-02T08:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
-    },
-    {
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K.",
-      "source": "The Decoder",
-      "published": "2026-10-02T07:44:44+00:00",
-      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 336 # Comments: 128",
-      "source": "Hacker News",
-      "published": "2026-10-02T02:51:27+00:00",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
-    },
-    {
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "source": "Wired",
-      "published": "2026-10-01T22:10:42+00:00",
-      "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/"
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "source": "TechCrunch",
-      "published": "2026-10-01T21:08:11+00:00",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
-    },
-    {
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "source": "Wired",
-      "published": "2026-10-01T19:58:31+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/"
-    },
-    {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at.",
-      "source": "The Verge",
-      "published": "2026-10-01T19:47:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "source": "TechCrunch",
-      "published": "2026-10-01T19:21:53+00:00",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "source": "TechCrunch",
-      "published": "2026-10-01T18:14:42+00:00",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
-    },
-    {
-      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-      "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures.",
-      "source": "The Decoder",
-      "published": "2026-10-01T18:03:40+00:00",
-      "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/"
     }
   ]
 };
