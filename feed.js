@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-08T19:11:05.985768+00:00",
+  "lastUpdated": "2026-10-08T21:42:53.468200+00:00",
   "items": [
+    {
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Donald Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "source": "Wired",
+      "published": "2026-10-08T21:14:12+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/"
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T21:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T20:04:26+00:00",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+    },
+    {
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "source": "Wired",
+      "published": "2026-10-08T19:30:00+00:00",
+      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
+    },
+    {
+      "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+      "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts.",
+      "source": "The Decoder",
+      "published": "2026-10-08T19:17:22+00:00",
+      "link": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/"
+    },
     {
       "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
       "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance.",
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 67 # Comments: 11",
+      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 76 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-10-08T13:29:46+00:00",
       "link": "https://github.com/SamsungLabs/LittleBit"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 106 # Comments: 201",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 106 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -255,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 362 # Comments: 378",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 367 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 739 # Comments: 437",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 740 # Comments: 443",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 78 # Comments: 59",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 79 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-07T08:00:06+00:00",
       "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
@@ -549,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1315 # Comments: 1488",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1319 # Comments: 1495",
       "source": "Hacker News",
       "published": "2026-10-06T22:17:21+00:00",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
@@ -640,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 139 # Comments: 131",
+      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 140 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-10-06T17:01:52+00:00",
       "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
@@ -668,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 340 # Comments: 399",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 341 # Comments: 399",
       "source": "Hacker News",
       "published": "2026-10-06T16:23:25+00:00",
       "link": "https://github.com/FeSens/openTPU"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-03T08:31:04+00:00",
       "link": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/"
-    },
-    {
-      "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
-      "summary": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own.",
-      "source": "The Decoder",
-      "published": "2026-10-03T08:06:35+00:00",
-      "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/"
-    },
-    {
-      "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-      "summary": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands.",
-      "source": "The Decoder",
-      "published": "2026-10-03T07:12:09+00:00",
-      "link": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/"
-    },
-    {
-      "title": "Understanding Frontier Artificial Intelligence",
-      "summary": "Article URL: https://casp.ac/reports/intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49942002 Points: 50 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-10-03T07:06:02+00:00",
-      "link": "https://casp.ac/reports/intelligence-explosion"
-    },
-    {
-      "title": "Extra Big Ass Intelligence",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 518 # Comments: 128",
-      "source": "Hacker News",
-      "published": "2026-10-03T03:19:10+00:00",
-      "link": "https://www.extrabigassintelligence.com/"
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "source": "Ars Technica",
-      "published": "2026-10-02T23:03:16+00:00",
-      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
     }
   ]
 };
