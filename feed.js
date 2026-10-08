@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-08T11:50:31.613649+00:00",
+  "lastUpdated": "2026-10-08T15:54:25.059994+00:00",
   "items": [
+    {
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.",
+      "source": "The Verge",
+      "published": "2026-10-08T15:27:30+00:00",
+      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
+    },
+    {
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
+    },
+    {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background.",
+      "source": "The Verge",
+      "published": "2026-10-08T14:28:03+00:00",
+      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+    },
+    {
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
+    },
+    {
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents.",
+      "source": "The Verge",
+      "published": "2026-10-08T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
+    },
+    {
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately...",
+      "source": "The Verge",
+      "published": "2026-10-08T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
+    },
+    {
+      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
+      "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months.",
+      "source": "The Decoder",
+      "published": "2026-10-08T13:52:54+00:00",
+      "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/"
+    },
+    {
+      "title": "Google releases a new local-first Granola competitor",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T13:28:39+00:00",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+    },
+    {
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T13:20:32+00:00",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+    },
+    {
+      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region.",
+      "source": "The Decoder",
+      "published": "2026-10-08T13:01:01+00:00",
+      "link": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
+    },
+    {
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-08T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
+    },
     {
       "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
       "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.",
@@ -84,6 +161,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
+    },
+    {
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza.",
+      "source": "The Verge",
+      "published": "2026-10-07T18:46:16+00:00",
+      "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
     },
     {
       "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-02T17:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
-    },
-    {
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-      "source": "Wired",
-      "published": "2026-10-02T16:00:00+00:00",
-      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/"
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-02T15:49:04+00:00",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "source": "TechCrunch",
-      "published": "2026-10-02T15:39:41+00:00",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
-    },
-    {
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832 Comments URL: https://news.ycombinator.com/item?id=49934569 Points: 50 # Comments: 23",
-      "source": "Hacker News",
-      "published": "2026-10-02T15:24:54+00:00",
-      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
-    },
-    {
-      "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 195 # Comments: 244",
-      "source": "Hacker News",
-      "published": "2026-10-02T15:18:00+00:00",
-      "link": "https://mondobe.com/ai-makes-me-sad"
-    },
-    {
-      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-      "source": "Wired",
-      "published": "2026-10-02T15:00:00+00:00",
-      "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "published": "2026-10-02T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 288 # Comments: 149",
-      "source": "Hacker News",
-      "published": "2026-10-02T14:11:24+00:00",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
-    },
-    {
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "summary": "Article URL: https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails Comments URL: https://news.ycombinator.com/item?id=49933476 Points: 88 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-10-02T13:47:41+00:00",
-      "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails"
-    },
-    {
-      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 76 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-10-02T13:19:47+00:00",
-      "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/"
-    },
-    {
-      "title": "Three firings and a fourth departure shake up OpenAI's safety team",
-      "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-02T12:51:08+00:00",
-      "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/"
-    },
-    {
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-02T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
     }
   ]
 };
