@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-08T06:59:45.317673+00:00",
+  "lastUpdated": "2026-10-08T11:50:31.613649+00:00",
   "items": [
+    {
+      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.",
+      "source": "The Decoder",
+      "published": "2026-10-08T10:30:23+00:00",
+      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
+    },
+    {
+      "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+      "summary": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear.",
+      "source": "The Decoder",
+      "published": "2026-10-08T09:57:42+00:00",
+      "link": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/"
+    },
+    {
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "source": "Wired",
+      "published": "2026-10-08T09:30:00+00:00",
+      "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"
+    },
+    {
+      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen.",
+      "source": "The Decoder",
+      "published": "2026-10-08T09:24:17+00:00",
+      "link": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
+    },
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-08T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+    },
+    {
+      "title": "Building a safer path to autonomous industrial AI",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-08T08:17:32+00:00",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+    },
+    {
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 72 # Comments: 119",
+      "source": "Hacker News",
+      "published": "2026-10-08T00:46:00+00:00",
+      "link": "https://github.com/pingdotgg/ts-rust"
+    },
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "summary": "The developer of Hermes Agent raised a $90 million Series B.",
@@ -31,17 +80,10 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 256 # Comments: 251",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 345 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
-    },
-    {
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.",
-      "source": "The Decoder",
-      "published": "2026-10-07T18:49:23+00:00",
-      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
     },
     {
       "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
@@ -80,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 469 # Comments: 244",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 662 # Comments: 373",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -119,6 +161,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-07T17:46:44+00:00",
       "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
+    },
+    {
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "summary": "Hi HN!I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents.",
+      "source": "Hacker News",
+      "published": "2026-10-07T16:59:11+00:00",
+      "link": "https://agent.reviews/"
     },
     {
       "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted proof of optimal packing for 11 squares",
-      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 108 # Comments: 49",
+      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 115 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-10-07T14:10:55+00:00",
       "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
@@ -255,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reasons to Dislike AI Coding",
-      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 60 # Comments: 93",
+      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 72 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-10-07T09:15:00+00:00",
       "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
@@ -283,21 +332,21 @@ const FEED_DATA = {
     },
     {
       "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 64 # Comments: 56",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 76 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-10-07T08:00:06+00:00",
       "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 54 # Comments: 20",
+      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 57 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-10-07T03:30:44+00:00",
       "link": "https://github.com/nano-muse/nanoMuse"
     },
     {
       "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 97 # Comments: 31",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 98 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-10-06T23:50:33+00:00",
       "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
@@ -318,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1222 # Comments: 1399",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1286 # Comments: 1459",
       "source": "Hacker News",
       "published": "2026-10-06T22:17:21+00:00",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
     },
     {
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 230 # Comments: 175",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 234 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-10-06T21:59:43+00:00",
       "link": "https://penguin-mail.com/"
@@ -409,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 137 # Comments: 127",
+      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 138 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-10-06T17:01:52+00:00",
       "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 335 # Comments: 392",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 339 # Comments: 397",
       "source": "Hacker News",
       "published": "2026-10-06T16:23:25+00:00",
       "link": "https://github.com/FeSens/openTPU"
@@ -514,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 116 # Comments: 52",
+      "summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 118 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-06T12:53:58+00:00",
       "link": "https://www.erdosproblems.com/forum/thread/blog:9"
@@ -885,7 +934,7 @@ const FEED_DATA = {
     },
     {
       "title": "Homa: The end of TCP for AI clusters [video]",
-      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 80 # Comments: 55",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 80 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-10-04T19:42:25+00:00",
       "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-02T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
-    },
-    {
-      "title": "AI hallucinations are making entitled customers even worse",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls.",
-      "source": "The Verge",
-      "published": "2026-10-02T12:00:00+00:00",
-      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
-    },
-    {
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security.",
-      "source": "The Verge",
-      "published": "2026-10-02T11:52:20+00:00",
-      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
-    },
-    {
-      "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
-      "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind.",
-      "source": "The Decoder",
-      "published": "2026-10-02T11:15:24+00:00",
-      "link": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/"
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "source": "Wired",
-      "published": "2026-10-02T09:45:00+00:00",
-      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
-    },
-    {
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions.",
-      "source": "The Verge",
-      "published": "2026-10-02T09:42:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
-    },
-    {
-      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "source": "Wired",
-      "published": "2026-10-02T09:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/"
-    },
-    {
-      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-02T09:20:39+00:00",
-      "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/"
     }
   ]
 };
