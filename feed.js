@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-08T15:54:25.059994+00:00",
+  "lastUpdated": "2026-10-08T19:11:05.985768+00:00",
   "items": [
+    {
+      "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
+      "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance.",
+      "source": "The Decoder",
+      "published": "2026-10-08T19:03:14+00:00",
+      "link": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:20:32+00:00",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:19:45+00:00",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+    },
+    {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:19:42+00:00",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:18:00+00:00",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+    },
+    {
+      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error.",
+      "source": "The Decoder",
+      "published": "2026-10-08T18:17:07+00:00",
+      "link": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/"
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:16:24+00:00",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+    },
+    {
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:10:55+00:00",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
+    },
+    {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters.",
+      "source": "The Verge",
+      "published": "2026-10-08T17:58:33+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+    },
+    {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy.",
+      "source": "The Verge",
+      "published": "2026-10-08T17:57:01+00:00",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson"
+    },
+    {
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses.",
+      "source": "The Verge",
+      "published": "2026-10-08T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+    },
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+    },
+    {
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+    },
     {
       "title": "Google’s AI note-taking app transcribes your meetings completely offline",
       "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.",
@@ -49,6 +140,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-08T13:52:54+00:00",
       "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/"
+    },
+    {
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 67 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-10-08T13:29:46+00:00",
+      "link": "https://github.com/SamsungLabs/LittleBit"
     },
     {
       "title": "Google releases a new local-first Granola competitor",
@@ -122,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 72 # Comments: 119",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 106 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -157,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 345 # Comments: 348",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 362 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -206,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 662 # Comments: 373",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 739 # Comments: 437",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -332,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted proof of optimal packing for 11 squares",
-      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 115 # Comments: 53",
+      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 116 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-10-07T14:10:55+00:00",
       "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
@@ -388,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reasons to Dislike AI Coding",
-      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 72 # Comments: 105",
+      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 77 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-10-07T09:15:00+00:00",
       "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
@@ -416,21 +514,21 @@ const FEED_DATA = {
     },
     {
       "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 76 # Comments: 58",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 78 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-07T08:00:06+00:00",
       "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 57 # Comments: 21",
+      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 59 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-10-07T03:30:44+00:00",
       "link": "https://github.com/nano-muse/nanoMuse"
     },
     {
       "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 98 # Comments: 31",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 100 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-10-06T23:50:33+00:00",
       "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
@@ -451,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1286 # Comments: 1459",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1315 # Comments: 1488",
       "source": "Hacker News",
       "published": "2026-10-06T22:17:21+00:00",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
     },
     {
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 234 # Comments: 182",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 238 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-10-06T21:59:43+00:00",
       "link": "https://penguin-mail.com/"
@@ -542,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 138 # Comments: 128",
+      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 139 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-10-06T17:01:52+00:00",
       "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
@@ -570,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 339 # Comments: 397",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 340 # Comments: 399",
       "source": "Hacker News",
       "published": "2026-10-06T16:23:25+00:00",
       "link": "https://github.com/FeSens/openTPU"
@@ -724,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 73 # Comments: 69",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 73 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-10-06T00:00:45+00:00",
       "link": "https://edworkingpapers.com/ai26-1551"
@@ -948,7 +1046,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 63 # Comments: 122",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 64 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-10-05T12:56:18+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-10-02T23:03:16+00:00",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "source": "TechCrunch",
-      "published": "2026-10-02T21:09:14+00:00",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced.",
-      "source": "The Verge",
-      "published": "2026-10-02T21:08:37+00:00",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch.",
-      "source": "The Verge",
-      "published": "2026-10-02T20:08:40+00:00",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
-    },
-    {
-      "title": "AI music generator Suno can now create spoken audio with matching background music",
-      "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories.",
-      "source": "The Decoder",
-      "published": "2026-10-02T20:07:36+00:00",
-      "link": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/"
-    },
-    {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble...",
-      "source": "Hacker News",
-      "published": "2026-10-02T20:00:15+00:00",
-      "link": "https://github.com/anteloc/ldraw-nova"
-    },
-    {
-      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character.",
-      "source": "The Decoder",
-      "published": "2026-10-02T19:41:05+00:00",
-      "link": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/"
-    },
-    {
-      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
-      "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev.",
-      "source": "The Decoder",
-      "published": "2026-10-02T18:19:51+00:00",
-      "link": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "source": "TechCrunch",
-      "published": "2026-10-02T18:11:27+00:00",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 360 # Comments: 104",
-      "source": "Hacker News",
-      "published": "2026-10-02T18:01:16+00:00",
-      "link": "https://dwarfstar.sh/"
-    },
-    {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding.",
-      "source": "The Verge",
-      "published": "2026-10-02T18:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-    },
-    {
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially...",
-      "source": "TechCrunch",
-      "published": "2026-10-02T17:56:00+00:00",
-      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
-    },
-    {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially...",
-      "source": "TechCrunch",
-      "published": "2026-10-02T17:48:16+00:00",
-      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "source": "TechCrunch",
-      "published": "2026-10-02T17:32:05+00:00",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
-    },
-    {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-      "source": "TechCrunch",
-      "published": "2026-10-02T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
     }
   ]
 };
