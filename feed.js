@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-09T11:42:18.324873+00:00",
+  "lastUpdated": "2026-10-09T15:37:38.823582+00:00",
   "items": [
+    {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "summary": "President Donald Trump has a knack for turning words against his enemies.",
+      "source": "The Verge",
+      "published": "2026-10-09T14:25:43+00:00",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
+    },
+    {
+      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 52 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-10-09T14:14:08+00:00",
+      "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
+      "source": "The Verge",
+      "published": "2026-10-09T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
+    },
+    {
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
+    },
+    {
+      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture.",
+      "source": "The Decoder",
+      "published": "2026-10-09T11:45:04+00:00",
+      "link": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/"
+    },
+    {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 227 # Comments: 90",
+      "source": "Hacker News",
+      "published": "2026-10-09T11:03:48+00:00",
+      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+    },
     {
       "title": "Even ‘Law & Order’ Is Terrified of AI",
       "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
@@ -80,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 108 # Comments: 14",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 139 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-10-08T20:46:25+00:00",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/"
@@ -101,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 60 # Comments: 59",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 63 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-08T19:17:51+00:00",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
-      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 52 # Comments: 55",
+      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 54 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-08T16:50:52+00:00",
       "link": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 81 # Comments: 23",
+      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 87 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-10-08T13:29:46+00:00",
       "link": "https://github.com/SamsungLabs/LittleBit"
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 111 # Comments: 207",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 111 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 369 # Comments: 381",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 372 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -422,6 +464,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
     },
     {
+      "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+      "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 50 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-10-07T18:19:03+00:00",
+      "link": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/"
+    },
+    {
       "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
       "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
       "source": "TechCrunch",
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 747 # Comments: 453",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 750 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -563,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted proof of optimal packing for 11 squares",
-      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 117 # Comments: 54",
+      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 118 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-10-07T14:10:55+00:00",
       "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
@@ -619,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reasons to Dislike AI Coding",
-      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 77 # Comments: 112",
+      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 79 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-10-07T09:15:00+00:00",
       "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
@@ -647,14 +696,14 @@ const FEED_DATA = {
     },
     {
       "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 79 # Comments: 60",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 81 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-07T08:00:06+00:00",
       "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 62 # Comments: 22",
+      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 64 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-10-07T03:30:44+00:00",
       "link": "https://github.com/nano-muse/nanoMuse"
@@ -682,14 +731,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1325 # Comments: 1507",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1332 # Comments: 1512",
       "source": "Hacker News",
       "published": "2026-10-06T22:17:21+00:00",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
     },
     {
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 238 # Comments: 184",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 240 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-10-06T21:59:43+00:00",
       "link": "https://penguin-mail.com/"
@@ -773,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 140 # Comments: 131",
+      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 140 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-10-06T17:01:52+00:00",
       "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-03T22:18:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
-    },
-    {
-      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 59 # Comments: 99",
-      "source": "Hacker News",
-      "published": "2026-10-03T19:33:10+00:00",
-      "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/"
-    },
-    {
-      "title": "Our AI Midwife",
-      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 64 # Comments: 65",
-      "source": "Hacker News",
-      "published": "2026-10-03T19:12:27+00:00",
-      "link": "https://www.astralcodexten.com/p/our-ai-midwife"
-    },
-    {
-      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
-      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI.",
-      "source": "The Decoder",
-      "published": "2026-10-03T18:56:30+00:00",
-      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "source": "TechCrunch",
-      "published": "2026-10-03T18:43:57+00:00",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
-    },
-    {
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "source": "Wired",
-      "published": "2026-10-03T18:00:00+00:00",
-      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
-    },
-    {
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 121 # Comments: 169",
-      "source": "Hacker News",
-      "published": "2026-10-03T17:57:03+00:00",
-      "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 414 # Comments: 839",
-      "source": "Hacker News",
-      "published": "2026-10-03T17:44:29+00:00",
-      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
     }
   ]
 };
