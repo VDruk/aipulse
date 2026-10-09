@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-09T07:07:40.300757+00:00",
+  "lastUpdated": "2026-10-09T11:42:18.324873+00:00",
   "items": [
+    {
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "source": "Wired",
+      "published": "2026-10-09T10:00:00+00:00",
+      "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/"
+    },
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear...",
+      "source": "The Verge",
+      "published": "2026-10-09T09:48:26+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting.",
+      "source": "The Decoder",
+      "published": "2026-10-09T09:22:25+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/"
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+    },
+    {
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
+    },
+    {
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
+    },
+    {
+      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved.",
+      "source": "The Decoder",
+      "published": "2026-10-09T08:45:34+00:00",
+      "link": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/"
+    },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
@@ -238,6 +287,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-08T13:20:32+00:00",
       "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+    },
+    {
+      "title": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region.",
+      "source": "The Decoder",
+      "published": "2026-10-08T13:01:01+00:00",
+      "link": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
     },
     {
       "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-03T17:44:29+00:00",
       "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
-    },
-    {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.",
-      "source": "The Verge",
-      "published": "2026-10-03T16:49:10+00:00",
-      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "source": "TechCrunch",
-      "published": "2026-10-03T16:30:01+00:00",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-    },
-    {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter.",
-      "source": "The Verge",
-      "published": "2026-10-03T15:00:00+00:00",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
-      "source": "The Verge",
-      "published": "2026-10-03T14:31:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
-    },
-    {
-      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-      "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control.",
-      "source": "The Decoder",
-      "published": "2026-10-03T14:28:51+00:00",
-      "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/"
-    },
-    {
-      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-      "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions.",
-      "source": "The Decoder",
-      "published": "2026-10-03T14:01:14+00:00",
-      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "published": "2026-10-03T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-    },
-    {
-      "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 78 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-10-03T13:34:18+00:00",
-      "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
     }
   ]
 };
