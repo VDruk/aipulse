@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-09T15:37:38.823582+00:00",
+  "lastUpdated": "2026-10-09T18:41:21.569342+00:00",
   "items": [
+    {
+      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+      "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66.",
+      "source": "The Decoder",
+      "published": "2026-10-09T18:28:25+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/"
+    },
+    {
+      "title": "Anthropic launches a free AI scanner for open-source projects",
+      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks.",
+      "source": "The Decoder",
+      "published": "2026-10-09T17:54:44+00:00",
+      "link": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/"
+    },
+    {
+      "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+      "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding.",
+      "source": "The Decoder",
+      "published": "2026-10-09T17:20:34+00:00",
+      "link": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/"
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year.",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:53:02+00:00",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:45:00+00:00",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+    },
+    {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes.",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:40:14+00:00",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+    },
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "source": "TechCrunch",
+      "published": "2026-10-09T15:43:33+00:00",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
+    },
     {
       "title": "Trump’s attempt to rename AI is looking awfully artificial",
       "summary": "President Donald Trump has a knack for turning words against his enemies.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-04T12:40:37+00:00",
       "link": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
-    },
-    {
-      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits.",
-      "source": "The Decoder",
-      "published": "2026-10-04T10:10:12+00:00",
-      "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/"
-    },
-    {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 177 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-10-04T09:24:52+00:00",
-      "link": "https://github.com/allenv0/SCM"
-    },
-    {
-      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
-      "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced.",
-      "source": "The Decoder",
-      "published": "2026-10-04T08:47:52+00:00",
-      "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
-    },
-    {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 101 # Comments: 49",
-      "source": "Hacker News",
-      "published": "2026-10-04T08:41:58+00:00",
-      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
-    },
-    {
-      "title": "What's the future for pure math research in the age of AI?",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 68 # Comments: 52",
-      "source": "Hacker News",
-      "published": "2026-10-04T07:53:45+00:00",
-      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
-    },
-    {
-      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
-      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers.",
-      "source": "The Decoder",
-      "published": "2026-10-04T07:28:54+00:00",
-      "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/"
-    },
-    {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 268 # Comments: 3",
-      "source": "Hacker News",
-      "published": "2026-10-03T22:18:13+00:00",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     }
   ]
 };
