@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-09T00:53:13.246534+00:00",
+  "lastUpdated": "2026-10-09T07:07:40.300757+00:00",
   "items": [
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -30,6 +30,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
     },
     {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 108 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-10-08T20:46:25+00:00",
+      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/"
+    },
+    {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
       "source": "TechCrunch",
@@ -42,6 +49,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-08T19:30:00+00:00",
       "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
+    },
+    {
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 60 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-10-08T19:17:51+00:00",
+      "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
     },
     {
       "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
@@ -128,6 +142,20 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
     },
     {
+      "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
+      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 52 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-10-08T16:50:52+00:00",
+      "link": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "summary": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev,...",
+      "source": "Hacker News",
+      "published": "2026-10-08T16:34:13+00:00",
+      "link": "https://opper.ai/jevman-benchmark/"
+    },
+    {
       "title": "Natura’s $99 smart ring puts AI agents on your finger",
       "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
       "source": "TechCrunch",
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 76 # Comments: 19",
+      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 81 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-10-08T13:29:46+00:00",
       "link": "https://github.com/SamsungLabs/LittleBit"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 106 # Comments: 206",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 111 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -304,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 367 # Comments: 379",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 369 # Comments: 381",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 740 # Comments: 443",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 747 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -479,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted proof of optimal packing for 11 squares",
-      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 116 # Comments: 54",
+      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 117 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-10-07T14:10:55+00:00",
       "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
@@ -535,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reasons to Dislike AI Coding",
-      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 77 # Comments: 109",
+      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 77 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-10-07T09:15:00+00:00",
       "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
@@ -563,14 +591,14 @@ const FEED_DATA = {
     },
     {
       "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 79 # Comments: 59",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 79 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-07T08:00:06+00:00",
       "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 59 # Comments: 21",
+      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 62 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-10-07T03:30:44+00:00",
       "link": "https://github.com/nano-muse/nanoMuse"
@@ -598,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1319 # Comments: 1495",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1325 # Comments: 1507",
       "source": "Hacker News",
       "published": "2026-10-06T22:17:21+00:00",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
@@ -717,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 341 # Comments: 399",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 342 # Comments: 400",
       "source": "Hacker News",
       "published": "2026-10-06T16:23:25+00:00",
       "link": "https://github.com/FeSens/openTPU"
@@ -794,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 118 # Comments: 55",
+      "summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 119 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-10-06T12:53:58+00:00",
       "link": "https://www.erdosproblems.com/forum/thread/blog:9"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-03T13:34:18+00:00",
       "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
-    },
-    {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "source": "Wired",
-      "published": "2026-10-03T12:00:00+00:00",
-      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
-    },
-    {
-      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 422 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-10-03T10:43:51+00:00",
-      "link": "https://tej.as/blog/aleph-alpha-kolibri"
-    },
-    {
-      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
-      "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together.",
-      "source": "The Decoder",
-      "published": "2026-10-03T10:21:23+00:00",
-      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/"
-    },
-    {
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why Comments URL: https://news.ycombinator.com/item?id=49942865 Points: 50 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-10-03T10:07:08+00:00",
-      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why"
     }
   ]
 };
