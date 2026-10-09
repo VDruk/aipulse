@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-08T21:42:53.468200+00:00",
+  "lastUpdated": "2026-10-09T00:53:13.246534+00:00",
   "items": [
     {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T00:08:24+00:00",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner.",
+      "source": "The Verge",
+      "published": "2026-10-08T21:53:51+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+    },
+    {
       "title": "Inside Elon Musk’s Midterm Spending Spree",
-      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Donald Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
       "source": "Wired",
       "published": "2026-10-08T21:14:12+00:00",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-03T10:07:08+00:00",
       "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why"
-    },
-    {
-      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
-      "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in.",
-      "source": "The Decoder",
-      "published": "2026-10-03T09:19:23+00:00",
-      "link": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/"
-    },
-    {
-      "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
-      "summary": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy.",
-      "source": "The Decoder",
-      "published": "2026-10-03T08:31:04+00:00",
-      "link": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/"
     }
   ]
 };
