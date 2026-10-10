@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-09T21:25:14.121407+00:00",
+  "lastUpdated": "2026-10-10T00:25:56.781359+00:00",
   "items": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source": "TechCrunch",
+      "published": "2026-10-10T00:18:32+00:00",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "source": "TechCrunch",
+      "published": "2026-10-09T21:41:29+00:00",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
+      "source": "The Verge",
+      "published": "2026-10-09T21:15:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+    },
     {
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 177 # Comments: 141",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 240 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 84 # Comments: 77",
+      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 89 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-10-09T15:18:59+00:00",
       "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 67 # Comments: 72",
+      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 68 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-09T14:14:08+00:00",
       "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
@@ -129,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 70 # Comments: 32",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 98 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-10-09T11:36:20+00:00",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 346 # Comments: 147",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 368 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 64 # Comments: 62",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 64 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-10-08T19:17:51+00:00",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
@@ -416,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 87 # Comments: 26",
+      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 88 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-10-08T13:29:46+00:00",
       "link": "https://github.com/SamsungLabs/LittleBit"
@@ -535,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 374 # Comments: 383",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -591,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 752 # Comments: 457",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 753 # Comments: 458",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -801,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 81 # Comments: 60",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 82 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-07T08:00:06+00:00",
       "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-05T08:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
-    },
-    {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T04:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "source": "TechCrunch",
-      "published": "2026-10-04T20:31:07+00:00",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "source": "TechCrunch",
-      "published": "2026-10-04T20:08:34+00:00",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
     }
   ]
 };
