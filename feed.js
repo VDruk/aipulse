@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-10T11:01:47.933107+00:00",
+  "lastUpdated": "2026-10-10T14:51:03.608489+00:00",
   "items": [
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+      "source": "The Verge",
+      "published": "2026-10-10T14:41:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "published": "2026-10-10T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+      "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working.",
+      "source": "The Decoder",
+      "published": "2026-10-10T13:03:59+00:00",
+      "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/"
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for...",
+      "source": "The Verge",
+      "published": "2026-10-10T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+    },
+    {
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "source": "Wired",
+      "published": "2026-10-10T12:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
+    },
     {
       "title": "Few people pay for AI, but those who do spend big",
       "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription.",
       "source": "The Decoder",
       "published": "2026-10-10T10:54:56+00:00",
       "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 103 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-10-10T10:52:09+00:00",
+      "link": "https://github.com/rociiu/talorys"
     },
     {
       "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
@@ -28,6 +70,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-10T00:18:32+00:00",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 191 # Comments: 137",
+      "source": "Hacker News",
+      "published": "2026-10-09T22:00:35+00:00",
+      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
     },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -86,6 +135,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/"
     },
     {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 154 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-10-09T17:42:12+00:00",
+      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
+    },
+    {
       "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
       "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding.",
       "source": "The Decoder",
@@ -94,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 240 # Comments: 202",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 407 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -129,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 89 # Comments: 83",
+      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 94 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-10-09T15:18:59+00:00",
       "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
@@ -143,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 68 # Comments: 73",
+      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 72 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-09T14:14:08+00:00",
       "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
@@ -171,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 98 # Comments: 49",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 168 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-09T11:36:20+00:00",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 368 # Comments: 161",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 402 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -269,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 142 # Comments: 21",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 146 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-10-08T20:46:25+00:00",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/"
@@ -290,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 64 # Comments: 64",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 65 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-10-08T19:17:51+00:00",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
@@ -381,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
-      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 54 # Comments: 64",
+      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 54 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-10-08T16:50:52+00:00",
       "link": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
@@ -542,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 112 # Comments: 211",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 112 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -577,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 383",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -612,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-      "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 51 # Comments: 22",
+      "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 52 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-10-07T18:19:03+00:00",
       "link": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/"
@@ -633,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 753 # Comments: 458",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 755 # Comments: 458",
       "source": "Hacker News",
       "published": "2026-10-07T18:00:58+00:00",
       "link": "https://openai.com/index/gpt-6-for-everyone/"
@@ -759,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted proof of optimal packing for 11 squares",
-      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 118 # Comments: 54",
+      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 118 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-07T14:10:55+00:00",
       "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
@@ -815,7 +871,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reasons to Dislike AI Coding",
-      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 80 # Comments: 112",
+      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 81 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-10-07T09:15:00+00:00",
       "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-05T14:12:50+00:00",
       "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/"
-    },
-    {
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27.",
-      "source": "The Verge",
-      "published": "2026-10-05T13:47:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T13:29:32+00:00",
-      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
-    },
-    {
-      "title": "Spending on AI is becoming almost impossible for businesses to budget",
-      "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 59 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-10-05T13:22:31+00:00",
-      "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
-    },
-    {
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday.",
-      "source": "The Verge",
-      "published": "2026-10-05T13:09:48+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
-    },
-    {
-      "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks Comments URL: https://news.ycombinator.com/item?id=49964248 Points: 64 # Comments: 123",
-      "source": "Hacker News",
-      "published": "2026-10-05T12:56:18+00:00",
-      "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
-    },
-    {
-      "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
-      "summary": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them. The article ChatGPT's new ad format fills the image generation loading screen with product carousels appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-05T12:37:32+00:00",
-      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/"
-    },
-    {
-      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough?",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
     }
   ]
 };
