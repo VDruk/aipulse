@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-10T17:40:39.352117+00:00",
+  "lastUpdated": "2026-10-10T20:26:00.533452+00:00",
   "items": [
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "TechCrunch",
+      "published": "2026-10-10T19:50:00+00:00",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+      "source": "The Verge",
+      "published": "2026-10-10T18:52:07+00:00",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 53 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-10-10T18:48:35+00:00",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+    },
     {
       "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
       "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment.",
@@ -21,6 +42,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-10T14:57:33+00:00",
       "link": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/"
+    },
+    {
+      "title": "My personal AI agent posted my bank details on company Slack",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 53 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-10-10T14:46:16+00:00",
+      "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
     },
     {
       "title": "Anthropic is cutting off its internal evaluations from the internet",
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 103 # Comments: 47",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 204 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-10-10T10:52:09+00:00",
       "link": "https://github.com/rociiu/talorys"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 191 # Comments: 137",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 204 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-10-09T22:00:35+00:00",
       "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
@@ -164,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 154 # Comments: 40",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 185 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-10-09T17:42:12+00:00",
       "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 407 # Comments: 320",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 424 # Comments: 337",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -255,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 168 # Comments: 86",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 178 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-09T11:36:20+00:00",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 402 # Comments: 182",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 410 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 146 # Comments: 20",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 147 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-10-08T20:46:25+00:00",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/"
@@ -374,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 65 # Comments: 64",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 65 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-10-08T19:17:51+00:00",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
@@ -626,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 112 # Comments: 219",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 114 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -661,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 382",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-05T16:37:08+00:00",
       "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/"
-    },
-    {
-      "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
-      "summary": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early employees.",
-      "source": "The Decoder",
-      "published": "2026-10-05T16:00:12+00:00",
-      "link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T15:47:52+00:00",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
-    },
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T15:14:24+00:00",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
-    },
-    {
-      "title": "Florida woman arrested for allegedly making threats in an AI chat",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat Comments URL: https://news.ycombinator.com/item?id=49965895 Points: 50 # Comments: 84",
-      "source": "Hacker News",
-      "published": "2026-10-05T15:11:36+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat"
     }
   ]
 };
