@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-10T06:41:17.726593+00:00",
+  "lastUpdated": "2026-10-10T11:01:47.933107+00:00",
   "items": [
+    {
+      "title": "Few people pay for AI, but those who do spend big",
+      "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription.",
+      "source": "The Decoder",
+      "published": "2026-10-10T10:54:56+00:00",
+      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/"
+    },
+    {
+      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House.",
+      "source": "The Decoder",
+      "published": "2026-10-10T10:16:26+00:00",
+      "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/"
+    },
+    {
+      "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5.",
+      "source": "The Decoder",
+      "published": "2026-10-10T08:59:49+00:00",
+      "link": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/"
+    },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-05T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
-    },
-    {
-      "title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
-      "summary": "An MIT expert committee warns that AI is eroding key parts of the college experience: office hours, study groups, and the school's flagship research program for undergraduates are all fading.",
-      "source": "The Decoder",
-      "published": "2026-10-05T11:46:18+00:00",
-      "link": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/"
-    },
-    {
-      "title": "Our minds aren’t equipped to handle AI",
-      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
-      "source": "The Verge",
-      "published": "2026-10-05T10:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T08:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
     }
   ]
 };
