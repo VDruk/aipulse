@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-10T00:25:56.781359+00:00",
+  "lastUpdated": "2026-10-10T06:41:17.726593+00:00",
   "items": [
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
