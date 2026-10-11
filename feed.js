@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-11T00:01:37.565493+00:00",
+  "lastUpdated": "2026-10-11T06:48:01.006326+00:00",
   "items": [
+    {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 75 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-10-11T02:02:38+00:00",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+    },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 53 # Comments: 31",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 153 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-10T18:48:35+00:00",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
@@ -59,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI agent posted my bank details on company Slack",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 53 # Comments: 61",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 61 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-10-10T14:46:16+00:00",
       "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 204 # Comments: 104",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 277 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-10-10T10:52:09+00:00",
       "link": "https://github.com/rociiu/talorys"
@@ -119,6 +126,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-10T10:16:26+00:00",
       "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/"
+    },
+    {
+      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+      "summary": "Article URL: https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/ Comments URL: https://news.ycombinator.com/item?id=50031156...",
+      "source": "Hacker News",
+      "published": "2026-10-10T09:30:03+00:00",
+      "link": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/"
     },
     {
       "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
@@ -142,8 +156,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
     },
     {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 86 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-10-09T22:14:40+00:00",
+      "link": "https://epoch.ai/publications/innovationeval"
+    },
+    {
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 204 # Comments: 148",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 208 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-10-09T22:00:35+00:00",
       "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 185 # Comments: 52",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 198 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-10-09T17:42:12+00:00",
       "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
@@ -220,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 424 # Comments: 337",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 435 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 94 # Comments: 83",
+      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 94 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-10-09T15:18:59+00:00",
       "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
@@ -297,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 178 # Comments: 89",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 181 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-09T11:36:20+00:00",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 410 # Comments: 188",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 413 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -395,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 147 # Comments: 20",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 148 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-10-08T20:46:25+00:00",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/"
@@ -416,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 65 # Comments: 65",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 66 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-10-08T19:17:51+00:00",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
@@ -507,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
-      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 54 # Comments: 67",
+      "summary": "Article URL: https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230 Comments URL: https://news.ycombinator.com/item?id=50008272 Points: 54 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-10-08T16:50:52+00:00",
       "link": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
@@ -668,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 114 # Comments: 220",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 115 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -703,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 383",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-10-07T18:49:40+00:00",
       "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-05T17:32:42+00:00",
       "link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/"
-    },
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T17:29:22+00:00",
-      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
-    },
-    {
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.",
-      "source": "The Verge",
-      "published": "2026-10-05T16:55:42+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
-    },
-    {
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way.",
-      "source": "The Verge",
-      "published": "2026-10-05T16:44:21+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"
     }
   ]
 };
