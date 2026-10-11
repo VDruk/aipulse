@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-11T15:09:11.003957+00:00",
+  "lastUpdated": "2026-10-11T17:55:37.046369+00:00",
   "items": [
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "source": "TechCrunch",
+      "published": "2026-10-11T16:52:33+00:00",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+    },
+    {
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "summary": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain.",
+      "source": "The Decoder",
+      "published": "2026-10-11T15:39:26+00:00",
+      "link": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/"
+    },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-05T20:14:57+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T19:33:53+00:00",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
-    },
-    {
-      "title": "AI Companies Are Parasites",
-      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 71 # Comments: 37",
-      "source": "Hacker News",
-      "published": "2026-10-05T19:30:10+00:00",
-      "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites"
     }
   ]
 };
