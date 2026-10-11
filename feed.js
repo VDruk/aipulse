@@ -1,19 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-11T11:17:45.013608+00:00",
+  "lastUpdated": "2026-10-11T15:09:11.003957+00:00",
   "items": [
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "source": "TechCrunch",
+      "published": "2026-10-11T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+    },
+    {
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking.",
+      "source": "The Decoder",
+      "published": "2026-10-11T13:44:32+00:00",
+      "link": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/"
+    },
+    {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "source": "Wired",
+      "published": "2026-10-11T11:30:00+00:00",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
+    },
     {
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
       "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of.",
       "source": "The Verge",
       "published": "2026-10-11T11:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
-    },
-    {
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "summary": "A long day’s haul in the video game slop mines.",
-      "source": "Wired",
-      "published": "2026-10-11T11:00:00+00:00",
-      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
     },
     {
       "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-05T19:30:10+00:00",
       "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites"
-    },
-    {
-      "title": "All the drama around AI’s takeover of mathematics",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize...",
-      "source": "The Verge",
-      "published": "2026-10-05T19:28:59+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
-    },
-    {
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms.",
-      "source": "The Verge",
-      "published": "2026-10-05T19:05:19+00:00",
-      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
     }
   ]
 };
