@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-11T17:55:37.046369+00:00",
+  "lastUpdated": "2026-10-11T20:43:41.365567+00:00",
   "items": [
+    {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
+      "source": "The Verge",
+      "published": "2026-10-11T18:33:56+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+    },
     {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-05T20:36:48+00:00",
       "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
-    },
-    {
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment.",
-      "source": "The Verge",
-      "published": "2026-10-05T20:14:57+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
     }
   ]
 };
