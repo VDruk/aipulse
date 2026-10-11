@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-11T06:48:01.006326+00:00",
+  "lastUpdated": "2026-10-11T11:17:45.013608+00:00",
   "items": [
     {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of.",
+      "source": "The Verge",
+      "published": "2026-10-11T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+    },
+    {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "source": "Wired",
+      "published": "2026-10-11T11:00:00+00:00",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
+    },
+    {
+      "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+      "summary": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop.",
+      "source": "The Decoder",
+      "published": "2026-10-11T09:49:59+00:00",
+      "link": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/"
+    },
+    {
+      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+      "summary": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold.",
+      "source": "The Decoder",
+      "published": "2026-10-11T09:17:32+00:00",
+      "link": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/"
+    },
+    {
+      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language.",
+      "source": "The Decoder",
+      "published": "2026-10-11T09:08:35+00:00",
+      "link": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/"
+    },
+    {
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V.",
+      "source": "The Decoder",
+      "published": "2026-10-11T07:48:01+00:00",
+      "link": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
+    },
+    {
       "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 75 # Comments: 57",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 103 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-10-11T02:02:38+00:00",
       "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 153 # Comments: 98",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 164 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-10-10T18:48:35+00:00",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
@@ -115,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 277 # Comments: 128",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 299 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-10-10T10:52:09+00:00",
       "link": "https://github.com/rociiu/talorys"
@@ -157,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 86 # Comments: 75",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 88 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-09T22:14:40+00:00",
       "link": "https://epoch.ai/publications/innovationeval"
     },
     {
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 208 # Comments: 154",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 209 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-10-09T22:00:35+00:00",
       "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
@@ -241,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 435 # Comments: 347",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 438 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 94 # Comments: 84",
+      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 95 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-10-09T15:18:59+00:00",
       "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
@@ -290,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 72 # Comments: 74",
+      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 73 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-09T14:14:08+00:00",
       "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
@@ -318,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 181 # Comments: 89",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 183 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-09T11:36:20+00:00",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 413 # Comments: 188",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 413 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -689,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 115 # Comments: 220",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 115 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-05T19:05:19+00:00",
       "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
-    },
-    {
-      "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
-      "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000.",
-      "source": "The Decoder",
-      "published": "2026-10-05T18:59:19+00:00",
-      "link": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T18:54:30+00:00",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T18:29:00+00:00",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
-    },
-    {
-      "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
-      "summary": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need.",
-      "source": "The Decoder",
-      "published": "2026-10-05T18:26:05+00:00",
-      "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/"
-    },
-    {
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first.",
-      "source": "The Verge",
-      "published": "2026-10-05T18:08:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
-    },
-    {
-      "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-      "summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced.",
-      "source": "The Decoder",
-      "published": "2026-10-05T17:32:42+00:00",
-      "link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/"
     }
   ]
 };
