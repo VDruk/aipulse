@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-10T20:26:00.533452+00:00",
+  "lastUpdated": "2026-10-11T00:01:37.565493+00:00",
   "items": [
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.",
+      "source": "The Verge",
+      "published": "2026-10-10T22:10:17+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "source": "TechCrunch",
+      "published": "2026-10-10T21:47:51+00:00",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+    },
     {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "summary": "Is Apple hoping to get into the AI-generated podcast business?",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-05T16:44:21+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"
-    },
-    {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T16:43:35+00:00",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
-    },
-    {
-      "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
-      "summary": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI company leaders.",
-      "source": "The Decoder",
-      "published": "2026-10-05T16:37:08+00:00",
-      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/"
     }
   ]
 };
