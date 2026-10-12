@@ -1,9 +1,93 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-12T12:52:21.379147+00:00",
+  "lastUpdated": "2026-10-12T18:16:51.918288+00:00",
   "items": [
     {
+      "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
+      "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds.",
+      "source": "The Decoder",
+      "published": "2026-10-12T17:58:54+00:00",
+      "link": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/"
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+      "source": "TechCrunch",
+      "published": "2026-10-12T17:56:56+00:00",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "source": "TechCrunch",
+      "published": "2026-10-12T17:19:14+00:00",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+    },
+    {
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+      "source": "Wired",
+      "published": "2026-10-12T17:00:27+00:00",
+      "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/"
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best.",
+      "source": "The Verge",
+      "published": "2026-10-12T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+    },
+    {
+      "title": "Clearing chat history helps AI agents find better solutions",
+      "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape.",
+      "source": "The Decoder",
+      "published": "2026-10-12T16:10:00+00:00",
+      "link": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:31:19+00:00",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:27:59+00:00",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+    },
+    {
+      "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+      "summary": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems.",
+      "source": "The Decoder",
+      "published": "2026-10-12T15:24:03+00:00",
+      "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/"
+    },
+    {
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency.",
+      "source": "The Decoder",
+      "published": "2026-10-12T13:14:54+00:00",
+      "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
+      "source": "The Verge",
+      "published": "2026-10-12T13:00:00+00:00",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+    },
+    {
+      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs.",
+      "source": "The Decoder",
+      "published": "2026-10-12T12:51:21+00:00",
+      "link": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/"
+    },
+    {
       "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all...",
       "source": "TechCrunch",
       "published": "2026-10-12T12:47:59+00:00",
       "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
@@ -73,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "source": "TechCrunch",
       "published": "2026-10-11T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
@@ -294,6 +378,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-10T08:59:49+00:00",
       "link": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
+      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet.",
+      "source": "TechCrunch",
+      "published": "2026-10-10T00:18:32+00:00",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
     },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-06T16:06:46+00:00",
       "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/"
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "source": "TechCrunch",
-      "published": "2026-10-06T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-    },
-    {
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "source": "TechCrunch",
-      "published": "2026-10-06T15:25:00+00:00",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
-    },
-    {
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "source": "TechCrunch",
-      "published": "2026-10-06T14:33:16+00:00",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
-    },
-    {
-      "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
-      "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors.",
-      "source": "The Decoder",
-      "published": "2026-10-06T14:18:08+00:00",
-      "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/"
-    },
-    {
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "source": "TechCrunch",
-      "published": "2026-10-06T14:00:49+00:00",
-      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
-    },
-    {
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.",
-      "source": "The Verge",
-      "published": "2026-10-06T13:19:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
-    },
-    {
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-      "source": "Wired",
-      "published": "2026-10-06T13:15:23+00:00",
-      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/"
-    },
-    {
-      "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
-      "summary": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-06T12:54:31+00:00",
-      "link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/"
-    },
-    {
-      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 119 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-10-06T12:53:58+00:00",
-      "link": "https://www.erdosproblems.com/forum/thread/blog:9"
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
-      "source": "Ars Technica",
-      "published": "2026-10-06T12:21:53+00:00",
-      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
-    },
-    {
-      "title": "Reflection's Beam becomes the most capable open-weight model built outside China",
-      "summary": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times less compute.",
-      "source": "The Decoder",
-      "published": "2026-10-06T12:11:22+00:00",
-      "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/"
-    },
-    {
-      "title": "The Download: 10 climate tech companies to watch",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-06T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
-    },
-    {
-      "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
-      "summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine.",
-      "source": "The Decoder",
-      "published": "2026-10-06T11:43:42+00:00",
-      "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/"
     }
   ]
 };
