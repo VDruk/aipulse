@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-11T20:43:41.365567+00:00",
+  "lastUpdated": "2026-10-12T00:07:28.529152+00:00",
   "items": [
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 183 # Comments: 274",
+      "source": "Hacker News",
+      "published": "2026-10-11T20:20:52+00:00",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046"
+    },
+    {
+      "title": "Artificial Insanity",
+      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 58 # Comments: 91",
+      "source": "Hacker News",
+      "published": "2026-10-11T19:44:45+00:00",
+      "link": "https://richwhitehouse.com/index.php?postid=78"
+    },
     {
       "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
       "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
@@ -37,6 +51,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/"
     },
     {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 70 # Comments: 113",
+      "source": "Hacker News",
+      "published": "2026-10-11T11:34:28+00:00",
+      "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
+    },
+    {
       "title": "I Made Terrible Games With Google’s AI Playground",
       "summary": "A long day’s haul in the video game slop mines.",
       "source": "Wired",
@@ -44,11 +65,25 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
     },
     {
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 80 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-10-11T11:03:21+00:00",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
+    },
+    {
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
       "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of.",
       "source": "The Verge",
       "published": "2026-10-11T11:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+    },
+    {
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 68 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-10-11T10:47:21+00:00",
+      "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
     },
     {
       "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
@@ -79,8 +114,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 103 # Comments: 75",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 137 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-10-11T02:02:38+00:00",
       "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 164 # Comments: 105",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-10-10T18:48:35+00:00",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI agent posted my bank details on company Slack",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 61 # Comments: 66",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 63 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-10-10T14:46:16+00:00",
       "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
@@ -192,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 299 # Comments: 134",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 321 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-10-10T10:52:09+00:00",
       "link": "https://github.com/rociiu/talorys"
@@ -234,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 88 # Comments: 82",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 89 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-10-09T22:14:40+00:00",
       "link": "https://epoch.ai/publications/innovationeval"
     },
     {
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 209 # Comments: 154",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-10-09T22:00:35+00:00",
       "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 198 # Comments: 58",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 205 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-10-09T17:42:12+00:00",
       "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 438 # Comments: 348",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 442 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 95 # Comments: 84",
+      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 95 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-10-09T15:18:59+00:00",
       "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
@@ -395,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 183 # Comments: 89",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 184 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-10-09T11:36:20+00:00",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 413 # Comments: 189",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 414 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -493,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 148 # Comments: 20",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 149 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-10-08T20:46:25+00:00",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-06T10:30:00+00:00",
       "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
-    },
-    {
-      "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
-      "summary": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions.",
-      "source": "The Decoder",
-      "published": "2026-10-06T06:58:19+00:00",
-      "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/"
-    },
-    {
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 73 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-10-06T00:00:45+00:00",
-      "link": "https://edworkingpapers.com/ai26-1551"
-    },
-    {
-      "title": "Gemini Call for Me might tell your mom you’re running late",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family.",
-      "source": "The Verge",
-      "published": "2026-10-05T23:09:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
-    },
-    {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "source": "Ars Technica",
-      "published": "2026-10-05T22:26:35+00:00",
-      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "source": "TechCrunch",
-      "published": "2026-10-05T20:36:48+00:00",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
     }
   ]
 };
