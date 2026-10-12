@@ -1,16 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-12T00:07:28.529152+00:00",
+  "lastUpdated": "2026-10-12T06:58:20.789934+00:00",
   "items": [
     {
+      "title": "Recursive self-improvement through collective intelligence",
+      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 102 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-10-11T22:22:10+00:00",
+      "link": "https://pub.sakana.ai/mass/"
+    },
+    {
       "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 183 # Comments: 274",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 404 # Comments: 565",
       "source": "Hacker News",
       "published": "2026-10-11T20:20:52+00:00",
       "link": "https://twitter.com/karpathy/status/2109361546505966046"
     },
     {
       "title": "Artificial Insanity",
-      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 58 # Comments: 91",
+      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 60 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-10-11T19:44:45+00:00",
       "link": "https://richwhitehouse.com/index.php?postid=78"
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is creating a 'human premium' for art created by people",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 70 # Comments: 113",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 71 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-10-11T11:34:28+00:00",
       "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
@@ -66,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 80 # Comments: 25",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 89 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-10-11T11:03:21+00:00",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 68 # Comments: 76",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 98 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-10-11T10:47:21+00:00",
       "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 137 # Comments: 103",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 191 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-10-11T02:02:38+00:00",
       "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 112",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-10-10T18:48:35+00:00",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI agent posted my bank details on company Slack",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 63 # Comments: 67",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 63 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-10-10T14:46:16+00:00",
       "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
@@ -227,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 321 # Comments: 149",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 323 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-10-10T10:52:09+00:00",
       "link": "https://github.com/rociiu/talorys"
@@ -269,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 89 # Comments: 93",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 90 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-10-09T22:14:40+00:00",
       "link": "https://epoch.ai/publications/innovationeval"
@@ -353,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 442 # Comments: 354",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 443 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "link": "https://typesafe.ai/blog/series-ai"
@@ -437,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 414 # Comments: 195",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 415 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-10-09T11:03:48+00:00",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-06T10:35:00+00:00",
       "link": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/"
-    },
-    {
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "source": "Wired",
-      "published": "2026-10-06T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
     }
   ]
 };
