@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-12T21:37:39.011267+00:00",
+  "lastUpdated": "2026-10-12T23:24:43.298416+00:00",
   "items": [
     {
+      "title": "AI Is a Tool. Using It Well Takes Skill.",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 152 # Comments: 138",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:40:18+00:00",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+    },
+    {
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 70 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-10-12T20:07:42+00:00",
+      "link": "https://www.avclub.com/epic-games-disney-ai-delay"
+    },
+    {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 60 # Comments: 78",
+      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 71 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-10-12T19:25:29+00:00",
       "link": "https://www.anthropic.com/research/self-replicating-ai"
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "'AI' Is Not a Tool by Rich Hickey",
-      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 89 # Comments: 41",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 161 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-10-12T18:00:25+00:00",
       "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
@@ -45,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding agents generate more code, but not more software",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 248 # Comments: 204",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 290 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-10-12T17:14:01+00:00",
       "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
@@ -101,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 99 # Comments: 25",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 112 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-10-12T15:16:45+00:00",
       "link": "https://taylor.town/kk-ai-2026"
     },
     {
       "title": "Why aren't AI companies being charged for hacking?",
-      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 299 # Comments: 312",
+      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 307 # Comments: 323",
       "source": "Hacker News",
       "published": "2026-10-12T14:52:37+00:00",
       "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
@@ -143,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 65 # Comments: 73",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 65 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-12T12:46:52+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "QGIS enacts moratorium on AI contributions",
-      "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 352 # Comments: 387",
+      "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 361 # Comments: 391",
       "source": "Hacker News",
       "published": "2026-10-12T11:22:24+00:00",
       "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
@@ -178,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "Recursive self-improvement through collective intelligence",
-      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 134 # Comments: 79",
+      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 135 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-10-11T22:22:10+00:00",
       "link": "https://pub.sakana.ai/mass/"
     },
     {
       "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 669 # Comments: 975",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 675 # Comments: 983",
       "source": "Hacker News",
       "published": "2026-10-11T20:20:52+00:00",
       "link": "https://twitter.com/karpathy/status/2109361546505966046"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 162 # Comments: 136",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 165 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-10-11T10:47:21+00:00",
       "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-06T18:45:39+00:00",
       "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/"
-    },
-    {
-      "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
-      "summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling.",
-      "source": "The Decoder",
-      "published": "2026-10-06T18:29:35+00:00",
-      "link": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "source": "TechCrunch",
-      "published": "2026-10-06T18:22:45+00:00",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
     }
   ]
 };
