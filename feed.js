@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-12T18:16:51.918288+00:00",
+  "lastUpdated": "2026-10-12T21:37:39.011267+00:00",
   "items": [
+    {
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 60 # Comments: 78",
+      "source": "Hacker News",
+      "published": "2026-10-12T19:25:29+00:00",
+      "link": "https://www.anthropic.com/research/self-replicating-ai"
+    },
+    {
+      "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+      "summary": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled.",
+      "source": "The Decoder",
+      "published": "2026-10-12T18:48:29+00:00",
+      "link": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/"
+    },
+    {
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 89 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-10-12T18:00:25+00:00",
+      "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+    },
     {
       "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
       "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds.",
@@ -10,17 +31,24 @@ const FEED_DATA = {
     },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
       "source": "TechCrunch",
       "published": "2026-10-12T17:56:56+00:00",
       "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
     },
     {
       "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
       "source": "TechCrunch",
       "published": "2026-10-12T17:19:14+00:00",
       "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 248 # Comments: 204",
+      "source": "Hacker News",
+      "published": "2026-10-12T17:14:01+00:00",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
     },
     {
       "title": "Muse Wonder Puts Meta Back at the AI Frontier",
@@ -44,6 +72,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/"
     },
     {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:45:00+00:00",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+    },
+    {
       "title": "Microsoft president says UK is best placed to drive AI regulation",
       "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
       "source": "TechCrunch",
@@ -63,6 +98,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-12T15:24:03+00:00",
       "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/"
+    },
+    {
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 99 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-10-12T15:16:45+00:00",
+      "link": "https://taylor.town/kk-ai-2026"
+    },
+    {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 299 # Comments: 312",
+      "source": "Hacker News",
+      "published": "2026-10-12T14:52:37+00:00",
+      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
     },
     {
       "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
@@ -93,11 +142,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
     },
     {
+      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 65 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-10-12T12:46:52+00:00",
+      "link": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
+    },
+    {
       "title": "The Download: moon city problems and drone traffic controllers",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
       "published": "2026-10-12T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+    },
+    {
+      "title": "QGIS enacts moratorium on AI contributions",
+      "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 352 # Comments: 387",
+      "source": "Hacker News",
+      "published": "2026-10-12T11:22:24+00:00",
+      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
     },
     {
       "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
@@ -115,21 +178,21 @@ const FEED_DATA = {
     },
     {
       "title": "Recursive self-improvement through collective intelligence",
-      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 102 # Comments: 53",
+      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 134 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-10-11T22:22:10+00:00",
       "link": "https://pub.sakana.ai/mass/"
     },
     {
       "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 404 # Comments: 565",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 669 # Comments: 975",
       "source": "Hacker News",
       "published": "2026-10-11T20:20:52+00:00",
       "link": "https://twitter.com/karpathy/status/2109361546505966046"
     },
     {
       "title": "Artificial Insanity",
-      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 60 # Comments: 99",
+      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 64 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-10-11T19:44:45+00:00",
       "link": "https://richwhitehouse.com/index.php?postid=78"
@@ -171,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is creating a 'human premium' for art created by people",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 71 # Comments: 114",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 72 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-10-11T11:34:28+00:00",
       "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
@@ -185,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 89 # Comments: 31",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 96 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-10-11T11:03:21+00:00",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
@@ -199,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 98 # Comments: 95",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 162 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-10-11T10:47:21+00:00",
       "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
@@ -234,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 191 # Comments: 137",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 207 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-10-11T02:02:38+00:00",
       "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
@@ -269,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 114",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-10-10T18:48:35+00:00",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
@@ -297,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI agent posted my bank details on company Slack",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 63 # Comments: 68",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 63 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-10-10T14:46:16+00:00",
       "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
@@ -346,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 323 # Comments: 150",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 327 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-10-10T10:52:09+00:00",
       "link": "https://github.com/rociiu/talorys"
@@ -395,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 90 # Comments: 94",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 90 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-10-09T22:14:40+00:00",
       "link": "https://epoch.ai/publications/innovationeval"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-06T18:22:45+00:00",
       "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
-    },
-    {
-      "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
-      "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced.",
-      "source": "The Decoder",
-      "published": "2026-10-06T17:31:51+00:00",
-      "link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/"
-    },
-    {
-      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-      "source": "Wired",
-      "published": "2026-10-06T17:28:33+00:00",
-      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/"
-    },
-    {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 140 # Comments: 132",
-      "source": "Hacker News",
-      "published": "2026-10-06T17:01:52+00:00",
-      "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
-    },
-    {
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-06T16:40:36+00:00",
-      "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "source": "TechCrunch",
-      "published": "2026-10-06T16:35:00+00:00",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
-    },
-    {
-      "title": "We can’t just change the definition of ‘recording’",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording.",
-      "source": "The Verge",
-      "published": "2026-10-06T16:29:44+00:00",
-      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording"
-    },
-    {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 342 # Comments: 400",
-      "source": "Hacker News",
-      "published": "2026-10-06T16:23:25+00:00",
-      "link": "https://github.com/FeSens/openTPU"
-    },
-    {
-      "title": "AI is now capable of developing its own inference hardware",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 136 # Comments: 121",
-      "source": "Hacker News",
-      "published": "2026-10-06T16:23:25+00:00",
-      "link": "https://github.com/FeSens/openTPU"
-    },
-    {
-      "title": "Insurers brace for millions in claims as AI agents spin out of control",
-      "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout.",
-      "source": "The Decoder",
-      "published": "2026-10-06T16:06:46+00:00",
-      "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/"
     }
   ]
 };
