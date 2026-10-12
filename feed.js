@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-12T06:58:20.789934+00:00",
+  "lastUpdated": "2026-10-12T12:52:21.379147+00:00",
   "items": [
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "source": "TechCrunch",
+      "published": "2026-10-12T12:47:59+00:00",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+    },
+    {
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-12T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+    },
+    {
+      "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+      "summary": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as OpenAI faces a boycott for dumping AI proofs on GitHub without peer review.",
+      "source": "The Decoder",
+      "published": "2026-10-12T09:35:54+00:00",
+      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/"
+    },
+    {
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-12T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+    },
     {
       "title": "Recursive self-improvement through collective intelligence",
       "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 102 # Comments: 53",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-06T11:43:42+00:00",
       "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/"
-    },
-    {
-      "title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-      "summary": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-06T10:50:18+00:00",
-      "link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/"
-    },
-    {
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-06T10:35:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
-    },
-    {
-      "title": "BasiGo and its fleet of electric buses",
-      "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-06T10:35:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/"
-    },
-    {
-      "title": "Moment Energy and its shipping containers packed with old EV batteries",
-      "summary": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-06T10:35:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/"
     }
   ]
 };
