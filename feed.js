@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-13T12:30:31.150178+00:00",
+  "lastUpdated": "2026-10-13T16:30:58.039044+00:00",
   "items": [
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
+    {
+      "title": "Google finally releases Gemini 4 Argon",
+      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
+      "source": "The Verge",
+      "published": "2026-10-13T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+    },
+    {
+      "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
+      "summary": "Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down.",
+      "source": "The Decoder",
+      "published": "2026-10-13T15:27:39+00:00",
+      "link": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/"
+    },
+    {
+      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg.",
+      "source": "The Verge",
+      "published": "2026-10-13T15:12:59+00:00",
+      "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+    },
+    {
+      "title": "Western mathematicians fear AI makes them dumber while China builds an entire alliance for it",
+      "summary": "While 25 Fields Medal winners in the West warn against AI-generated proofs and parts of the community call for a boycott, China is going on the offensive.",
+      "source": "The Decoder",
+      "published": "2026-10-13T14:37:53+00:00",
+      "link": "https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/"
+    },
+    {
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot.",
+      "source": "The Verge",
+      "published": "2026-10-13T13:55:45+00:00",
+      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
+    },
+    {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:50:19+00:00",
+      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+    },
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+    },
     {
       "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
       "summary": "The startup will sell some of its assets to Disney for $20 million.",
@@ -65,6 +121,41 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
     },
     {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "summary": "Article URL: https://blog.character.ai/an-update-on-character-ai/ Comments URL: https://news.ycombinator.com/item?id=50068036 Points: 146 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-10-13T07:28:34+00:00",
+      "link": "https://blog.character.ai/an-update-on-character-ai/"
+    },
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 101 # Comments: 116",
+      "source": "Hacker News",
+      "published": "2026-10-13T05:57:32+00:00",
+      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+    },
+    {
+      "title": "AI models can provably hide arbitrary capabilities",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 264 # Comments: 125",
+      "source": "Hacker News",
+      "published": "2026-10-13T02:07:08+00:00",
+      "link": "https://arxiv.org/abs/2610.13928"
+    },
+    {
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 144 # Comments: 102",
+      "source": "Hacker News",
+      "published": "2026-10-12T23:07:25+00:00",
+      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 561 # Comments: 449",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:40:18+00:00",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+    },
+    {
       "title": "AI Is a Tool. Using It Well Takes Skill.",
       "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 152 # Comments: 138",
       "source": "Hacker News",
@@ -72,15 +163,22 @@ const FEED_DATA = {
       "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
     },
     {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 289 # Comments: 161",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:35:35+00:00",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+    },
+    {
       "title": "Epic Games tells employees to use AI to get Disney game done",
-      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 70 # Comments: 49",
+      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 83 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-12T20:07:42+00:00",
       "link": "https://www.avclub.com/epic-games-disney-ai-delay"
     },
     {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 71 # Comments: 93",
+      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 93 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-10-12T19:25:29+00:00",
       "link": "https://www.anthropic.com/research/self-replicating-ai"
@@ -94,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "'AI' Is Not a Tool by Rich Hickey",
-      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 161 # Comments: 78",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 295 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-10-12T18:00:25+00:00",
       "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
@@ -122,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding agents generate more code, but not more software",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 290 # Comments: 247",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 352 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-10-12T17:14:01+00:00",
       "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
@@ -178,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 112 # Comments: 35",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 207 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-12T15:16:45+00:00",
       "link": "https://taylor.town/kk-ai-2026"
     },
     {
       "title": "Why aren't AI companies being charged for hacking?",
-      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 307 # Comments: 323",
+      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 325 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-10-12T14:52:37+00:00",
       "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
@@ -220,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 65 # Comments: 74",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 71 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-10-12T12:46:52+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
@@ -234,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "QGIS enacts moratorium on AI contributions",
-      "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 361 # Comments: 391",
+      "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 381 # Comments: 406",
       "source": "Hacker News",
       "published": "2026-10-12T11:22:24+00:00",
       "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
@@ -262,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 675 # Comments: 983",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 712 # Comments: 1035",
       "source": "Hacker News",
       "published": "2026-10-11T20:20:52+00:00",
       "link": "https://twitter.com/karpathy/status/2109361546505966046"
     },
     {
       "title": "Artificial Insanity",
-      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 64 # Comments: 104",
+      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 64 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-10-11T19:44:45+00:00",
       "link": "https://richwhitehouse.com/index.php?postid=78"
@@ -311,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is creating a 'human premium' for art created by people",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 72 # Comments: 117",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 74 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-10-11T11:34:28+00:00",
       "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
@@ -325,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 96 # Comments: 36",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 98 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-10-11T11:03:21+00:00",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-07T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-    },
-    {
-      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
-      "summary": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an \"unacceptable risk\" for minors.",
-      "source": "The Decoder",
-      "published": "2026-10-07T12:34:34+00:00",
-      "link": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/"
-    },
-    {
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-07T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
-    },
-    {
-      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
-      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research.",
-      "source": "The Decoder",
-      "published": "2026-10-07T12:05:20+00:00",
-      "link": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/"
-    },
-    {
-      "title": "AI could upend food delivery",
-      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue.",
-      "source": "The Verge",
-      "published": "2026-10-07T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites"
-    },
-    {
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "source": "Wired",
-      "published": "2026-10-07T11:00:00+00:00",
-      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
-    },
-    {
-      "title": "Reasons to Dislike AI Coding",
-      "summary": "Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 81 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-10-07T09:15:00+00:00",
-      "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
-    },
-    {
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help...",
-      "source": "The Verge",
-      "published": "2026-10-07T09:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
-    },
-    {
-      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
-      "summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average.",
-      "source": "The Decoder",
-      "published": "2026-10-07T08:54:43+00:00",
-      "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/"
-    },
-    {
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "source": "Wired",
-      "published": "2026-10-07T08:30:00+00:00",
-      "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
-    },
-    {
-      "title": "Forever junior: Skills AI can't develop for you",
-      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 82 # Comments: 60",
-      "source": "Hacker News",
-      "published": "2026-10-07T08:00:06+00:00",
-      "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
-    },
-    {
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 65 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-10-07T03:30:44+00:00",
-      "link": "https://github.com/nano-muse/nanoMuse"
-    },
-    {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 100 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-10-06T23:50:33+00:00",
-      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
-    },
-    {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers.",
-      "source": "The Verge",
-      "published": "2026-10-06T23:26:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "source": "TechCrunch",
-      "published": "2026-10-06T22:34:03+00:00",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
     }
   ]
 };
