@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-13T19:46:25.032491+00:00",
+  "lastUpdated": "2026-10-13T21:42:24.664870+00:00",
   "items": [
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+      "source": "The Verge",
+      "published": "2026-10-13T20:45:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T20:36:44+00:00",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+    },
     {
       "title": "Shopify opens its catalog up to more AI agents",
       "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-07T17:58:20+00:00",
       "link": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/"
-    },
-    {
-      "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
-      "summary": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia.",
-      "source": "The Decoder",
-      "published": "2026-10-07T17:50:17+00:00",
-      "link": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/"
-    },
-    {
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000.",
-      "source": "The Verge",
-      "published": "2026-10-07T17:46:44+00:00",
-      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
     }
   ]
 };
