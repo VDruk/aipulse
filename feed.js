@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-13T16:30:58.039044+00:00",
+  "lastUpdated": "2026-10-13T19:46:25.032491+00:00",
   "items": [
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions.",
+      "source": "The Verge",
+      "published": "2026-10-13T19:42:42+00:00",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+    },
+    {
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "source": "Wired",
+      "published": "2026-10-13T19:35:29+00:00",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/"
+    },
+    {
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
+      "source": "The Verge",
+      "published": "2026-10-13T19:00:48+00:00",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+    },
+    {
+      "title": "406 scientists demand AI models be cut off from the internet immediately",
+      "summary": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet.",
+      "source": "The Decoder",
+      "published": "2026-10-13T18:50:44+00:00",
+      "link": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/"
+    },
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T18:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T18:05:24+00:00",
+      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+    },
+    {
+      "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks.",
+      "source": "The Decoder",
+      "published": "2026-10-13T18:00:49+00:00",
+      "link": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:18:25+00:00",
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+    },
+    {
+      "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
+      "summary": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction.",
+      "source": "The Decoder",
+      "published": "2026-10-13T17:12:41+00:00",
+      "link": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/"
+    },
+    {
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
+      "source": "The Verge",
+      "published": "2026-10-13T17:01:31+00:00",
+      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+    },
+    {
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+      "source": "The Verge",
+      "published": "2026-10-13T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
+    },
+    {
+      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
+      "source": "The Verge",
+      "published": "2026-10-13T16:42:51+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
+    },
+    {
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": "TechCrunch",
+      "published": "2026-10-13T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
     {
       "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
       "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-07T17:46:44+00:00",
       "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
-    },
-    {
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "summary": "Hi HN!I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents.",
-      "source": "Hacker News",
-      "published": "2026-10-07T16:59:11+00:00",
-      "link": "https://agent.reviews/"
-    },
-    {
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T16:53:46+00:00",
-      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
-    },
-    {
-      "title": "ChatGPT is getting college planning tools",
-      "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process.",
-      "source": "The Verge",
-      "published": "2026-10-07T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards"
-    },
-    {
-      "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-      "summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three.",
-      "source": "The Decoder",
-      "published": "2026-10-07T15:36:39+00:00",
-      "link": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/"
-    },
-    {
-      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
-      "source": "Wired",
-      "published": "2026-10-07T15:34:33+00:00",
-      "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
-    },
-    {
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T15:07:08+00:00",
-      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-    },
-    {
-      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
-      "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria.",
-      "source": "The Decoder",
-      "published": "2026-10-07T14:44:42+00:00",
-      "link": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/"
-    },
-    {
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:41:38+00:00",
-      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
-    },
-    {
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters.",
-      "source": "The Verge",
-      "published": "2026-10-07T14:40:52+00:00",
-      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell"
-    },
-    {
-      "title": "Google experiments with an AI-powered gaming platform",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:36:23+00:00",
-      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
-    },
-    {
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
-    },
-    {
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:15:00+00:00",
-      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 118 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-10-07T14:10:55+00:00",
-      "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
-    },
-    {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
-    },
-    {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
     }
   ]
 };
