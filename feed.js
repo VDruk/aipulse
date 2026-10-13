@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-12T23:24:43.298416+00:00",
+  "lastUpdated": "2026-10-13T02:19:13.846388+00:00",
   "items": [
     {
       "title": "AI Is a Tool. Using It Well Takes Skill.",
