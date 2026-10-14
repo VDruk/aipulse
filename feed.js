@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-14T14:05:56.505985+00:00",
+  "lastUpdated": "2026-10-14T17:49:53.102824+00:00",
   "items": [
+    {
+      "title": "My AI doppelganger tells me what to eat",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
+      "source": "The Verge",
+      "published": "2026-10-14T17:00:00+00:00",
+      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple.",
+      "source": "The Verge",
+      "published": "2026-10-14T16:43:24+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
+    },
+    {
+      "title": "Why do LLM pelicans look like this?",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 113 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-10-14T16:33:34+00:00",
+      "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
+    },
+    {
+      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder.",
+      "source": "The Decoder",
+      "published": "2026-10-14T16:14:16+00:00",
+      "link": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/"
+    },
+    {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.",
+      "source": "The Verge",
+      "published": "2026-10-14T16:05:21+00:00",
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
+    },
+    {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.",
+      "source": "The Verge",
+      "published": "2026-10-14T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk"
+    },
+    {
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
+      "source": "The Verge",
+      "published": "2026-10-14T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 51 # Comments: 78",
+      "source": "Hacker News",
+      "published": "2026-10-14T15:39:45+00:00",
+      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
+    },
+    {
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No.",
+      "source": "The Verge",
+      "published": "2026-10-14T15:19:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "source": "TechCrunch",
+      "published": "2026-10-14T15:16:04+00:00",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "source": "TechCrunch",
+      "published": "2026-10-14T15:08:00+00:00",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "source": "TechCrunch",
+      "published": "2026-10-14T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 85 # Comments: 110",
+      "source": "Hacker News",
+      "published": "2026-10-14T14:47:44+00:00",
+      "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 139 # Comments: 126",
+      "source": "Hacker News",
+      "published": "2026-10-14T14:38:55+00:00",
+      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "source": "TechCrunch",
+      "published": "2026-10-14T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/"
+    },
+    {
+      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research.",
+      "source": "The Decoder",
+      "published": "2026-10-14T14:24:34+00:00",
+      "link": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/"
+    },
     {
       "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
       "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process.",
@@ -44,6 +156,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/my-friend-has-no-soul/"
     },
     {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 109 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-10-14T10:28:26+00:00",
+      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
+    },
+    {
       "title": "Men Can’t Stop Faking How Much They Know About AI",
       "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
       "source": "Wired",
@@ -59,21 +178,21 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 64 # Comments: 64",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 72 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-10-14T05:53:36+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
     },
     {
       "title": "Is 'Attention' the Essence of Intelligence?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 70 # Comments: 68",
+      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 73 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-10-14T03:10:25+00:00",
       "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
     },
     {
       "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 101 # Comments: 61",
+      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 113 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-10-14T01:09:13+00:00",
       "link": "https://blumify.io/people"
@@ -122,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-      "summary": "Article URL: https://www.pi.website/blog/api-beta Comments URL: https://news.ycombinator.com/item?id=50079437 Points: 50 # Comments: 4",
+      "summary": "Article URL: https://www.pi.website/blog/api-beta Comments URL: https://news.ycombinator.com/item?id=50079437 Points: 52 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-10-13T21:55:25+00:00",
       "link": "https://www.pi.website/blog/api-beta"
@@ -283,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 326 # Comments: 171",
+      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 336 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-10-13T15:25:50+00:00",
       "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
@@ -304,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to engineer an AI harness for game development",
-      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 151 # Comments: 74",
+      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 161 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-13T14:14:23+00:00",
       "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
@@ -402,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 112 # Comments: 125",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 114 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-10-13T05:57:32+00:00",
       "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
     },
     {
       "title": "AI models can provably hide arbitrary capabilities",
-      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 275 # Comments: 138",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 278 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-10-13T02:07:08+00:00",
       "link": "https://arxiv.org/abs/2610.13928"
@@ -423,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a tool and using it well takes skill",
-      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 690 # Comments: 543",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 751 # Comments: 577",
       "source": "Hacker News",
       "published": "2026-10-12T21:40:18+00:00",
       "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
@@ -437,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 304 # Comments: 176",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 306 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-10-12T21:35:35+00:00",
       "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
@@ -1281,125 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-08T16:50:52+00:00",
       "link": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
-    },
-    {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "summary": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev,...",
-      "source": "Hacker News",
-      "published": "2026-10-08T16:34:13+00:00",
-      "link": "https://opper.ai/jevman-benchmark/"
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "source": "TechCrunch",
-      "published": "2026-10-08T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
-    },
-    {
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "source": "TechCrunch",
-      "published": "2026-10-08T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.",
-      "source": "The Verge",
-      "published": "2026-10-08T15:27:30+00:00",
-      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
-    },
-    {
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100.",
-      "source": "TechCrunch",
-      "published": "2026-10-08T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
-    },
-    {
-      "title": "Google is launching a one-stop Gemini agent for your work tasks",
-      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background.",
-      "source": "The Verge",
-      "published": "2026-10-08T14:28:03+00:00",
-      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
-    },
-    {
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-      "source": "TechCrunch",
-      "published": "2026-10-08T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
-    },
-    {
-      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents.",
-      "source": "The Verge",
-      "published": "2026-10-08T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
-    },
-    {
-      "title": "Artificial is a wicked satire that also sticks to the facts",
-      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately...",
-      "source": "The Verge",
-      "published": "2026-10-08T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
-    },
-    {
-      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
-      "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months.",
-      "source": "The Decoder",
-      "published": "2026-10-08T13:52:54+00:00",
-      "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/"
-    },
-    {
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 88 # Comments: 26",
-      "source": "Hacker News",
-      "published": "2026-10-08T13:29:46+00:00",
-      "link": "https://github.com/SamsungLabs/LittleBit"
-    },
-    {
-      "title": "Google releases a new local-first Granola competitor",
-      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-      "source": "TechCrunch",
-      "published": "2026-10-08T13:28:39+00:00",
-      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
-    },
-    {
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-      "source": "TechCrunch",
-      "published": "2026-10-08T13:20:32+00:00",
-      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
-    },
-    {
-      "title": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region.",
-      "source": "The Decoder",
-      "published": "2026-10-08T13:01:01+00:00",
-      "link": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
-    },
-    {
-      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region.",
-      "source": "The Decoder",
-      "published": "2026-10-08T13:01:01+00:00",
-      "link": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
-    },
-    {
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-08T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
-    },
-    {
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.",
-      "source": "The Decoder",
-      "published": "2026-10-08T10:30:23+00:00",
-      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
     }
   ]
 };
