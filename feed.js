@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-14T05:48:47.423676+00:00",
+  "lastUpdated": "2026-10-14T09:58:13.661583+00:00",
   "items": [
+    {
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+      "source": "Wired",
+      "published": "2026-10-14T09:30:00+00:00",
+      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/"
+    },
+    {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "source": "Wired",
+      "published": "2026-10-14T09:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
+    },
+    {
+      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 64 # Comments: 64",
+      "source": "Hacker News",
+      "published": "2026-10-14T05:53:36+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
+    },
+    {
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 70 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-10-14T03:10:25+00:00",
+      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
+    },
+    {
+      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 101 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-10-14T01:09:13+00:00",
+      "link": "https://blumify.io/people"
+    },
     {
       "title": "I built a tool to track what AI leaders say and how their views change on video",
       "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 64 # Comments: 41",
@@ -17,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "source": "TechCrunch",
       "published": "2026-10-13T23:13:31+00:00",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
@@ -42,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-13T22:36:59+00:00",
       "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+    },
+    {
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "summary": "Article URL: https://www.pi.website/blog/api-beta Comments URL: https://news.ycombinator.com/item?id=50079437 Points: 50 # Comments: 4",
+      "source": "Hacker News",
+      "published": "2026-10-13T21:55:25+00:00",
+      "link": "https://www.pi.website/blog/api-beta"
     },
     {
       "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
@@ -199,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 306 # Comments: 162",
+      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 326 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-10-13T15:25:50+00:00",
       "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
@@ -220,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to engineer an AI harness for game development",
-      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 143 # Comments: 65",
+      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 151 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-13T14:14:23+00:00",
       "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
@@ -262,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Character.ai Files for Bankruptcy",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 145 # Comments: 23",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 145 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-10-13T11:24:08+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
@@ -318,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 111 # Comments: 125",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 112 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-10-13T05:57:32+00:00",
       "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
     },
     {
       "title": "AI models can provably hide arbitrary capabilities",
-      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 273 # Comments: 137",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 275 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-10-13T02:07:08+00:00",
       "link": "https://arxiv.org/abs/2610.13928"
@@ -339,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a tool and using it well takes skill",
-      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 659 # Comments: 527",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 690 # Comments: 543",
       "source": "Hacker News",
       "published": "2026-10-12T21:40:18+00:00",
       "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
@@ -353,21 +395,21 @@ const FEED_DATA = {
     },
     {
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 302 # Comments: 176",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 304 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-10-12T21:35:35+00:00",
       "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
     },
     {
       "title": "Epic Games tells employees to use AI to get Disney game done",
-      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 84 # Comments: 77",
+      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 85 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-10-12T20:07:42+00:00",
       "link": "https://www.avclub.com/epic-games-disney-ai-delay"
     },
     {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 107 # Comments: 110",
+      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 109 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-10-12T19:25:29+00:00",
       "link": "https://www.anthropic.com/research/self-replicating-ai"
@@ -381,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "'AI' Is Not a Tool by Rich Hickey",
-      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 303 # Comments: 176",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 303 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-10-12T18:00:25+00:00",
       "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
@@ -409,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding agents generate more code, but not more software",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 361 # Comments: 301",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 361 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-10-12T17:14:01+00:00",
       "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
@@ -465,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 215 # Comments: 86",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 216 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-10-12T15:16:45+00:00",
       "link": "https://taylor.town/kk-ai-2026"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-08T00:46:00+00:00",
       "link": "https://github.com/pingdotgg/ts-rust"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T20:48:45+00:00",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "source": "TechCrunch",
-      "published": "2026-10-07T20:22:37+00:00",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-    },
-    {
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals.",
-      "source": "The Verge",
-      "published": "2026-10-07T19:10:42+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
-    },
-    {
-      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
-      "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent.",
-      "source": "The Decoder",
-      "published": "2026-10-07T19:06:40+00:00",
-      "link": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/"
-    },
-    {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 385",
-      "source": "Hacker News",
-      "published": "2026-10-07T18:49:40+00:00",
-      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
-    },
-    {
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza.",
-      "source": "The Verge",
-      "published": "2026-10-07T18:46:16+00:00",
-      "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
     }
   ]
 };
