@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-14T09:58:13.661583+00:00",
+  "lastUpdated": "2026-10-14T14:05:56.505985+00:00",
   "items": [
+    {
+      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process.",
+      "source": "The Decoder",
+      "published": "2026-10-14T13:24:22+00:00",
+      "link": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/"
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "source": "Ars Technica",
+      "published": "2026-10-14T12:55:06+00:00",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+    },
+    {
+      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot.",
+      "source": "The Decoder",
+      "published": "2026-10-14T12:37:05+00:00",
+      "link": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/"
+    },
+    {
+      "title": "The Download: faking blood and the future of batteries",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-14T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "source": "TechCrunch",
+      "published": "2026-10-14T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+    },
+    {
+      "title": "My Friend Has No Soul",
+      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+      "source": "Wired",
+      "published": "2026-10-14T11:00:00+00:00",
+      "link": "https://www.wired.com/story/my-friend-has-no-soul/"
+    },
     {
       "title": "Men Can’t Stop Faking How Much They Know About AI",
       "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-08T10:30:23+00:00",
       "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
-    },
-    {
-      "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
-      "summary": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear.",
-      "source": "The Decoder",
-      "published": "2026-10-08T09:57:42+00:00",
-      "link": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/"
-    },
-    {
-      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-      "source": "Wired",
-      "published": "2026-10-08T09:30:00+00:00",
-      "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"
-    },
-    {
-      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen.",
-      "source": "The Decoder",
-      "published": "2026-10-08T09:24:17+00:00",
-      "link": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
-    },
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-08T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
-    },
-    {
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-08T08:17:32+00:00",
-      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
-    },
-    {
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 115 # Comments: 221",
-      "source": "Hacker News",
-      "published": "2026-10-08T00:46:00+00:00",
-      "link": "https://github.com/pingdotgg/ts-rust"
     }
   ]
 };
