@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-15T20:08:49.413638+00:00",
+  "lastUpdated": "2026-10-15T23:28:08.966587+00:00",
   "items": [
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
+      "source": "The Verge",
+      "published": "2026-10-15T22:43:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
+      "source": "The Verge",
+      "published": "2026-10-15T22:35:55+00:00",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"
+    },
+    {
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "source": "Wired",
+      "published": "2026-10-15T21:18:15+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/"
+    },
+    {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI.",
+      "source": "The Verge",
+      "published": "2026-10-15T21:09:33+00:00",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
+    },
+    {
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "source": "Wired",
+      "published": "2026-10-15T21:00:28+00:00",
+      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/"
+    },
     {
       "title": "Meta launches an open-weight AI model that runs on Macs",
       "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 160 # Comments: 120",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 217 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-10-15T18:32:29+00:00",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 62 # Comments: 69",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 66 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-10-15T16:17:40+00:00",
       "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
@@ -115,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 193 # Comments: 169",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 218 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-10-15T14:58:48+00:00",
       "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 56 # Comments: 55",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 81 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -255,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 377 # Comments: 268",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 272",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 934 # Comments: 604",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 938 # Comments: 611",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -318,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 118 # Comments: 99",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 119 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 132 # Comments: 113",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 134 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -339,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do LLM pelicans look like this?",
-      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 163 # Comments: 142",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 163 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-10-14T16:33:34+00:00",
       "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 65 # Comments: 100",
+      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 65 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-10-14T15:39:45+00:00",
       "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-09T22:00:35+00:00",
       "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "source": "TechCrunch",
-      "published": "2026-10-09T21:41:29+00:00",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-    },
-    {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
-      "source": "The Verge",
-      "published": "2026-10-09T21:15:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "source": "TechCrunch",
-      "published": "2026-10-09T19:36:56+00:00",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-    },
-    {
-      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-      "source": "Wired",
-      "published": "2026-10-09T19:28:49+00:00",
-      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
-    },
-    {
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped...",
-      "source": "The Verge",
-      "published": "2026-10-09T19:09:44+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
     }
   ]
 };
