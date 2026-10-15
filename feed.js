@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-15T13:44:02.066576+00:00",
+  "lastUpdated": "2026-10-15T17:39:17.618434+00:00",
   "items": [
+    {
+      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images.",
+      "source": "The Decoder",
+      "published": "2026-10-15T16:57:14+00:00",
+      "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/"
+    },
+    {
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent.",
+      "source": "The Decoder",
+      "published": "2026-10-15T16:35:47+00:00",
+      "link": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/"
+    },
+    {
+      "title": "Friends don’t let friends feed their data to AI agents",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it.",
+      "source": "The Verge",
+      "published": "2026-10-15T16:21:45+00:00",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent"
+    },
+    {
+      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines.",
+      "source": "The Decoder",
+      "published": "2026-10-15T16:09:44+00:00",
+      "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/"
+    },
+    {
+      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+      "summary": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports.",
+      "source": "The Decoder",
+      "published": "2026-10-15T15:27:25+00:00",
+      "link": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/"
+    },
+    {
+      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors.",
+      "source": "The Decoder",
+      "published": "2026-10-15T15:24:15+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/"
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "source": "TechCrunch",
+      "published": "2026-10-15T15:02:36+00:00",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+    },
+    {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 152 # Comments: 111",
+      "source": "Hacker News",
+      "published": "2026-10-15T14:58:48+00:00",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 52 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-10-15T14:35:15+00:00",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area.",
+      "source": "The Verge",
+      "published": "2026-10-15T14:30:00+00:00",
+      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "source": "TechCrunch",
+      "published": "2026-10-15T14:29:33+00:00",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN.",
+      "source": "The Verge",
+      "published": "2026-10-15T14:03:42+00:00",
+      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth"
+    },
     {
       "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
       "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
@@ -45,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI was great until it was not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 100 # Comments: 68",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 115 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-15T08:18:38+00:00",
       "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
@@ -66,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy.",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
       "source": "TechCrunch",
       "published": "2026-10-15T00:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
@@ -108,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 373 # Comments: 263",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 377 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -150,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 925 # Comments: 571",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 933 # Comments: 599",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -171,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 117 # Comments: 98",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 118 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 127 # Comments: 109",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 132 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -192,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do LLM pelicans look like this?",
-      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 162 # Comments: 138",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 163 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-10-14T16:33:34+00:00",
       "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 64 # Comments: 89",
+      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 65 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-14T15:39:45+00:00",
       "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
@@ -262,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 104 # Comments: 160",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 106 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-10-14T14:47:44+00:00",
       "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
     },
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 172",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-10-14T14:38:55+00:00",
       "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
@@ -332,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "TV4 postpones show after AI agent erases edited material",
-      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 150 # Comments: 84",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 153 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-14T10:28:26+00:00",
       "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
     },
     {
       "title": "I let an AI run my startup for a week",
-      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 64 # Comments: 68",
+      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 65 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-10-14T10:25:48+00:00",
       "link": "https://daily.tinyprojects.dev/221"
@@ -360,14 +444,14 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 74 # Comments: 90",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 74 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-10-14T05:53:36+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
     },
     {
       "title": "Is 'Attention' the Essence of Intelligence?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 82 # Comments: 93",
+      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 82 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-10-14T03:10:25+00:00",
       "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-09T16:40:14+00:00",
       "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "source": "TechCrunch",
-      "published": "2026-10-09T15:43:33+00:00",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
-    },
-    {
-      "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 95 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-10-09T15:18:59+00:00",
-      "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
-    },
-    {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "summary": "President Donald Trump has a knack for turning words against his enemies.",
-      "source": "The Verge",
-      "published": "2026-10-09T14:25:43+00:00",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
-    },
-    {
-      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 73 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-10-09T14:14:08+00:00",
-      "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
-    },
-    {
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
-      "source": "The Verge",
-      "published": "2026-10-09T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
-    },
-    {
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-09T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
-    },
-    {
-      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
-      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture.",
-      "source": "The Decoder",
-      "published": "2026-10-09T11:45:04+00:00",
-      "link": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/"
-    },
-    {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 184 # Comments: 92",
-      "source": "Hacker News",
-      "published": "2026-10-09T11:36:20+00:00",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
-    },
-    {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 415 # Comments: 196",
-      "source": "Hacker News",
-      "published": "2026-10-09T11:03:48+00:00",
-      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
-    },
-    {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 227 # Comments: 90",
-      "source": "Hacker News",
-      "published": "2026-10-09T11:03:48+00:00",
-      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
-    },
-    {
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-      "source": "Wired",
-      "published": "2026-10-09T10:00:00+00:00",
-      "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/"
-    },
-    {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear...",
-      "source": "The Verge",
-      "published": "2026-10-09T09:48:26+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
     }
   ]
 };
