@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-15T09:39:43.510444+00:00",
+  "lastUpdated": "2026-10-15T13:44:02.066576+00:00",
   "items": [
+    {
+      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
+      "source": "The Verge",
+      "published": "2026-10-15T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
+    },
+    {
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-15T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones.",
+      "source": "TechCrunch",
+      "published": "2026-10-15T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+    },
+    {
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them.",
+      "source": "The Verge",
+      "published": "2026-10-15T12:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+    },
+    {
+      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+      "summary": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion.",
+      "source": "The Decoder",
+      "published": "2026-10-15T09:50:43+00:00",
+      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
+    },
     {
       "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
       "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs.",
       "source": "MIT Tech Review",
       "published": "2026-10-15T08:43:24+00:00",
       "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
+    },
+    {
+      "title": "AI was great until it was not",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 100 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-10-15T08:18:38+00:00",
+      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
@@ -66,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 363 # Comments: 258",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 373 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -108,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 900 # Comments: 527",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 925 # Comments: 571",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -129,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 116 # Comments: 98",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 117 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 122 # Comments: 105",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 127 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -150,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do LLM pelicans look like this?",
-      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 162 # Comments: 135",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 162 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-10-14T16:33:34+00:00",
       "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 63 # Comments: 88",
+      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 64 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-14T15:39:45+00:00",
       "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
@@ -220,14 +262,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 104 # Comments: 157",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 104 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-10-14T14:47:44+00:00",
       "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
     },
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 171",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-10-14T14:38:55+00:00",
       "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
@@ -290,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "TV4 postpones show after AI agent erases edited material",
-      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 146 # Comments: 83",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 150 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-10-14T10:28:26+00:00",
       "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
     },
     {
       "title": "I let an AI run my startup for a week",
-      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 62 # Comments: 65",
+      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 64 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-10-14T10:25:48+00:00",
       "link": "https://daily.tinyprojects.dev/221"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is 'Attention' the Essence of Intelligence?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 82 # Comments: 92",
+      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 82 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-10-14T03:10:25+00:00",
       "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
@@ -542,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 345 # Comments: 184",
+      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 345 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-10-13T15:25:50+00:00",
       "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
@@ -563,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to engineer an AI harness for game development",
-      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 171 # Comments: 88",
+      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 172 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-10-13T14:14:23+00:00",
       "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-09T09:48:26+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
-    },
-    {
-      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
-      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting.",
-      "source": "The Decoder",
-      "published": "2026-10-09T09:22:25+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-09T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
-    },
-    {
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-09T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
-    },
-    {
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-09T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
-    },
-    {
-      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
-      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved.",
-      "source": "The Decoder",
-      "published": "2026-10-09T08:45:34+00:00",
-      "link": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-09T00:08:24+00:00",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
     }
   ]
 };
