@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-16T05:26:54.105076+00:00",
+  "lastUpdated": "2026-10-16T09:32:50.539142+00:00",
   "items": [
+    {
+      "title": "Love is infrastructure",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
+    },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 217 # Comments: 171",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 238 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-10-15T18:32:29+00:00",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai"
@@ -122,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 66 # Comments: 78",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 69 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-10-15T16:17:40+00:00",
       "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
@@ -157,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 218 # Comments: 176",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 239 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-10-15T14:58:48+00:00",
       "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 81 # Comments: 95",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 189 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -234,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI was great until it was not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 116 # Comments: 77",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 119 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-10-15T08:18:38+00:00",
       "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 272",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -339,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 938 # Comments: 611",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 942 # Comments: 614",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -360,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 119 # Comments: 102",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 121 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 134 # Comments: 114",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -451,14 +458,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 107 # Comments: 163",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 108 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-10-14T14:47:44+00:00",
       "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
     },
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 173",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 173 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-10-14T14:38:55+00:00",
       "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
@@ -521,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "TV4 postpones show after AI agent erases edited material",
-      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 154 # Comments: 86",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 155 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-10-14T10:28:26+00:00",
       "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
     },
     {
       "title": "I let an AI run my startup for a week",
-      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 65 # Comments: 70",
+      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 66 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-14T10:25:48+00:00",
       "link": "https://daily.tinyprojects.dev/221"
@@ -556,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is 'Attention' the Essence of Intelligence?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 83 # Comments: 94",
+      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 83 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-10-14T03:10:25+00:00",
       "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
@@ -863,18 +870,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/"
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-13T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
-    },
-    {
       "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
       "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
       "source": "Wired",
       "published": "2026-10-13T10:00:00+00:00",
       "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-13T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
     },
     {
       "title": "AI labs are buying data from dead startups to train their models",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-10T00:18:32+00:00",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 90 # Comments: 97",
-      "source": "Hacker News",
-      "published": "2026-10-09T22:14:40+00:00",
-      "link": "https://epoch.ai/publications/innovationeval"
     }
   ]
 };
