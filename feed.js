@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-15T23:28:08.966587+00:00",
+  "lastUpdated": "2026-10-16T05:26:54.105076+00:00",
   "items": [
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "source": "TechCrunch",
+      "published": "2026-10-15T23:44:56+00:00",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+    },
     {
       "title": "ChatGPT can peek at your Chrome tabs now",
       "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-09T22:14:40+00:00",
       "link": "https://epoch.ai/publications/innovationeval"
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 156",
-      "source": "Hacker News",
-      "published": "2026-10-09T22:00:35+00:00",
-      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
     }
   ]
 };
