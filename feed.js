@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-16T13:34:32.245554+00:00",
+  "lastUpdated": "2026-10-16T17:12:15.229019+00:00",
   "items": [
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:30:00+00:00",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:30:00+00:00",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:01:37+00:00",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "source": "TechCrunch",
+      "published": "2026-10-16T15:33:49+00:00",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+    },
+    {
+      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent.",
+      "source": "The Decoder",
+      "published": "2026-10-16T15:03:46+00:00",
+      "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/"
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best...",
+      "source": "The Verge",
+      "published": "2026-10-16T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "source": "TechCrunch",
+      "published": "2026-10-16T14:26:51+00:00",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+      "source": "The Verge",
+      "published": "2026-10-16T14:02:40+00:00",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+    },
+    {
+      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+      "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits.",
+      "source": "The Decoder",
+      "published": "2026-10-16T13:48:08+00:00",
+      "link": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/"
+    },
     {
       "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
       "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract.",
@@ -28,6 +91,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-16T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+    },
+    {
+      "title": "Artificial intelligence is capitalism's final destination",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 89 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-10-16T12:08:40+00:00",
+      "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
     },
     {
       "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
@@ -129,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 245 # Comments: 190",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 247 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-10-15T18:32:29+00:00",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai"
@@ -164,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 71 # Comments: 84",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 72 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-10-15T16:17:40+00:00",
       "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
@@ -199,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 242 # Comments: 195",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 244 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-10-15T14:58:48+00:00",
       "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 220 # Comments: 194",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 238 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -339,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 380 # Comments: 276",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 382 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -381,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 944 # Comments: 616",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 945 # Comments: 618",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -402,14 +472,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 121 # Comments: 109",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 116",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -493,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 108 # Comments: 166",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-10-14T14:47:44+00:00",
       "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
@@ -562,8 +632,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
     },
     {
+      "title": "AI-assisted PCB design for KiCad 10",
+      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 97 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-10-14T10:51:37+00:00",
+      "link": "https://github.com/mixelpixx/Konnect"
+    },
+    {
       "title": "TV4 postpones show after AI agent erases edited material",
-      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 155 # Comments: 87",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 156 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-10-14T10:28:26+00:00",
       "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
@@ -598,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is 'Attention' the Essence of Intelligence?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 83 # Comments: 97",
+      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 84 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-10-14T03:10:25+00:00",
       "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-10T15:15:40+00:00",
       "link": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/"
-    },
-    {
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders.",
-      "source": "TechCrunch",
-      "published": "2026-10-10T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
-    },
-    {
-      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
-      "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests.",
-      "source": "The Decoder",
-      "published": "2026-10-10T14:57:33+00:00",
-      "link": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/"
-    },
-    {
-      "title": "My personal AI agent posted my bank details on company Slack",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 63 # Comments: 69",
-      "source": "Hacker News",
-      "published": "2026-10-10T14:46:16+00:00",
-      "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
-    },
-    {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
-      "source": "The Verge",
-      "published": "2026-10-10T14:41:16+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "published": "2026-10-10T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
-    },
-    {
-      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-      "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working.",
-      "source": "The Decoder",
-      "published": "2026-10-10T13:03:59+00:00",
-      "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/"
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for...",
-      "source": "The Verge",
-      "published": "2026-10-10T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-    },
-    {
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "source": "Wired",
-      "published": "2026-10-10T12:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
-    },
-    {
-      "title": "Few people pay for AI, but those who do spend big",
-      "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription.",
-      "source": "The Decoder",
-      "published": "2026-10-10T10:54:56+00:00",
-      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/"
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 327 # Comments: 155",
-      "source": "Hacker News",
-      "published": "2026-10-10T10:52:09+00:00",
-      "link": "https://github.com/rociiu/talorys"
-    },
-    {
-      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House.",
-      "source": "The Decoder",
-      "published": "2026-10-10T10:16:26+00:00",
-      "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/"
     }
   ]
 };
