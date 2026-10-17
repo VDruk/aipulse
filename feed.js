@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-17T16:10:03.024102+00:00",
+  "lastUpdated": "2026-10-17T18:58:50.451785+00:00",
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "source": "TechCrunch",
+      "published": "2026-10-17T18:48:08+00:00",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
     {
       "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
       "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing.",
@@ -63,13 +70,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
       "link": "https://llmspeed.dev/"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "source": "TechCrunch",
-      "published": "2026-10-16T21:22:28+00:00",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
