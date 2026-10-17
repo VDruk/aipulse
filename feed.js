@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-17T18:58:50.451785+00:00",
+  "lastUpdated": "2026-10-17T22:48:23.784245+00:00",
   "items": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": "TechCrunch",
+      "published": "2026-10-17T21:31:32+00:00",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "TechCrunch",
+      "published": "2026-10-17T20:21:19+00:00",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "source": "TechCrunch",
+      "published": "2026-10-17T18:48:08+00:00",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-11T20:20:52+00:00",
       "link": "https://twitter.com/karpathy/status/2109361546505966046"
-    },
-    {
-      "title": "Artificial Insanity",
-      "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 64 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-10-11T19:44:45+00:00",
-      "link": "https://richwhitehouse.com/index.php?postid=78"
-    },
-    {
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
-      "source": "The Verge",
-      "published": "2026-10-11T18:33:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
-    },
-    {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "source": "TechCrunch",
-      "published": "2026-10-11T16:52:33+00:00",
-      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
     }
   ]
 };
