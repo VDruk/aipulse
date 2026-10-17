@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-16T23:10:22.596729+00:00",
+  "lastUpdated": "2026-10-17T05:19:01.563218+00:00",
   "items": [
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -51,6 +51,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/"
     },
     {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 449 # Comments: 391",
+      "source": "Hacker News",
+      "published": "2026-10-16T17:08:38+00:00",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
+    },
+    {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
       "source": "TechCrunch",
@@ -72,6 +79,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
     },
     {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 192 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-10-16T15:55:40+00:00",
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
+    },
+    {
       "title": "Jev is Vercel’s fastest-adopted AI model ever",
       "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
       "source": "TechCrunch",
@@ -91,6 +105,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-16T15:00:00+00:00",
       "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    },
+    {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 51 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-10-16T14:35:43+00:00",
+      "link": "https://rstation.ai/"
     },
     {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 89 # Comments: 97",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 109 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 247 # Comments: 196",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-10-15T18:32:29+00:00",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 72 # Comments: 85",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 73 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-10-15T16:17:40+00:00",
       "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
@@ -318,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 244 # Comments: 197",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 247 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-10-15T14:58:48+00:00",
       "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 238 # Comments: 221",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 246 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -395,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI was great until it was not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 120 # Comments: 77",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 121 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-10-15T08:18:38+00:00",
       "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 382 # Comments: 277",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 383 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -500,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 945 # Comments: 618",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 946 # Comments: 619",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -521,14 +542,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 109",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 117",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -577,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 65 # Comments: 101",
+      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 66 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-10-14T15:39:45+00:00",
       "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
@@ -612,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 167",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-10-14T14:47:44+00:00",
       "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
@@ -682,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted PCB design for KiCad 10",
-      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 97 # Comments: 33",
+      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 128 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-10-14T10:51:37+00:00",
       "link": "https://github.com/mixelpixx/Konnect"
@@ -696,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "I let an AI run my startup for a week",
-      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 67 # Comments: 71",
+      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 67 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-10-14T10:25:48+00:00",
       "link": "https://daily.tinyprojects.dev/221"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-11T09:49:59+00:00",
       "link": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/"
-    },
-    {
-      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
-      "summary": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold.",
-      "source": "The Decoder",
-      "published": "2026-10-11T09:17:32+00:00",
-      "link": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/"
-    },
-    {
-      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
-      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language.",
-      "source": "The Decoder",
-      "published": "2026-10-11T09:08:35+00:00",
-      "link": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/"
-    },
-    {
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V.",
-      "source": "The Decoder",
-      "published": "2026-10-11T07:48:01+00:00",
-      "link": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
     }
   ]
 };
