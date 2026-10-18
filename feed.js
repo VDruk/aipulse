@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-18T05:25:44.052247+00:00",
+  "lastUpdated": "2026-10-18T09:22:22.093994+00:00",
   "items": [
+    {
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users.",
+      "source": "The Decoder",
+      "published": "2026-10-18T09:11:29+00:00",
+      "link": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/"
+    },
+    {
+      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions.",
+      "source": "The Decoder",
+      "published": "2026-10-18T08:49:41+00:00",
+      "link": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/"
+    },
+    {
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data.",
+      "source": "The Decoder",
+      "published": "2026-10-18T08:15:04+00:00",
+      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/"
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 116 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-10-18T04:33:49+00:00",
+      "link": "https://sphinx-six-theta.vercel.app/"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -30,6 +58,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 164 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-10-17T16:04:23+00:00",
+      "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
+    },
+    {
       "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
       "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing.",
       "source": "The Decoder",
@@ -56,6 +91,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-17T13:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+    },
+    {
+      "title": "Super Intelligence",
+      "summary": "Article URL: https://www.si.gov/ Comments URL: https://news.ycombinator.com/item?id=50130570 Points: 104 # Comments: 182",
+      "source": "Hacker News",
+      "published": "2026-10-17T12:36:19+00:00",
+      "link": "https://www.si.gov/"
     },
     {
       "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
@@ -87,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 111 # Comments: 41",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 291 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
       "link": "https://llmspeed.dev/"
@@ -136,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 528 # Comments: 449",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 608 # Comments: 552",
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 199 # Comments: 78",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 212 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-10-16T15:55:40+00:00",
       "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 53 # Comments: 19",
+      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 58 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-10-16T14:35:43+00:00",
       "link": "https://rstation.ai/"
@@ -248,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 115 # Comments: 124",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 123 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 202",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-10-15T18:32:29+00:00",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 74 # Comments: 90",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 75 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-10-15T16:17:40+00:00",
       "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
@@ -423,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 247 # Comments: 198",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-10-15T14:58:48+00:00",
       "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 249 # Comments: 241",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -500,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI was great until it was not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 122 # Comments: 77",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-10-15T08:18:38+00:00",
       "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
@@ -563,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 383 # Comments: 277",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 384 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-10-14T18:32:52+00:00",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
@@ -605,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 947 # Comments: 619",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 948 # Comments: 620",
       "source": "Hacker News",
       "published": "2026-10-14T17:45:23+00:00",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
@@ -626,14 +668,14 @@ const FEED_DATA = {
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 110",
+      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 124 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-10-14T16:55:07+00:00",
       "link": "https://lwn.net/Articles/1100449/"
     },
     {
       "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 121",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
@@ -647,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do LLM pelicans look like this?",
-      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 163 # Comments: 143",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 164 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-10-14T16:33:34+00:00",
       "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
@@ -717,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 169",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-10-14T14:47:44+00:00",
       "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-12T12:46:52+00:00",
       "link": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
-    },
-    {
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-12T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
-    },
-    {
-      "title": "QGIS enacts moratorium on AI contributions",
-      "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 387 # Comments: 407",
-      "source": "Hacker News",
-      "published": "2026-10-12T11:22:24+00:00",
-      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
-    },
-    {
-      "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
-      "summary": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as OpenAI faces a boycott for dumping AI proofs on GitHub without peer review.",
-      "source": "The Decoder",
-      "published": "2026-10-12T09:35:54+00:00",
-      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/"
-    },
-    {
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-12T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
-    },
-    {
-      "title": "Recursive self-improvement through collective intelligence",
-      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 135 # Comments: 79",
-      "source": "Hacker News",
-      "published": "2026-10-11T22:22:10+00:00",
-      "link": "https://pub.sakana.ai/mass/"
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 712 # Comments: 1035",
-      "source": "Hacker News",
-      "published": "2026-10-11T20:20:52+00:00",
-      "link": "https://twitter.com/karpathy/status/2109361546505966046"
     }
   ]
 };
