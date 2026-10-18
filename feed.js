@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-18T12:49:24.691657+00:00",
+  "lastUpdated": "2026-10-18T16:24:03.655141+00:00",
   "items": [
+    {
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025.",
+      "source": "The Decoder",
+      "published": "2026-10-18T13:22:26+00:00",
+      "link": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/"
+    },
     {
       "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
       "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-12T13:14:54+00:00",
       "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/"
-    },
-    {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
-      "source": "The Verge",
-      "published": "2026-10-12T13:00:00+00:00",
-      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
     }
   ]
 };
