@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-17T22:48:23.784245+00:00",
+  "lastUpdated": "2026-10-18T05:25:44.052247+00:00",
   "items": [
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
