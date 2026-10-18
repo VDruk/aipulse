@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-18T16:24:03.655141+00:00",
+  "lastUpdated": "2026-10-18T19:10:40.557985+00:00",
   "items": [
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "summary": "Article URL:...",
+      "source": "Hacker News",
+      "published": "2026-10-18T14:30:27+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+    },
     {
       "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
       "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-18T12:39:51+00:00",
       "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
+    },
+    {
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 65 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-10-18T12:22:58+00:00",
+      "link": "https://www.vals.ai/blogs/impossible-refund"
     },
     {
       "title": "Two German courts now hold Google liable for what its AI overviews say",
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 165 # Comments: 49",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 222 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-10-18T04:33:49+00:00",
       "link": "https://sphinx-six-theta.vercel.app/"
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 167 # Comments: 58",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 169 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-17T16:04:23+00:00",
       "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 308 # Comments: 84",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 316 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
       "link": "https://llmspeed.dev/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 611 # Comments: 554",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 612 # Comments: 563",
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 214 # Comments: 89",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 217 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-10-16T15:55:40+00:00",
       "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
@@ -318,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 123 # Comments: 127",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 125 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
@@ -423,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 203",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 261 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-10-15T18:32:29+00:00",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 75 # Comments: 90",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 75 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-10-15T16:17:40+00:00",
       "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
@@ -500,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 249",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 250",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-12T15:24:03+00:00",
       "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/"
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 216 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-10-12T15:16:45+00:00",
-      "link": "https://taylor.town/kk-ai-2026"
-    },
-    {
-      "title": "Why aren't AI companies being charged for hacking?",
-      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 329 # Comments: 367",
-      "source": "Hacker News",
-      "published": "2026-10-12T14:52:37+00:00",
-      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
-    },
-    {
-      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency.",
-      "source": "The Decoder",
-      "published": "2026-10-12T13:14:54+00:00",
-      "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/"
     }
   ]
 };
