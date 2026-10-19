@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-19T15:55:19.106988+00:00",
+  "lastUpdated": "2026-10-19T19:06:51.272042+00:00",
   "items": [
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T19:00:12+00:00",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T18:49:04+00:00",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T18:37:27+00:00",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T18:22:47+00:00",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+    },
+    {
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost.",
+      "source": "The Decoder",
+      "published": "2026-10-19T18:22:30+00:00",
+      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/"
+    },
+    {
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as...",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T17:45:55+00:00",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+    },
+    {
+      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens.",
+      "source": "The Decoder",
+      "published": "2026-10-19T17:36:26+00:00",
+      "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/"
+    },
+    {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T16:13:22+00:00",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+    },
     {
       "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
       "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
@@ -31,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 97 # Comments: 76",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 135 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-10-19T13:00:47+00:00",
       "link": "https://100toolkit.com/blog/deslop-model/"
@@ -44,6 +100,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/"
     },
     {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    },
+    {
       "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
@@ -52,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-      "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 125 # Comments: 57",
+      "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 126 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-10-19T12:07:41+00:00",
       "link": "https://github.com/IsuruMaduranga/harness-engineering-101"
@@ -108,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 261 # Comments: 180",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 284 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-10-18T21:09:12+00:00",
       "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
@@ -122,10 +185,17 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
       "source": "TechCrunch",
       "published": "2026-10-18T20:37:40+00:00",
       "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
     },
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
@@ -157,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 94 # Comments: 116",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 97 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-10-18T12:22:58+00:00",
       "link": "https://www.vals.ai/blogs/impossible-refund"
@@ -192,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 249 # Comments: 88",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 249 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-18T04:33:49+00:00",
       "link": "https://sphinx-six-theta.vercel.app/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
       "source": "TechCrunch",
       "published": "2026-10-17T18:48:08+00:00",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
@@ -346,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 624 # Comments: 572",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 624 # Comments: 573",
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
@@ -374,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 219 # Comments: 93",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 220 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-10-16T15:55:40+00:00",
       "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
@@ -458,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 126 # Comments: 128",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 127 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
@@ -1171,13 +1241,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/"
     },
     {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
-    },
-    {
       "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
       "source": "TechCrunch",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-13T11:00:00+00:00",
       "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/"
-    },
-    {
-      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
-      "summary": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain.",
-      "source": "The Decoder",
-      "published": "2026-10-13T10:33:28+00:00",
-      "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/"
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-      "source": "Wired",
-      "published": "2026-10-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"
-    },
-    {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-13T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
-    },
-    {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-13T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv...",
-      "source": "Hacker News",
-      "published": "2026-10-13T07:28:34+00:00",
-      "link": "https://blog.character.ai/an-update-on-character-ai/"
-    },
-    {
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 114 # Comments: 127",
-      "source": "Hacker News",
-      "published": "2026-10-13T05:57:32+00:00",
-      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
-    },
-    {
-      "title": "AI models can provably hide arbitrary capabilities",
-      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 278 # Comments: 138",
-      "source": "Hacker News",
-      "published": "2026-10-13T02:07:08+00:00",
-      "link": "https://arxiv.org/abs/2610.13928"
-    },
-    {
-      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-      "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 146 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-10-12T23:07:25+00:00",
-      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 751 # Comments: 577",
-      "source": "Hacker News",
-      "published": "2026-10-12T21:40:18+00:00",
-      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
     }
   ]
 };
