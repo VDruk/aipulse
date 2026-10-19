@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-18T22:41:27.553431+00:00",
+  "lastUpdated": "2026-10-19T05:43:48.456932+00:00",
   "items": [
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 96 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-10-18T21:09:12+00:00",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points:...",
+      "source": "Hacker News",
+      "published": "2026-10-18T20:48:14+00:00",
+      "link": "https://arxiv.org/abs/2610.18861"
+    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 65 # Comments: 69",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 82 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-10-18T12:22:58+00:00",
       "link": "https://www.vals.ai/blogs/impossible-refund"
@@ -80,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 222 # Comments: 75",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 243 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-10-18T04:33:49+00:00",
       "link": "https://sphinx-six-theta.vercel.app/"
@@ -115,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 169 # Comments: 59",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 172 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-17T16:04:23+00:00",
       "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
@@ -150,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Super Intelligence",
-      "summary": "Article URL: https://www.si.gov/ Comments URL: https://news.ycombinator.com/item?id=50130570 Points: 104 # Comments: 183",
+      "summary": "Article URL: https://www.si.gov/ Comments URL: https://news.ycombinator.com/item?id=50130570 Points: 104 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-10-17T12:36:19+00:00",
       "link": "https://www.si.gov/"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 316 # Comments: 86",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 323 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
       "link": "https://llmspeed.dev/"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 612 # Comments: 563",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 619 # Comments: 570",
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 217 # Comments: 92",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 219 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-10-16T15:55:40+00:00",
       "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 58 # Comments: 19",
+      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 59 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-10-16T14:35:43+00:00",
       "link": "https://rstation.ai/"
@@ -346,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 125 # Comments: 127",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 125 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
@@ -528,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 250",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-10-15T14:35:15+00:00",
       "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-12T15:45:00+00:00",
       "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:31:19+00:00",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:27:59+00:00",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
     }
   ]
 };
