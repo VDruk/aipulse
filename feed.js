@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-20T05:39:43.100423+00:00",
+  "lastUpdated": "2026-10-20T09:51:30.149271+00:00",
   "items": [
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+    },
     {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-13T15:25:50+00:00",
       "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
-    },
-    {
-      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-      "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg.",
-      "source": "The Verge",
-      "published": "2026-10-13T15:12:59+00:00",
-      "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
     }
   ]
 };
