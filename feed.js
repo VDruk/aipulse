@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-20T20:14:20.470320+00:00",
+  "lastUpdated": "2026-10-20T23:33:04.004876+00:00",
   "items": [
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T23:01:23+00:00",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T22:24:02+00:00",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T21:25:22+00:00",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+    },
+    {
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
+    },
+    {
+      "title": "Melt it, spin it, use it again",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/"
+    },
+    {
+      "title": "A reason to eat carbs",
+      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/"
+    },
+    {
+      "title": "Robotic therapy for stroke patients",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
+    },
+    {
+      "title": "A champion for brain injury patients",
+      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/"
+    },
+    {
+      "title": "A cleaner path to rare earth metals",
+      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/"
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:40:41+00:00",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:35:10+00:00",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+    },
+    {
+      "title": "On AI writing",
+      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 76 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-10-20T19:55:11+00:00",
+      "link": "https://www.bolkunov.com/p/on-ai-writing"
+    },
     {
       "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
       "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time.",
@@ -86,6 +170,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
     },
     {
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 164 # Comments: 190",
+      "source": "Hacker News",
+      "published": "2026-10-20T15:48:26+00:00",
+      "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+    },
+    {
       "title": "The new economics of enterprise AI",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious.",
       "source": "MIT Tech Review",
@@ -115,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
       "source": "TechCrunch",
       "published": "2026-10-20T13:07:24+00:00",
       "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
@@ -213,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 600 # Comments: 169",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 711 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
@@ -360,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 151 # Comments: 110",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 154 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-10-19T13:00:47+00:00",
       "link": "https://100toolkit.com/blog/deslop-model/"
@@ -451,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 297 # Comments: 213",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 300 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-10-18T21:09:12+00:00",
       "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
@@ -485,6 +576,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
     },
     {
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 156 # Comments: 149",
+      "source": "Hacker News",
+      "published": "2026-10-18T14:58:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+    },
+    {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "summary": "Article URL:...",
       "source": "Hacker News",
@@ -507,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 105 # Comments: 124",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 106 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-10-18T12:22:58+00:00",
       "link": "https://www.vals.ai/blogs/impossible-refund"
@@ -604,13 +702,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/"
     },
     {
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
-      "source": "The Verge",
-      "published": "2026-10-17T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-    },
-    {
       "title": "Super Intelligence",
       "summary": "Article URL: https://www.si.gov/ Comments URL: https://news.ycombinator.com/item?id=50130570 Points: 104 # Comments: 184",
       "source": "Hacker News",
@@ -696,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 625 # Comments: 574",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 574",
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
@@ -808,7 +899,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 127 # Comments: 130",
+      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50117382 Points: 129 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-14T13:24:22+00:00",
       "link": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/"
-    },
-    {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "source": "Ars Technica",
-      "published": "2026-10-14T12:55:06+00:00",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
-    },
-    {
-      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
-      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot.",
-      "source": "The Decoder",
-      "published": "2026-10-14T12:37:05+00:00",
-      "link": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/"
-    },
-    {
-      "title": "The Download: faking blood and the future of batteries",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-14T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
-    },
-    {
-      "title": "My Friend Has No Soul",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "source": "Wired",
-      "published": "2026-10-14T11:00:00+00:00",
-      "link": "https://www.wired.com/story/my-friend-has-no-soul/"
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "source": "TechCrunch",
-      "published": "2026-10-14T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
-    },
-    {
-      "title": "AI-assisted PCB design for KiCad 10",
-      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 132 # Comments: 51",
-      "source": "Hacker News",
-      "published": "2026-10-14T10:51:37+00:00",
-      "link": "https://github.com/mixelpixx/Konnect"
-    },
-    {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 156 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-10-14T10:28:26+00:00",
-      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
-    },
-    {
-      "title": "I let an AI run my startup for a week",
-      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 67 # Comments: 72",
-      "source": "Hacker News",
-      "published": "2026-10-14T10:25:48+00:00",
-      "link": "https://daily.tinyprojects.dev/221"
-    },
-    {
-      "title": "Men Can’t Stop Faking How Much They Know About AI",
-      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-      "source": "Wired",
-      "published": "2026-10-14T09:30:00+00:00",
-      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/"
-    },
-    {
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-      "source": "Wired",
-      "published": "2026-10-14T09:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
-    },
-    {
-      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 74 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-10-14T05:53:36+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
-    },
-    {
-      "title": "Is 'Attention' the Essence of Intelligence?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 84 # Comments: 97",
-      "source": "Hacker News",
-      "published": "2026-10-14T03:10:25+00:00",
-      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
-    },
-    {
-      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 117 # Comments: 77",
-      "source": "Hacker News",
-      "published": "2026-10-14T01:09:13+00:00",
-      "link": "https://blumify.io/people"
     }
   ]
 };
