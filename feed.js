@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-20T09:51:30.149271+00:00",
+  "lastUpdated": "2026-10-20T13:54:15.245069+00:00",
   "items": [
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T13:07:24+00:00",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+    },
+    {
+      "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+      "summary": "The Army Cyber Command is developing AI agents that move through other networks like a computer worm and \"neutralize\" targets, according to internal documents.",
+      "source": "The Decoder",
+      "published": "2026-10-20T12:32:56+00:00",
+      "link": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/"
+    },
+    {
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
+    },
+    {
+      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
+      "summary": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models. The article Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-20T12:04:56+00:00",
+      "link": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/"
+    },
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+    },
+    {
+      "title": "US bans Deepseek technology across federal civilian agencies",
+      "summary": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-20T11:34:54+00:00",
+      "link": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/"
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+    },
+    {
+      "title": "How to study a swiftly melting climate disaster",
+      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
+    },
     {
       "title": "A visit to Samsung’s massive new semiconductor hub",
       "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
@@ -21,6 +91,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-19T23:39:38+00:00",
       "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 600 # Comments: 169",
+      "source": "Hacker News",
+      "published": "2026-10-19T23:22:18+00:00",
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
     },
     {
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
@@ -164,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 135 # Comments: 98",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 151 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-10-19T13:00:47+00:00",
       "link": "https://100toolkit.com/blog/deslop-model/"
@@ -192,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-      "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 126 # Comments: 61",
+      "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 132 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-10-19T12:07:41+00:00",
       "link": "https://github.com/IsuruMaduranga/harness-engineering-101"
@@ -210,6 +287,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-19T11:33:36+00:00",
       "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/"
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box.",
+      "source": "Hacker News",
+      "published": "2026-10-19T11:24:34+00:00",
+      "link": "https://news.ycombinator.com/item?id=50151036"
     },
     {
       "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
@@ -233,13 +317,6 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
     },
     {
-      "title": "How far can we push computing?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-19T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/"
-    },
-    {
       "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
       "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
       "source": "Wired",
@@ -247,8 +324,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/"
     },
     {
+      "title": "How far can we push computing?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/"
+    },
+    {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 284 # Comments: 201",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 297 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-10-18T21:09:12+00:00",
       "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
@@ -304,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 97 # Comments: 120",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 105 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-10-18T12:22:58+00:00",
       "link": "https://www.vals.ai/blogs/impossible-refund"
@@ -339,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 249 # Comments: 89",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 252 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-10-18T04:33:49+00:00",
       "link": "https://sphinx-six-theta.vercel.app/"
@@ -444,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 327 # Comments: 86",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 329 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
       "link": "https://llmspeed.dev/"
@@ -493,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 624 # Comments: 573",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 625 # Comments: 574",
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
@@ -521,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 220 # Comments: 93",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 225 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-10-16T15:55:40+00:00",
       "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-13T18:00:49+00:00",
       "link": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/"
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:18:25+00:00",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
-    },
-    {
-      "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
-      "summary": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction.",
-      "source": "The Decoder",
-      "published": "2026-10-13T17:12:41+00:00",
-      "link": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/"
-    },
-    {
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
-      "source": "The Verge",
-      "published": "2026-10-13T17:01:31+00:00",
-      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
-    },
-    {
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
-      "source": "The Verge",
-      "published": "2026-10-13T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
-    },
-    {
-      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
-      "source": "The Verge",
-      "published": "2026-10-13T16:42:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
-    },
-    {
-      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
-      "source": "The Verge",
-      "published": "2026-10-13T16:42:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
-    },
-    {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-    },
-    {
-      "title": "Google finally releases Gemini 4 Argon",
-      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
-      "source": "The Verge",
-      "published": "2026-10-13T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
-    },
-    {
-      "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
-      "summary": "Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down.",
-      "source": "The Decoder",
-      "published": "2026-10-13T15:27:39+00:00",
-      "link": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/"
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 345 # Comments: 185",
-      "source": "Hacker News",
-      "published": "2026-10-13T15:25:50+00:00",
-      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
     }
   ]
 };
