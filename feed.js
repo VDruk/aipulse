@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-19T21:18:36.765350+00:00",
+  "lastUpdated": "2026-10-20T00:02:46.639472+00:00",
   "items": [
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T23:39:38+00:00",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T22:49:27+00:00",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T22:04:28+00:00",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
+      "source": "The Verge",
+      "published": "2026-10-19T21:28:20+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+    },
     {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
@@ -24,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "source": "TechCrunch",
       "published": "2026-10-19T19:28:34+00:00",
       "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-13T14:37:53+00:00",
       "link": "https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/"
-    },
-    {
-      "title": "How to engineer an AI harness for game development",
-      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 172 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-10-13T14:14:23+00:00",
-      "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
-    },
-    {
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot.",
-      "source": "The Verge",
-      "published": "2026-10-13T13:55:45+00:00",
-      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
-    },
-    {
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T13:50:19+00:00",
-      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-    },
-    {
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "source": "TechCrunch",
-      "published": "2026-10-13T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
     }
   ]
 };
