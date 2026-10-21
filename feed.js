@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-21T09:52:49.738673+00:00",
+  "lastUpdated": "2026-10-21T14:10:36.592645+00:00",
   "items": [
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "source": "Wired",
+      "published": "2026-10-21T14:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
+    },
+    {
+      "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+      "summary": "Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-21T13:42:05+00:00",
+      "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/"
+    },
+    {
+      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market.",
+      "source": "The Decoder",
+      "published": "2026-10-21T13:04:19+00:00",
+      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/"
+    },
+    {
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "source": "Wired",
+      "published": "2026-10-21T12:35:00+00:00",
+      "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/"
+    },
+    {
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring.",
+      "source": "The Decoder",
+      "published": "2026-10-21T12:34:57+00:00",
+      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/"
+    },
+    {
+      "title": "The Download: introducing the Impossible issue",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-21T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+    },
+    {
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "source": "Wired",
+      "published": "2026-10-21T10:30:00+00:00",
+      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/"
+    },
     {
       "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
       "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab.",
@@ -16,7 +72,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
     },
     {
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
       "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
       "source": "Wired",
       "published": "2026-10-21T08:30:00+00:00",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-14T16:52:42+00:00",
       "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple.",
-      "source": "The Verge",
-      "published": "2026-10-14T16:43:24+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
-    },
-    {
-      "title": "Why do LLM pelicans look like this?",
-      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 164 # Comments: 143",
-      "source": "Hacker News",
-      "published": "2026-10-14T16:33:34+00:00",
-      "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
-    },
-    {
-      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
-      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder.",
-      "source": "The Decoder",
-      "published": "2026-10-14T16:14:16+00:00",
-      "link": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/"
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.",
-      "source": "The Verge",
-      "published": "2026-10-14T16:05:21+00:00",
-      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
-    },
-    {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.",
-      "source": "The Verge",
-      "published": "2026-10-14T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1009086/square-kiosk"
-    },
-    {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
-      "source": "The Verge",
-      "published": "2026-10-14T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
-    },
-    {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 66 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-10-14T15:39:45+00:00",
-      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
-    },
-    {
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No.",
-      "source": "The Verge",
-      "published": "2026-10-14T15:19:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
     }
   ]
 };
