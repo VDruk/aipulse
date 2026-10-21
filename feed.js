@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-21T05:42:59.943760+00:00",
+  "lastUpdated": "2026-10-21T09:52:49.738673+00:00",
   "items": [
+    {
+      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab.",
+      "source": "The Decoder",
+      "published": "2026-10-21T08:37:06+00:00",
+      "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems.",
+      "source": "The Decoder",
+      "published": "2026-10-21T08:32:54+00:00",
+      "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
+    },
+    {
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "source": "Wired",
+      "published": "2026-10-21T08:30:00+00:00",
+      "link": "https://www.wired.com/story/europe-data-centers-climate-change/"
+    },
     {
       "title": "PHP warns it plans to release 2 emergency patches imminently",
       "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-14T15:19:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
-    },
-    {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:16:04+00:00",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:08:00+00:00",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "source": "TechCrunch",
-      "published": "2026-10-14T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
     }
   ]
 };
