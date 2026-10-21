@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-21T14:10:36.592645+00:00",
+  "lastUpdated": "2026-10-21T17:56:28.082705+00:00",
   "items": [
+    {
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers.",
+      "source": "The Decoder",
+      "published": "2026-10-21T17:44:22+00:00",
+      "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
+    },
+    {
+      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+      "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year.",
+      "source": "The Decoder",
+      "published": "2026-10-21T17:10:46+00:00",
+      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/"
+    },
+    {
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+      "source": "Wired",
+      "published": "2026-10-21T16:00:00+00:00",
+      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/"
+    },
+    {
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "source": "Wired",
+      "published": "2026-10-21T15:02:15+00:00",
+      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/"
+    },
+    {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.",
+      "source": "The Verge",
+      "published": "2026-10-21T15:00:00+00:00",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
+    },
+    {
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks.",
+      "source": "The Decoder",
+      "published": "2026-10-21T14:45:45+00:00",
+      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/"
+    },
+    {
+      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "summary": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-21T14:40:51+00:00",
+      "link": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/"
+    },
+    {
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "source": "Wired",
+      "published": "2026-10-21T14:26:19+00:00",
+      "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+    },
     {
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
@@ -16,11 +72,32 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
     },
     {
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.",
+      "source": "The Verge",
+      "published": "2026-10-21T13:57:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 394 # Comments: 146",
+      "source": "Hacker News",
+      "published": "2026-10-21T13:43:19+00:00",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce"
+    },
+    {
       "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
       "summary": "Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-10-21T13:42:05+00:00",
       "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 76 # Comments: 26",
+      "source": "Hacker News",
+      "published": "2026-10-21T13:37:00+00:00",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
     },
     {
       "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
@@ -42,6 +119,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-21T12:34:57+00:00",
       "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/"
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 62 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-10-21T12:34:46+00:00",
+      "link": "https://layerfs.ai/"
     },
     {
       "title": "The Download: introducing the Impossible issue",
@@ -178,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "On AI writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 83 # Comments: 57",
+      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 92 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-20T19:55:11+00:00",
       "link": "https://www.bolkunov.com/p/on-ai-writing"
@@ -276,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 175 # Comments: 202",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-10-20T15:48:26+00:00",
       "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
@@ -287,6 +371,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-20T15:20:25+00:00",
       "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "summary": "Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway.",
+      "source": "Hacker News",
+      "published": "2026-10-20T15:09:29+00:00",
+      "link": "https://news.ycombinator.com/item?id=50167583"
     },
     {
       "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
@@ -416,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 721 # Comments: 208",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 736 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
@@ -556,14 +647,14 @@ const FEED_DATA = {
     },
     {
       "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.",
-      "source": "The Verge",
-      "published": "2026-10-19T13:58:41+00:00",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins Comments URL: https://news.ycombinator.com/item?id=50152877 Points: 60 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-10-19T14:23:17+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
     },
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 155 # Comments: 110",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 157 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-10-19T13:00:47+00:00",
       "link": "https://100toolkit.com/blog/deslop-model/"
@@ -654,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 300 # Comments: 215",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-10-18T21:09:12+00:00",
       "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
@@ -689,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "Websites are closing their doors to AI agents",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 156 # Comments: 149",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 157 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-10-18T14:58:10+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-14T19:18:44+00:00",
       "link": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/"
-    },
-    {
-      "title": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust.",
-      "source": "The Verge",
-      "published": "2026-10-14T19:06:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
-    },
-    {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.",
-      "source": "The Verge",
-      "published": "2026-10-14T18:47:54+00:00",
-      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
-    },
-    {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 385 # Comments: 277",
-      "source": "Hacker News",
-      "published": "2026-10-14T18:32:52+00:00",
-      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
-    },
-    {
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "source": "TechCrunch",
-      "published": "2026-10-14T18:23:46+00:00",
-      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
-    },
-    {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos.",
-      "source": "The Verge",
-      "published": "2026-10-14T18:22:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
-    },
-    {
-      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-      "source": "Wired",
-      "published": "2026-10-14T18:15:00+00:00",
-      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/"
-    },
-    {
-      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
-      "summary": "For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox.",
-      "source": "The Decoder",
-      "published": "2026-10-14T18:07:37+00:00",
-      "link": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/"
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "source": "TechCrunch",
-      "published": "2026-10-14T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
-    },
-    {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 950 # Comments: 621",
-      "source": "Hacker News",
-      "published": "2026-10-14T17:45:23+00:00",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
-    },
-    {
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 686 # Comments: 301",
-      "source": "Hacker News",
-      "published": "2026-10-14T17:45:23+00:00",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
-    },
-    {
-      "title": "My AI doppelganger tells me what to eat",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
-      "source": "The Verge",
-      "published": "2026-10-14T17:00:00+00:00",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
-    },
-    {
-      "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 124 # Comments: 111",
-      "source": "Hacker News",
-      "published": "2026-10-14T16:55:07+00:00",
-      "link": "https://lwn.net/Articles/1100449/"
-    },
-    {
-      "title": "Has AI tells",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 122",
-      "source": "Hacker News",
-      "published": "2026-10-14T16:52:42+00:00",
-      "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
     }
   ]
 };
