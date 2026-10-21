@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-21T20:26:33.775207+00:00",
+  "lastUpdated": "2026-10-21T23:50:19.175705+00:00",
   "items": [
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T22:51:22+00:00",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+    },
+    {
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "source": "Wired",
+      "published": "2026-10-21T22:39:50+00:00",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/"
+    },
+    {
+      "title": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity.",
+      "source": "The Verge",
+      "published": "2026-10-21T22:33:44+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+    },
+    {
+      "title": "Meta to create a new class of shares to fund AI push",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.",
+      "source": "The Verge",
+      "published": "2026-10-21T21:30:02+00:00",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T21:16:20+00:00",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T21:14:19+00:00",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+    },
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T20:27:41+00:00",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+    },
     {
       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet.",
@@ -24,10 +73,24 @@ const FEED_DATA = {
     },
     {
       "title": "Walmart is inviting AI agents to shop for you",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits.",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits.",
       "source": "The Verge",
       "published": "2026-10-21T19:30:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
+    },
+    {
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 101 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-10-21T19:14:21+00:00",
+      "link": "https://www.bbc.com/news/articles/cmreyvepnv0po"
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:59:12+00:00",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
     },
     {
       "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
@@ -37,11 +100,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
     },
     {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:18:27+00:00",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+    },
+    {
       "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
       "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year.",
       "source": "The Decoder",
       "published": "2026-10-21T17:10:46+00:00",
       "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/"
+    },
+    {
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 66 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-10-21T16:34:16+00:00",
+      "link": "https://rustoffrails.org/"
     },
     {
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
@@ -108,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 394 # Comments: 146",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 428 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-10-21T13:43:19+00:00",
       "link": "https://www.wiz.io/blog/php2shell-php-rce"
@@ -122,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 76 # Comments: 26",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 123 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-10-21T13:37:00+00:00",
       "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
@@ -150,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "LayerFS: The filesystem for AI coding agents",
-      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 62 # Comments: 33",
+      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 69 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-10-21T12:34:46+00:00",
       "link": "https://layerfs.ai/"
@@ -290,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "On AI writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 92 # Comments: 59",
+      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 92 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-20T19:55:11+00:00",
       "link": "https://www.bolkunov.com/p/on-ai-writing"
@@ -388,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 220",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-10-20T15:48:26+00:00",
       "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
@@ -535,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 736 # Comments: 215",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 737 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
@@ -682,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 157 # Comments: 111",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 158 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-10-19T13:00:47+00:00",
       "link": "https://100toolkit.com/blog/deslop-model/"
@@ -773,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 217",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-10-18T21:09:12+00:00",
       "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
@@ -808,7 +885,7 @@ const FEED_DATA = {
     },
     {
       "title": "Websites are closing their doors to AI agents",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 157 # Comments: 149",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 158 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-10-18T14:58:10+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-15T14:30:00+00:00",
       "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "source": "TechCrunch",
-      "published": "2026-10-15T14:29:33+00:00",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-    },
-    {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN.",
-      "source": "The Verge",
-      "published": "2026-10-15T14:03:42+00:00",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth"
-    },
-    {
-      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
-      "source": "The Verge",
-      "published": "2026-10-15T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
-    },
-    {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-15T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones.",
-      "source": "TechCrunch",
-      "published": "2026-10-15T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-    },
-    {
-      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them.",
-      "source": "The Verge",
-      "published": "2026-10-15T12:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
-    },
-    {
-      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "summary": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion.",
-      "source": "The Decoder",
-      "published": "2026-10-15T09:50:43+00:00",
-      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
-    },
-    {
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-15T08:43:24+00:00",
-      "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
-    },
-    {
-      "title": "AI was great until it was not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
-      "source": "Hacker News",
-      "published": "2026-10-15T08:18:38+00:00",
-      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "source": "TechCrunch",
-      "published": "2026-10-15T04:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-    },
-    {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "source": "TechCrunch",
-      "published": "2026-10-15T01:01:32+00:00",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
     }
   ]
 };
