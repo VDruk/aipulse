@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-21T23:50:19.175705+00:00",
+  "lastUpdated": "2026-10-22T05:45:18.980279+00:00",
   "items": [
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 101 # Comments: 17",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 120 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-10-21T19:14:21+00:00",
       "link": "https://www.bbc.com/news/articles/cmreyvepnv0po"
@@ -115,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 66 # Comments: 73",
+      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 70 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-21T16:34:16+00:00",
       "link": "https://rustoffrails.org/"
@@ -185,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 428 # Comments: 171",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 440 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-10-21T13:43:19+00:00",
       "link": "https://www.wiz.io/blog/php2shell-php-rce"
@@ -199,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 123 # Comments: 75",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 139 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-10-21T13:37:00+00:00",
       "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
@@ -227,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "LayerFS: The filesystem for AI coding agents",
-      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 69 # Comments: 42",
+      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 70 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-10-21T12:34:46+00:00",
       "link": "https://layerfs.ai/"
@@ -465,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 228",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-10-20T15:48:26+00:00",
       "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
@@ -612,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 737 # Comments: 215",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 738 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
@@ -850,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 218",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-10-18T21:09:12+00:00",
       "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
@@ -913,7 +913,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 106 # Comments: 126",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 106 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-10-18T12:22:58+00:00",
       "link": "https://www.vals.ai/blogs/impossible-refund"
