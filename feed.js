@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-22T14:08:48.109080+00:00",
+  "lastUpdated": "2026-10-22T17:52:37.157854+00:00",
   "items": [
+    {
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.",
+      "source": "The Verge",
+      "published": "2026-10-22T17:21:31+00:00",
+      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T16:47:17+00:00",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+    },
+    {
+      "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
+      "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs.",
+      "source": "The Decoder",
+      "published": "2026-10-22T16:18:02+00:00",
+      "link": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/"
+    },
+    {
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete.",
+      "source": "The Verge",
+      "published": "2026-10-22T16:16:15+00:00",
+      "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+    },
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.",
+      "source": "The Verge",
+      "published": "2026-10-22T15:50:30+00:00",
+      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T15:03:58+00:00",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+    },
+    {
+      "title": "Recursive shows first result of its AI-driven research process with Flint",
+      "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers.",
+      "source": "The Decoder",
+      "published": "2026-10-22T14:40:16+00:00",
+      "link": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/"
+    },
     {
       "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
       "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation.",
@@ -10,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
       "source": "TechCrunch",
       "published": "2026-10-22T13:53:26+00:00",
       "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
       "source": "TechCrunch",
       "published": "2026-10-22T13:11:13+00:00",
       "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
@@ -37,7 +93,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
     },
     {
-      "title": "AI agents are ready to shop. Some retailers are wary.",
+      "title": "AI agents are ready to shop. Some retailers are wary",
       "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful.",
       "source": "The Verge",
       "published": "2026-10-22T12:30:00+00:00",
@@ -119,6 +175,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-21T22:51:22+00:00",
       "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T22:45:34+00:00",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
     },
     {
       "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-16T12:08:40+00:00",
       "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
-    },
-    {
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "source": "Wired",
-      "published": "2026-10-16T11:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/"
-    },
-    {
-      "title": "Love is infrastructure",
-      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "source": "TechCrunch",
-      "published": "2026-10-15T23:44:56+00:00",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-    },
-    {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
-      "source": "The Verge",
-      "published": "2026-10-15T22:43:23+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-      "source": "The Verge",
-      "published": "2026-10-15T22:35:55+00:00",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"
-    },
-    {
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-      "source": "Wired",
-      "published": "2026-10-15T21:18:15+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/"
-    },
-    {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI.",
-      "source": "The Verge",
-      "published": "2026-10-15T21:09:33+00:00",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
-    },
-    {
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "source": "Wired",
-      "published": "2026-10-15T21:00:28+00:00",
-      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/"
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "source": "TechCrunch",
-      "published": "2026-10-15T20:04:53+00:00",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
     }
   ]
 };
