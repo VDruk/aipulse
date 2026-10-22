@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-22T20:21:52.451869+00:00",
+  "lastUpdated": "2026-10-22T23:47:15.191597+00:00",
   "items": [
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T22:08:24+00:00",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-22T21:17:29+00:00",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+    },
+    {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
+      "source": "The Verge",
+      "published": "2026-10-22T20:32:05+00:00",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+    },
     {
       "title": "The Social Society Helping Women Join the AI Boom",
       "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
       "source": "Wired",
       "published": "2026-10-22T19:56:32+00:00",
       "link": "https://www.wired.com/story/aged-intelligence-society-interview/"
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger!",
+      "source": "The Verge",
+      "published": "2026-10-22T19:45:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -16,18 +44,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "source": "TechCrunch",
       "published": "2026-10-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
     },
     {
       "title": "The Foundations of Scalable AI",
@@ -44,6 +72,27 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
     },
     {
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 68 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-10-22T18:32:57+00:00",
+      "link": "https://www.typeui.sh/micro-interactions"
+    },
+    {
+      "title": "Award-winning AI literature",
+      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 56 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-10-22T18:28:26+00:00",
+      "link": "https://jamesyu.org/award-winning-ai-literature/"
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 99 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-10-22T18:28:16+00:00",
+      "link": "https://arxiv.org/abs/2610.27251"
+    },
+    {
       "title": "Major US banks are locking out AI agents that log in with customer credentials",
       "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions.",
       "source": "The Decoder",
@@ -58,6 +107,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"
     },
     {
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 72...",
+      "source": "Hacker News",
+      "published": "2026-10-22T18:02:54+00:00",
+      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
+    },
+    {
       "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
       "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
       "source": "The Verge",
@@ -70,6 +126,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-22T17:50:09+00:00",
       "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 268 # Comments: 137",
+      "source": "Hacker News",
+      "published": "2026-10-22T17:44:06+00:00",
+      "link": "https://github.com/NVIDIA/OpenShell"
     },
     {
       "title": "Someone hacked the Switch 2 by using an old game and AI",
@@ -98,6 +161,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-22T16:16:15+00:00",
       "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion"
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 193 # Comments: 228",
+      "source": "Hacker News",
+      "published": "2026-10-22T16:08:00+00:00",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
     },
     {
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
@@ -325,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 124 # Comments: 25",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 126 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-10-21T19:14:21+00:00",
       "link": "https://www.bbc.com/news/articles/cmreyvepnv0po"
@@ -360,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 73 # Comments: 76",
+      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 75 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-10-21T16:34:16+00:00",
       "link": "https://rustoffrails.org/"
@@ -437,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 443 # Comments: 183",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 446 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-10-21T13:43:19+00:00",
       "link": "https://www.wiz.io/blog/php2shell-php-rce"
@@ -451,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 150 # Comments: 99",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 154 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-10-21T13:37:00+00:00",
       "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
@@ -476,6 +546,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-21T12:34:57+00:00",
       "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/"
+    },
+    {
+      "title": "LayerFS: A filesystem for AI coding agents",
+      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 74 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-10-21T12:34:46+00:00",
+      "link": "https://layerfs.ai/"
     },
     {
       "title": "LayerFS: The filesystem for AI coding agents",
@@ -521,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using LLM for confidence scoring is a bad idea",
-      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 133 # Comments: 81",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 199 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-10-21T04:27:51+00:00",
       "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
@@ -626,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "On AI writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 92 # Comments: 61",
+      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 93 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-10-20T19:55:11+00:00",
       "link": "https://www.bolkunov.com/p/on-ai-writing"
@@ -871,7 +948,7 @@ const FEED_DATA = {
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 739 # Comments: 217",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 740 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-16T20:05:08+00:00",
       "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/"
-    },
-    {
-      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
-      "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans.",
-      "source": "The Decoder",
-      "published": "2026-10-16T18:10:27+00:00",
-      "link": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T18:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "source": "TechCrunch",
-      "published": "2026-10-16T17:52:24+00:00",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-    },
-    {
-      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters.",
-      "source": "The Decoder",
-      "published": "2026-10-16T17:42:47+00:00",
-      "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/"
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 574",
-      "source": "Hacker News",
-      "published": "2026-10-16T17:08:38+00:00",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:30:00+00:00",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:30:00+00:00",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:01:37+00:00",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-    },
-    {
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 225 # Comments: 93",
-      "source": "Hacker News",
-      "published": "2026-10-16T15:55:40+00:00",
-      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "source": "TechCrunch",
-      "published": "2026-10-16T15:33:49+00:00",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-    },
-    {
-      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent.",
-      "source": "The Decoder",
-      "published": "2026-10-16T15:03:46+00:00",
-      "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/"
     }
   ]
 };
