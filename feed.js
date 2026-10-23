@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-23T05:43:50.793519+00:00",
+  "lastUpdated": "2026-10-23T09:46:47.200442+00:00",
   "items": [
+    {
+      "title": "OpenAI is closing in on a new funding round with UAE investors",
+      "summary": "OpenAI is on the verge of a new funding round worth up to $30 billion. The article OpenAI is closing in on a new funding round with UAE investors appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-23T09:38:38+00:00",
+      "link": "https://the-decoder.com/openai-is-closing-in-on-a-new-funding-round-with-uae-investors/"
+    },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-17T09:00:26+00:00",
       "link": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
-    },
-    {
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "source": "Wired",
-      "published": "2026-10-17T09:00:00+00:00",
-      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/"
     }
   ]
 };
