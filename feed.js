@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-23T09:46:47.200442+00:00",
+  "lastUpdated": "2026-10-23T13:52:12.863959+00:00",
   "items": [
+    {
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet?",
+      "source": "MIT Tech Review",
+      "published": "2026-10-23T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+    },
+    {
+      "title": "Retro gaming is being overrun with AI",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros.",
+      "source": "The Verge",
+      "published": "2026-10-23T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+    },
+    {
+      "title": "Canva launches Craft, its first in-house image model",
+      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-23T11:36:30+00:00",
+      "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/"
+    },
+    {
+      "title": "Anthropic's Claude now writes code and proves it safe automatically",
+      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed.",
+      "source": "The Decoder",
+      "published": "2026-10-23T11:32:19+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/"
+    },
+    {
+      "title": "OpenAI lowers valuation target, raises up to $30 billion",
+      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-23T09:49:38+00:00",
+      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/"
+    },
     {
       "title": "OpenAI is closing in on a new funding round with UAE investors",
       "summary": "OpenAI is on the verge of a new funding round worth up to $30 billion. The article OpenAI is closing in on a new funding round with UAE investors appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-10-23T09:38:38+00:00",
       "link": "https://the-decoder.com/openai-is-closing-in-on-a-new-funding-round-with-uae-investors/"
+    },
+    {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 128 # Comments: 139",
+      "source": "Hacker News",
+      "published": "2026-10-23T06:41:11+00:00",
+      "link": "https://berget.ai/en/blog/per-request-co2-press-release"
     },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -44,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
     },
     {
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "summary": "Article URL: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085 Comments URL: https://news.ycombinator.com/item?id=50200843 Points: 86 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-10-22T20:51:23+00:00",
+      "link": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085"
+    },
+    {
       "title": "Meta’s AI could still scrape news sites, legal experts say",
       "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
       "source": "The Verge",
@@ -72,18 +121,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "source": "TechCrunch",
       "published": "2026-10-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
     },
     {
       "title": "The Foundations of Scalable AI",
@@ -101,21 +150,21 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: UI micro interactions prompts for AI",
-      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 68 # Comments: 38",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 77 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-10-22T18:32:57+00:00",
       "link": "https://www.typeui.sh/micro-interactions"
     },
     {
       "title": "Award-winning AI literature",
-      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 56 # Comments: 59",
+      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 63 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-22T18:28:26+00:00",
       "link": "https://jamesyu.org/award-winning-ai-literature/"
     },
     {
       "title": "AI and the Enclosure of the Scientific Commons",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 99 # Comments: 57",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 136 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-10-22T18:28:16+00:00",
       "link": "https://arxiv.org/abs/2610.27251"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 72...",
+      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 86...",
       "source": "Hacker News",
       "published": "2026-10-22T18:02:54+00:00",
       "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
@@ -157,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 268 # Comments: 137",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 440 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-10-22T17:44:06+00:00",
       "link": "https://github.com/NVIDIA/OpenShell"
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 193 # Comments: 228",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 514 # Comments: 507",
       "source": "Hacker News",
       "published": "2026-10-22T16:08:00+00:00",
       "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 446 # Comments: 184",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 450 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-10-21T13:43:19+00:00",
       "link": "https://www.wiz.io/blog/php2shell-php-rce"
@@ -549,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 154 # Comments: 104",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 157 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-10-21T13:37:00+00:00",
       "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
@@ -577,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "LayerFS: A filesystem for AI coding agents",
-      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 74 # Comments: 47",
+      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 75 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-10-21T12:34:46+00:00",
       "link": "https://layerfs.ai/"
@@ -626,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using LLM for confidence scoring is a bad idea",
-      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 199 # Comments: 99",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 211 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-10-21T04:27:51+00:00",
       "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
@@ -731,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "On AI writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 93 # Comments: 61",
+      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 94 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-10-20T19:55:11+00:00",
       "link": "https://www.bolkunov.com/p/on-ai-writing"
@@ -829,7 +878,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 229",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-10-20T15:48:26+00:00",
       "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
@@ -976,7 +1025,7 @@ const FEED_DATA = {
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 740 # Comments: 217",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 741 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-17T16:04:23+00:00",
       "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
-    },
-    {
-      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing.",
-      "source": "The Decoder",
-      "published": "2026-10-17T15:36:11+00:00",
-      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/"
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
-      "source": "The Verge",
-      "published": "2026-10-17T15:04:36+00:00",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
-    },
-    {
-      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors.",
-      "source": "The Decoder",
-      "published": "2026-10-17T14:42:56+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/"
-    },
-    {
-      "title": "Super Intelligence",
-      "summary": "Article URL: https://www.si.gov/ Comments URL: https://news.ycombinator.com/item?id=50130570 Points: 104 # Comments: 184",
-      "source": "Hacker News",
-      "published": "2026-10-17T12:36:19+00:00",
-      "link": "https://www.si.gov/"
-    },
-    {
-      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor.",
-      "source": "The Decoder",
-      "published": "2026-10-17T10:33:28+00:00",
-      "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
-    },
-    {
-      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
-      "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts.",
-      "source": "The Decoder",
-      "published": "2026-10-17T09:54:36+00:00",
-      "link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/"
-    },
-    {
-      "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-      "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described.",
-      "source": "The Decoder",
-      "published": "2026-10-17T09:00:26+00:00",
-      "link": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
     }
   ]
 };
