@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-22T23:47:15.191597+00:00",
+  "lastUpdated": "2026-10-23T05:43:50.793519+00:00",
   "items": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "source": "TechCrunch",
+      "published": "2026-10-23T04:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "source": "TechCrunch",
+      "published": "2026-10-23T00:45:37+00:00",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
     {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "source": "TechCrunch",
       "published": "2026-10-22T22:08:24+00:00",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
+      "source": "The Verge",
+      "published": "2026-10-22T21:51:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
     },
     {
       "title": "Designing an AI serving harness built to last",
@@ -44,18 +65,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "source": "TechCrunch",
       "published": "2026-10-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch",
+      "published": "2026-10-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
       "title": "The Foundations of Scalable AI",
@@ -485,18 +506,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
     },
     {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "source": "TechCrunch",
-      "published": "2026-10-21T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
-    },
-    {
       "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
       "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
       "source": "Wired",
       "published": "2026-10-21T14:00:00+00:00",
       "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "source": "TechCrunch",
+      "published": "2026-10-21T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
     },
     {
       "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-17T09:00:00+00:00",
       "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/"
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 329 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-10-17T04:36:53+00:00",
-      "link": "https://llmspeed.dev/"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "source": "Ars Technica",
-      "published": "2026-10-16T20:59:01+00:00",
-      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-    },
-    {
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "source": "Wired",
-      "published": "2026-10-16T20:05:08+00:00",
-      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/"
     }
   ]
 };
