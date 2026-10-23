@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-23T20:11:12.182266+00:00",
+  "lastUpdated": "2026-10-23T23:41:06.342097+00:00",
   "items": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "published": "2026-10-23T23:05:49+00:00",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "source": "TechCrunch",
+      "published": "2026-10-23T21:59:19+00:00",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
+      "source": "The Verge",
+      "published": "2026-10-23T21:11:07+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
     {
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
       "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-18T13:22:26+00:00",
       "link": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/"
-    },
-    {
-      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
-      "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run.",
-      "source": "The Decoder",
-      "published": "2026-10-18T12:39:51+00:00",
-      "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
-    },
-    {
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 107 # Comments: 127",
-      "source": "Hacker News",
-      "published": "2026-10-18T12:22:58+00:00",
-      "link": "https://www.vals.ai/blogs/impossible-refund"
-    },
-    {
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "source": "Wired",
-      "published": "2026-10-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"
     }
   ]
 };
