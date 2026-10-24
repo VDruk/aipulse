@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-24T05:23:10.185842+00:00",
+  "lastUpdated": "2026-10-24T09:20:41.163933+00:00",
   "items": [
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 107 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-10-24T05:49:57+00:00",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
@@ -30,6 +37,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
     },
     {
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 56 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-10-23T19:31:36+00:00",
+      "link": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
+    },
+    {
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside...",
       "source": "TechCrunch",
@@ -45,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 115 # Comments: 38",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 117 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-10-23T18:24:54+00:00",
       "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 58 # Comments: 53",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 62 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-10-23T12:02:53+00:00",
       "link": "https://www.thisandthat.chat/enron/"
@@ -136,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 154",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-10-23T06:41:11+00:00",
       "link": "https://berget.ai/en/blog/per-request-co2-press-release"
@@ -219,18 +233,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "source": "TechCrunch",
       "published": "2026-10-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch",
+      "published": "2026-10-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
       "title": "The Foundations of Scalable AI",
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 88...",
+      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 89...",
       "source": "Hacker News",
       "published": "2026-10-22T18:02:54+00:00",
       "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
@@ -304,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 490 # Comments: 213",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 495 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-10-22T17:44:06+00:00",
       "link": "https://github.com/NVIDIA/OpenShell"
@@ -339,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 622 # Comments: 598",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 631 # Comments: 603",
       "source": "Hacker News",
       "published": "2026-10-22T16:08:00+00:00",
       "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
@@ -682,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 452 # Comments: 185",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 453 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-10-21T13:43:19+00:00",
       "link": "https://www.wiz.io/blog/php2shell-php-rce"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-18T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "source": "TechCrunch",
-      "published": "2026-10-18T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 158 # Comments: 149",
-      "source": "Hacker News",
-      "published": "2026-10-18T14:58:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     }
   ]
 };
