@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-24T16:30:46.915339+00:00",
+  "lastUpdated": "2026-10-24T19:11:17.898894+00:00",
   "items": [
     {
       "title": "Block’s new voice model sounds eerily human",
