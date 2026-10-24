@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-24T12:57:49.816688+00:00",
+  "lastUpdated": "2026-10-24T16:30:46.915339+00:00",
   "items": [
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "source": "TechCrunch",
+      "published": "2026-10-24T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    },
+    {
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer.",
+      "source": "The Decoder",
+      "published": "2026-10-24T15:19:33+00:00",
+      "link": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "source": "TechCrunch",
+      "published": "2026-10-24T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+    },
+    {
+      "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+      "summary": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most.",
+      "source": "The Decoder",
+      "published": "2026-10-24T14:34:05+00:00",
+      "link": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/"
+    },
+    {
+      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time.",
+      "source": "The Decoder",
+      "published": "2026-10-24T14:09:46+00:00",
+      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "published": "2026-10-24T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
     {
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
       "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
       "source": "Wired",
       "published": "2026-10-24T12:00:00+00:00",
       "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 75 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-10-24T11:18:54+00:00",
+      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
     },
     {
       "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
@@ -59,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 57 # Comments: 48",
+      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 63 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-23T19:31:36+00:00",
       "link": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
@@ -80,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 119 # Comments: 40",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 119 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-10-23T18:24:54+00:00",
       "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
@@ -129,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 63 # Comments: 54",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 64 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-10-23T12:02:53+00:00",
       "link": "https://www.thisandthat.chat/enron/"
@@ -171,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 156",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 141 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-10-23T06:41:11+00:00",
       "link": "https://berget.ai/en/blog/per-request-co2-press-release"
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI compute is the new oil–and needs a new market",
-      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 52 # Comments: 59",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 53 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-22T23:45:16+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI and the Enclosure of the Scientific Commons",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 138 # Comments: 80",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 139 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-10-22T18:28:16+00:00",
       "link": "https://arxiv.org/abs/2610.27251"
@@ -318,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 90...",
+      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 91...",
       "source": "Hacker News",
       "published": "2026-10-22T18:02:54+00:00",
       "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
@@ -339,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 495 # Comments: 217",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 496 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-10-22T17:44:06+00:00",
       "link": "https://github.com/NVIDIA/OpenShell"
@@ -374,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 638 # Comments: 613",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 642 # Comments: 617",
       "source": "Hacker News",
       "published": "2026-10-22T16:08:00+00:00",
       "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
@@ -717,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 453 # Comments: 185",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 454 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-10-21T13:43:19+00:00",
       "link": "https://www.wiz.io/blog/php2shell-php-rce"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-19T11:33:36+00:00",
       "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/"
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box.",
-      "source": "Hacker News",
-      "published": "2026-10-19T11:24:34+00:00",
-      "link": "https://news.ycombinator.com/item?id=50151036"
-    },
-    {
-      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
-      "summary": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches.",
-      "source": "The Decoder",
-      "published": "2026-10-19T11:19:12+00:00",
-      "link": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/"
-    },
-    {
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-19T09:22:17+00:00",
-      "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
-    },
-    {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-19T09:08:05+00:00",
-      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
-    },
-    {
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "source": "Wired",
-      "published": "2026-10-19T09:00:00+00:00",
-      "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/"
-    },
-    {
-      "title": "How far can we push computing?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-19T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/"
-    },
-    {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 219",
-      "source": "Hacker News",
-      "published": "2026-10-18T21:09:12+00:00",
-      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
     }
   ]
 };
