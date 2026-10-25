@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-25T05:41:14.539041+00:00",
+  "lastUpdated": "2026-10-25T09:37:18.986885+00:00",
   "items": [
+    {
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast.",
+      "source": "The Decoder",
+      "published": "2026-10-25T09:12:10+00:00",
+      "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/"
+    },
+    {
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it.",
+      "source": "The Decoder",
+      "published": "2026-10-25T08:09:32+00:00",
+      "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/"
+    },
+    {
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+      "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching.",
+      "source": "The Decoder",
+      "published": "2026-10-25T07:30:11+00:00",
+      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+    },
+    {
+      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible.",
+      "source": "The Decoder",
+      "published": "2026-10-25T06:55:22+00:00",
+      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 153 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-10-25T01:33:49+00:00",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 357 # Comments: 351",
+      "source": "Hacker News",
+      "published": "2026-10-24T23:11:54+00:00",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+    },
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
@@ -10,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "No signs of AI payoff outside the tech sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 394 # Comments: 362",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 551 # Comments: 574",
       "source": "Hacker News",
       "published": "2026-10-24T19:47:19+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
@@ -31,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why is AI generated language so hard to understand?",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 132 # Comments: 128",
+      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 198 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-10-24T18:04:57+00:00",
       "link": "https://arxiv.org/abs/2610.29162"
@@ -87,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 93 # Comments: 49",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 96 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-10-24T11:18:54+00:00",
       "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
@@ -143,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 65 # Comments: 58",
+      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 66 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-10-23T19:31:36+00:00",
       "link": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 119 # Comments: 41",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 120 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-10-23T18:24:54+00:00",
       "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 64 # Comments: 55",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 66 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-10-23T12:02:53+00:00",
       "link": "https://www.thisandthat.chat/enron/"
@@ -255,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 141 # Comments: 156",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 142 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-10-23T06:41:11+00:00",
       "link": "https://berget.ai/en/blog/per-request-co2-press-release"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI compute is the new oil–and needs a new market",
-      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 53 # Comments: 60",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 53 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-22T23:45:16+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
@@ -338,18 +380,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "source": "TechCrunch",
       "published": "2026-10-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "source": "TechCrunch",
+      "published": "2026-10-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
     },
     {
       "title": "The Foundations of Scalable AI",
@@ -367,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: UI micro interactions prompts for AI",
-      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 80 # Comments: 45",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 80 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-10-22T18:32:57+00:00",
       "link": "https://www.typeui.sh/micro-interactions"
@@ -458,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 645 # Comments: 622",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 650 # Comments: 623",
       "source": "Hacker News",
       "published": "2026-10-22T16:08:00+00:00",
       "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
@@ -689,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 127 # Comments: 26",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 128 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-10-21T19:14:21+00:00",
       "link": "https://www.bbc.com/news/articles/cmreyvepnv0po"
@@ -724,14 +766,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 75 # Comments: 76",
+      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 76 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-10-21T16:34:16+00:00",
       "link": "https://rustoffrails.org/"
     },
     {
       "title": "AI agent fixed the bug, but what else did it change?",
-      "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 53 # Comments: 6",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 54 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-10-21T16:03:32+00:00",
       "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-19T16:13:22+00:00",
       "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T15:37:09+00:00",
-      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
-    },
-    {
-      "title": "Two German courts now hold Google liable for what its AI overviews say",
-      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working.",
-      "source": "The Decoder",
-      "published": "2026-10-19T14:54:39+00:00",
-      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
-    },
-    {
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.",
-      "source": "The Verge",
-      "published": "2026-10-19T14:30:00+00:00",
-      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
-    },
-    {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins Comments URL: https://news.ycombinator.com/item?id=50152877 Points: 60 # Comments: 3",
-      "source": "Hacker News",
-      "published": "2026-10-19T14:23:17+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
-    },
-    {
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 158 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-10-19T13:00:47+00:00",
-      "link": "https://100toolkit.com/blog/deslop-model/"
-    },
-    {
-      "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
-      "summary": "AI agents are increasingly using Stripe's payment service Link to shop for their users, Upstarts Media reports. The article Stripe says AI agent purchases are adding up, but it won't share the numbers appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-19T12:51:12+00:00",
-      "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/"
     }
   ]
 };
