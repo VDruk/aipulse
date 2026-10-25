@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-25T09:37:18.986885+00:00",
+  "lastUpdated": "2026-10-25T13:24:06.227746+00:00",
   "items": [
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth.",
+      "source": "The Verge",
+      "published": "2026-10-25T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+    },
+    {
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality.",
+      "source": "The Decoder",
+      "published": "2026-10-25T10:08:49+00:00",
+      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+    },
+    {
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "source": "Wired",
+      "published": "2026-10-25T10:00:00+00:00",
+      "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/"
+    },
+    {
+      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027.",
+      "source": "The Decoder",
+      "published": "2026-10-25T09:37:46+00:00",
+      "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
+    },
     {
       "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
       "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-19T18:22:47+00:00",
       "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
-    },
-    {
-      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
-      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost.",
-      "source": "The Decoder",
-      "published": "2026-10-19T18:22:30+00:00",
-      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/"
-    },
-    {
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as...",
-      "source": "MIT Tech Review",
-      "published": "2026-10-19T17:45:55+00:00",
-      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
-    },
-    {
-      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
-      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens.",
-      "source": "The Decoder",
-      "published": "2026-10-19T17:36:26+00:00",
-      "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/"
-    },
-    {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T16:13:22+00:00",
-      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
     }
   ]
 };
