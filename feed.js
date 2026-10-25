@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-24T22:48:42.205501+00:00",
+  "lastUpdated": "2026-10-25T05:41:14.539041+00:00",
   "items": [
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
