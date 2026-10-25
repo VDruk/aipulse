@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-25T16:58:38.634512+00:00",
+  "lastUpdated": "2026-10-25T19:25:10.318629+00:00",
   "items": [
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "TechCrunch",
+      "published": "2026-10-25T16:57:32+00:00",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
       "source": "TechCrunch",
       "published": "2026-10-25T16:57:32+00:00",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 85 # Comments: 135",
+      "source": "Hacker News",
+      "published": "2026-10-25T16:28:26+00:00",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
     },
     {
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -21,6 +35,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-25T13:25:32+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+    },
+    {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 84 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-10-25T12:47:20+00:00",
+      "link": "https://twitter.com/boneGPT/status/2114035719853265264"
     },
     {
       "title": "Google’s AI search changes upended online publishing",
@@ -42,6 +63,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-25T10:00:00+00:00",
       "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/"
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 114 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-10-25T09:51:17+00:00",
+      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
     },
     {
       "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
@@ -80,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 153 # Comments: 54",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 324 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-10-25T01:33:49+00:00",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 357 # Comments: 351",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 484 # Comments: 513",
       "source": "Hacker News",
       "published": "2026-10-24T23:11:54+00:00",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "No signs of AI payoff outside the tech sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 551 # Comments: 574",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 596 # Comments: 638",
       "source": "Hacker News",
       "published": "2026-10-24T19:47:19+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why is AI generated language so hard to understand?",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 198 # Comments: 169",
+      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 235 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-10-24T18:04:57+00:00",
       "link": "https://arxiv.org/abs/2610.29162"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 96 # Comments: 52",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 97 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-10-24T11:18:54+00:00",
       "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
@@ -304,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 66 # Comments: 56",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 70 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-10-23T12:02:53+00:00",
       "link": "https://www.thisandthat.chat/enron/"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI and the Enclosure of the Scientific Commons",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 140 # Comments: 81",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 141 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-10-22T18:28:16+00:00",
       "link": "https://arxiv.org/abs/2610.27251"
@@ -514,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 499 # Comments: 217",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 501 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-10-22T17:44:06+00:00",
       "link": "https://github.com/NVIDIA/OpenShell"
@@ -549,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 650 # Comments: 623",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 655 # Comments: 631",
       "source": "Hacker News",
       "published": "2026-10-22T16:08:00+00:00",
       "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-19T19:49:17+00:00",
       "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/"
-    },
-    {
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "source": "Ars Technica",
-      "published": "2026-10-19T19:39:19+00:00",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T19:28:34+00:00",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
-    },
-    {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T19:00:12+00:00",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
-    },
-    {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T18:49:04+00:00",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
     }
   ]
 };
