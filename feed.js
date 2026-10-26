@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-26T05:46:07.682958+00:00",
+  "lastUpdated": "2026-10-26T10:49:11.533281+00:00",
   "items": [
+    {
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-26T09:49:33+00:00",
+      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/"
+    },
+    {
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch?",
+      "source": "Wired",
+      "published": "2026-10-26T09:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/"
+    },
+    {
+      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+      "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-26T09:18:15+00:00",
+      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/"
+    },
+    {
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "source": "Wired",
+      "published": "2026-10-26T09:00:00+00:00",
+      "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
+    },
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-19T23:22:18+00:00",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of...",
-      "source": "TechCrunch",
-      "published": "2026-10-19T22:49:27+00:00",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T22:04:28+00:00",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
-    },
-    {
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
-      "source": "The Verge",
-      "published": "2026-10-19T21:28:20+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "source": "TechCrunch",
-      "published": "2026-10-19T20:09:24+00:00",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
     }
   ]
 };
