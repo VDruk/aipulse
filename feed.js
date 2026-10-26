@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-25T22:57:04.916878+00:00",
+  "lastUpdated": "2026-10-26T05:46:07.682958+00:00",
   "items": [
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -464,18 +464,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "source": "TechCrunch",
       "published": "2026-10-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch",
+      "published": "2026-10-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
       "title": "The Foundations of Scalable AI",
