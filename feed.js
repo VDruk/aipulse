@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-26T19:03:42.150563+00:00",
+  "lastUpdated": "2026-10-26T21:17:33.557775+00:00",
   "items": [
+    {
+      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control.",
+      "source": "The Decoder",
+      "published": "2026-10-26T20:30:55+00:00",
+      "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
+    },
+    {
+      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+      "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year.",
+      "source": "The Decoder",
+      "published": "2026-10-26T19:14:45+00:00",
+      "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/"
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 369 # Comments: 218",
+      "source": "Hacker News",
+      "published": "2026-10-26T18:01:17+00:00",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
+    },
     {
       "title": "Researchers find six patterns that make AI text so exhausting to read",
       "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse.",
@@ -45,10 +66,17 @@ const FEED_DATA = {
     },
     {
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
       "source": "TechCrunch",
       "published": "2026-10-26T16:46:36+00:00",
       "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 201 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-10-26T16:35:44+00:00",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
     },
     {
       "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Brown student maps the hidden global labor powering AI",
-      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 55 # Comments: 40",
+      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 168 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-10-26T12:58:27+00:00",
       "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
@@ -150,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 73 # Comments: 94",
+      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 78 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-10-26T04:11:40+00:00",
       "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
     },
     {
       "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 67 # Comments: 43",
+      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 69 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-10-25T22:49:06+00:00",
       "link": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
@@ -171,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 388 # Comments: 393",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 405 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-10-25T21:11:31+00:00",
       "link": "https://minimaxir.com/2026/10/cheap-llms/"
     },
     {
       "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 71 # Comments: 31",
+      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 81 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-10-25T18:42:23+00:00",
       "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
@@ -199,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "A mathematician reads the AI future",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 68 # Comments: 96",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 68 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-10-25T16:31:21+00:00",
       "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 228 # Comments: 321",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 234 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-10-25T16:28:26+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 84",
+      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-10-25T09:51:17+00:00",
       "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
@@ -297,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 361 # Comments: 139",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 364 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-10-25T01:33:49+00:00",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 536 # Comments: 568",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 539 # Comments: 576",
       "source": "Hacker News",
       "published": "2026-10-24T23:11:54+00:00",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "No signs of AI payoff outside the tech sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 635 # Comments: 662",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 637 # Comments: 668",
       "source": "Hacker News",
       "published": "2026-10-24T19:47:19+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
@@ -353,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why is AI generated language so hard to understand?",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 248 # Comments: 199",
+      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 253 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-10-24T18:04:57+00:00",
       "link": "https://arxiv.org/abs/2610.29162"
     },
     {
       "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
       "source": "TechCrunch",
       "published": "2026-10-24T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
@@ -465,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 66 # Comments: 58",
+      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 66 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-23T19:31:36+00:00",
       "link": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
@@ -486,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 120 # Comments: 42",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 121 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-10-23T18:24:54+00:00",
       "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
@@ -535,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 70 # Comments: 56",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 70 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-10-23T12:02:53+00:00",
       "link": "https://www.thisandthat.chat/enron/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-20T17:41:58+00:00",
       "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/"
-    },
-    {
-      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
-      "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations.",
-      "source": "The Decoder",
-      "published": "2026-10-20T17:17:55+00:00",
-      "link": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
-    },
-    {
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T17:12:48+00:00",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
-    },
-    {
-      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
-      "summary": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute.",
-      "source": "The Decoder",
-      "published": "2026-10-20T17:00:59+00:00",
-      "link": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/"
-    },
-    {
-      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
-      "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra.",
-      "source": "The Decoder",
-      "published": "2026-10-20T16:40:29+00:00",
-      "link": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/"
     }
   ]
 };
