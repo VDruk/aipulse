@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-26T15:32:09.858752+00:00",
+  "lastUpdated": "2026-10-26T19:03:42.150563+00:00",
   "items": [
+    {
+      "title": "Researchers find six patterns that make AI text so exhausting to read",
+      "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse.",
+      "source": "The Decoder",
+      "published": "2026-10-26T17:50:15+00:00",
+      "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/"
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-26T17:45:43+00:00",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.",
+      "source": "The Verge",
+      "published": "2026-10-26T17:30:55+00:00",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
+    },
+    {
+      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+      "summary": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well.",
+      "source": "The Decoder",
+      "published": "2026-10-26T17:19:40+00:00",
+      "link": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions.",
+      "source": "The Verge",
+      "published": "2026-10-26T17:10:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "source": "TechCrunch",
+      "published": "2026-10-26T16:49:42+00:00",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "source": "TechCrunch",
+      "published": "2026-10-26T16:46:36+00:00",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "source": "Wired",
+      "published": "2026-10-26T16:01:55+00:00",
+      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/"
+    },
     {
       "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
       "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
@@ -268,6 +324,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
     },
     {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "source": "TechCrunch",
+      "published": "2026-10-24T20:15:33+00:00",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+    },
+    {
       "title": "No signs of AI payoff outside the tech sector",
       "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 635 # Comments: 662",
       "source": "Hacker News",
@@ -373,7 +436,7 @@ const FEED_DATA = {
       "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "source": "TechCrunch",
       "published": "2026-10-23T23:05:49+00:00",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-20T16:40:29+00:00",
       "link": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/"
-    },
-    {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:20:06+00:00",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
-    },
-    {
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 231",
-      "source": "Hacker News",
-      "published": "2026-10-20T15:48:26+00:00",
-      "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
-    },
-    {
-      "title": "The new economics of enterprise AI",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T15:20:25+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "summary": "Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway.",
-      "source": "Hacker News",
-      "published": "2026-10-20T15:09:29+00:00",
-      "link": "https://news.ycombinator.com/item?id=50167583"
-    },
-    {
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "source": "Wired",
-      "published": "2026-10-20T15:07:43+00:00",
-      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/"
-    },
-    {
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year.",
-      "source": "The Verge",
-      "published": "2026-10-20T14:18:37+00:00",
-      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T14:13:32+00:00",
-      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
-    },
-    {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T13:07:24+00:00",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
     }
   ]
 };
