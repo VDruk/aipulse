@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-27T10:15:19.303080+00:00",
+  "lastUpdated": "2026-10-27T15:02:00.481650+00:00",
   "items": [
+    {
+      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence.",
+      "source": "The Decoder",
+      "published": "2026-10-27T13:55:24+00:00",
+      "link": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/"
+    },
+    {
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers.",
+      "source": "The Verge",
+      "published": "2026-10-27T13:50:51+00:00",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+      "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize.",
+      "source": "The Decoder",
+      "published": "2026-10-27T12:37:24+00:00",
+      "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/"
+    },
+    {
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up?",
+      "source": "MIT Tech Review",
+      "published": "2026-10-27T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+    },
+    {
+      "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+      "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web.",
+      "source": "The Decoder",
+      "published": "2026-10-27T11:39:24+00:00",
+      "link": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/"
+    },
+    {
+      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+      "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers.",
+      "source": "The Decoder",
+      "published": "2026-10-27T11:20:51+00:00",
+      "link": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "source": "Wired",
+      "published": "2026-10-27T11:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/"
+    },
     {
       "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
       "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas.",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-20T23:01:23+00:00",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T22:24:02+00:00",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
-    },
-    {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.",
-      "source": "The Verge",
-      "published": "2026-10-20T22:11:34+00:00",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T21:25:22+00:00",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
-    },
-    {
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
-    },
-    {
-      "title": "Melt it, spin it, use it again",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/"
-    },
-    {
-      "title": "A reason to eat carbs",
-      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/"
-    },
-    {
-      "title": "Robotic therapy for stroke patients",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
-    },
-    {
-      "title": "A champion for brain injury patients",
-      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/"
-    },
-    {
-      "title": "A cleaner path to rare earth metals",
-      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/"
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:40:41+00:00",
-      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
     }
   ]
 };
