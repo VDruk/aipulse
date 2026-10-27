@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-27T15:02:00.481650+00:00",
+  "lastUpdated": "2026-10-27T18:35:03.391756+00:00",
   "items": [
+    {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+      "source": "The Verge",
+      "published": "2026-10-27T17:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
+    },
+    {
+      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent.",
+      "source": "The Decoder",
+      "published": "2026-10-27T17:25:09+00:00",
+      "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "source": "TechCrunch",
+      "published": "2026-10-27T17:08:08+00:00",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
+      "source": "The Verge",
+      "published": "2026-10-27T16:51:22+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
+    },
+    {
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 160 # Comments: 86",
+      "source": "Hacker News",
+      "published": "2026-10-27T16:40:15+00:00",
+      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+    },
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T16:30:57+00:00",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs.",
+      "source": "The Verge",
+      "published": "2026-10-27T16:14:18+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI.",
+      "source": "The Verge",
+      "published": "2026-10-27T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "source": "Wired",
+      "published": "2026-10-27T15:10:26+00:00",
+      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/"
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:59:09+00:00",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    },
     {
       "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
       "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence.",
@@ -58,6 +128,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/"
     },
     {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 330 # Comments: 155",
+      "source": "Hacker News",
+      "published": "2026-10-27T11:08:15+00:00",
+      "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+    },
+    {
+      "title": "AI promised less work. I've never worked more",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 586 # Comments: 557",
+      "source": "Hacker News",
+      "published": "2026-10-27T11:08:14+00:00",
+      "link": "https://oioannou.com/blog/ai-promised-less-work/"
+    },
+    {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
       "source": "TechCrunch",
@@ -100,6 +184,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
     },
     {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 369 # Comments: 257",
+      "source": "Hacker News",
+      "published": "2026-10-27T06:25:37+00:00",
+      "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
+    },
+    {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
       "source": "TechCrunch",
@@ -121,6 +212,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
     },
     {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 175 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-10-26T22:41:48+00:00",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    },
+    {
       "title": "Anthropic is burning gas to feed the AI boom",
       "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.",
       "source": "The Verge",
@@ -133,6 +231,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-26T21:27:15+00:00",
       "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
+    },
+    {
+      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 76 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-10-26T21:13:59+00:00",
+      "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
     },
     {
       "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
@@ -150,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6.1 Terra",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 369 # Comments: 218",
+      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 615 # Comments: 403",
       "source": "Hacker News",
       "published": "2026-10-26T18:01:17+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
@@ -206,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 201 # Comments: 76",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 314 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-10-26T16:35:44+00:00",
       "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
@@ -262,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Brown student maps the hidden global labor powering AI",
-      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 168 # Comments: 157",
+      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 181 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-10-26T12:58:27+00:00",
       "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
@@ -311,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 78 # Comments: 102",
+      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 81 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-10-26T04:11:40+00:00",
       "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
     },
     {
       "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 69 # Comments: 48",
+      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 72 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-10-25T22:49:06+00:00",
       "link": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
@@ -332,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 405 # Comments: 411",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 429 # Comments: 432",
       "source": "Hacker News",
       "published": "2026-10-25T21:11:31+00:00",
       "link": "https://minimaxir.com/2026/10/cheap-llms/"
     },
     {
       "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 81 # Comments: 51",
+      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 94 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-25T18:42:23+00:00",
       "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
@@ -360,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "A mathematician reads the AI future",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 68 # Comments: 119",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 70 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-10-25T16:31:21+00:00",
       "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 234 # Comments: 327",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 238 # Comments: 328",
       "source": "Hacker News",
       "published": "2026-10-25T16:28:26+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
@@ -388,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Imagine an AI future where being banned means you are now economically useless",
-      "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 98 # Comments: 78",
+      "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 99 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-10-25T12:47:20+00:00",
       "link": "https://twitter.com/boneGPT/status/2114035719853265264"
@@ -458,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 364 # Comments: 141",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 367 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-10-25T01:33:49+00:00",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
@@ -472,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 539 # Comments: 576",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 542 # Comments: 585",
       "source": "Hacker News",
       "published": "2026-10-24T23:11:54+00:00",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-21T13:42:05+00:00",
       "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 160 # Comments: 105",
-      "source": "Hacker News",
-      "published": "2026-10-21T13:37:00+00:00",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
-    },
-    {
-      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
-      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market.",
-      "source": "The Decoder",
-      "published": "2026-10-21T13:04:19+00:00",
-      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/"
-    },
-    {
-      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-      "source": "Wired",
-      "published": "2026-10-21T12:35:00+00:00",
-      "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/"
-    },
-    {
-      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
-      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring.",
-      "source": "The Decoder",
-      "published": "2026-10-21T12:34:57+00:00",
-      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/"
-    },
-    {
-      "title": "LayerFS: A filesystem for AI coding agents",
-      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 76 # Comments: 47",
-      "source": "Hacker News",
-      "published": "2026-10-21T12:34:46+00:00",
-      "link": "https://layerfs.ai/"
-    },
-    {
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 72 # Comments: 45",
-      "source": "Hacker News",
-      "published": "2026-10-21T12:34:46+00:00",
-      "link": "https://layerfs.ai/"
-    },
-    {
-      "title": "The Download: introducing the Impossible issue",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
-    },
-    {
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-      "source": "Wired",
-      "published": "2026-10-21T10:30:00+00:00",
-      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/"
-    },
-    {
-      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab.",
-      "source": "The Decoder",
-      "published": "2026-10-21T08:37:06+00:00",
-      "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/"
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems.",
-      "source": "The Decoder",
-      "published": "2026-10-21T08:32:54+00:00",
-      "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
-    },
-    {
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-      "source": "Wired",
-      "published": "2026-10-21T08:30:00+00:00",
-      "link": "https://www.wired.com/story/europe-data-centers-climate-change/"
-    },
-    {
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 224 # Comments: 102",
-      "source": "Hacker News",
-      "published": "2026-10-21T04:27:51+00:00",
-      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
-    },
-    {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "source": "Ars Technica",
-      "published": "2026-10-21T02:12:18+00:00",
-      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
-    },
-    {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood.",
-      "source": "The Verge",
-      "published": "2026-10-20T23:04:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T23:01:23+00:00",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
     }
   ]
 };
