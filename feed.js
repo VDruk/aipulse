@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-26T21:17:33.557775+00:00",
+  "lastUpdated": "2026-10-27T00:08:37.277506+00:00",
   "items": [
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
+      "source": "The Verge",
+      "published": "2026-10-26T23:34:58+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.",
+      "source": "The Verge",
+      "published": "2026-10-26T21:45:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+    },
+    {
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "source": "Wired",
+      "published": "2026-10-26T21:27:15+00:00",
+      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
+    },
     {
       "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
       "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-20T18:36:53+00:00",
       "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
-    },
-    {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
-      "source": "The Verge",
-      "published": "2026-10-20T18:07:34+00:00",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T17:55:12+00:00",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
-    },
-    {
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "source": "Wired",
-      "published": "2026-10-20T17:41:58+00:00",
-      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/"
     }
   ]
 };
