@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-27T05:58:56.568787+00:00",
+  "lastUpdated": "2026-10-27T10:15:19.303080+00:00",
   "items": [
+    {
+      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas.",
+      "source": "The Decoder",
+      "published": "2026-10-27T10:09:26+00:00",
+      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/"
+    },
+    {
+      "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+      "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-27T09:58:16+00:00",
+      "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/"
+    },
+    {
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "source": "Wired",
+      "published": "2026-10-27T09:30:00+00:00",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/"
+    },
+    {
+      "title": "How solid-state transformers could help power the AI boom",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-27T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-20T20:40:41+00:00",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:35:10+00:00",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
-    },
-    {
-      "title": "On AI writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 95 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-10-20T19:55:11+00:00",
-      "link": "https://www.bolkunov.com/p/on-ai-writing"
-    },
-    {
-      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
-      "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time.",
-      "source": "The Decoder",
-      "published": "2026-10-20T19:03:15+00:00",
-      "link": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/"
-    },
-    {
-      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
-      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models.",
-      "source": "The Decoder",
-      "published": "2026-10-20T18:56:15+00:00",
-      "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/"
     }
   ]
 };
