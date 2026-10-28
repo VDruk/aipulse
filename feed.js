@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-28T11:04:59.647026+00:00",
+  "lastUpdated": "2026-10-28T15:32:40.423653+00:00",
   "items": [
+    {
+      "title": "New Artificial Analysis index widens the gap between open and closed models",
+      "summary": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-28T15:04:43+00:00",
+      "link": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "source": "TechCrunch",
+      "published": "2026-10-28T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+    },
+    {
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian.",
+      "source": "The Verge",
+      "published": "2026-10-28T14:44:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+    },
+    {
+      "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+      "summary": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50273623 Points: 67 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-10-28T13:56:21+00:00",
+      "link": "https://github.com/thomasunise/casecite"
+    },
+    {
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 143 # Comments: 147",
+      "source": "Hacker News",
+      "published": "2026-10-28T13:41:30+00:00",
+      "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-28T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "summary": "Pairing industrial AI autonomy and human control",
+      "source": "MIT Tech Review",
+      "published": "2026-10-28T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+    },
+    {
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
+      "source": "The Verge",
+      "published": "2026-10-28T11:27:30+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+    },
+    {
+      "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "summary": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do.",
+      "source": "The Decoder",
+      "published": "2026-10-28T11:15:00+00:00",
+      "link": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/"
+    },
     {
       "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
       "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went.",
@@ -31,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 61 # Comments: 67",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 79 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-10-28T03:06:22+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
@@ -80,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 365 # Comments: 143",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 448 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -101,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "US President says he will ban the term 'artificial intelligence'",
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 92 # Comments: 120",
+      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 98 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-10-27T19:11:31+00:00",
       "link": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
@@ -136,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 146 # Comments: 55",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 155 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-10-27T17:04:50+00:00",
       "link": "https://www.liquid.ai/blog/lfm3"
@@ -150,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 373 # Comments: 292",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 382 # Comments: 301",
       "source": "Hacker News",
       "published": "2026-10-27T16:40:15+00:00",
       "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
@@ -164,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 325 # Comments: 252",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 342 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -255,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 482 # Comments: 218",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 489 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:15+00:00",
       "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
     {
       "title": "AI promised less work. I've never worked more",
-      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 643 # Comments: 639",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 652 # Comments: 647",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:14+00:00",
       "link": "https://oioannou.com/blog/ai-promised-less-work/"
@@ -311,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "“AI Skills” are worthless in 2026",
-      "summary": "Article URL: https://fishbowl.pastiche.org/2026/10/26/ai-skills Comments URL: https://news.ycombinator.com/item?id=50255346 Points: 50 # Comments: 25",
+      "summary": "Article URL: https://fishbowl.pastiche.org/2026/10/26/ai-skills Comments URL: https://news.ycombinator.com/item?id=50255346 Points: 51 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-10-27T06:33:34+00:00",
       "link": "https://fishbowl.pastiche.org/2026/10/26/ai-skills"
     },
     {
       "title": "The Mythical Man-Month in the Age of AI",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 457 # Comments: 331",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 466 # Comments: 340",
       "source": "Hacker News",
       "published": "2026-10-27T06:25:37+00:00",
       "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
@@ -346,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 179 # Comments: 78",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 180 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-10-26T22:41:48+00:00",
       "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
@@ -367,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 83 # Comments: 42",
+      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 85 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-10-26T21:13:59+00:00",
       "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
@@ -388,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6.1 Terra",
-      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 628 # Comments: 423",
+      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 630 # Comments: 425",
       "source": "Hacker News",
       "published": "2026-10-26T18:01:17+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
@@ -444,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 327 # Comments: 128",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 328 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-10-26T16:35:44+00:00",
       "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
@@ -549,21 +612,21 @@ const FEED_DATA = {
     },
     {
       "title": "SS United States to be sunk as largest artificial reef",
-      "summary": "Article URL: https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november Comments URL: https://news.ycombinator.com/item?id=50239214 Points: 152 # Comments: 125",
+      "summary": "Article URL: https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november Comments URL: https://news.ycombinator.com/item?id=50239214 Points: 188 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-10-26T04:41:15+00:00",
       "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november"
     },
     {
       "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 82 # Comments: 120",
+      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 82 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-10-26T04:11:40+00:00",
       "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
     },
     {
       "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 73 # Comments: 62",
+      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 74 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-25T22:49:06+00:00",
       "link": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-21T22:51:22+00:00",
       "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "source": "TechCrunch",
-      "published": "2026-10-21T22:45:34+00:00",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
-    },
-    {
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "source": "Wired",
-      "published": "2026-10-21T22:39:50+00:00",
-      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/"
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity.",
-      "source": "The Verge",
-      "published": "2026-10-21T22:33:44+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.",
-      "source": "The Verge",
-      "published": "2026-10-21T21:30:02+00:00",
-      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "source": "TechCrunch",
-      "published": "2026-10-21T21:16:20+00:00",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "source": "TechCrunch",
-      "published": "2026-10-21T21:14:19+00:00",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "source": "TechCrunch",
-      "published": "2026-10-21T20:27:41+00:00",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet.",
-      "source": "The Verge",
-      "published": "2026-10-21T19:53:20+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
-    },
-    {
-      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
-      "summary": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon.",
-      "source": "The Decoder",
-      "published": "2026-10-21T19:45:01+00:00",
-      "link": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/"
     }
   ]
 };
