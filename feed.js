@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-28T00:09:50.796304+00:00",
+  "lastUpdated": "2026-10-28T06:38:51.944326+00:00",
   "items": [
+    {
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "source": "Wired",
+      "published": "2026-10-28T06:00:00+00:00",
+      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "source": "TechCrunch",
+      "published": "2026-10-28T01:15:28+00:00",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+    },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 145 # Comments: 89",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 279 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -59,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "US President says he will ban the term 'artificial intelligence'",
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 76 # Comments: 95",
+      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 86 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-10-27T19:11:31+00:00",
       "link": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 110 # Comments: 40",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 136 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-10-27T17:04:50+00:00",
       "link": "https://www.liquid.ai/blog/lfm3"
@@ -108,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 331 # Comments: 259",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 369 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-10-27T16:40:15+00:00",
       "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
@@ -122,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 223 # Comments: 124",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 302 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -213,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 430 # Comments: 200",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 471 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:15+00:00",
       "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
     {
       "title": "AI promised less work. I've never worked more",
-      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 613 # Comments: 608",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 630 # Comments: 626",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:14+00:00",
       "link": "https://oioannou.com/blog/ai-promised-less-work/"
@@ -268,8 +282,15 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
     },
     {
+      "title": "“AI Skills” are worthless in 2026",
+      "summary": "Article URL: https://fishbowl.pastiche.org/2026/10/26/ai-skills Comments URL: https://news.ycombinator.com/item?id=50255346 Points: 50 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-10-27T06:33:34+00:00",
+      "link": "https://fishbowl.pastiche.org/2026/10/26/ai-skills"
+    },
+    {
       "title": "The Mythical Man-Month in the Age of AI",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 425 # Comments: 301",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 450 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-10-27T06:25:37+00:00",
       "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 178 # Comments: 71",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 178 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-10-26T22:41:48+00:00",
       "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
@@ -318,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 80 # Comments: 40",
+      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 82 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-10-26T21:13:59+00:00",
       "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6.1 Terra",
-      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 623 # Comments: 417",
+      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 628 # Comments: 422",
       "source": "Hacker News",
       "published": "2026-10-26T18:01:17+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
@@ -395,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 324 # Comments: 124",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 326 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-10-26T16:35:44+00:00",
       "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
@@ -451,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Brown student maps the hidden global labor powering AI",
-      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 178",
+      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-10-26T12:58:27+00:00",
       "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
@@ -500,21 +521,21 @@ const FEED_DATA = {
     },
     {
       "title": "SS United States to be sunk as largest artificial reef",
-      "summary": "Article URL: https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november Comments URL: https://news.ycombinator.com/item?id=50239214 Points: 57 # Comments: 42",
+      "summary": "Article URL: https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november Comments URL: https://news.ycombinator.com/item?id=50239214 Points: 117 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-10-26T04:41:15+00:00",
       "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november"
     },
     {
       "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 81 # Comments: 115",
+      "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 81 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-10-26T04:11:40+00:00",
       "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
     },
     {
       "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 72 # Comments: 59",
+      "summary": "Article URL: https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10 Comments URL: https://news.ycombinator.com/item?id=50236828 Points: 72 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-25T22:49:06+00:00",
       "link": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
@@ -535,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 95 # Comments: 62",
+      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 96 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-10-25T18:42:23+00:00",
       "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
@@ -556,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "A mathematician reads the AI future",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 70 # Comments: 129",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 70 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-10-25T16:31:21+00:00",
       "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-21T17:59:12+00:00",
       "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
-    },
-    {
-      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
-      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers.",
-      "source": "The Decoder",
-      "published": "2026-10-21T17:44:22+00:00",
-      "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
-    },
-    {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "source": "TechCrunch",
-      "published": "2026-10-21T17:18:27+00:00",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
-    },
-    {
-      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
-      "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year.",
-      "source": "The Decoder",
-      "published": "2026-10-21T17:10:46+00:00",
-      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/"
     }
   ]
 };
