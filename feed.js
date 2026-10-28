@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-27T21:04:10.469114+00:00",
+  "lastUpdated": "2026-10-28T00:09:50.796304+00:00",
   "items": [
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T23:34:27+00:00",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T22:55:41+00:00",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:44:34+00:00",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:38:28+00:00",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.",
+      "source": "The Verge",
+      "published": "2026-10-27T20:48:58+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 145 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-10-27T19:55:06+00:00",
+      "link": "https://www.brangus.io/survival-llm"
+    },
     {
       "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
       "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected.",
@@ -17,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "US President says he will ban the term 'artificial intelligence'",
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 66 # Comments: 68",
+      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 76 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-10-27T19:11:31+00:00",
       "link": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
@@ -52,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 75 # Comments: 27",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 110 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-10-27T17:04:50+00:00",
       "link": "https://www.liquid.ai/blog/lfm3"
@@ -66,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 277 # Comments: 211",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 331 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-10-27T16:40:15+00:00",
       "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
@@ -80,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 127 # Comments: 62",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 223 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -171,21 +213,21 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 388 # Comments: 179",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 430 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:15+00:00",
       "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
     {
       "title": "AI promised less work. I've never worked more",
-      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 604 # Comments: 583",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 613 # Comments: 608",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:14+00:00",
       "link": "https://oioannou.com/blog/ai-promised-less-work/"
     },
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "source": "TechCrunch",
       "published": "2026-10-27T11:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
@@ -227,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Mythical Man-Month in the Age of AI",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 401 # Comments: 286",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 425 # Comments: 301",
       "source": "Hacker News",
       "published": "2026-10-27T06:25:37+00:00",
       "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
@@ -255,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 176 # Comments: 71",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 178 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-26T22:41:48+00:00",
       "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 78 # Comments: 39",
+      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 80 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-10-26T21:13:59+00:00",
       "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
@@ -297,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6.1 Terra",
-      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 620 # Comments: 412",
+      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 623 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-10-26T18:01:17+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 320 # Comments: 124",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 324 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-10-26T16:35:44+00:00",
       "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
@@ -409,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Brown student maps the hidden global labor powering AI",
-      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 177",
+      "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-10-26T12:58:27+00:00",
       "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
@@ -457,6 +499,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
     },
     {
+      "title": "SS United States to be sunk as largest artificial reef",
+      "summary": "Article URL: https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november Comments URL: https://news.ycombinator.com/item?id=50239214 Points: 57 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-10-26T04:41:15+00:00",
+      "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november"
+    },
+    {
       "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
       "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 81 # Comments: 115",
       "source": "Hacker News",
@@ -479,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 432 # Comments: 433",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 434 # Comments: 434",
       "source": "Hacker News",
       "published": "2026-10-25T21:11:31+00:00",
       "link": "https://minimaxir.com/2026/10/cheap-llms/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-21T17:10:46+00:00",
       "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/"
-    },
-    {
-      "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 76 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-10-21T16:34:16+00:00",
-      "link": "https://rustoffrails.org/"
-    },
-    {
-      "title": "AI agent fixed the bug, but what else did it change?",
-      "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 54 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-10-21T16:03:32+00:00",
-      "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
-    },
-    {
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "source": "Wired",
-      "published": "2026-10-21T16:00:00+00:00",
-      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/"
-    },
-    {
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "source": "Wired",
-      "published": "2026-10-21T15:02:15+00:00",
-      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/"
-    },
-    {
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.",
-      "source": "The Verge",
-      "published": "2026-10-21T15:00:00+00:00",
-      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
-    },
-    {
-      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
-      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-10-21T14:45:45+00:00",
-      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/"
-    },
-    {
-      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
-      "summary": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-21T14:40:51+00:00",
-      "link": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/"
     }
   ]
 };
