@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-29T11:20:52.010918+00:00",
+  "lastUpdated": "2026-10-29T15:40:16.623506+00:00",
   "items": [
+    {
+      "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+      "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap.",
+      "source": "The Decoder",
+      "published": "2026-10-29T15:25:27+00:00",
+      "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/"
+    },
+    {
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "source": "Wired",
+      "published": "2026-10-29T15:00:00+00:00",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T14:35:26+00:00",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+    },
+    {
+      "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+      "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-29T14:07:49+00:00",
+      "link": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/"
+    },
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "source": "Wired",
+      "published": "2026-10-29T14:00:00+00:00",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
+    },
+    {
+      "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+      "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-29T13:42:38+00:00",
+      "link": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/"
+    },
+    {
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute.",
+      "source": "The Verge",
+      "published": "2026-10-29T13:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+    },
+    {
+      "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+      "summary": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-10-29T13:20:14+00:00",
+      "link": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+    },
+    {
+      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/"
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 237 # Comments: 183",
+      "source": "Hacker News",
+      "published": "2026-10-29T12:41:56+00:00",
+      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-29T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
+    },
+    {
+      "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
+      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 114 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-10-29T11:29:49+00:00",
+      "link": "https://sonidoselva.com/perspectiva-kogui"
+    },
     {
       "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
       "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected.",
@@ -31,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 51 # Comments: 68",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 55 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-29T00:30:37+00:00",
       "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
     },
     {
       "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 53 # Comments: 100",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 56 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-10-29T00:16:08+00:00",
       "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
@@ -94,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 156 # Comments: 69",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 159 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-28T20:10:16+00:00",
       "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
@@ -206,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 240 # Comments: 154",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 248 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-10-28T15:46:30+00:00",
       "link": "https://surgehq.ai/blog/dayjob-tax"
@@ -248,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 464 # Comments: 504",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 477 # Comments: 511",
       "source": "Hacker News",
       "published": "2026-10-28T13:41:30+00:00",
       "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
     },
     {
       "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 65 # Comments: 78",
+      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 67 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-28T13:27:24+00:00",
       "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
@@ -304,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-      "summary": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316 Comments URL: https://news.ycombinator.com/item?id=50271271 Points: 69 # Comments: 33",
+      "summary": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316 Comments URL: https://news.ycombinator.com/item?id=50271271 Points: 69 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-10-28T10:10:58+00:00",
       "link": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
@@ -325,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 93 # Comments: 82",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 94 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-28T03:06:22+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
@@ -374,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 527 # Comments: 195",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 532 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -395,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "US President says he will ban the term 'artificial intelligence'",
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 106 # Comments: 135",
+      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 107 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-10-27T19:11:31+00:00",
       "link": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
@@ -444,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 396 # Comments: 312",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 397 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-10-27T16:40:15+00:00",
       "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
@@ -458,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 376 # Comments: 284",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 379 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -549,14 +640,14 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 507 # Comments: 237",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 513 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:15+00:00",
       "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
     {
       "title": "AI promised less work. I've never worked more",
-      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 673 # Comments: 656",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 675 # Comments: 659",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:14+00:00",
       "link": "https://oioannou.com/blog/ai-promised-less-work/"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-22T22:08:24+00:00",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-    },
-    {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
-      "source": "The Verge",
-      "published": "2026-10-22T21:51:25+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
-    },
-    {
-      "title": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-22T21:17:29+00:00",
-      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-    },
-    {
-      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "summary": "Article URL: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085 Comments URL: https://news.ycombinator.com/item?id=50200843 Points: 91 # Comments: 67",
-      "source": "Hacker News",
-      "published": "2026-10-22T20:51:23+00:00",
-      "link": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085"
-    },
-    {
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
-      "source": "The Verge",
-      "published": "2026-10-22T20:32:05+00:00",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
-    },
-    {
-      "title": "The Social Society Helping Women Join the AI Boom",
-      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-      "source": "Wired",
-      "published": "2026-10-22T19:56:32+00:00",
-      "link": "https://www.wired.com/story/aged-intelligence-society-interview/"
-    },
-    {
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger!",
-      "source": "The Verge",
-      "published": "2026-10-22T19:45:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:07:09+00:00",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-22T18:48:04+00:00",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T18:43:53+00:00",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
-    },
-    {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 80 # Comments: 46",
-      "source": "Hacker News",
-      "published": "2026-10-22T18:32:57+00:00",
-      "link": "https://www.typeui.sh/micro-interactions"
-    },
-    {
-      "title": "Award-winning AI literature",
-      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 66 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-10-22T18:28:26+00:00",
-      "link": "https://jamesyu.org/award-winning-ai-literature/"
     }
   ]
 };
