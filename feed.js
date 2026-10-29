@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-29T15:40:16.623506+00:00",
+  "lastUpdated": "2026-10-29T18:49:25.445633+00:00",
   "items": [
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini.",
+      "source": "The Verge",
+      "published": "2026-10-29T18:45:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+    },
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "source": "Wired",
+      "published": "2026-10-29T18:39:43+00:00",
+      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    },
+    {
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T16:42:32+00:00",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+    },
+    {
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T16:21:00+00:00",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    },
+    {
+      "title": "Microsoft’s AI future has fewer jobs",
+      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
+      "source": "The Verge",
+      "published": "2026-10-29T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+    },
     {
       "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
       "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap.",
       "source": "The Decoder",
       "published": "2026-10-29T15:25:27+00:00",
       "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/"
+    },
+    {
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 90 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-10-29T15:06:17+00:00",
+      "link": "https://trakkr.ai/trakkr-research/zombie-stats"
     },
     {
       "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
@@ -16,11 +65,32 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
     },
     {
+      "title": "LLM Voice",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 137 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-10-29T14:57:55+00:00",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html"
+    },
+    {
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users.",
+      "source": "The Verge",
+      "published": "2026-10-29T14:39:37+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
+    },
+    {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
       "source": "TechCrunch",
       "published": "2026-10-29T14:35:26+00:00",
       "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+    },
+    {
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 58 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-10-29T14:29:06+00:00",
+      "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/"
     },
     {
       "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
@@ -28,6 +98,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-29T14:07:49+00:00",
       "link": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/"
+    },
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1.",
+      "source": "The Verge",
+      "published": "2026-10-29T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
     },
     {
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
@@ -59,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
       "source": "TechCrunch",
       "published": "2026-10-29T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
@@ -73,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 237 # Comments: 183",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 311 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-10-29T12:41:56+00:00",
       "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
@@ -84,6 +161,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-10-29T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
+    },
+    {
+      "title": "Perspectiva Kogui: A message on artificial intelligence from the Kogui people",
+      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 119 # Comments: 99",
+      "source": "Hacker News",
+      "published": "2026-10-29T11:29:49+00:00",
+      "link": "https://sonidoselva.com/perspectiva-kogui"
     },
     {
       "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
@@ -129,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 56 # Comments: 104",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 56 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-10-29T00:16:08+00:00",
       "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
@@ -185,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 159 # Comments: 73",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 162 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-28T20:10:16+00:00",
       "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
@@ -297,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 248 # Comments: 162",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 249 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-10-28T15:46:30+00:00",
       "link": "https://surgehq.ai/blog/dayjob-tax"
@@ -339,14 +423,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 477 # Comments: 511",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 479 # Comments: 515",
       "source": "Hacker News",
       "published": "2026-10-28T13:41:30+00:00",
       "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
     },
     {
       "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 67 # Comments: 82",
+      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 68 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-28T13:27:24+00:00",
       "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
@@ -395,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-      "summary": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316 Comments URL: https://news.ycombinator.com/item?id=50271271 Points: 69 # Comments: 35",
+      "summary": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316 Comments URL: https://news.ycombinator.com/item?id=50271271 Points: 69 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-10-28T10:10:58+00:00",
       "link": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
@@ -416,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 94 # Comments: 82",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 95 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-28T03:06:22+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
@@ -465,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 532 # Comments: 197",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 535 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -549,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 379 # Comments: 290",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 379 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-23T14:47:41+00:00",
       "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-    },
-    {
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet?",
-      "source": "MIT Tech Review",
-      "published": "2026-10-23T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
-    },
-    {
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 70 # Comments: 57",
-      "source": "Hacker News",
-      "published": "2026-10-23T12:02:53+00:00",
-      "link": "https://www.thisandthat.chat/enron/"
-    },
-    {
-      "title": "Retro gaming is being overrun with AI",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros.",
-      "source": "The Verge",
-      "published": "2026-10-23T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
-    },
-    {
-      "title": "Canva launches Craft, its first in-house image model",
-      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-23T11:36:30+00:00",
-      "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/"
-    },
-    {
-      "title": "Anthropic's Claude now writes code and proves it safe automatically",
-      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed.",
-      "source": "The Decoder",
-      "published": "2026-10-23T11:32:19+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/"
-    },
-    {
-      "title": "OpenAI lowers valuation target, raises up to $30 billion",
-      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-23T09:49:38+00:00",
-      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/"
-    },
-    {
-      "title": "OpenAI is closing in on a new funding round with UAE investors",
-      "summary": "OpenAI is on the verge of a new funding round worth up to $30 billion. The article OpenAI is closing in on a new funding round with UAE investors appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-23T09:38:38+00:00",
-      "link": "https://the-decoder.com/openai-is-closing-in-on-a-new-funding-round-with-uae-investors/"
-    },
-    {
-      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 143 # Comments: 157",
-      "source": "Hacker News",
-      "published": "2026-10-23T06:41:11+00:00",
-      "link": "https://berget.ai/en/blog/per-request-co2-press-release"
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "source": "TechCrunch",
-      "published": "2026-10-23T04:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-    },
-    {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source": "TechCrunch",
-      "published": "2026-10-23T00:45:37+00:00",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-    },
-    {
-      "title": "AI compute is the new oil–and needs a new market",
-      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 53 # Comments: 63",
-      "source": "Hacker News",
-      "published": "2026-10-22T23:45:16+00:00",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "source": "TechCrunch",
-      "published": "2026-10-22T22:08:24+00:00",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
     }
   ]
 };
