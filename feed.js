@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-29T06:44:55.884315+00:00",
+  "lastUpdated": "2026-10-29T11:20:52.010918+00:00",
   "items": [
+    {
+      "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+      "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected.",
+      "source": "The Decoder",
+      "published": "2026-10-29T10:16:34+00:00",
+      "link": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/"
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+      "source": "MIT Tech Review",
+      "published": "2026-10-29T10:11:12+00:00",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    },
+    {
+      "title": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
+      "source": "The Verge",
+      "published": "2026-10-29T10:00:04+00:00",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+    },
+    {
+      "title": "I Gave My Blood to the AI Death Clock",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "source": "Wired",
+      "published": "2026-10-29T10:00:00+00:00",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/"
+    },
+    {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 51 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-10-29T00:30:37+00:00",
+      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
+    },
+    {
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 53 # Comments: 100",
+      "source": "Hacker News",
+      "published": "2026-10-29T00:16:08+00:00",
+      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
+    },
     {
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
@@ -52,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 124 # Comments: 59",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 156 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-10-28T20:10:16+00:00",
       "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 192 # Comments: 118",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 240 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-10-28T15:46:30+00:00",
       "link": "https://surgehq.ai/blog/dayjob-tax"
@@ -199,21 +241,21 @@ const FEED_DATA = {
     },
     {
       "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-      "summary": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50273623 Points: 68 # Comments: 37",
+      "summary": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50273623 Points: 69 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-10-28T13:56:21+00:00",
       "link": "https://github.com/thomasunise/casecite"
     },
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 420 # Comments: 461",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 464 # Comments: 504",
       "source": "Hacker News",
       "published": "2026-10-28T13:41:30+00:00",
       "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
     },
     {
       "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 65 # Comments: 76",
+      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 65 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-10-28T13:27:24+00:00",
       "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
@@ -262,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-      "summary": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316 Comments URL: https://news.ycombinator.com/item?id=50271271 Points: 69 # Comments: 32",
+      "summary": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316 Comments URL: https://news.ycombinator.com/item?id=50271271 Points: 69 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-10-28T10:10:58+00:00",
       "link": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
@@ -283,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 90 # Comments: 82",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 93 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-10-28T03:06:22+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
@@ -332,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 516 # Comments: 194",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 527 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "US President says he will ban the term 'artificial intelligence'",
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 106 # Comments: 134",
+      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 106 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-10-27T19:11:31+00:00",
       "link": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 167 # Comments: 63",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 170 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-10-27T17:04:50+00:00",
       "link": "https://www.liquid.ai/blog/lfm3"
@@ -402,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 392 # Comments: 308",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 396 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-10-27T16:40:15+00:00",
       "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
@@ -416,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 367 # Comments: 283",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 376 # Comments: 284",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -507,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 497 # Comments: 235",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 507 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:15+00:00",
       "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
     {
       "title": "AI promised less work. I've never worked more",
-      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 663 # Comments: 654",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 673 # Comments: 656",
       "source": "Hacker News",
       "published": "2026-10-27T11:08:14+00:00",
       "link": "https://oioannou.com/blog/ai-promised-less-work/"
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Mythical Man-Month in the Age of AI",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 475 # Comments: 352",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 481 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-10-27T06:25:37+00:00",
       "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-22T18:28:26+00:00",
       "link": "https://jamesyu.org/award-winning-ai-literature/"
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 141 # Comments: 81",
-      "source": "Hacker News",
-      "published": "2026-10-22T18:28:16+00:00",
-      "link": "https://arxiv.org/abs/2610.27251"
-    },
-    {
-      "title": "Major US banks are locking out AI agents that log in with customer credentials",
-      "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions.",
-      "source": "The Decoder",
-      "published": "2026-10-22T18:26:02+00:00",
-      "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/"
-    },
-    {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.",
-      "source": "The Verge",
-      "published": "2026-10-22T18:15:00+00:00",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"
-    },
-    {
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 91...",
-      "source": "Hacker News",
-      "published": "2026-10-22T18:02:54+00:00",
-      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
-    },
-    {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
-      "source": "The Verge",
-      "published": "2026-10-22T18:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
-    },
-    {
-      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments.",
-      "source": "The Decoder",
-      "published": "2026-10-22T17:50:09+00:00",
-      "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/"
     }
   ]
 };
