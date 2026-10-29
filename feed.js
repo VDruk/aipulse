@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-29T18:49:25.445633+00:00",
+  "lastUpdated": "2026-10-29T21:29:49.384331+00:00",
   "items": [
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T20:08:31+00:00",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+    },
+    {
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T20:05:47+00:00",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+    },
+    {
+      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+      "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback.",
+      "source": "The Decoder",
+      "published": "2026-10-29T20:01:27+00:00",
+      "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T19:56:19+00:00",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
+    {
+      "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+      "summary": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own.",
+      "source": "The Decoder",
+      "published": "2026-10-29T19:33:37+00:00",
+      "link": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/"
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T19:14:36+00:00",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    },
     {
       "title": "You can generate and edit Google Docs files directly in Gemini chats now",
       "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini.",
@@ -52,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 90 # Comments: 46",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 120 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-10-29T15:06:17+00:00",
       "link": "https://trakkr.ai/trakkr-research/zombie-stats"
@@ -66,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Voice",
-      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 137 # Comments: 76",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 269 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-10-29T14:57:55+00:00",
       "link": "https://martinfowler.com/bliki/LLM-Voice.html"
@@ -87,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 58 # Comments: 25",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 78 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-10-29T14:29:06+00:00",
       "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/"
@@ -150,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 311 # Comments: 232",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 323 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-10-29T12:41:56+00:00",
       "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perspectiva Kogui: A message on artificial intelligence from the Kogui people",
-      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 119 # Comments: 99",
+      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 121 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-10-29T11:29:49+00:00",
       "link": "https://sonidoselva.com/perspectiva-kogui"
@@ -206,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 55 # Comments: 71",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 55 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-29T00:30:37+00:00",
       "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
     },
     {
       "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 56 # Comments: 105",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 56 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-10-29T00:16:08+00:00",
       "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
@@ -224,6 +266,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-28T23:05:39+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "summary": "Article URL: https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/ Comments URL: https://news.ycombinator.com/item?id=50281826 Points: 88 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-10-28T22:27:46+00:00",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
     },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
@@ -269,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 162 # Comments: 74",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 165 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-10-28T20:10:16+00:00",
       "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
@@ -366,13 +415,6 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
     },
     {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:53:52+00:00",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
-    },
-    {
       "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
       "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts.",
       "source": "The Decoder",
@@ -381,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 249 # Comments: 165",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 253 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-10-28T15:46:30+00:00",
       "link": "https://surgehq.ai/blog/dayjob-tax"
@@ -423,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 479 # Comments: 515",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 481 # Comments: 517",
       "source": "Hacker News",
       "published": "2026-10-28T13:41:30+00:00",
       "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
@@ -549,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 535 # Comments: 201",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 537 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -633,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 379 # Comments: 291",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 381 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-10-27T16:25:30+00:00",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-23T19:00:07+00:00",
       "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
-    },
-    {
-      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 121 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-10-23T18:24:54+00:00",
-      "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
-    },
-    {
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored.",
-      "source": "The Decoder",
-      "published": "2026-10-23T18:00:32+00:00",
-      "link": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/"
-    },
-    {
-      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-      "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved.",
-      "source": "The Decoder",
-      "published": "2026-10-23T17:19:49+00:00",
-      "link": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/"
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.",
-      "source": "The Verge",
-      "published": "2026-10-23T16:52:55+00:00",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-      "summary": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes.",
-      "source": "The Decoder",
-      "published": "2026-10-23T15:42:18+00:00",
-      "link": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/"
-    },
-    {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-      "source": "The Verge",
-      "published": "2026-10-23T14:47:41+00:00",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
     }
   ]
 };
