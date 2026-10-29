@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-29T00:32:35.461388+00:00",
+  "lastUpdated": "2026-10-29T06:44:55.884315+00:00",
   "items": [
     {
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
