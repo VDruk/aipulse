@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-30T15:22:56.916468+00:00",
+  "lastUpdated": "2026-10-30T18:26:33.648926+00:00",
   "items": [
+    {
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
+      "source": "The Verge",
+      "published": "2026-10-30T18:21:38+00:00",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+    },
+    {
+      "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+      "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access.",
+      "source": "The Decoder",
+      "published": "2026-10-30T18:16:10+00:00",
+      "link": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:47:12+00:00",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    },
+    {
+      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability.",
+      "source": "The Decoder",
+      "published": "2026-10-30T17:44:59+00:00",
+      "link": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/"
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
+      "source": "The Verge",
+      "published": "2026-10-30T17:38:04+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 83 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-10-30T17:24:45+00:00",
+      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
+    },
+    {
+      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+      "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings.",
+      "source": "The Decoder",
+      "published": "2026-10-30T17:15:24+00:00",
+      "link": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/"
+    },
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 171 # Comments: 145",
+      "source": "Hacker News",
+      "published": "2026-10-30T16:13:02+00:00",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T16:03:45+00:00",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 289 # Comments: 216",
+      "source": "Hacker News",
+      "published": "2026-10-30T15:52:18+00:00",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    },
+    {
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 102 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-10-30T15:39:05+00:00",
+      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+    },
     {
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning...",
@@ -17,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
       "source": "TechCrunch",
       "published": "2026-10-30T13:54:25+00:00",
       "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
@@ -94,21 +178,21 @@ const FEED_DATA = {
     },
     {
       "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 68 # Comments: 31",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 73 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-10-29T22:22:13+00:00",
       "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
     },
     {
       "title": "Proton goes all in on using AI",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 105 # Comments: 107",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 109 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-10-29T21:49:28+00:00",
       "link": "https://convo.casa/@b/117525936178835007"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 355 # Comments: 144",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 381 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-10-29T21:40:28+00:00",
       "link": "https://labs.ycombinator.com/projects/games/index.html"
@@ -213,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 172 # Comments: 68",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 175 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-29T15:06:17+00:00",
       "link": "https://trakkr.ai/trakkr-research/zombie-stats"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Voice",
-      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 544 # Comments: 292",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 575 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-10-29T14:57:55+00:00",
       "link": "https://martinfowler.com/bliki/LLM-Voice.html"
@@ -248,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 192 # Comments: 65",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 204 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-10-29T14:29:06+00:00",
       "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/"
@@ -261,18 +345,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/"
     },
     {
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1.",
-      "source": "The Verge",
-      "published": "2026-10-29T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
-    },
-    {
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
       "source": "Wired",
       "published": "2026-10-29T14:00:00+00:00",
       "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
+    },
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1.",
+      "source": "The Verge",
+      "published": "2026-10-29T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
     },
     {
       "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
@@ -325,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perspectiva Kogui: A message on artificial intelligence from the Kogui people",
-      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 125 # Comments: 104",
+      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 126 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-10-29T11:29:49+00:00",
       "link": "https://sonidoselva.com/perspectiva-kogui"
@@ -367,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 57 # Comments: 74",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 57 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-10-29T00:30:37+00:00",
       "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-10-25T09:12:10+00:00",
       "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/"
-    },
-    {
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it.",
-      "source": "The Decoder",
-      "published": "2026-10-25T08:09:32+00:00",
-      "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/"
-    },
-    {
-      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
-      "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching.",
-      "source": "The Decoder",
-      "published": "2026-10-25T07:30:11+00:00",
-      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
-    },
-    {
-      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
-      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible.",
-      "source": "The Decoder",
-      "published": "2026-10-25T06:55:22+00:00",
-      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/"
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 367 # Comments: 142",
-      "source": "Hacker News",
-      "published": "2026-10-25T01:33:49+00:00",
-      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-    },
-    {
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "summary": "Why is this worth your time?",
-      "source": "Hacker News",
-      "published": "2026-10-25T00:43:47+00:00",
-      "link": "https://adrs.systems"
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 542 # Comments: 585",
-      "source": "Hacker News",
-      "published": "2026-10-24T23:11:54+00:00",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
-    },
-    {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-      "source": "The Verge",
-      "published": "2026-10-24T21:29:12+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "source": "TechCrunch",
-      "published": "2026-10-24T20:15:33+00:00",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 637 # Comments: 668",
-      "source": "Hacker News",
-      "published": "2026-10-24T19:47:19+00:00",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "published": "2026-10-24T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
-      "source": "The Verge",
-      "published": "2026-10-24T18:32:21+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 253 # Comments: 201",
-      "source": "Hacker News",
-      "published": "2026-10-24T18:04:57+00:00",
-      "link": "https://arxiv.org/abs/2610.29162"
     }
   ]
 };
