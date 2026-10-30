@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-30T18:26:33.648926+00:00",
+  "lastUpdated": "2026-10-30T21:17:51.798118+00:00",
   "items": [
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+      "source": "The Verge",
+      "published": "2026-10-30T20:48:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+      "source": "The Verge",
+      "published": "2026-10-30T20:26:10+00:00",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    },
+    {
+      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own.",
+      "source": "The Decoder",
+      "published": "2026-10-30T19:42:59+00:00",
+      "link": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/"
+    },
     {
       "title": "Google’s satellite AI server transmits its first response to Earth",
       "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 83 # Comments: 41",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 227 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-10-30T17:24:45+00:00",
       "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
@@ -52,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
       "source": "TechCrunch",
       "published": "2026-10-30T17:00:00+00:00",
       "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
     },
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 171 # Comments: 145",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 215 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-10-30T16:13:02+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
@@ -73,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 289 # Comments: 216",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 408 # Comments: 309",
       "source": "Hacker News",
       "published": "2026-10-30T15:52:18+00:00",
       "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
     },
     {
       "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 102 # Comments: 43",
+      "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 168 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-10-30T15:39:05+00:00",
       "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
@@ -91,6 +112,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-30T14:58:06+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts Comments URL:...",
+      "source": "Hacker News",
+      "published": "2026-10-30T14:08:20+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"
     },
     {
       "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
@@ -178,21 +206,28 @@ const FEED_DATA = {
     },
     {
       "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 73 # Comments: 32",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 75 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-10-29T22:22:13+00:00",
       "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
     },
     {
+      "title": "Building an AI-native engineering org",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 74 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-10-29T21:58:34+00:00",
+      "link": "https://twitter.com/sgondala2/status/2115832070274723875"
+    },
+    {
       "title": "Proton goes all in on using AI",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 109 # Comments: 110",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-10-29T21:49:28+00:00",
       "link": "https://convo.casa/@b/117525936178835007"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 381 # Comments: 161",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 388 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-10-29T21:40:28+00:00",
       "link": "https://labs.ycombinator.com/projects/games/index.html"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 175 # Comments: 71",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 175 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-10-29T15:06:17+00:00",
       "link": "https://trakkr.ai/trakkr-research/zombie-stats"
@@ -311,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Voice",
-      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 575 # Comments: 311",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 583 # Comments: 319",
       "source": "Hacker News",
       "published": "2026-10-29T14:57:55+00:00",
       "link": "https://martinfowler.com/bliki/LLM-Voice.html"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 204 # Comments: 71",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 217 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-10-29T14:29:06+00:00",
       "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/"
@@ -451,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 57 # Comments: 77",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 57 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-10-29T00:30:37+00:00",
       "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
@@ -472,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "Article URL: https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/ Comments URL: https://news.ycombinator.com/item?id=50281826 Points: 90 # Comments: 74",
+      "summary": "Article URL: https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/ Comments URL: https://news.ycombinator.com/item?id=50281826 Points: 90 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-10-28T22:27:46+00:00",
       "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-25T12:00:00+00:00",
       "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-    },
-    {
-      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality.",
-      "source": "The Decoder",
-      "published": "2026-10-25T10:08:49+00:00",
-      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
-    },
-    {
-      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-      "source": "Wired",
-      "published": "2026-10-25T10:00:00+00:00",
-      "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/"
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-10-25T09:51:17+00:00",
-      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
-    },
-    {
-      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027.",
-      "source": "The Decoder",
-      "published": "2026-10-25T09:37:46+00:00",
-      "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
-    },
-    {
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast.",
-      "source": "The Decoder",
-      "published": "2026-10-25T09:12:10+00:00",
-      "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/"
     }
   ]
 };
