@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-29T21:29:49.384331+00:00",
+  "lastUpdated": "2026-10-30T00:30:45.381026+00:00",
   "items": [
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "source": "TechCrunch",
+      "published": "2026-10-29T23:42:22+00:00",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 118 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-10-29T21:40:28+00:00",
+      "link": "https://labs.ycombinator.com/projects/games/index.html"
+    },
     {
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
       "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 120 # Comments: 58",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 139 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-10-29T15:06:17+00:00",
       "link": "https://trakkr.ai/trakkr-research/zombie-stats"
@@ -108,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Voice",
-      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 269 # Comments: 145",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 325 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-10-29T14:57:55+00:00",
       "link": "https://martinfowler.com/bliki/LLM-Voice.html"
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 78 # Comments: 32",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 128 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-10-29T14:29:06+00:00",
       "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/"
@@ -192,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 323 # Comments: 236",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 328 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-10-29T12:41:56+00:00",
       "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
@@ -206,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perspectiva Kogui: A message on artificial intelligence from the Kogui people",
-      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 121 # Comments: 99",
+      "summary": "Article URL: https://sonidoselva.com/perspectiva-kogui Comments URL: https://news.ycombinator.com/item?id=50287359 Points: 122 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-10-29T11:29:49+00:00",
       "link": "https://sonidoselva.com/perspectiva-kogui"
@@ -248,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 55 # Comments: 73",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 55 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-10-29T00:30:37+00:00",
       "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "Article URL: https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/ Comments URL: https://news.ycombinator.com/item?id=50281826 Points: 88 # Comments: 69",
+      "summary": "Article URL: https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/ Comments URL: https://news.ycombinator.com/item?id=50281826 Points: 88 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-10-28T22:27:46+00:00",
       "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
@@ -465,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 481 # Comments: 517",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 482 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-10-28T13:41:30+00:00",
       "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
@@ -591,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 537 # Comments: 202",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 538 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
@@ -647,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 170 # Comments: 67",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 171 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-10-27T17:04:50+00:00",
       "link": "https://www.liquid.ai/blog/lfm3"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-23T19:31:36+00:00",
       "link": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
-    },
-    {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside...",
-      "source": "TechCrunch",
-      "published": "2026-10-23T19:06:23+00:00",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
-    },
-    {
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-      "summary": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher.",
-      "source": "The Decoder",
-      "published": "2026-10-23T19:00:07+00:00",
-      "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
     }
   ]
 };
