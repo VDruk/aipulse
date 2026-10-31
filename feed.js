@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-31T17:32:00.666969+00:00",
+  "lastUpdated": "2026-10-31T20:22:38.122133+00:00",
   "items": [
+    {
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter.",
+      "source": "The Decoder",
+      "published": "2026-10-31T19:20:55+00:00",
+      "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/"
+    },
+    {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 81 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-10-31T18:50:34+00:00",
+      "link": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 60 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-10-31T18:02:29+00:00",
+      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
+    },
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
       "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out.",
@@ -31,10 +52,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 73 # Comments: 18",
+      "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 74 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-10-31T13:25:10+00:00",
       "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
+    },
+    {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked Comments URL:...",
+      "source": "Hacker News",
+      "published": "2026-10-31T13:25:00+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
     },
     {
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 67 # Comments: 15",
+      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 68 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-10-30T21:32:35+00:00",
       "link": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 287 # Comments: 242",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 288 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-10-30T17:24:45+00:00",
       "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 262 # Comments: 292",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 263 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-10-30T16:13:02+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
@@ -234,14 +262,14 @@ const FEED_DATA = {
     },
     {
       "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 60 # Comments: 16",
+      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 63 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-10-30T15:53:42+00:00",
       "link": "https://alanbellows.com/some-thing-is-happening/"
     },
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 632 # Comments: 466",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 642 # Comments: 470",
       "source": "Hacker News",
       "published": "2026-10-30T15:52:18+00:00",
       "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
@@ -262,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 54 # Comments: 24",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 55 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-10-30T14:18:34+00:00",
       "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
     },
     {
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 279 # Comments: 322",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 297 # Comments: 362",
       "source": "Hacker News",
       "published": "2026-10-30T14:08:20+00:00",
       "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
@@ -367,28 +395,28 @@ const FEED_DATA = {
     },
     {
       "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 77 # Comments: 35",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 78 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-10-29T22:22:13+00:00",
       "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
     },
     {
       "title": "Building an AI-native engineering org",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 174 # Comments: 192",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 176 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-10-29T21:58:34+00:00",
       "link": "https://twitter.com/sgondala2/status/2115832070274723875"
     },
     {
       "title": "Proton goes all in on using AI",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 119 # Comments: 115",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 120 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-10-29T21:49:28+00:00",
       "link": "https://convo.casa/@b/117525936178835007"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 410 # Comments: 167",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 411 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-10-29T21:40:28+00:00",
       "link": "https://labs.ycombinator.com/projects/games/index.html"
@@ -486,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 141 # Comments: 32",
+      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 171 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-10-29T15:29:48+00:00",
       "link": "https://thedataexchange.media/leo-de-moura-lean-aws/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-26T16:35:44+00:00",
       "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
-    },
-    {
-      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "source": "Wired",
-      "published": "2026-10-26T16:01:55+00:00",
-      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/"
-    },
-    {
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "source": "Wired",
-      "published": "2026-10-26T14:50:47+00:00",
-      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "source": "TechCrunch",
-      "published": "2026-10-26T14:35:22+00:00",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
-    },
-    {
-      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-      "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-26T14:21:23+00:00",
-      "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/"
     }
   ]
 };
