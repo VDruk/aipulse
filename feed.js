@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-31T20:22:38.122133+00:00",
+  "lastUpdated": "2026-10-31T23:52:23.654678+00:00",
   "items": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch",
+      "published": "2026-10-31T21:41:00+00:00",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch",
+      "published": "2026-10-31T21:17:03+00:00",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
     {
       "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
       "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-26T16:49:42+00:00",
       "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
-    },
-    {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "source": "TechCrunch",
-      "published": "2026-10-26T16:46:36+00:00",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
-    },
-    {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 329 # Comments: 129",
-      "source": "Hacker News",
-      "published": "2026-10-26T16:35:44+00:00",
-      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
     }
   ]
 };
