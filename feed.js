@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-30T21:17:51.798118+00:00",
+  "lastUpdated": "2026-10-31T00:16:12.597010+00:00",
   "items": [
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T22:56:13+00:00",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:54:34+00:00",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:52:03+00:00",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:26:59+00:00",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "source": "Wired",
+      "published": "2026-10-30T21:19:26+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:17:40+00:00",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "published": "2026-10-30T21:09:54+00:00",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    },
     {
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
       "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-25T16:57:32+00:00",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-    },
-    {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "source": "TechCrunch",
-      "published": "2026-10-25T16:57:32+00:00",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-    },
-    {
-      "title": "A mathematician reads the AI future",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 70 # Comments: 130",
-      "source": "Hacker News",
-      "published": "2026-10-25T16:31:21+00:00",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
-    },
-    {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 238 # Comments: 328",
-      "source": "Hacker News",
-      "published": "2026-10-25T16:28:26+00:00",
-      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
-    },
-    {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "source": "TechCrunch",
-      "published": "2026-10-25T14:10:00+00:00",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-    },
-    {
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource.",
-      "source": "The Verge",
-      "published": "2026-10-25T13:25:32+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-    },
-    {
-      "title": "Imagine an AI future where being banned means you are now economically useless",
-      "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 99 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-10-25T12:47:20+00:00",
-      "link": "https://twitter.com/boneGPT/status/2114035719853265264"
-    },
-    {
-      "title": "Google’s AI search changes upended online publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth.",
-      "source": "The Verge",
-      "published": "2026-10-25T12:00:00+00:00",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
     }
   ]
 };
