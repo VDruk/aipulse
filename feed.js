@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-10-31T23:52:23.654678+00:00",
+  "lastUpdated": "2026-11-01T07:07:28.412973+00:00",
   "items": [
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -24,14 +24,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 81 # Comments: 66",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 166 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-10-31T18:50:34+00:00",
       "link": "https://ryanmadden.net/gpt-56-beats-factorio/"
     },
     {
       "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 60 # Comments: 38",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 76 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-10-31T18:02:29+00:00",
       "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
@@ -150,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 68 # Comments: 15",
+      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 69 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-10-30T21:32:35+00:00",
       "link": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
@@ -241,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 288 # Comments: 243",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-10-30T17:24:45+00:00",
       "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
@@ -262,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 263 # Comments: 293",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 296",
       "source": "Hacker News",
       "published": "2026-10-30T16:13:02+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
@@ -276,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 63 # Comments: 16",
+      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 66 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-10-30T15:53:42+00:00",
       "link": "https://alanbellows.com/some-thing-is-happening/"
     },
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 642 # Comments: 470",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 650 # Comments: 475",
       "source": "Hacker News",
       "published": "2026-10-30T15:52:18+00:00",
       "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
@@ -311,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 297 # Comments: 362",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 304 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-10-30T14:08:20+00:00",
       "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
@@ -409,14 +409,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 78 # Comments: 35",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 79 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-10-29T22:22:13+00:00",
       "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
     },
     {
       "title": "Building an AI-native engineering org",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 176 # Comments: 193",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 185 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-10-29T21:58:34+00:00",
       "link": "https://twitter.com/sgondala2/status/2115832070274723875"
@@ -430,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 411 # Comments: 167",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 412 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-10-29T21:40:28+00:00",
       "link": "https://labs.ycombinator.com/projects/games/index.html"
@@ -528,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 171 # Comments: 38",
+      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 197 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-10-29T15:29:48+00:00",
       "link": "https://thedataexchange.media/leo-de-moura-lean-aws/"
@@ -542,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 180 # Comments: 72",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 180 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-10-29T15:06:17+00:00",
       "link": "https://trakkr.ai/trakkr-research/zombie-stats"
