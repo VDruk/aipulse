@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-01T11:43:26.333358+00:00",
+  "lastUpdated": "2026-11-01T15:30:27.842020+00:00",
   "items": [
+    {
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro.",
+      "source": "The Decoder",
+      "published": "2026-11-01T14:56:44+00:00",
+      "link": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/"
+    },
+    {
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe...",
+      "source": "The Decoder",
+      "published": "2026-11-01T14:36:49+00:00",
+      "link": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/"
+    },
+    {
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too.",
+      "source": "The Decoder",
+      "published": "2026-11-01T12:33:01+00:00",
+      "link": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/"
+    },
+    {
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device.",
+      "source": "The Decoder",
+      "published": "2026-11-01T12:05:04+00:00",
+      "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/"
+    },
     {
       "title": "Google wants video AI to understand what people need as they work",
       "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed.",
@@ -21,6 +49,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-01T09:51:06+00:00",
       "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 178 # Comments: 118",
+      "source": "Hacker News",
+      "published": "2026-11-01T06:06:19+00:00",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 61 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-10-31T21:50:13+00:00",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -45,14 +87,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 166 # Comments: 179",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 175 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-10-31T18:50:34+00:00",
       "link": "https://ryanmadden.net/gpt-56-beats-factorio/"
     },
     {
       "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 76 # Comments: 53",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 78 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-10-31T18:02:29+00:00",
       "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
@@ -262,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 249",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 292 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-10-30T17:24:45+00:00",
       "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
@@ -283,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 296",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-10-30T16:13:02+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
@@ -297,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 66 # Comments: 19",
+      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 68 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-10-30T15:53:42+00:00",
       "link": "https://alanbellows.com/some-thing-is-happening/"
     },
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 650 # Comments: 475",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 657 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-10-30T15:52:18+00:00",
       "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
@@ -332,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 304 # Comments: 379",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 310 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-10-30T14:08:20+00:00",
       "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
@@ -437,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Building an AI-native engineering org",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 185 # Comments: 196",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-10-29T21:58:34+00:00",
       "link": "https://twitter.com/sgondala2/status/2115832070274723875"
@@ -451,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 412 # Comments: 169",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 414 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-10-29T21:40:28+00:00",
       "link": "https://labs.ycombinator.com/projects/games/index.html"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-26T21:13:59+00:00",
       "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
-    },
-    {
-      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
-      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control.",
-      "source": "The Decoder",
-      "published": "2026-10-26T20:30:55+00:00",
-      "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
-    },
-    {
-      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
-      "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year.",
-      "source": "The Decoder",
-      "published": "2026-10-26T19:14:45+00:00",
-      "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/"
-    },
-    {
-      "title": "GPT-6.1 Terra",
-      "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 633 # Comments: 426",
-      "source": "Hacker News",
-      "published": "2026-10-26T18:01:17+00:00",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
-    },
-    {
-      "title": "Researchers find six patterns that make AI text so exhausting to read",
-      "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse.",
-      "source": "The Decoder",
-      "published": "2026-10-26T17:50:15+00:00",
-      "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/"
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-26T17:45:43+00:00",
-      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
-    },
-    {
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.",
-      "source": "The Verge",
-      "published": "2026-10-26T17:30:55+00:00",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
     }
   ]
 };
