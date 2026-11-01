@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-01T18:17:24.097114+00:00",
+  "lastUpdated": "2026-11-01T20:55:03.755776+00:00",
   "items": [
     {
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
