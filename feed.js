@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-01T20:55:03.755776+00:00",
+  "lastUpdated": "2026-11-02T00:03:43.402847+00:00",
   "items": [
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 74 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-11-01T22:10:45+00:00",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "source": "TechCrunch",
+      "published": "2026-11-01T21:55:23+00:00",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "source": "TechCrunch",
+      "published": "2026-11-01T20:57:58+00:00",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+    },
+    {
+      "title": "It wasn't AI that flipped Proton's charge",
+      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 136 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-11-01T18:53:55+00:00",
+      "link": "https://blog.raed.dev/posts/proton-loser-thinking/"
+    },
     {
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
       "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro.",
@@ -59,14 +87,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI cost of JavaScript frameworks",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 214 # Comments: 147",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 283 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-11-01T06:06:19+00:00",
       "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
     },
     {
       "title": "AI text watermarking and quality loss",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 64 # Comments: 12",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 66 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-10-31T21:50:13+00:00",
       "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
@@ -94,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 175 # Comments: 187",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-10-31T18:50:34+00:00",
       "link": "https://ryanmadden.net/gpt-56-beats-factorio/"
     },
     {
       "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 78 # Comments: 54",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 79 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-10-31T18:02:29+00:00",
       "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 294 # Comments: 254",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 296 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-10-30T17:24:45+00:00",
       "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 268 # Comments: 298",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 301",
       "source": "Hacker News",
       "published": "2026-10-30T16:13:02+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
@@ -346,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 68 # Comments: 19",
+      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 68 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-10-30T15:53:42+00:00",
       "link": "https://alanbellows.com/some-thing-is-happening/"
     },
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 661 # Comments: 481",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 664 # Comments: 482",
       "source": "Hacker News",
       "published": "2026-10-30T15:52:18+00:00",
       "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
@@ -374,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 55 # Comments: 24",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 56 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-10-30T14:18:34+00:00",
       "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
@@ -479,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 79 # Comments: 35",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 80 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-10-29T22:22:13+00:00",
       "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
     },
     {
       "title": "Building an AI-native engineering org",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 198",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-10-29T21:58:34+00:00",
       "link": "https://twitter.com/sgondala2/status/2115832070274723875"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-27T01:12:21+00:00",
       "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
-      "source": "The Verge",
-      "published": "2026-10-26T23:34:58+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
-    },
-    {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 181 # Comments: 79",
-      "source": "Hacker News",
-      "published": "2026-10-26T22:41:48+00:00",
-      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
-    },
-    {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.",
-      "source": "The Verge",
-      "published": "2026-10-26T21:45:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
-    },
-    {
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "source": "Wired",
-      "published": "2026-10-26T21:27:15+00:00",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
     }
   ]
 };
