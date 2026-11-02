@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-02T18:53:44.253069+00:00",
+  "lastUpdated": "2026-11-02T22:12:16.830222+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff.",
+      "source": "The Decoder",
+      "published": "2026-11-02T20:00:03+00:00",
+      "link": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
+    },
+    {
+      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
+      "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made people voluntarily work more.",
+      "source": "The Decoder",
+      "published": "2026-11-02T19:43:51+00:00",
+      "link": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/"
+    },
+    {
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 66 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-11-02T19:36:37+00:00",
+      "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
+    },
+    {
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 107 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-11-02T19:27:37+00:00",
+      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:25:59+00:00",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:19:17+00:00",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
+      "source": "The Verge",
+      "published": "2026-11-02T18:56:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 78 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-11-02T18:54:44+00:00",
+      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
+    },
     {
       "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
       "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X.",
@@ -28,6 +84,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-02T17:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 252 # Comments: 210",
+      "source": "Hacker News",
+      "published": "2026-11-02T16:40:29+00:00",
+      "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
     },
     {
       "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
@@ -65,11 +128,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
     },
     {
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 61 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-11-02T14:44:02+00:00",
+      "link": "https://deploymentsafety.openai.com/gpt-rosalind-6"
+    },
+    {
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 149 # Comments: 207",
+      "source": "Hacker News",
+      "published": "2026-11-02T14:40:05+00:00",
+      "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
+    },
+    {
       "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
       "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
       "source": "TechCrunch",
       "published": "2026-11-02T13:57:53+00:00",
       "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+    },
+    {
+      "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 84 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-11-02T13:55:45+00:00",
+      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
     },
     {
       "title": "Stop counting tokens, start counting what ships",
@@ -84,6 +168,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-02T13:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
+    },
+    {
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 114 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-11-02T12:50:59+00:00",
+      "link": "https://twitter.com/OcanaSantero/status/2115442964574908902"
     },
     {
       "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
@@ -122,21 +213,21 @@ const FEED_DATA = {
     },
     {
       "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 81 # Comments: 47",
+      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 146 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-02T07:27:28+00:00",
       "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
     },
     {
       "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 88 # Comments: 82",
+      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-11-02T01:47:07+00:00",
       "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
     },
     {
       "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 230 # Comments: 230",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 241 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-11-01T22:10:45+00:00",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
@@ -157,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "It wasn't AI that flipped Proton's charge",
-      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 160 # Comments: 93",
+      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 165 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-11-01T18:53:55+00:00",
       "link": "https://blog.raed.dev/posts/proton-loser-thinking/"
     },
     {
       "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 53 # Comments: 6",
+      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 58 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-11-01T18:33:02+00:00",
       "link": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial"
@@ -227,14 +318,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI cost of JavaScript frameworks",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 397 # Comments: 305",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 466 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-11-01T06:06:19+00:00",
       "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
     },
     {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": "TechCrunch",
+      "published": "2026-11-01T02:22:10+00:00",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
       "title": "AI text watermarking and quality loss",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 73 # Comments: 16",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 74 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-10-31T21:50:13+00:00",
       "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
@@ -262,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 188",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-10-31T18:50:34+00:00",
       "link": "https://ryanmadden.net/gpt-56-beats-factorio/"
     },
     {
       "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 81 # Comments: 54",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 81 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-10-31T18:02:29+00:00",
       "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-27T19:39:04+00:00",
       "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/"
-    },
-    {
-      "title": "US President says he will ban the term 'artificial intelligence'",
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 107 # Comments: 135",
-      "source": "Hacker News",
-      "published": "2026-10-27T19:11:31+00:00",
-      "link": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "source": "TechCrunch",
-      "published": "2026-10-27T18:55:35+00:00",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
-    },
-    {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-      "source": "The Verge",
-      "published": "2026-10-27T17:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
-    },
-    {
-      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
-      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent.",
-      "source": "The Decoder",
-      "published": "2026-10-27T17:25:09+00:00",
-      "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/"
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "source": "TechCrunch",
-      "published": "2026-10-27T17:08:08+00:00",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-    },
-    {
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 171 # Comments: 67",
-      "source": "Hacker News",
-      "published": "2026-10-27T17:04:50+00:00",
-      "link": "https://www.liquid.ai/blog/lfm3"
-    },
-    {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
-      "source": "The Verge",
-      "published": "2026-10-27T16:51:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
-    },
-    {
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 397 # Comments: 312",
-      "source": "Hacker News",
-      "published": "2026-10-27T16:40:15+00:00",
-      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "source": "TechCrunch",
-      "published": "2026-10-27T16:30:57+00:00",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
-    },
-    {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 381 # Comments: 291",
-      "source": "Hacker News",
-      "published": "2026-10-27T16:25:30+00:00",
-      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
-    },
-    {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs.",
-      "source": "The Verge",
-      "published": "2026-10-27T16:14:18+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
-    },
-    {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI.",
-      "source": "The Verge",
-      "published": "2026-10-27T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
-    },
-    {
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-      "source": "Wired",
-      "published": "2026-10-27T15:10:26+00:00",
-      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/"
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "source": "TechCrunch",
-      "published": "2026-10-27T14:59:09+00:00",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
     }
   ]
 };
