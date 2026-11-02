@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-02T22:12:16.830222+00:00",
+  "lastUpdated": "2026-11-02T23:45:54.153290+00:00",
   "items": [
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:13:53+00:00",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "source": "TechCrunch",
+      "published": "2026-11-02T22:14:50+00:00",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
     {
       "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
       "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff.",
@@ -45,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.",
       "source": "The Verge",
       "published": "2026-11-02T18:56:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-27T19:55:06+00:00",
       "link": "https://www.brangus.io/survival-llm"
-    },
-    {
-      "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
-      "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected.",
-      "source": "The Decoder",
-      "published": "2026-10-27T19:45:49+00:00",
-      "link": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/"
-    },
-    {
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "source": "Wired",
-      "published": "2026-10-27T19:39:04+00:00",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/"
     }
   ]
 };
