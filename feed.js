@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-03T16:39:43.576174+00:00",
+  "lastUpdated": "2026-11-03T19:58:53.746715+00:00",
   "items": [
+    {
+      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+      "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly.",
+      "source": "The Decoder",
+      "published": "2026-11-03T19:41:43+00:00",
+      "link": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T19:34:43+00:00",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T18:42:16+00:00",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    },
+    {
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now.",
+      "source": "The Verge",
+      "published": "2026-11-03T18:31:00+00:00",
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta"
+    },
+    {
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.",
+      "source": "The Verge",
+      "published": "2026-11-03T18:30:42+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+    },
+    {
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.",
+      "source": "The Verge",
+      "published": "2026-11-03T18:14:50+00:00",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates"
+    },
+    {
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.",
+      "source": "The Verge",
+      "published": "2026-11-03T18:00:00+00:00",
+      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+    },
+    {
+      "title": "Google researchers demand freedom to tell the world what they know about AI",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 71 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-11-03T17:55:26+00:00",
+      "link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 622 # Comments: 199",
+      "source": "Hacker News",
+      "published": "2026-11-03T17:22:37+00:00",
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T17:07:01+00:00",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+    },
+    {
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times.",
+      "source": "The Verge",
+      "published": "2026-11-03T17:00:04+00:00",
+      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+    },
+    {
+      "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+      "summary": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals.",
+      "source": "The Decoder",
+      "published": "2026-11-03T16:51:18+00:00",
+      "link": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/"
+    },
     {
       "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
@@ -10,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quili AI",
-      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 62 # Comments: 31",
+      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 92 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-11-03T15:49:02+00:00",
       "link": "https://www.quili.ai/"
@@ -24,10 +108,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying my CS degree",
-      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 80 # Comments: 51",
+      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 108 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-11-03T15:35:06+00:00",
       "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
+    },
+    {
+      "title": "Google will turn off search for schools that reject AI",
+      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 367 # Comments: 284",
+      "source": "Hacker News",
+      "published": "2026-11-03T15:25:47+00:00",
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
     },
     {
       "title": "Designing responsible AI for learning",
@@ -51,11 +142,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/"
     },
     {
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "summary": "Article URL: https://github.com/Muvon/octomind Comments URL: https://news.ycombinator.com/item?id=50352898 Points: 50 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-11-03T15:02:58+00:00",
+      "link": "https://github.com/Muvon/octomind"
+    },
+    {
       "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
       "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition.",
       "source": "The Verge",
       "published": "2026-11-03T15:00:44+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
+    },
+    {
+      "title": "The AI Bubble Monitor",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/ Comments URL: https://news.ycombinator.com/item?id=50352727 Points: 58 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-11-03T14:51:31+00:00",
+      "link": "https://cepr.net/publications/ai-bubble-monitor/"
     },
     {
       "title": "Here’s Why You Shouldn’t Use AI to Vote",
@@ -66,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Just a little AI resistance, as a treat",
-      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 148 # Comments: 94",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 166 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-11-03T14:14:12+00:00",
       "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
@@ -199,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 195 # Comments: 173",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 197 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-11-02T19:27:37+00:00",
       "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
@@ -227,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 179 # Comments: 147",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 180 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-11-02T18:54:44+00:00",
       "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
@@ -262,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 341 # Comments: 265",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 346 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-11-02T16:40:29+00:00",
       "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
@@ -304,21 +409,21 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-Rosalind-6 System Card Addendum",
-      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 71 # Comments: 55",
+      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 71 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-11-02T14:44:02+00:00",
       "link": "https://deploymentsafety.openai.com/gpt-rosalind-6"
     },
     {
       "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 185 # Comments: 254",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 186 # Comments: 256",
       "source": "Hacker News",
       "published": "2026-11-02T14:40:05+00:00",
       "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 139 # Comments: 59",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 284 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-11-02T14:02:42+00:00",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
@@ -332,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The U.S. Census Bureau and \"Super Intelligence\"",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 124 # Comments: 53",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 125 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-02T13:55:45+00:00",
       "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
@@ -353,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Last night an AI agent performed brain surgery on a mouse",
-      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 139 # Comments: 115",
+      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 141 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-11-02T12:50:59+00:00",
       "link": "https://twitter.com/OcanaSantero/status/2115442964574908902"
@@ -402,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 113",
+      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 101 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-11-02T01:47:07+00:00",
       "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
     },
     {
       "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 244 # Comments: 254",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 245 # Comments: 255",
       "source": "Hacker News",
       "published": "2026-11-01T22:10:45+00:00",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-28T20:03:00+00:00",
       "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T19:19:58+00:00",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
-    },
-    {
-      "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
-      "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle.",
-      "source": "The Decoder",
-      "published": "2026-10-28T19:17:58+00:00",
-      "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/"
-    },
-    {
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T18:50:39+00:00",
-      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
-    },
-    {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-      "source": "The Verge",
-      "published": "2026-10-28T18:36:26+00:00",
-      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending"
-    },
-    {
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "source": "Wired",
-      "published": "2026-10-28T18:30:00+00:00",
-      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/"
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
-    },
-    {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-    },
-    {
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-      "source": "The Verge",
-      "published": "2026-10-28T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
-    },
-    {
-      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex.",
-      "source": "The Decoder",
-      "published": "2026-10-28T16:59:59+00:00",
-      "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/"
-    },
-    {
-      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
-      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January.",
-      "source": "The Decoder",
-      "published": "2026-10-28T16:25:02+00:00",
-      "link": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/"
-    },
-    {
-      "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
-      "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly.",
-      "source": "The Decoder",
-      "published": "2026-10-28T16:20:03+00:00",
-      "link": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/"
-    },
-    {
-      "title": "Meta says it’ll probably delay its controversial new business terms again",
-      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training.",
-      "source": "The Verge",
-      "published": "2026-10-28T16:15:30+00:00",
-      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
-    },
-    {
-      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
-      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts.",
-      "source": "The Decoder",
-      "published": "2026-10-28T15:49:39+00:00",
-      "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/"
-    },
-    {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 260 # Comments: 174",
-      "source": "Hacker News",
-      "published": "2026-10-28T15:46:30+00:00",
-      "link": "https://surgehq.ai/blog/dayjob-tax"
-    },
-    {
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:41:18+00:00",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
     }
   ]
 };
