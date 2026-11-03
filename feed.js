@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-03T19:58:53.746715+00:00",
+  "lastUpdated": "2026-11-03T22:09:55.918677+00:00",
   "items": [
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T21:43:08+00:00",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+    },
+    {
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days.",
+      "source": "The Verge",
+      "published": "2026-11-03T21:01:07+00:00",
+      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps.",
+      "source": "The Verge",
+      "published": "2026-11-03T20:16:17+00:00",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+    },
+    {
+      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware.",
+      "source": "The Decoder",
+      "published": "2026-11-03T20:15:45+00:00",
+      "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/"
+    },
     {
       "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
       "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly.",
@@ -52,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google researchers demand freedom to tell the world what they know about AI",
-      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 71 # Comments: 79",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 77 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-11-03T17:55:26+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/"
     },
     {
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 622 # Comments: 199",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 844 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-11-03T17:22:37+00:00",
       "link": "https://github.com/postmanlabs/postman-app-support/issues/14370"
@@ -94,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quili AI",
-      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 92 # Comments: 61",
+      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 94 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-11-03T15:49:02+00:00",
       "link": "https://www.quili.ai/"
@@ -108,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying my CS degree",
-      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 108 # Comments: 97",
+      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 114 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-11-03T15:35:06+00:00",
       "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
     },
     {
       "title": "Google will turn off search for schools that reject AI",
-      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 367 # Comments: 284",
+      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 472 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-11-03T15:25:47+00:00",
       "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Bubble Monitor",
-      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/ Comments URL: https://news.ycombinator.com/item?id=50352727 Points: 58 # Comments: 33",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/ Comments URL: https://news.ycombinator.com/item?id=50352727 Points: 60 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-11-03T14:51:31+00:00",
       "link": "https://cepr.net/publications/ai-bubble-monitor/"
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Just a little AI resistance, as a treat",
-      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 166 # Comments: 102",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 168 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-11-03T14:14:12+00:00",
       "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 180 # Comments: 151",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 180 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-11-02T18:54:44+00:00",
       "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
@@ -367,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 346 # Comments: 267",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 347 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-11-02T16:40:29+00:00",
       "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
@@ -416,14 +444,14 @@ const FEED_DATA = {
     },
     {
       "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 186 # Comments: 256",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 186 # Comments: 257",
       "source": "Hacker News",
       "published": "2026-11-02T14:40:05+00:00",
       "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 284 # Comments: 113",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 330 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-11-02T14:02:42+00:00",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-28T21:25:30+00:00",
       "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T21:25:30+00:00",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-28T20:32:02+00:00",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 169 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-10-28T20:10:16+00:00",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
-    },
-    {
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.",
-      "source": "The Verge",
-      "published": "2026-10-28T20:03:00+00:00",
-      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
     }
   ]
 };
