@@ -1,9 +1,86 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-03T12:39:46.823249+00:00",
+  "lastUpdated": "2026-11-03T16:39:43.576174+00:00",
   "items": [
     {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T16:30:34+00:00",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    },
+    {
+      "title": "Quili AI",
+      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 62 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-11-03T15:49:02+00:00",
+      "link": "https://www.quili.ai/"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T15:38:27+00:00",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+    },
+    {
+      "title": "AI is destroying my CS degree",
+      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 80 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-11-03T15:35:06+00:00",
+      "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
+    },
+    {
+      "title": "Designing responsible AI for learning",
+      "summary": "Google Will Turn Off Search for Schools That Reject A.I. https://www.nytimes.com/2026/11/03/us/google-search-schools-..., https://archive.ph/RuwsB Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 69 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-11-03T15:25:47+00:00",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
+    },
+    {
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share.",
+      "source": "The Verge",
+      "published": "2026-11-03T15:24:51+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai"
+    },
+    {
+      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies.",
+      "source": "The Decoder",
+      "published": "2026-11-03T15:03:02+00:00",
+      "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/"
+    },
+    {
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition.",
+      "source": "The Verge",
+      "published": "2026-11-03T15:00:44+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
+    },
+    {
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
+      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "source": "Wired",
+      "published": "2026-11-03T14:45:08+00:00",
+      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/"
+    },
+    {
+      "title": "Just a little AI resistance, as a treat",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 148 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-11-03T14:14:12+00:00",
+      "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-03T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+    },
+    {
       "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
-      "summary": "Anthropic introduces Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only send new messages.",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed.",
       "source": "The Decoder",
       "published": "2026-11-03T12:35:49+00:00",
       "link": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/"
@@ -31,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice.",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.",
       "source": "MIT Tech Review",
       "published": "2026-11-03T10:43:41+00:00",
       "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
@@ -115,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 73 # Comments: 44",
+      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 74 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-11-02T19:36:37+00:00",
       "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
     },
     {
       "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 190 # Comments: 168",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 195 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-11-02T19:27:37+00:00",
       "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
@@ -150,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 171 # Comments: 128",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 179 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-11-02T18:54:44+00:00",
       "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
@@ -185,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 334 # Comments: 254",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 341 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-11-02T16:40:29+00:00",
       "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
@@ -227,17 +304,24 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-Rosalind-6 System Card Addendum",
-      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 70 # Comments: 55",
+      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 71 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-11-02T14:44:02+00:00",
       "link": "https://deploymentsafety.openai.com/gpt-rosalind-6"
     },
     {
       "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 179 # Comments: 249",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 185 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-11-02T14:40:05+00:00",
       "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 139 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-11-02T14:02:42+00:00",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
     },
     {
       "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -248,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "The U.S. Census Bureau and \"Super Intelligence\"",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 121 # Comments: 52",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 124 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-02T13:55:45+00:00",
       "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
@@ -269,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Last night an AI agent performed brain surgery on a mouse",
-      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 137 # Comments: 108",
+      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 139 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-11-02T12:50:59+00:00",
       "link": "https://twitter.com/OcanaSantero/status/2115442964574908902"
@@ -311,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 157 # Comments: 87",
+      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 158 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-11-02T07:27:28+00:00",
       "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
@@ -325,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 243 # Comments: 254",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 244 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-11-01T22:10:45+00:00",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
@@ -416,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI cost of JavaScript frameworks",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 471 # Comments: 389",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 389",
       "source": "Hacker News",
       "published": "2026-11-01T06:06:19+00:00",
       "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
@@ -514,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "summary": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
       "source": "Wired",
       "published": "2026-10-31T12:00:00+00:00",
       "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-28T15:41:18+00:00",
       "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
-    },
-    {
-      "title": "New Artificial Analysis index widens the gap between open and closed models",
-      "summary": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-10-28T15:04:43+00:00",
-      "link": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/"
-    },
-    {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
-    },
-    {
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian.",
-      "source": "The Verge",
-      "published": "2026-10-28T14:44:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
-    },
-    {
-      "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-      "summary": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50273623 Points: 69 # Comments: 38",
-      "source": "Hacker News",
-      "published": "2026-10-28T13:56:21+00:00",
-      "link": "https://github.com/thomasunise/casecite"
-    },
-    {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 490 # Comments: 538",
-      "source": "Hacker News",
-      "published": "2026-10-28T13:41:30+00:00",
-      "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
-    },
-    {
-      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-      "summary": "Article URL: https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers Comments URL: https://news.ycombinator.com/item?id=50273340 Points: 50 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-10-28T13:38:04+00:00",
-      "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
-    },
-    {
-      "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones Comments URL: https://news.ycombinator.com/item?id=50273192 Points: 68 # Comments: 84",
-      "source": "Hacker News",
-      "published": "2026-10-28T13:27:24+00:00",
-      "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
-    },
-    {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-28T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
-    },
-    {
-      "title": "Pairing industrial AI autonomy and human control",
-      "summary": "Pairing industrial AI autonomy and human control",
-      "source": "MIT Tech Review",
-      "published": "2026-10-28T12:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
-    },
-    {
-      "title": "Meta quietly launched an ‘AI pet journal’ app",
-      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
-      "source": "The Verge",
-      "published": "2026-10-28T11:27:30+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
-    },
-    {
-      "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
-      "summary": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do.",
-      "source": "The Decoder",
-      "published": "2026-10-28T11:15:00+00:00",
-      "link": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/"
-    },
-    {
-      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went.",
-      "source": "The Decoder",
-      "published": "2026-10-28T10:56:24+00:00",
-      "link": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/"
     }
   ]
 };
