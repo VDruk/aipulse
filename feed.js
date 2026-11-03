@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-02T23:45:54.153290+00:00",
+  "lastUpdated": "2026-11-03T02:43:23.543079+00:00",
   "items": [
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:49:52+00:00",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "source": "TechCrunch",
+      "published": "2026-11-03T00:35:52+00:00",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+    },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "summary": "The one-year-old startup is now valued at $300 million.",
@@ -31,14 +45,14 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 66 # Comments: 40",
+      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 71 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-11-02T19:36:37+00:00",
       "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
     },
     {
       "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 107 # Comments: 59",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 167 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-11-02T19:27:37+00:00",
       "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
@@ -66,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 78 # Comments: 53",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 121 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-02T18:54:44+00:00",
       "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 252 # Comments: 210",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 293 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-11-02T16:40:29+00:00",
       "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
@@ -143,14 +157,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-Rosalind-6 System Card Addendum",
-      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 61 # Comments: 50",
+      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 66 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-02T14:44:02+00:00",
       "link": "https://deploymentsafety.openai.com/gpt-rosalind-6"
     },
     {
       "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 149 # Comments: 207",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 163 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-11-02T14:40:05+00:00",
       "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The U.S. Census Bureau and \"Super Intelligence\"",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 84 # Comments: 36",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 99 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-11-02T13:55:45+00:00",
       "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Last night an AI agent performed brain surgery on a mouse",
-      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 114 # Comments: 96",
+      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 123 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-11-02T12:50:59+00:00",
       "link": "https://twitter.com/OcanaSantero/status/2115442964574908902"
@@ -227,21 +241,21 @@ const FEED_DATA = {
     },
     {
       "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 146 # Comments: 83",
+      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 149 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-11-02T07:27:28+00:00",
       "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
     },
     {
       "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 107",
+      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-11-02T01:47:07+00:00",
       "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
     },
     {
       "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 241 # Comments: 247",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 242 # Comments: 252",
       "source": "Hacker News",
       "published": "2026-11-01T22:10:45+00:00",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 58 # Comments: 6",
+      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 60 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-11-01T18:33:02+00:00",
       "link": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial"
@@ -332,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI cost of JavaScript frameworks",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 466 # Comments: 377",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 468 # Comments: 386",
       "source": "Hacker News",
       "published": "2026-11-01T06:06:19+00:00",
       "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
@@ -346,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI text watermarking and quality loss",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 74 # Comments: 16",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 75 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-10-31T21:50:13+00:00",
       "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
@@ -374,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 189",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-10-31T18:50:34+00:00",
       "link": "https://ryanmadden.net/gpt-56-beats-factorio/"
     },
     {
       "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 81 # Comments: 56",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 82 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-10-31T18:02:29+00:00",
       "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-27T21:38:28+00:00",
       "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.",
-      "source": "The Verge",
-      "published": "2026-10-27T20:48:58+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 538 # Comments: 202",
-      "source": "Hacker News",
-      "published": "2026-10-27T19:55:06+00:00",
-      "link": "https://www.brangus.io/survival-llm"
     }
   ]
 };
