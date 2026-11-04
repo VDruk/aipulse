@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-04T00:58:40.745871+00:00",
+  "lastUpdated": "2026-11-04T07:14:07.775253+00:00",
   "items": [
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the...",
+      "source": "The Verge",
+      "published": "2026-11-04T00:42:10+00:00",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+    },
     {
       "title": "Please stop asking me when the AI bubble will pop",
       "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-29T10:00:00+00:00",
       "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/"
-    },
-    {
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 57 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-10-29T00:30:37+00:00",
-      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
     }
   ]
 };
