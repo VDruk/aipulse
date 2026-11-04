@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-04T20:18:38.058022+00:00",
+  "lastUpdated": "2026-11-04T22:19:18.139483+00:00",
   "items": [
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+      "source": "TechCrunch",
+      "published": "2026-11-04T22:13:16+00:00",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "summary": "During its busiest week last quarter, Uber said only 4 people booked a ride using an AI agent.",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:56:01+00:00",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+    },
+    {
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics.",
+      "source": "The Verge",
+      "published": "2026-11-04T21:45:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:25:44+00:00",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:10:56+00:00",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+      "source": "Wired",
+      "published": "2026-11-04T20:41:29+00:00",
+      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
+    },
+    {
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "summary": "AT&T's smart home security system now integrates with Gemini for Home.",
+      "source": "The Verge",
+      "published": "2026-11-04T20:23:24+00:00",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+    },
     {
       "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
       "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-29T21:49:28+00:00",
       "link": "https://convo.casa/@b/117525936178835007"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 415 # Comments: 170",
-      "source": "Hacker News",
-      "published": "2026-10-29T21:40:28+00:00",
-      "link": "https://labs.ycombinator.com/projects/games/index.html"
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:08:31+00:00",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:05:47+00:00",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
-    },
-    {
-      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-      "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback.",
-      "source": "The Decoder",
-      "published": "2026-10-29T20:01:27+00:00",
-      "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:56:19+00:00",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
-    },
-    {
-      "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
-      "summary": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own.",
-      "source": "The Decoder",
-      "published": "2026-10-29T19:33:37+00:00",
-      "link": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/"
-    },
-    {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:14:36+00:00",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
     }
   ]
 };
