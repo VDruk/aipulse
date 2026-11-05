@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-05T16:53:35.433591+00:00",
+  "lastUpdated": "2026-11-05T20:29:25.153888+00:00",
   "items": [
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:48:28+00:00",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:12:39+00:00",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:06:12+00:00",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    },
+    {
+      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor.",
+      "source": "The Decoder",
+      "published": "2026-11-05T19:05:31+00:00",
+      "link": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/"
+    },
+    {
+      "title": "Muse has a voice mode now",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
+      "source": "The Verge",
+      "published": "2026-11-05T19:03:04+00:00",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:02:27+00:00",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+    },
+    {
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 130 # Comments: 150",
+      "source": "Hacker News",
+      "published": "2026-11-05T18:00:01+00:00",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
+      "source": "The Verge",
+      "published": "2026-11-05T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    },
+    {
+      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
+      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want.",
+      "source": "The Decoder",
+      "published": "2026-11-05T17:56:41+00:00",
+      "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
+    },
+    {
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor...",
+      "source": "The Verge",
+      "published": "2026-11-05T17:51:52+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+    },
+    {
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie.",
+      "source": "The Verge",
+      "published": "2026-11-05T17:00:00+00:00",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+    },
+    {
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process.",
+      "source": "The Verge",
+      "published": "2026-11-05T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+    },
     {
       "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
       "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent.",
@@ -51,7 +142,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
     },
     {
-      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
       "source": "TechCrunch",
       "published": "2026-11-05T14:42:00+00:00",
@@ -107,8 +198,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
     },
     {
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
       "source": "TechCrunch",
       "published": "2026-11-05T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
@@ -121,6 +212,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
     },
     {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+    },
+    {
       "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
       "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux.",
       "source": "The Decoder",
@@ -129,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
       "source": "TechCrunch",
       "published": "2026-11-05T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
@@ -157,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra covertly underperforms on safety research",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 148 # Comments: 64",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 226 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-11-05T07:44:30+00:00",
       "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
     },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
       "source": "TechCrunch",
       "published": "2026-11-05T01:26:22+00:00",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
@@ -178,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "You'll need nerves of steel to work with AI agents",
-      "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 56 # Comments: 77",
+      "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 56 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-11-05T00:01:30+00:00",
       "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/"
@@ -234,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everything is an AI scam now",
-      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 145 # Comments: 57",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 146 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-11-04T21:05:19+00:00",
       "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
@@ -262,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 167 # Comments: 62",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 168 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-11-04T19:55:14+00:00",
       "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
@@ -402,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 99 # Comments: 157",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 101 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-11-04T15:28:31+00:00",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
@@ -458,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1237 # Comments: 721",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1249 # Comments: 732",
       "source": "Hacker News",
       "published": "2026-11-04T11:52:17+00:00",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
@@ -472,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 315 # Comments: 311",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 317 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-11-04T10:23:34+00:00",
       "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
@@ -535,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 412 # Comments: 169",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 415 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-11-03T21:26:44+00:00",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
@@ -619,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I use AI (Oct 2026)",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 254 # Comments: 308",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 255 # Comments: 310",
       "source": "Hacker News",
       "published": "2026-11-03T18:11:11+00:00",
       "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-10-31T10:30:00+00:00",
       "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/"
-    },
-    {
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops.",
-      "source": "The Decoder",
-      "published": "2026-10-31T10:15:45+00:00",
-      "link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/"
-    },
-    {
-      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "source": "Wired",
-      "published": "2026-10-31T10:00:00+00:00",
-      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
-    },
-    {
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off.",
-      "source": "The Decoder",
-      "published": "2026-10-31T09:22:52+00:00",
-      "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "source": "TechCrunch",
-      "published": "2026-10-31T01:20:05+00:00",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T22:56:13+00:00",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T21:54:34+00:00",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T21:52:03+00:00",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-    },
-    {
-      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 70 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-10-30T21:32:35+00:00",
-      "link": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
-    },
-    {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T21:26:59+00:00",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
-    },
-    {
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-      "source": "Wired",
-      "published": "2026-10-30T21:19:26+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
-    },
-    {
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T21:17:40+00:00",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "source": "Ars Technica",
-      "published": "2026-10-30T21:09:54+00:00",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
-    },
-    {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
-      "source": "The Verge",
-      "published": "2026-10-30T20:48:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
-    },
-    {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-      "source": "The Verge",
-      "published": "2026-10-30T20:26:10+00:00",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
     }
   ]
 };
