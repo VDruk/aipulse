@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-05T07:42:19.000927+00:00",
+  "lastUpdated": "2026-11-05T12:58:01.834796+00:00",
   "items": [
+    {
+      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux.",
+      "source": "The Decoder",
+      "published": "2026-11-05T12:20:35+00:00",
+      "link": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+    },
+    {
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "source": "Wired",
+      "published": "2026-11-05T12:00:00+00:00",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/"
+    },
+    {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "source": "Wired",
+      "published": "2026-11-05T11:45:00+00:00",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/"
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised...",
+      "source": "The Verge",
+      "published": "2026-11-05T10:45:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-10-30T13:54:25+00:00",
       "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
-    },
-    {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-      "source": "The Verge",
-      "published": "2026-10-30T13:01:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
-    },
-    {
-      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-      "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users.",
-      "source": "The Decoder",
-      "published": "2026-10-30T12:22:18+00:00",
-      "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/"
-    },
-    {
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise.",
-      "source": "MIT Tech Review",
-      "published": "2026-10-30T11:30:00+00:00",
-      "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
-    },
-    {
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.",
-      "source": "The Verge",
-      "published": "2026-10-30T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
     }
   ]
 };
