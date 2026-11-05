@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-05T01:12:38.334607+00:00",
+  "lastUpdated": "2026-11-05T07:42:19.000927+00:00",
   "items": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T01:26:22+00:00",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    },
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
       "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everything is an AI scam now",
-      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 125 # Comments: 41",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 135 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-04T21:05:19+00:00",
       "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 95 # Comments: 41",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 138 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-11-04T19:55:14+00:00",
       "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
@@ -220,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 61 # Comments: 73",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 81 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-11-04T15:28:31+00:00",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
@@ -276,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1047 # Comments: 626",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1161 # Comments: 669",
       "source": "Hacker News",
       "published": "2026-11-04T11:52:17+00:00",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
@@ -290,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 296 # Comments: 293",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 304 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-11-04T10:23:34+00:00",
       "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
@@ -304,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI stocks slide as Texas governor result raises data center risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 53 # Comments: 75",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 54 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-11-04T07:00:20+00:00",
       "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
@@ -346,21 +353,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 383 # Comments: 60",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 384 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-11-03T21:40:53+00:00",
       "link": "https://arxiv.org/abs/2605.29713"
     },
     {
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 408 # Comments: 166",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 412 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-11-03T21:26:44+00:00",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
     },
     {
       "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 75 # Comments: 91",
+      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 75 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-11-03T21:25:48+00:00",
       "link": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight"
@@ -437,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I use AI (Oct 2026)",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 249 # Comments: 299",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 252 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-11-03T18:11:11+00:00",
       "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
@@ -458,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1485 # Comments: 483",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1495 # Comments: 485",
       "source": "Hacker News",
       "published": "2026-11-03T17:22:37+00:00",
       "link": "https://github.com/postmanlabs/postman-app-support/issues/14370"
@@ -493,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quili AI",
-      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 98 # Comments: 64",
+      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 98 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-11-03T15:49:02+00:00",
       "link": "https://www.quili.ai/"
@@ -514,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google will turn off search for schools that reject AI",
-      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 662 # Comments: 460",
+      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 666 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-11-03T15:25:47+00:00",
       "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-30T11:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
-    },
-    {
-      "title": "Ask HN: Are you tired too in this AI era?",
-      "summary": "Although AI lets us do much more, I feel considerably more tired than before.We need to keep track of many things happening in parallel and read enormous amounts of generated text.",
-      "source": "Hacker News",
-      "published": "2026-10-30T09:17:43+00:00",
-      "link": "https://news.ycombinator.com/item?id=50301479"
     }
   ]
 };
