@@ -1,16 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-04T22:19:18.139483+00:00",
+  "lastUpdated": "2026-11-05T01:12:38.334607+00:00",
   "items": [
     {
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "source": "Wired",
+      "published": "2026-11-04T23:13:14+00:00",
+      "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "source": "TechCrunch",
+      "published": "2026-11-04T22:45:09+00:00",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+    },
+    {
       "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
       "source": "TechCrunch",
       "published": "2026-11-04T22:13:16+00:00",
       "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
     },
     {
       "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only 4 people booked a ride using an AI agent.",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
       "source": "TechCrunch",
       "published": "2026-11-04T21:56:01+00:00",
       "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
@@ -37,6 +51,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
     },
     {
+      "title": "Everything is an AI scam now",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 125 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-11-04T21:05:19+00:00",
+      "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+    },
+    {
       "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
       "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
       "source": "Wired",
@@ -56,6 +77,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-04T20:06:21+00:00",
       "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 95 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-11-04T19:55:14+00:00",
+      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
     },
     {
       "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
@@ -135,6 +163,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
     },
     {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "summary": "Hi HN! I'm Luke from Kino (https://kino.ai).",
+      "source": "Hacker News",
+      "published": "2026-11-04T17:31:53+00:00",
+      "link": "https://news.ycombinator.com/item?id=50368804"
+    },
+    {
       "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
       "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
       "source": "TechCrunch",
@@ -175,6 +210,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-04T15:44:44+00:00",
       "link": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/"
+    },
+    {
+      "title": "AI data centers comprehensively defeated at US midterm elections",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments Comments URL: https://news.ycombinator.com/item?id=50367085...",
+      "source": "Hacker News",
+      "published": "2026-11-04T15:35:51+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
+    },
+    {
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 61 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-11-04T15:28:31+00:00",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
     },
     {
       "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
@@ -227,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 878 # Comments: 522",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1047 # Comments: 626",
       "source": "Hacker News",
       "published": "2026-11-04T11:52:17+00:00",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
@@ -241,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 286 # Comments: 282",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 296 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-11-04T10:23:34+00:00",
       "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
@@ -255,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI stocks slide as Texas governor result raises data center risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 52 # Comments: 71",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 53 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-11-04T07:00:20+00:00",
       "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
@@ -297,21 +346,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 378 # Comments: 59",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 383 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-11-03T21:40:53+00:00",
       "link": "https://arxiv.org/abs/2605.29713"
     },
     {
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 402 # Comments: 164",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 408 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-11-03T21:26:44+00:00",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
     },
     {
       "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 75 # Comments: 90",
+      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 75 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-11-03T21:25:48+00:00",
       "link": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight"
@@ -388,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I use AI (Oct 2026)",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 246 # Comments: 286",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 249 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-11-03T18:11:11+00:00",
       "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
@@ -409,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1468 # Comments: 477",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1485 # Comments: 483",
       "source": "Hacker News",
       "published": "2026-11-03T17:22:37+00:00",
       "link": "https://github.com/postmanlabs/postman-app-support/issues/14370"
@@ -465,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google will turn off search for schools that reject AI",
-      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 653 # Comments: 458",
+      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 662 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-11-03T15:25:47+00:00",
       "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
@@ -493,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "summary": "Article URL: https://github.com/Muvon/octomind Comments URL: https://news.ycombinator.com/item?id=50352898 Points: 55 # Comments: 39",
+      "summary": "Article URL: https://github.com/Muvon/octomind Comments URL: https://news.ycombinator.com/item?id=50352898 Points: 56 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-11-03T15:02:58+00:00",
       "link": "https://github.com/Muvon/octomind"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-30T09:17:43+00:00",
       "link": "https://news.ycombinator.com/item?id=50301479"
-    },
-    {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
-      "source": "The Verge",
-      "published": "2026-10-30T09:00:00+00:00",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
-    },
-    {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T01:20:48+00:00",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "source": "TechCrunch",
-      "published": "2026-10-29T23:42:22+00:00",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "source": "TechCrunch",
-      "published": "2026-10-29T23:42:22+00:00",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-    },
-    {
-      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 80 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-10-29T22:22:13+00:00",
-      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
-    },
-    {
-      "title": "Building an AI-native engineering org",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 199",
-      "source": "Hacker News",
-      "published": "2026-10-29T21:58:34+00:00",
-      "link": "https://twitter.com/sgondala2/status/2115832070274723875"
-    },
-    {
-      "title": "Proton goes all in on using AI",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 120 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-10-29T21:49:28+00:00",
-      "link": "https://convo.casa/@b/117525936178835007"
     }
   ]
 };
