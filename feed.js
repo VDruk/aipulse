@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-05T20:29:25.153888+00:00",
+  "lastUpdated": "2026-11-05T22:28:27.216789+00:00",
   "items": [
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.",
+      "source": "The Verge",
+      "published": "2026-11-05T22:26:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "source": "Wired",
+      "published": "2026-11-05T21:37:18+00:00",
+      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+    },
+    {
+      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches.",
+      "source": "The Decoder",
+      "published": "2026-11-05T20:36:25+00:00",
+      "link": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/"
+    },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
       "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
       "source": "TechCrunch",
       "published": "2026-11-05T18:02:27+00:00",
       "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-10-31T13:25:00+00:00",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
-    },
-    {
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "summary": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-      "source": "Wired",
-      "published": "2026-10-31T12:00:00+00:00",
-      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
-    },
-    {
-      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
-      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year.",
-      "source": "The Decoder",
-      "published": "2026-10-31T10:43:58+00:00",
-      "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/"
-    },
-    {
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-      "source": "Wired",
-      "published": "2026-10-31T10:30:00+00:00",
-      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/"
     }
   ]
 };
