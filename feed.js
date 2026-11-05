@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-05T12:58:01.834796+00:00",
+  "lastUpdated": "2026-11-05T16:53:35.433591+00:00",
   "items": [
+    {
+      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent.",
+      "source": "The Decoder",
+      "published": "2026-11-05T16:46:24+00:00",
+      "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T16:16:45+00:00",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+    },
+    {
+      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro.",
+      "source": "The Decoder",
+      "published": "2026-11-05T16:06:31+00:00",
+      "link": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T15:19:05+00:00",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    },
+    {
+      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May.",
+      "source": "The Decoder",
+      "published": "2026-11-05T15:01:09+00:00",
+      "link": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/"
+    },
+    {
+      "title": "The hidden supply chain costs of the AI boom",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains.",
+      "source": "The Verge",
+      "published": "2026-11-05T15:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book"
+    },
+    {
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly.",
+      "source": "The Verge",
+      "published": "2026-11-05T15:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T14:42:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+    },
+    {
+      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
+      "summary": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle.",
+      "source": "The Decoder",
+      "published": "2026-11-05T14:37:46+00:00",
+      "link": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/"
+    },
+    {
+      "title": "Anthropic reverses course and pays for news content for the first time",
+      "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-05T14:09:05+00:00",
+      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+      "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks.",
+      "source": "The Decoder",
+      "published": "2026-11-05T14:08:22+00:00",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/"
+    },
+    {
+      "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
+      "summary": "Tech companies are cutting internal AI spending, and Apple is the latest to follow suit. The article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-05T14:03:14+00:00",
+      "link": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+    },
+    {
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "source": "Wired",
+      "published": "2026-11-05T14:00:00+00:00",
+      "link": "https://www.wired.com/story/aina-smart-ring/"
+    },
+    {
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-05T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+    },
+    {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "source": "Wired",
+      "published": "2026-11-05T13:00:00+00:00",
+      "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+    },
     {
       "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
       "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux.",
@@ -37,11 +156,32 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
     },
     {
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 148 # Comments: 64",
+      "source": "Hacker News",
+      "published": "2026-11-05T07:44:30+00:00",
+      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    },
+    {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
       "source": "TechCrunch",
       "published": "2026-11-05T01:26:22+00:00",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    },
+    {
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "summary": "Article URL: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50373505 Points: 60 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-11-05T00:43:13+00:00",
+      "link": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/"
+    },
+    {
+      "title": "You'll need nerves of steel to work with AI agents",
+      "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 56 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-11-05T00:01:30+00:00",
+      "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/"
     },
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
@@ -94,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everything is an AI scam now",
-      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 135 # Comments: 53",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 145 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-11-04T21:05:19+00:00",
       "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
@@ -122,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 138 # Comments: 54",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 167 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-11-04T19:55:14+00:00",
       "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
@@ -262,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 81 # Comments: 106",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 99 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-11-04T15:28:31+00:00",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
@@ -318,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1161 # Comments: 669",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1237 # Comments: 721",
       "source": "Hacker News",
       "published": "2026-11-04T11:52:17+00:00",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
@@ -332,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 304 # Comments: 302",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 315 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-11-04T10:23:34+00:00",
       "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
@@ -346,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI stocks slide as Texas governor result raises data center risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 54 # Comments: 75",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 54 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-11-04T07:00:20+00:00",
       "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
@@ -388,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 384 # Comments: 60",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 388 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-11-03T21:40:53+00:00",
       "link": "https://arxiv.org/abs/2605.29713"
     },
     {
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 412 # Comments: 167",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 412 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-11-03T21:26:44+00:00",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
@@ -479,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I use AI (Oct 2026)",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 252 # Comments: 302",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 254 # Comments: 308",
       "source": "Hacker News",
       "published": "2026-11-03T18:11:11+00:00",
       "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
@@ -500,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1495 # Comments: 485",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1510 # Comments: 489",
       "source": "Hacker News",
       "published": "2026-11-03T17:22:37+00:00",
       "link": "https://github.com/postmanlabs/postman-app-support/issues/14370"
@@ -1260,146 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-30T20:26:10+00:00",
       "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
-    },
-    {
-      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
-      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own.",
-      "source": "The Decoder",
-      "published": "2026-10-30T19:42:59+00:00",
-      "link": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/"
-    },
-    {
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
-      "source": "The Verge",
-      "published": "2026-10-30T18:21:38+00:00",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
-    },
-    {
-      "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-      "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access.",
-      "source": "The Decoder",
-      "published": "2026-10-30T18:16:10+00:00",
-      "link": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/"
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:47:12+00:00",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
-    },
-    {
-      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability.",
-      "source": "The Decoder",
-      "published": "2026-10-30T17:44:59+00:00",
-      "link": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/"
-    },
-    {
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
-      "source": "The Verge",
-      "published": "2026-10-30T17:38:04+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
-    },
-    {
-      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 297 # Comments: 255",
-      "source": "Hacker News",
-      "published": "2026-10-30T17:24:45+00:00",
-      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
-    },
-    {
-      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-      "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings.",
-      "source": "The Decoder",
-      "published": "2026-10-30T17:15:24+00:00",
-      "link": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/"
-    },
-    {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
-    },
-    {
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 302",
-      "source": "Hacker News",
-      "published": "2026-10-30T16:13:02+00:00",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T16:03:45+00:00",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
-    },
-    {
-      "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 68 # Comments: 20",
-      "source": "Hacker News",
-      "published": "2026-10-30T15:53:42+00:00",
-      "link": "https://alanbellows.com/some-thing-is-happening/"
-    },
-    {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 675 # Comments: 491",
-      "source": "Hacker News",
-      "published": "2026-10-30T15:52:18+00:00",
-      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
-    },
-    {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 193 # Comments: 1",
-      "source": "Hacker News",
-      "published": "2026-10-30T15:39:05+00:00",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
-    },
-    {
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning...",
-      "source": "The Verge",
-      "published": "2026-10-30T14:58:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
-    },
-    {
-      "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 56 # Comments: 24",
-      "source": "Hacker News",
-      "published": "2026-10-30T14:18:34+00:00",
-      "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
-    },
-    {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 314 # Comments: 386",
-      "source": "Hacker News",
-      "published": "2026-10-30T14:08:20+00:00",
-      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
-    },
-    {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts Comments URL:...",
-      "source": "Hacker News",
-      "published": "2026-10-30T14:08:20+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "source": "TechCrunch",
-      "published": "2026-10-30T13:54:25+00:00",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
     }
   ]
 };
