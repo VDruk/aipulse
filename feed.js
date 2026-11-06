@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-06T16:22:12.259977+00:00",
+  "lastUpdated": "2026-11-06T19:52:41.648021+00:00",
   "items": [
+    {
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million.",
+      "source": "The Decoder",
+      "published": "2026-11-06T19:47:04+00:00",
+      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:38+00:00",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:20+00:00",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "source": "Wired",
+      "published": "2026-11-06T18:43:43+00:00",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
+    },
+    {
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant.",
+      "source": "The Verge",
+      "published": "2026-11-06T18:10:10+00:00",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T17:23:52+00:00",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.",
+      "source": "The Verge",
+      "published": "2026-11-06T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
+    },
+    {
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic.",
+      "source": "The Decoder",
+      "published": "2026-11-06T16:47:28+00:00",
+      "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/"
+    },
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them.",
+      "source": "The Verge",
+      "published": "2026-11-06T16:38:02+00:00",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
+      "source": "The Verge",
+      "published": "2026-11-06T16:34:39+00:00",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai"
+    },
     {
       "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
       "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
@@ -24,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 57 # Comments: 30",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 113 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-06T14:13:09+00:00",
       "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
@@ -100,8 +177,15 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
     },
     {
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 78 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-11-06T09:13:30+00:00",
+      "link": "https://www.anthropic.com/research/how-researchers-use-claude"
+    },
+    {
       "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 59 # Comments: 50",
+      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 59 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-11-06T07:59:19+00:00",
       "link": "https://obelisk.club/research/app-store-2026"
@@ -115,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "I struggle to believe that AI R&D is ingenious",
-      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 157 # Comments: 154",
+      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 161 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-11-06T05:19:04+00:00",
       "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
     },
     {
       "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 76 # Comments: 68",
+      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 76 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-11-06T02:49:56+00:00",
       "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
@@ -143,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 460 # Comments: 212",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 483 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-11-05T23:09:57+00:00",
       "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 190",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-11-05T18:00:01+00:00",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
@@ -415,18 +499,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
     },
     {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
-    },
-    {
       "title": "AI’s Next Trick? Speaking Dolphin",
       "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
       "source": "Wired",
       "published": "2026-11-05T12:00:00+00:00",
       "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
     },
     {
       "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
@@ -444,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra covertly underperforms on safety research",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 336 # Comments: 185",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 340 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-11-05T07:44:30+00:00",
       "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
@@ -689,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 107 # Comments: 173",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 108 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-11-04T15:28:31+00:00",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
@@ -745,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1284 # Comments: 746",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1287 # Comments: 746",
       "source": "Hacker News",
       "published": "2026-11-04T11:52:17+00:00",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
@@ -759,7 +843,7 @@ const FEED_DATA = {
     },
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 320 # Comments: 318",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-11-04T10:23:34+00:00",
       "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-02T13:10:32+00:00",
       "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-    },
-    {
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-02T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
-    },
-    {
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 141 # Comments: 116",
-      "source": "Hacker News",
-      "published": "2026-11-02T12:50:59+00:00",
-      "link": "https://twitter.com/OcanaSantero/status/2115442964574908902"
-    },
-    {
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "source": "Wired",
-      "published": "2026-11-02T12:00:00+00:00",
-      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/"
-    },
-    {
-      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
-      "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-02T11:47:14+00:00",
-      "link": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/"
-    },
-    {
-      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
-      "summary": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-02T10:47:59+00:00",
-      "link": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/"
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "source": "Wired",
-      "published": "2026-11-02T10:00:00+00:00",
-      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
-    },
-    {
-      "title": "The agentic web is here",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-02T09:35:19+00:00",
-      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
-    },
-    {
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 158 # Comments: 89",
-      "source": "Hacker News",
-      "published": "2026-11-02T07:27:28+00:00",
-      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
-    },
-    {
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 101 # Comments: 115",
-      "source": "Hacker News",
-      "published": "2026-11-02T01:47:07+00:00",
-      "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
-    },
-    {
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 245 # Comments: 255",
-      "source": "Hacker News",
-      "published": "2026-11-01T22:10:45+00:00",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "source": "TechCrunch",
-      "published": "2026-11-01T21:55:23+00:00",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "source": "TechCrunch",
-      "published": "2026-11-01T20:57:58+00:00",
-      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
     }
   ]
 };
