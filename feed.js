@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-05T22:28:27.216789+00:00",
+  "lastUpdated": "2026-11-06T01:17:53.946398+00:00",
   "items": [
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.",
+      "source": "The Verge",
+      "published": "2026-11-06T00:06:12+00:00",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "source": "Ars Technica",
+      "published": "2026-11-05T23:09:36+00:00",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T22:40:55+00:00",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+    },
     {
       "title": "Perplexity launches its own take on AI agents for work",
       "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-10-31T16:05:00+00:00",
       "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
-    },
-    {
-      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
-      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users.",
-      "source": "The Decoder",
-      "published": "2026-10-31T15:06:14+00:00",
-      "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/"
-    },
-    {
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 74 # Comments: 18",
-      "source": "Hacker News",
-      "published": "2026-10-31T13:25:10+00:00",
-      "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
-    },
-    {
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked Comments URL:...",
-      "source": "Hacker News",
-      "published": "2026-10-31T13:25:00+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
     }
   ]
 };
