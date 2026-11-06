@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-06T19:52:41.648021+00:00",
+  "lastUpdated": "2026-11-06T21:54:00.469586+00:00",
   "items": [
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "source": "Ars Technica",
+      "published": "2026-11-06T20:56:41+00:00",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+      "source": "The Verge",
+      "published": "2026-11-06T20:02:22+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
     {
       "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
       "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million.",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant.",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
       "source": "The Verge",
       "published": "2026-11-06T18:10:10+00:00",
       "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-02T13:57:53+00:00",
       "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-    },
-    {
-      "title": "The U.S. Census Bureau and \"Super Intelligence\"",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 125 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-11-02T13:55:45+00:00",
-      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-02T13:10:32+00:00",
-      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
     }
   ]
 };
