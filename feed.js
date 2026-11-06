@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-06T07:39:19.632115+00:00",
+  "lastUpdated": "2026-11-06T12:46:13.450528+00:00",
   "items": [
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.",
+      "source": "The Verge",
+      "published": "2026-11-06T11:55:19+00:00",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+    },
+    {
+      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-06T11:38:17+00:00",
+      "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/"
+    },
+    {
+      "title": "Anthropic adds bank account access to Claude so users can track their spending",
+      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances.",
+      "source": "The Decoder",
+      "published": "2026-11-06T11:33:13+00:00",
+      "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-06T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+    },
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-01T02:22:10+00:00",
       "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 76 # Comments: 16",
-      "source": "Hacker News",
-      "published": "2026-10-31T21:50:13+00:00",
-      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:41:00+00:00",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:17:03+00:00",
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-    },
-    {
-      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter.",
-      "source": "The Decoder",
-      "published": "2026-10-31T19:20:55+00:00",
-      "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/"
     }
   ]
 };
