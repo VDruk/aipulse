@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-06T12:46:13.450528+00:00",
+  "lastUpdated": "2026-11-06T16:22:12.259977+00:00",
   "items": [
+    {
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "source": "Wired",
+      "published": "2026-11-06T16:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+    },
+    {
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show.",
+      "source": "The Decoder",
+      "published": "2026-11-06T15:55:23+00:00",
+      "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T15:54:47+00:00",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 57 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-11-06T14:13:09+00:00",
+      "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T14:10:00+00:00",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant.",
+      "source": "The Verge",
+      "published": "2026-11-06T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders"
+    },
+    {
+      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research.",
+      "source": "The Decoder",
+      "published": "2026-11-06T13:40:07+00:00",
+      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/"
+    },
+    {
+      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model.",
+      "source": "The Decoder",
+      "published": "2026-11-06T13:25:09+00:00",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/"
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-06T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    },
     {
       "title": "Protesters break into Microsoft data center site in Amsterdam",
       "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.",
@@ -30,6 +100,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
     },
     {
+      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 59 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-11-06T07:59:19+00:00",
+      "link": "https://obelisk.club/research/app-store-2026"
+    },
+    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
       "source": "TechCrunch",
@@ -37,8 +114,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
     },
     {
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 157 # Comments: 154",
+      "source": "Hacker News",
+      "published": "2026-11-06T05:19:04+00:00",
+      "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
+    },
+    {
       "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 66 # Comments: 49",
+      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 76 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-11-06T02:49:56+00:00",
       "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
@@ -59,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 272 # Comments: 124",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 460 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-11-05T23:09:57+00:00",
       "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
@@ -143,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 157 # Comments: 188",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-11-05T18:00:01+00:00",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
@@ -178,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-cyber/ Comments URL: https://news.ycombinator.com/item?id=50381590 Points: 52 # Comments: 7",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-cyber/ Comments URL: https://news.ycombinator.com/item?id=50381590 Points: 60 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-11-05T17:07:57+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-cyber/"
@@ -360,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra covertly underperforms on safety research",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 317 # Comments: 175",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 336 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-11-05T07:44:30+00:00",
       "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
@@ -437,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everything is an AI scam now",
-      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 150 # Comments: 62",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 152 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-11-04T21:05:19+00:00",
       "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
@@ -605,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 104 # Comments: 170",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 107 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-11-04T15:28:31+00:00",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
@@ -661,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1271 # Comments: 743",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1284 # Comments: 746",
       "source": "Hacker News",
       "published": "2026-11-04T11:52:17+00:00",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
@@ -675,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 319 # Comments: 315",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 320 # Comments: 318",
       "source": "Hacker News",
       "published": "2026-11-04T10:23:34+00:00",
       "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-01T20:57:58+00:00",
       "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
-    },
-    {
-      "title": "It wasn't AI that flipped Proton's charge",
-      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 169 # Comments: 99",
-      "source": "Hacker News",
-      "published": "2026-11-01T18:53:55+00:00",
-      "link": "https://blog.raed.dev/posts/proton-loser-thinking/"
-    },
-    {
-      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 60 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-11-01T18:33:02+00:00",
-      "link": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial"
-    },
-    {
-      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro.",
-      "source": "The Decoder",
-      "published": "2026-11-01T14:56:44+00:00",
-      "link": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/"
-    },
-    {
-      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
-      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe...",
-      "source": "The Decoder",
-      "published": "2026-11-01T14:36:49+00:00",
-      "link": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/"
-    },
-    {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662...",
-      "source": "Hacker News",
-      "published": "2026-11-01T13:47:24+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
-    },
-    {
-      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
-      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too.",
-      "source": "The Decoder",
-      "published": "2026-11-01T12:33:01+00:00",
-      "link": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/"
-    },
-    {
-      "title": "OpenAI is steering ChatGPT users toward more paid usage",
-      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device.",
-      "source": "The Decoder",
-      "published": "2026-11-01T12:05:04+00:00",
-      "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/"
-    },
-    {
-      "title": "Google wants video AI to understand what people need as they work",
-      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed.",
-      "source": "The Decoder",
-      "published": "2026-11-01T11:25:21+00:00",
-      "link": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/"
-    },
-    {
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "source": "Wired",
-      "published": "2026-11-01T10:30:00+00:00",
-      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
-    },
-    {
-      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
-      "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex.",
-      "source": "The Decoder",
-      "published": "2026-11-01T09:51:06+00:00",
-      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 389",
-      "source": "Hacker News",
-      "published": "2026-11-01T06:06:19+00:00",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
-    },
-    {
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "source": "TechCrunch",
-      "published": "2026-11-01T02:22:10+00:00",
-      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
     }
   ]
 };
