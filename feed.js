@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-06T21:54:00.469586+00:00",
+  "lastUpdated": "2026-11-07T00:31:35.576957+00:00",
   "items": [
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
+      "source": "The Verge",
+      "published": "2026-11-06T23:46:18+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+      "source": "The Verge",
+      "published": "2026-11-06T23:00:44+00:00",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T22:53:46+00:00",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
       "source": "Ars Technica",
       "published": "2026-11-06T20:56:41+00:00",
       "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 173 # Comments: 133",
+      "source": "Hacker News",
+      "published": "2026-11-06T20:27:23+00:00",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
     },
     {
       "title": "All the latest updates on AI data centers",
@@ -51,11 +79,25 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
     },
     {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 78 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-11-06T18:04:06+00:00",
+      "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+    },
+    {
       "title": "How a Blue Wave midterm might reshape the AI industry",
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
       "source": "TechCrunch",
       "published": "2026-11-06T18:00:00+00:00",
       "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "title": "Perplexity launches AI agents for work",
+      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 59 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-11-06T17:59:41+00:00",
+      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -115,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 113 # Comments: 53",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 123 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-11-06T14:13:09+00:00",
       "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
@@ -192,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI for scientific discovery: How researchers use Claude",
-      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 78 # Comments: 31",
+      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 86 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-11-06T09:13:30+00:00",
       "link": "https://www.anthropic.com/research/how-researchers-use-claude"
     },
     {
       "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 59 # Comments: 51",
+      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-11-06T07:59:19+00:00",
       "link": "https://obelisk.club/research/app-store-2026"
@@ -213,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "I struggle to believe that AI R&D is ingenious",
-      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 161 # Comments: 166",
+      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 175 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-11-06T05:19:04+00:00",
       "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
     },
     {
       "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 76 # Comments: 71",
+      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 76 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-11-06T02:49:56+00:00",
       "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
@@ -241,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 483 # Comments: 218",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 494 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-11-05T23:09:57+00:00",
       "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
@@ -485,18 +527,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
     },
     {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
-    },
-    {
       "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
       "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
       "source": "Wired",
       "published": "2026-11-05T13:00:00+00:00",
       "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
     },
     {
       "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
@@ -787,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 108 # Comments: 173",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 108 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-11-04T15:28:31+00:00",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-02T16:23:21+00:00",
       "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
-    },
-    {
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy.",
-      "source": "The Decoder",
-      "published": "2026-11-02T15:42:27+00:00",
-      "link": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/"
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "source": "TechCrunch",
-      "published": "2026-11-02T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
-    },
-    {
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 71 # Comments: 57",
-      "source": "Hacker News",
-      "published": "2026-11-02T14:44:02+00:00",
-      "link": "https://deploymentsafety.openai.com/gpt-rosalind-6"
-    },
-    {
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 188 # Comments: 252",
-      "source": "Hacker News",
-      "published": "2026-11-02T14:40:05+00:00",
-      "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 369 # Comments: 155",
-      "source": "Hacker News",
-      "published": "2026-11-02T14:02:42+00:00",
-      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "source": "TechCrunch",
-      "published": "2026-11-02T13:57:53+00:00",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
     }
   ]
 };
