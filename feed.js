@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-07T11:33:45.587274+00:00",
+  "lastUpdated": "2026-11-07T15:14:08.621213+00:00",
   "items": [
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life.",
+      "source": "The Verge",
+      "published": "2026-11-07T15:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests.",
+      "source": "The Decoder",
+      "published": "2026-11-07T12:32:45+00:00",
+      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
+      "source": "The Verge",
+      "published": "2026-11-07T12:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
     {
       "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
       "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-02T18:56:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
-    },
-    {
-      "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 185 # Comments: 158",
-      "source": "Hacker News",
-      "published": "2026-11-02T18:54:44+00:00",
-      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
-    },
-    {
-      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-      "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X.",
-      "source": "The Decoder",
-      "published": "2026-11-02T18:15:39+00:00",
-      "link": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/"
-    },
-    {
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air...",
-      "source": "The Verge",
-      "published": "2026-11-02T18:01:30+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
     }
   ]
 };
