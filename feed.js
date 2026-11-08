@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-08T18:14:50.581543+00:00",
+  "lastUpdated": "2026-11-08T20:55:42.104320+00:00",
   "items": [
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
+      "source": "The Verge",
+      "published": "2026-11-08T20:22:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
+      "source": "The Verge",
+      "published": "2026-11-08T19:18:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+    },
     {
       "title": "Elvis and Eminem rights holders are suing Suno",
       "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-03T11:47:37+00:00",
       "link": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/"
-    },
-    {
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-      "source": "Wired",
-      "published": "2026-11-03T11:00:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/"
-    },
-    {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-03T10:43:41+00:00",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
     }
   ]
 };
