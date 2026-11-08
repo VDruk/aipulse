@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-08T00:05:42.898243+00:00",
+  "lastUpdated": "2026-11-08T06:55:31.816440+00:00",
   "items": [
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -10,14 +10,14 @@ const FEED_DATA = {
     },
     {
       "title": "The End of AI Frontiers",
-      "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 81 # Comments: 2",
+      "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 81 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-11-07T18:04:07+00:00",
       "link": "https://hunch.net/?p=13764006"
     },
     {
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 183 # Comments: 96",
+      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 438 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-11-07T18:02:17+00:00",
       "link": "https://hunch.net/?p=13764006"
@@ -115,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI sell-off compared to well-known stock market crashes",
-      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 80 # Comments: 68",
+      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 90 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-11-07T02:20:06+00:00",
       "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective"
@@ -157,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 355 # Comments: 332",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 364 # Comments: 346",
       "source": "Hacker News",
       "published": "2026-11-06T20:27:23+00:00",
       "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
@@ -206,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 105 # Comments: 19",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 107 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-11-06T18:04:06+00:00",
       "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
@@ -220,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity launches AI agents for work",
-      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 62 # Comments: 54",
+      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 64 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-11-06T17:59:41+00:00",
       "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
@@ -283,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 134 # Comments: 62",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 135 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-11-06T14:13:09+00:00",
       "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
@@ -367,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 54",
+      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-11-06T07:59:19+00:00",
       "link": "https://obelisk.club/research/app-store-2026"
@@ -381,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "I struggle to believe that AI R&D is ingenious",
-      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 211 # Comments: 209",
+      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 217 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-11-06T05:19:04+00:00",
       "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
     },
     {
       "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 73",
+      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-11-06T02:49:56+00:00",
       "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
@@ -409,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 510 # Comments: 228",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 515 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-11-05T23:09:57+00:00",
       "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
@@ -493,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-11-05T18:00:01+00:00",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
@@ -710,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra covertly underperforms on safety research",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 192",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-11-05T07:44:30+00:00",
       "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
