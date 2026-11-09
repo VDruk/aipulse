@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-08T20:55:42.104320+00:00",
+  "lastUpdated": "2026-11-09T00:23:06.491926+00:00",
   "items": [
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
+      "source": "The Verge",
+      "published": "2026-11-08T22:54:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "source": "TechCrunch",
+      "published": "2026-11-08T21:00:11+00:00",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
     {
       "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
       "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
@@ -9,11 +23,25 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
     },
     {
+      "title": "How I Fight AI Brain Fry",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 133 # Comments: 118",
+      "source": "Hacker News",
+      "published": "2026-11-08T19:37:42+00:00",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+    },
+    {
       "title": "Apple is racing to make Siri more agentic",
       "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
       "source": "The Verge",
       "published": "2026-11-08T19:18:19+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 89 # Comments: 106",
+      "source": "Hacker News",
+      "published": "2026-11-08T18:43:07+00:00",
+      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
     },
     {
       "title": "Elvis and Eminem rights holders are suing Suno",
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 482 # Comments: 296",
+      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 490 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-11-07T18:02:17+00:00",
       "link": "https://hunch.net/?p=13764006"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI sell-off compared to well-known stock market crashes",
-      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 97 # Comments: 81",
+      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 98 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-07T02:20:06+00:00",
       "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 372 # Comments: 349",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 373 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-11-06T20:27:23+00:00",
       "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 515 # Comments: 229",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 517 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-11-05T23:09:57+00:00",
       "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-03T14:14:12+00:00",
       "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
-    },
-    {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-03T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
-    },
-    {
-      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
-      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed.",
-      "source": "The Decoder",
-      "published": "2026-11-03T12:35:49+00:00",
-      "link": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/"
-    },
-    {
-      "title": "Nvidia pushes cloud customers to cut back on China business",
-      "summary": "Nvidia has told some cloud customers to take on less business from Chinese companies. The article Nvidia pushes cloud customers to cut back on China business appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-03T12:22:12+00:00",
-      "link": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/"
-    },
-    {
-      "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
-      "summary": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S.",
-      "source": "The Decoder",
-      "published": "2026-11-03T11:47:37+00:00",
-      "link": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/"
     }
   ]
 };
