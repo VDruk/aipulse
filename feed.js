@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-09T07:39:17.281259+00:00",
+  "lastUpdated": "2026-11-09T13:41:11.805508+00:00",
   "items": [
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-09T13:15:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-09T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+    },
+    {
+      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+      "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power and memory by placing two chips on a single package.",
+      "source": "The Decoder",
+      "published": "2026-11-09T12:59:02+00:00",
+      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/"
+    },
+    {
+      "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
+      "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation.",
+      "source": "The Decoder",
+      "published": "2026-11-09T11:38:43+00:00",
+      "link": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/"
+    },
+    {
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "source": "Wired",
+      "published": "2026-11-09T11:00:00+00:00",
+      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/"
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-09T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+    },
+    {
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "source": "Wired",
+      "published": "2026-11-09T08:00:00+00:00",
+      "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"
+    },
     {
       "title": "Apple capped engineers at a $200 daily AI budget",
       "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1 Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 72 # Comments: 76",
@@ -35,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-08T21:00:11+00:00",
       "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
+      "source": "The Verge",
+      "published": "2026-11-08T20:22:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
     },
     {
       "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-03T16:30:34+00:00",
       "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
-    },
-    {
-      "title": "Quili AI",
-      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 98 # Comments: 65",
-      "source": "Hacker News",
-      "published": "2026-11-03T15:49:02+00:00",
-      "link": "https://www.quili.ai/"
-    },
-    {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "source": "TechCrunch",
-      "published": "2026-11-03T15:38:27+00:00",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
-    },
-    {
-      "title": "AI is destroying my CS degree",
-      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 125 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-11-03T15:35:06+00:00",
-      "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
-    },
-    {
-      "title": "Google will turn off search for schools that reject AI",
-      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 666 # Comments: 460",
-      "source": "Hacker News",
-      "published": "2026-11-03T15:25:47+00:00",
-      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
-    },
-    {
-      "title": "Designing responsible AI for learning",
-      "summary": "Google Will Turn Off Search for Schools That Reject A.I. https://www.nytimes.com/2026/11/03/us/google-search-schools-..., https://archive.ph/RuwsB Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 69 # Comments: 46",
-      "source": "Hacker News",
-      "published": "2026-11-03T15:25:47+00:00",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
-    },
-    {
-      "title": "Apple is all in on AI — its own and everyone else’s",
-      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share.",
-      "source": "The Verge",
-      "published": "2026-11-03T15:24:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai"
-    },
-    {
-      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
-      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies.",
-      "source": "The Decoder",
-      "published": "2026-11-03T15:03:02+00:00",
-      "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/"
-    },
-    {
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "summary": "Article URL: https://github.com/Muvon/octomind Comments URL: https://news.ycombinator.com/item?id=50352898 Points: 56 # Comments: 39",
-      "source": "Hacker News",
-      "published": "2026-11-03T15:02:58+00:00",
-      "link": "https://github.com/Muvon/octomind"
     }
   ]
 };
