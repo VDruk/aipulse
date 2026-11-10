@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-10T03:04:44.021494+00:00",
+  "lastUpdated": "2026-11-10T08:00:16.546732+00:00",
   "items": [
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+    },
+    {
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "source": "Wired",
+      "published": "2026-11-10T07:00:00+00:00",
+      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
+    },
+    {
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal?",
+      "source": "Wired",
+      "published": "2026-11-10T05:01:00+00:00",
+      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 121 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-11-10T03:20:06+00:00",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    },
     {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -59,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 114 # Comments: 136",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 121 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-11-09T22:19:12+00:00",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 297 # Comments: 219",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 338 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-11-09T20:04:55+00:00",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 61 # Comments: 19",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 84 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-11-09T18:05:44+00:00",
       "link": "https://github.com/Dodaios/ste80-humanizer"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 77 # Comments: 12",
+      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 78 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-11-09T11:36:55+00:00",
       "link": "https://github.com/samir-sarwar/samir-vllm"
@@ -297,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple capped engineers at a $200 daily AI budget",
-      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 112 # Comments: 121",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-11-09T05:30:11+00:00",
       "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
@@ -311,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 69 # Comments: 33",
+      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 70 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-11-09T03:06:55+00:00",
       "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 543 # Comments: 939",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 550 # Comments: 944",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I'm fighting the AI brain fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 303 # Comments: 210",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 305 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-11-08T19:37:42+00:00",
       "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
@@ -374,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 98 # Comments: 126",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 98 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-11-08T18:43:07+00:00",
       "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-04T16:17:22+00:00",
       "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
-    },
-    {
-      "title": "Data centers lost the midterms",
-      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI...",
-      "source": "The Verge",
-      "published": "2026-11-04T16:05:39+00:00",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
-    },
-    {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning.",
-      "source": "The Verge",
-      "published": "2026-11-04T15:58:45+00:00",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
-    },
-    {
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights.",
-      "source": "The Decoder",
-      "published": "2026-11-04T15:44:44+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/"
-    },
-    {
-      "title": "AI data centers comprehensively defeated at US midterm elections",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments Comments URL: https://news.ycombinator.com/item?id=50367085...",
-      "source": "Hacker News",
-      "published": "2026-11-04T15:35:51+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
     }
   ]
 };
