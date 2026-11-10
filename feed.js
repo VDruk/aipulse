@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-10T13:18:10.363152+00:00",
+  "lastUpdated": "2026-11-10T16:38:13.691281+00:00",
   "items": [
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.",
+      "source": "The Verge",
+      "published": "2026-11-10T16:20:30+00:00",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.",
+      "source": "The Verge",
+      "published": "2026-11-10T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:54:08+00:00",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:29:30+00:00",
+      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+      "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent.",
+      "source": "The Decoder",
+      "published": "2026-11-10T14:07:47+00:00",
+      "link": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.",
+      "source": "The Verge",
+      "published": "2026-11-10T14:06:54+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:05:10+00:00",
+      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:01:39+00:00",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+    },
+    {
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+    },
+    {
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated.",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00+00:00",
+      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
+    },
+    {
+      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+      "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative.",
+      "source": "The Decoder",
+      "published": "2026-11-10T13:37:16+00:00",
+      "link": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/"
+    },
+    {
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time.",
+      "source": "The Verge",
+      "published": "2026-11-10T13:30:00+00:00",
+      "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+    },
     {
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
@@ -38,21 +143,21 @@ const FEED_DATA = {
     },
     {
       "title": "Meet the Sad Wives of AI",
-      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 61 # Comments: 48",
+      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 69 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-11-10T10:40:51+00:00",
       "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 109 # Comments: 137",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 129 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
     },
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 82 # Comments: 23",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 134 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-11-10T07:19:38+00:00",
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
@@ -80,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 175 # Comments: 153",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 185 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-11-10T03:20:06+00:00",
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
@@ -143,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 133 # Comments: 168",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 142 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-11-09T22:19:12+00:00",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
@@ -164,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 355 # Comments: 255",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 360 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-11-09T20:04:55+00:00",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2"
@@ -227,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 97 # Comments: 33",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 101 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-11-09T18:05:44+00:00",
       "link": "https://github.com/Dodaios/ste80-humanizer"
@@ -395,14 +500,14 @@ const FEED_DATA = {
     },
     {
       "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 71 # Comments: 38",
+      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 72 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-11-09T03:06:55+00:00",
       "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 557 # Comments: 948",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 559 # Comments: 953",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -437,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I'm fighting the AI brain fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 307 # Comments: 212",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 308 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-11-08T19:37:42+00:00",
       "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
@@ -458,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 98 # Comments: 127",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 98 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-11-08T18:43:07+00:00",
       "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-04T21:56:01+00:00",
       "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
-    },
-    {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics.",
-      "source": "The Verge",
-      "published": "2026-11-04T21:45:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "source": "TechCrunch",
-      "published": "2026-11-04T21:25:44+00:00",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "source": "TechCrunch",
-      "published": "2026-11-04T21:10:56+00:00",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
-    },
-    {
-      "title": "Everything is an AI scam now",
-      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 152 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-11-04T21:05:19+00:00",
-      "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-      "source": "Wired",
-      "published": "2026-11-04T20:41:29+00:00",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
-    },
-    {
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "summary": "AT&T's smart home security system now integrates with Gemini for Home.",
-      "source": "The Verge",
-      "published": "2026-11-04T20:23:24+00:00",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
-    },
-    {
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "source": "Wired",
-      "published": "2026-11-04T20:06:21+00:00",
-      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 170 # Comments: 64",
-      "source": "Hacker News",
-      "published": "2026-11-04T19:55:14+00:00",
-      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
-    },
-    {
-      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames.",
-      "source": "The Decoder",
-      "published": "2026-11-04T19:44:20+00:00",
-      "link": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value?",
-      "source": "TechCrunch",
-      "published": "2026-11-04T19:30:04+00:00",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
-    },
-    {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "source": "TechCrunch",
-      "published": "2026-11-04T19:29:52+00:00",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
-    },
-    {
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "source": "Wired",
-      "published": "2026-11-04T19:16:25+00:00",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/"
-    },
-    {
-      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
-      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter.",
-      "source": "The Decoder",
-      "published": "2026-11-04T19:03:55+00:00",
-      "link": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-04T18:50:55+00:00",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
-    },
-    {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value?",
-      "source": "TechCrunch",
-      "published": "2026-11-04T18:44:57+00:00",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
     }
   ]
 };
