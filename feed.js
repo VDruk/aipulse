@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-10T00:30:49.693284+00:00",
+  "lastUpdated": "2026-11-10T03:04:44.021494+00:00",
   "items": [
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T01:27:12+00:00",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    },
     {
       "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
       "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI.",
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 75 # Comments: 70",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 114 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-11-09T22:19:12+00:00",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
@@ -72,8 +79,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
     },
     {
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 262 # Comments: 184",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 297 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-11-09T20:04:55+00:00",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2"
@@ -133,6 +140,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-09T18:07:23+00:00",
       "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 61 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-11-09T18:05:44+00:00",
+      "link": "https://github.com/Dodaios/ste80-humanizer"
     },
     {
       "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
@@ -255,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 75 # Comments: 12",
+      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 77 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-11-09T11:36:55+00:00",
       "link": "https://github.com/samir-sarwar/samir-vllm"
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple capped engineers at a $200 daily AI budget",
-      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 110 # Comments: 120",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 112 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-11-09T05:30:11+00:00",
       "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
@@ -304,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 541 # Comments: 933",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 543 # Comments: 939",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -339,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I'm fighting the AI brain fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 302 # Comments: 207",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 303 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-11-08T19:37:42+00:00",
       "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
@@ -549,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI sell-off compared to well-known stock market crashes",
-      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 100 # Comments: 84",
+      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 101 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-11-07T02:20:06+00:00",
       "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-04T15:35:51+00:00",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
-    },
-    {
-      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 110 # Comments: 178",
-      "source": "Hacker News",
-      "published": "2026-11-04T15:28:31+00:00",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
-    },
-    {
-      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
-      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations.",
-      "source": "The Decoder",
-      "published": "2026-11-04T15:23:49+00:00",
-      "link": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/"
     }
   ]
 };
