@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-11T07:29:18.965803+00:00",
+  "lastUpdated": "2026-11-11T12:29:16.856590+00:00",
   "items": [
+    {
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue.",
+      "source": "The Decoder",
+      "published": "2026-11-11T12:12:47+00:00",
+      "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
+    },
+    {
+      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework.",
+      "source": "The Decoder",
+      "published": "2026-11-11T11:54:46+00:00",
+      "link": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/"
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "source": "Wired",
+      "published": "2026-11-11T11:00:00+00:00",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+    },
+    {
+      "title": "OSS projects banning AI-generated contributions",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 53 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-11-11T08:51:45+00:00",
+      "link": "https://osssaysno.com"
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T07:30:51+00:00",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+    },
+    {
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 55 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-11-11T00:15:33+00:00",
+      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 308 # Comments: 285",
+      "source": "Hacker News",
+      "published": "2026-11-10T21:25:03+00:00",
+      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
+    },
     {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
@@ -261,6 +310,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
     },
     {
+      "title": "AI Users have workdays up to 90 min longer than non-users",
+      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 57 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-11-10T12:57:24+00:00",
+      "link": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"
+    },
+    {
       "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
       "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion.",
       "source": "The Decoder",
@@ -283,21 +339,21 @@ const FEED_DATA = {
     },
     {
       "title": "Meet the Sad Wives of AI",
-      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 74 # Comments: 66",
+      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 78 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-11-10T10:40:51+00:00",
       "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 288 # Comments: 355",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 591 # Comments: 551",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
     },
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 157 # Comments: 59",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 162 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-11-10T07:19:38+00:00",
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
@@ -325,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 191 # Comments: 184",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-11-10T03:20:06+00:00",
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
@@ -388,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 145 # Comments: 189",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-11-09T22:19:12+00:00",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
@@ -409,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 369 # Comments: 265",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 375 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-11-09T20:04:55+00:00",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2"
@@ -472,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 105 # Comments: 39",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 108 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-11-09T18:05:44+00:00",
       "link": "https://github.com/Dodaios/ste80-humanizer"
@@ -633,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple capped engineers at a $200 daily AI budget",
-      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 124",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-11-09T05:30:11+00:00",
       "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
@@ -647,14 +703,14 @@ const FEED_DATA = {
     },
     {
       "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 73 # Comments: 38",
+      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 74 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-11-09T03:06:55+00:00",
       "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 563 # Comments: 957",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 569 # Comments: 962",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -689,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I'm fighting the AI brain fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 309 # Comments: 214",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 313 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-11-08T19:37:42+00:00",
       "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-05T16:16:45+00:00",
       "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
-    },
-    {
-      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
-      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro.",
-      "source": "The Decoder",
-      "published": "2026-11-05T16:06:31+00:00",
-      "link": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/"
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:19:05+00:00",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-    },
-    {
-      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May.",
-      "source": "The Decoder",
-      "published": "2026-11-05T15:01:09+00:00",
-      "link": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/"
-    },
-    {
-      "title": "The hidden supply chain costs of the AI boom",
-      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains.",
-      "source": "The Verge",
-      "published": "2026-11-05T15:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book"
-    },
-    {
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly.",
-      "source": "The Verge",
-      "published": "2026-11-05T15:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T14:42:00+00:00",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-    },
-    {
-      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
-      "summary": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle.",
-      "source": "The Decoder",
-      "published": "2026-11-05T14:37:46+00:00",
-      "link": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/"
-    },
-    {
-      "title": "Anthropic reverses course and pays for news content for the first time",
-      "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-05T14:09:05+00:00",
-      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/"
     }
   ]
 };
