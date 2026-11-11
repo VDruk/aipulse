@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-11T20:01:52.603238+00:00",
+  "lastUpdated": "2026-11-11T23:15:20.977857+00:00",
   "items": [
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
+      "source": "The Verge",
+      "published": "2026-11-11T22:44:36+00:00",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
+      "source": "The Verge",
+      "published": "2026-11-11T21:54:21+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 206 # Comments: 209",
+      "source": "Hacker News",
+      "published": "2026-11-11T21:24:35+00:00",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    },
+    {
+      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+      "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video.",
+      "source": "The Decoder",
+      "published": "2026-11-11T20:12:46+00:00",
+      "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/"
+    },
     {
       "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
       "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
@@ -37,6 +65,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
     },
     {
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 127 # Comments: 136",
+      "source": "Hacker News",
+      "published": "2026-11-11T19:06:43+00:00",
+      "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
+    },
+    {
       "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
       "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review.",
       "source": "The Decoder",
@@ -56,6 +91,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-11T17:00:00+00:00",
       "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/"
+    },
+    {
+      "title": "AI, activity, and outcomes in software engineering",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 102 # Comments: 98",
+      "source": "Hacker News",
+      "published": "2026-11-11T16:33:28+00:00",
+      "link": "https://cabird.com/talks/shipping-faster/"
     },
     {
       "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
@@ -170,6 +212,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
     },
     {
+      "title": "My AI agents found an unmapped Maya site",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 899 # Comments: 329",
+      "source": "Hacker News",
+      "published": "2026-11-11T12:05:22+00:00",
+      "link": "https://pietromiotti.com/latest/maya-site"
+    },
+    {
       "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
       "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework.",
       "source": "The Decoder",
@@ -185,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 53 # Comments: 85",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 61 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-11-11T08:51:45+00:00",
       "link": "https://osssaysno.com"
@@ -199,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 55 # Comments: 63",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 57 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-11-11T00:15:33+00:00",
       "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
     },
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 308 # Comments: 285",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 512 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-11-10T21:25:03+00:00",
       "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
@@ -472,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Users have workdays up to 90 min longer than non-users",
-      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 57 # Comments: 23",
+      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 64 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-11-10T12:57:24+00:00",
       "link": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"
@@ -500,21 +549,21 @@ const FEED_DATA = {
     },
     {
       "title": "Meet the Sad Wives of AI",
-      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 78 # Comments: 69",
+      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 78 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-11-10T10:40:51+00:00",
       "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 591 # Comments: 551",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 627 # Comments: 601",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
     },
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 162 # Comments: 63",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-11-10T07:19:38+00:00",
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
@@ -542,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 192",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-11-10T03:20:06+00:00",
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
@@ -605,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 196",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-11-09T22:19:12+00:00",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
@@ -626,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 375 # Comments: 273",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 379 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-11-09T20:04:55+00:00",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2"
@@ -689,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 108 # Comments: 41",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 111 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-11-09T18:05:44+00:00",
       "link": "https://github.com/Dodaios/ste80-humanizer"
@@ -871,7 +920,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 569 # Comments: 962",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 570 # Comments: 970",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-06T11:33:13+00:00",
       "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/"
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-06T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
-    },
-    {
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 103 # Comments: 39",
-      "source": "Hacker News",
-      "published": "2026-11-06T09:13:30+00:00",
-      "link": "https://www.anthropic.com/research/how-researchers-use-claude"
-    },
-    {
-      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 61 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-11-06T07:59:19+00:00",
-      "link": "https://obelisk.club/research/app-store-2026"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T06:28:32+00:00",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-    },
-    {
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 221 # Comments: 224",
-      "source": "Hacker News",
-      "published": "2026-11-06T05:19:04+00:00",
-      "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
-    },
-    {
-      "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-11-06T02:49:56+00:00",
-      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
-    },
-    {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public...",
-      "source": "The Verge",
-      "published": "2026-11-06T00:37:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
     }
   ]
 };
