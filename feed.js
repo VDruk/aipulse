@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-11T12:29:16.856590+00:00",
+  "lastUpdated": "2026-11-11T16:41:25.165596+00:00",
   "items": [
+    {
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:16:07+00:00",
+      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:14:44+00:00",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    },
+    {
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "source": "Wired",
+      "published": "2026-11-11T16:13:03+00:00",
+      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/"
+    },
+    {
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.",
+      "source": "The Verge",
+      "published": "2026-11-11T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+    },
+    {
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "source": "Wired",
+      "published": "2026-11-11T15:30:00+00:00",
+      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/"
+    },
+    {
+      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+      "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control.",
+      "source": "The Decoder",
+      "published": "2026-11-11T15:12:53+00:00",
+      "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+    },
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way...",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+    },
+    {
+      "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+      "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention.",
+      "source": "The Decoder",
+      "published": "2026-11-11T14:25:20+00:00",
+      "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+    },
+    {
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by...",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
+    },
+    {
+      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic.",
+      "source": "The Decoder",
+      "published": "2026-11-11T13:51:11+00:00",
+      "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/"
+    },
+    {
+      "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+      "summary": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language.",
+      "source": "The Decoder",
+      "published": "2026-11-11T13:50:30+00:00",
+      "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/"
+    },
+    {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-11T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+    },
+    {
+      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting.",
+      "source": "The Decoder",
+      "published": "2026-11-11T12:53:07+00:00",
+      "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/"
+    },
     {
       "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
       "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue.",
@@ -247,6 +352,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
     },
     {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00+00:00",
+      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
+    },
+    {
       "title": "Adobe is going all in on agentic AI",
       "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.",
       "source": "The Verge",
@@ -259,13 +371,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-10T14:00:00+00:00",
       "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
-    },
-    {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00+00:00",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
     },
     {
       "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
@@ -359,18 +464,18 @@ const FEED_DATA = {
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
     },
     {
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T07:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
-    },
-    {
       "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
       "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
       "source": "Wired",
       "published": "2026-11-10T07:00:00+00:00",
       "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
     },
     {
       "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-05T19:48:28+00:00",
       "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:12:39+00:00",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:06:12+00:00",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-    },
-    {
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor.",
-      "source": "The Decoder",
-      "published": "2026-11-05T19:05:31+00:00",
-      "link": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/"
-    },
-    {
-      "title": "Muse has a voice mode now",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
-      "source": "The Verge",
-      "published": "2026-11-05T19:03:04+00:00",
-      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:02:27+00:00",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
-    },
-    {
-      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 192",
-      "source": "Hacker News",
-      "published": "2026-11-05T18:00:01+00:00",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
-    },
-    {
-      "title": "Claude AI can plug directly into your bank account",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
-      "source": "The Verge",
-      "published": "2026-11-05T18:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
-    },
-    {
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want.",
-      "source": "The Decoder",
-      "published": "2026-11-05T17:56:41+00:00",
-      "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
-    },
-    {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor...",
-      "source": "The Verge",
-      "published": "2026-11-05T17:51:52+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-cyber/ Comments URL: https://news.ycombinator.com/item?id=50381590 Points: 61 # Comments: 7",
-      "source": "Hacker News",
-      "published": "2026-11-05T17:07:57+00:00",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber/"
-    },
-    {
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie.",
-      "source": "The Verge",
-      "published": "2026-11-05T17:00:00+00:00",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
-    },
-    {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process.",
-      "source": "The Verge",
-      "published": "2026-11-05T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
-    },
-    {
-      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
-      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent.",
-      "source": "The Decoder",
-      "published": "2026-11-05T16:46:24+00:00",
-      "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "source": "TechCrunch",
-      "published": "2026-11-05T16:16:45+00:00",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
     }
   ]
 };
