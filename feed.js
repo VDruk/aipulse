@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-12T02:03:30.566766+00:00",
+  "lastUpdated": "2026-11-12T07:57:15.902318+00:00",
   "items": [
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T03:13:10+00:00",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 376 # Comments: 359",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 524 # Comments: 515",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 138 # Comments: 147",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 154 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-11-11T19:06:43+00:00",
       "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 105 # Comments: 101",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 115 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-11-11T16:33:28+00:00",
       "link": "https://cabird.com/talks/shipping-faster/"
@@ -234,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 929 # Comments: 338",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 975 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-11-11T12:05:22+00:00",
       "link": "https://pietromiotti.com/latest/maya-site"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 61 # Comments: 106",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 63 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-11-11T08:51:45+00:00",
       "link": "https://osssaysno.com"
@@ -269,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 57 # Comments: 78",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 57 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-11T00:15:33+00:00",
       "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
     },
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 517 # Comments: 526",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 529 # Comments: 535",
       "source": "Hacker News",
       "published": "2026-11-10T21:25:03+00:00",
       "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
@@ -577,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 631 # Comments: 607",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 633 # Comments: 612",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
@@ -612,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 195 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-11-10T03:20:06+00:00",
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
@@ -885,7 +892,7 @@ const FEED_DATA = {
     },
     {
       "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 79 # Comments: 12",
+      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 80 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-11-09T11:36:55+00:00",
       "link": "https://github.com/samir-sarwar/samir-vllm"
@@ -920,7 +927,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple capped engineers at a $200 daily AI budget",
-      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 126",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 114 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-11-09T05:30:11+00:00",
       "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
@@ -934,14 +941,14 @@ const FEED_DATA = {
     },
     {
       "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 74 # Comments: 39",
+      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 74 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-11-09T03:06:55+00:00",
       "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 570 # Comments: 970",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 572 # Comments: 971",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-06T13:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
-    },
-    {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
     }
   ]
 };
