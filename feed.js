@@ -1,6 +1,146 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-12T13:34:45.355446+00:00",
+  "lastUpdated": "2026-11-12T17:10:04.472969+00:00",
   "items": [
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:00:52+00:00",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+    },
+    {
+      "title": "More game developers are using generative AI than they did last year",
+      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. 40 percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025.",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00+00:00",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
+    },
+    {
+      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning.",
+      "source": "The Decoder",
+      "published": "2026-11-12T16:58:11+00:00",
+      "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/"
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:36:37+00:00",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:32:33+00:00",
+      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+    },
+    {
+      "title": "Jensen Huang is out. What did China want from him?",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode.",
+      "source": "The Verge",
+      "published": "2026-11-12T16:30:00+00:00",
+      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump"
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:12:44+00:00",
+      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    },
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy.",
+      "source": "The Verge",
+      "published": "2026-11-12T15:48:12+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T15:37:29+00:00",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "summary": "This is the investment firm's largest fund to date.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T15:18:14+00:00",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T15:02:28+00:00",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+      "source": "The Verge",
+      "published": "2026-11-12T15:01:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T14:30:01+00:00",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "source": "Wired",
+      "published": "2026-11-12T14:14:33+00:00",
+      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
+      "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-12T14:11:40+00:00",
+      "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/"
+    },
+    {
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+      "source": "Wired",
+      "published": "2026-11-12T13:58:06+00:00",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang.",
+      "source": "The Verge",
+      "published": "2026-11-12T13:53:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns"
+    },
+    {
+      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+      "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk.",
+      "source": "The Decoder",
+      "published": "2026-11-12T13:48:19+00:00",
+      "link": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/"
+    },
     {
       "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
       "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
@@ -51,13 +191,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:50:00+00:00",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
       "source": "TechCrunch",
@@ -87,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 524 # Comments: 515",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 637 # Comments: 663",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -136,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 154 # Comments: 162",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 164 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-11-11T19:06:43+00:00",
       "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
@@ -164,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 115 # Comments: 103",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 124 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-11-11T16:33:28+00:00",
       "link": "https://cabird.com/talks/shipping-faster/"
@@ -283,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 975 # Comments: 355",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1022 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-11-11T12:05:22+00:00",
       "link": "https://pietromiotti.com/latest/maya-site"
@@ -304,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 63 # Comments: 107",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 64 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-11-11T08:51:45+00:00",
       "link": "https://osssaysno.com"
@@ -318,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 57 # Comments: 82",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 58 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-11-11T00:15:33+00:00",
       "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
     },
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 529 # Comments: 535",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 547 # Comments: 549",
       "source": "Hacker News",
       "published": "2026-11-10T21:25:03+00:00",
       "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
@@ -626,14 +759,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 633 # Comments: 612",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 637 # Comments: 618",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
     },
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 64",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-11-10T07:19:38+00:00",
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
@@ -661,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 195 # Comments: 191",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 196 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-11-10T03:20:06+00:00",
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
@@ -724,7 +857,7 @@ const FEED_DATA = {
     },
     {
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 200",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 160 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-11-09T22:19:12+00:00",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
@@ -990,7 +1123,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 572 # Comments: 971",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 573 # Comments: 972",
       "source": "Hacker News",
       "published": "2026-11-08T23:44:36+00:00",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
@@ -1267,139 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-06T22:53:46+00:00",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-    },
-    {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "source": "Ars Technica",
-      "published": "2026-11-06T20:56:41+00:00",
-      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
-    },
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 377 # Comments: 360",
-      "source": "Hacker News",
-      "published": "2026-11-06T20:27:23+00:00",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
-      "source": "The Verge",
-      "published": "2026-11-06T20:02:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
-    },
-    {
-      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-      "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million.",
-      "source": "The Decoder",
-      "published": "2026-11-06T19:47:04+00:00",
-      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:44:38+00:00",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:44:20+00:00",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-    },
-    {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "source": "Wired",
-      "published": "2026-11-06T18:43:43+00:00",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
-    },
-    {
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
-      "source": "The Verge",
-      "published": "2026-11-06T18:10:10+00:00",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-    },
-    {
-      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 109 # Comments: 20",
-      "source": "Hacker News",
-      "published": "2026-11-06T18:04:06+00:00",
-      "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
-    },
-    {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
-    },
-    {
-      "title": "Perplexity launches AI agents for work",
-      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 64 # Comments: 54",
-      "source": "Hacker News",
-      "published": "2026-11-06T17:59:41+00:00",
-      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T17:23:52+00:00",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
-    },
-    {
-      "title": "AI is the new dating dealbreaker",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.",
-      "source": "The Verge",
-      "published": "2026-11-06T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
-    },
-    {
-      "title": "Perplexity now has its own always-on AI agent",
-      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic.",
-      "source": "The Decoder",
-      "published": "2026-11-06T16:47:28+00:00",
-      "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/"
-    },
-    {
-      "title": "Big Tech lost big in the 2026 election",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them.",
-      "source": "The Verge",
-      "published": "2026-11-06T16:38:02+00:00",
-      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
-    },
-    {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
-      "source": "The Verge",
-      "published": "2026-11-06T16:34:39+00:00",
-      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai"
-    },
-    {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "source": "Wired",
-      "published": "2026-11-06T16:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
-    },
-    {
-      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
-      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show.",
-      "source": "The Decoder",
-      "published": "2026-11-06T15:55:23+00:00",
-      "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T15:54:47+00:00",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
     }
   ]
 };
