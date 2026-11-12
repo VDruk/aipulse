@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-12T07:57:15.902318+00:00",
+  "lastUpdated": "2026-11-12T13:34:45.355446+00:00",
   "items": [
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "source": "TechCrunch",
+      "published": "2026-11-12T13:26:25+00:00",
+      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+    },
+    {
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-12T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+    },
+    {
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor.",
+      "source": "The Decoder",
+      "published": "2026-11-12T12:09:43+00:00",
+      "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/"
+    },
+    {
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "source": "Wired",
+      "published": "2026-11-12T10:30:00+00:00",
+      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/"
+    },
+    {
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "source": "Wired",
+      "published": "2026-11-12T10:15:00+00:00",
+      "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/"
+    },
+    {
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations.",
+      "source": "The Decoder",
+      "published": "2026-11-12T10:09:56+00:00",
+      "link": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/"
+    },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
@@ -31,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
       "source": "The Verge",
       "published": "2026-11-11T22:44:36+00:00",
       "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-06T15:54:47+00:00",
       "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-    },
-    {
-      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 137 # Comments: 61",
-      "source": "Hacker News",
-      "published": "2026-11-06T14:13:09+00:00",
-      "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
-    },
-    {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "source": "TechCrunch",
-      "published": "2026-11-06T14:10:00+00:00",
-      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-    },
-    {
-      "title": "Amazon will let you text Alexa your shopping list",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant.",
-      "source": "The Verge",
-      "published": "2026-11-06T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders"
-    },
-    {
-      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research.",
-      "source": "The Decoder",
-      "published": "2026-11-06T13:40:07+00:00",
-      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/"
-    },
-    {
-      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model.",
-      "source": "The Decoder",
-      "published": "2026-11-06T13:25:09+00:00",
-      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/"
-    },
-    {
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-06T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
     }
   ]
 };
