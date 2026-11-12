@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-11T23:15:20.977857+00:00",
+  "lastUpdated": "2026-11-12T02:03:30.566766+00:00",
   "items": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:50:00+00:00",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:28:45+00:00",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:17:05+00:00",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    },
     {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
@@ -17,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 206 # Comments: 209",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 376 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "source": "TechCrunch",
       "published": "2026-11-11T19:54:00+00:00",
       "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 127 # Comments: 136",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 138 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-11-11T19:06:43+00:00",
       "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
@@ -94,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 102 # Comments: 98",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 105 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-11-11T16:33:28+00:00",
       "link": "https://cabird.com/talks/shipping-faster/"
@@ -212,8 +233,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
     },
     {
-      "title": "My AI agents found an unmapped Maya site",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 899 # Comments: 329",
+      "title": "My AI agents found an unmapped Maya site?",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 929 # Comments: 338",
       "source": "Hacker News",
       "published": "2026-11-11T12:05:22+00:00",
       "link": "https://pietromiotti.com/latest/maya-site"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 61 # Comments: 105",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 61 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-11-11T08:51:45+00:00",
       "link": "https://osssaysno.com"
@@ -248,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 57 # Comments: 77",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 57 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-11-11T00:15:33+00:00",
       "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
     },
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 512 # Comments: 520",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 517 # Comments: 526",
       "source": "Hacker News",
       "published": "2026-11-10T21:25:03+00:00",
       "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
@@ -359,18 +380,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
     },
     {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T17:30:00+00:00",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    },
-    {
       "title": "Anthropic has its own AI-powered office suite now",
       "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies.",
       "source": "The Verge",
       "published": "2026-11-10T17:30:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "source": "TechCrunch",
+      "published": "2026-11-10T17:30:00+00:00",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
     },
     {
       "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
@@ -556,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 627 # Comments: 601",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 631 # Comments: 607",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
@@ -675,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 379 # Comments: 277",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 379 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-11-09T20:04:55+00:00",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-06T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-    },
-    {
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.",
-      "source": "The Verge",
-      "published": "2026-11-06T11:55:19+00:00",
-      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
-    },
-    {
-      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-06T11:38:17+00:00",
-      "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/"
-    },
-    {
-      "title": "Anthropic adds bank account access to Claude so users can track their spending",
-      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances.",
-      "source": "The Decoder",
-      "published": "2026-11-06T11:33:13+00:00",
-      "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/"
     }
   ]
 };
