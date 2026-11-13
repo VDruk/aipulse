@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-13T07:38:11.514053+00:00",
+  "lastUpdated": "2026-11-13T12:54:08.690601+00:00",
   "items": [
     {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T12:52:19+00:00",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia.",
+      "source": "The Verge",
+      "published": "2026-11-13T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+    },
+    {
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "source": "Wired",
+      "published": "2026-11-13T11:45:00+00:00",
+      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 281 # Comments: 223",
+      "source": "Hacker News",
+      "published": "2026-11-13T10:18:13+00:00",
+      "link": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "summary": "Scientists have been working on ways to decode brain activity for decades.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-13T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+    },
+    {
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-13T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
+    },
+    {
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 67 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-11-13T09:08:18+00:00",
+      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/"
+    },
+    {
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 81 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-11-13T00:38:41+00:00",
+      "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
+    },
+    {
       "title": "Why You Should Expect an AI Crash",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 81 # Comments: 66",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 96 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-11-12T23:08:31+00:00",
       "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 281 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-11-12T23:06:17+00:00",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
     },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -38,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 160 # Comments: 43",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 311 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-11-12T21:56:11+00:00",
       "link": "https://unemploymentlabs.com/checkpoint-forensics"
@@ -66,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 93 # Comments: 80",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 182 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-11-12T21:09:49+00:00",
       "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
@@ -388,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 661 # Comments: 688",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 674 # Comments: 697",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -437,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 194",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-11-11T19:06:43+00:00",
       "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
@@ -465,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 125 # Comments: 112",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 128 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-11-11T16:33:28+00:00",
       "link": "https://cabird.com/talks/shipping-faster/"
@@ -584,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1027 # Comments: 390",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1032 # Comments: 391",
       "source": "Hacker News",
       "published": "2026-11-11T12:05:22+00:00",
       "link": "https://pietromiotti.com/latest/maya-site"
@@ -605,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 65 # Comments: 112",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 65 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-11-11T08:51:45+00:00",
       "link": "https://osssaysno.com"
@@ -626,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 550 # Comments: 551",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 557 # Comments: 554",
       "source": "Hacker News",
       "published": "2026-11-10T21:25:03+00:00",
       "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
@@ -892,7 +955,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Users have workdays up to 90 min longer than non-users",
-      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 65 # Comments: 26",
+      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 66 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-11-10T12:57:24+00:00",
       "link": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"
@@ -920,21 +983,21 @@ const FEED_DATA = {
     },
     {
       "title": "Meet the Sad Wives of AI",
-      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 78 # Comments: 71",
+      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 79 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-11-10T10:40:51+00:00",
       "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
     },
     {
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 639 # Comments: 624",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 640 # Comments: 625",
       "source": "Hacker News",
       "published": "2026-11-10T10:25:58+00:00",
       "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
     },
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 165 # Comments: 65",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 165 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-11-10T07:19:38+00:00",
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
@@ -962,7 +1025,7 @@ const FEED_DATA = {
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 196 # Comments: 192",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 196 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-11-10T03:20:06+00:00",
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-08T19:37:42+00:00",
       "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
-      "source": "The Verge",
-      "published": "2026-11-08T19:18:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 98 # Comments: 128",
-      "source": "Hacker News",
-      "published": "2026-11-08T18:43:07+00:00",
-      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
-    },
-    {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
-      "source": "The Verge",
-      "published": "2026-11-08T17:23:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
-    },
-    {
-      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
-      "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says.",
-      "source": "The Decoder",
-      "published": "2026-11-08T14:23:00+00:00",
-      "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/"
-    },
-    {
-      "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
-      "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware.",
-      "source": "The Decoder",
-      "published": "2026-11-08T13:49:21+00:00",
-      "link": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/"
-    },
-    {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "source": "Wired",
-      "published": "2026-11-08T12:00:00+00:00",
-      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
-    },
-    {
-      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-      "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed.",
-      "source": "The Decoder",
-      "published": "2026-11-08T11:44:41+00:00",
-      "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/"
-    },
-    {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00+00:00",
-      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
-    },
-    {
-      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks.",
-      "source": "The Decoder",
-      "published": "2026-11-08T09:50:59+00:00",
-      "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/"
     }
   ]
 };
