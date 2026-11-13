@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-13T16:48:39.200606+00:00",
+  "lastUpdated": "2026-11-13T20:22:13.169061+00:00",
   "items": [
+    {
+      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally.",
+      "source": "The Decoder",
+      "published": "2026-11-13T20:07:34+00:00",
+      "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T19:37:57+00:00",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "source": "Wired",
+      "published": "2026-11-13T19:08:57+00:00",
+      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
+    },
+    {
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens.",
+      "source": "The Decoder",
+      "published": "2026-11-13T18:55:21+00:00",
+      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T18:40:30+00:00",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S.",
+      "source": "The Decoder",
+      "published": "2026-11-13T18:01:53+00:00",
+      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/"
+    },
     {
       "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
       "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-09T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
-    },
-    {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-09T13:15:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-09T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
-    },
-    {
-      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
-      "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power and memory by placing two chips on a single package.",
-      "source": "The Decoder",
-      "published": "2026-11-09T12:59:02+00:00",
-      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/"
-    },
-    {
-      "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
-      "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation.",
-      "source": "The Decoder",
-      "published": "2026-11-09T11:38:43+00:00",
-      "link": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/"
-    },
-    {
-      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 80 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-11-09T11:36:55+00:00",
-      "link": "https://github.com/samir-sarwar/samir-vllm"
-    },
-    {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "source": "Wired",
-      "published": "2026-11-09T11:00:00+00:00",
-      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/"
     }
   ]
 };
