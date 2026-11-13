@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-13T20:22:13.169061+00:00",
+  "lastUpdated": "2026-11-13T22:19:47.848625+00:00",
   "items": [
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
+      "source": "The Verge",
+      "published": "2026-11-13T20:45:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
     {
       "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
       "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally.",
@@ -30,7 +37,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "source": "TechCrunch",
       "published": "2026-11-13T18:40:30+00:00",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-09T14:30:00+00:00",
       "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech"
-    },
-    {
-      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-      "source": "TechCrunch",
-      "published": "2026-11-09T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
     }
   ]
 };
