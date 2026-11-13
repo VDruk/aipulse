@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-13T12:54:08.690601+00:00",
+  "lastUpdated": "2026-11-13T16:48:39.200606+00:00",
   "items": [
+    {
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval.",
+      "source": "The Decoder",
+      "published": "2026-11-13T16:37:01+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/"
+    },
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "source": "Ars Technica",
+      "published": "2026-11-13T16:26:32+00:00",
+      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T16:00:12+00:00",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "source": "Wired",
+      "published": "2026-11-13T16:00:00+00:00",
+      "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T15:58:00+00:00",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+      "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles.",
+      "source": "The Decoder",
+      "published": "2026-11-13T15:53:49+00:00",
+      "link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/"
+    },
+    {
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls.",
+      "source": "The Decoder",
+      "published": "2026-11-13T15:21:04+00:00",
+      "link": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/"
+    },
+    {
+      "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+      "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-13T15:15:08+00:00",
+      "link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/"
+    },
+    {
+      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+      "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang.",
+      "source": "The Decoder",
+      "published": "2026-11-13T15:12:44+00:00",
+      "link": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/"
+    },
+    {
+      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-13T15:08:57+00:00",
+      "link": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/"
+    },
+    {
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold.",
+      "source": "The Verge",
+      "published": "2026-11-13T14:47:16+00:00",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T14:44:48+00:00",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different.",
+      "source": "The Verge",
+      "published": "2026-11-13T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    },
+    {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-13T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+    },
     {
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
       "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
@@ -112,13 +210,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-12T21:55:32+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T21:35:00+00:00",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     },
     {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-09T11:00:00+00:00",
       "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/"
-    },
-    {
-      "title": "The climate case for AI has not been made",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-09T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
-    },
-    {
-      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-      "source": "Wired",
-      "published": "2026-11-09T08:00:00+00:00",
-      "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"
-    },
-    {
-      "title": "Being a meat proxy for AI should be grounds for getting people fired",
-      "summary": "Article URL: https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired Comments URL: https://news.ycombinator.com/item?id=50422001 Points: 50 # Comments: 44",
-      "source": "Hacker News",
-      "published": "2026-11-09T06:55:38+00:00",
-      "link": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired"
-    },
-    {
-      "title": "Apple capped engineers at a $200 daily AI budget",
-      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 114 # Comments: 126",
-      "source": "Hacker News",
-      "published": "2026-11-09T05:30:11+00:00",
-      "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
-    },
-    {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "source": "TechCrunch",
-      "published": "2026-11-09T05:26:29+00:00",
-      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
-    },
-    {
-      "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 74 # Comments: 40",
-      "source": "Hacker News",
-      "published": "2026-11-09T03:06:55+00:00",
-      "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 573 # Comments: 972",
-      "source": "Hacker News",
-      "published": "2026-11-08T23:44:36+00:00",
-      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
-      "source": "The Verge",
-      "published": "2026-11-08T22:54:50+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "source": "TechCrunch",
-      "published": "2026-11-08T21:00:11+00:00",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
-      "source": "The Verge",
-      "published": "2026-11-08T20:22:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
-      "source": "The Verge",
-      "published": "2026-11-08T20:22:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
-    },
-    {
-      "title": "How I'm fighting the AI brain fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 313 # Comments: 215",
-      "source": "Hacker News",
-      "published": "2026-11-08T19:37:42+00:00",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 223 # Comments: 163",
-      "source": "Hacker News",
-      "published": "2026-11-08T19:37:42+00:00",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
     }
   ]
 };
