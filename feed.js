@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-13T01:35:25.398397+00:00",
+  "lastUpdated": "2026-11-13T07:38:11.514053+00:00",
   "items": [
     {
       "title": "Why You Should Expect an AI Crash",
