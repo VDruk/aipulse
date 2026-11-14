@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-14T01:08:47.315531+00:00",
+  "lastUpdated": "2026-11-14T07:20:32.750381+00:00",
   "items": [
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 375 # Comments: 195",
+      "source": "Hacker News",
+      "published": "2026-11-14T02:52:59+00:00",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 82 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-11-14T00:28:11+00:00",
+      "link": "https://claude.com/resources/articles/projects-redesigned"
+    },
     {
       "title": "Amazon has a plan to index the world’s online shopping data",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 180 # Comments: 99",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 192 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-11-13T19:51:56+00:00",
       "link": "https://www.slopmanifesto.com/"
@@ -66,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "The avalanche that hit math is coming for AI development",
-      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 59 # Comments: 101",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 61 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-11-13T18:39:42+00:00",
       "link": "https://www.dwarkesh.com/p/rsi"
     },
     {
       "title": "Are we just going to ignore that books are destroyed for AI?",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 51 # Comments: 41",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 56 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-11-13T18:14:38+00:00",
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 319 # Comments: 90",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 372 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-11-13T17:30:10+00:00",
       "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
@@ -136,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 164 # Comments: 162",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 184 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-11-13T15:29:10+00:00",
       "link": "https://text.npr.org/nx-s1-6029408"
@@ -170,8 +184,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/"
     },
     {
-      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 147 # Comments: 133",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 243 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-11-13T15:08:44+00:00",
       "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
@@ -227,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 309 # Comments: 195",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 335 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-11-13T11:13:46+00:00",
       "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
     },
     {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 484 # Comments: 382",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 488 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-11-13T10:18:13+00:00",
       "link": "https://status.claude.com/incidents/nn11wk485zfn"
@@ -255,28 +269,28 @@ const FEED_DATA = {
     },
     {
       "title": "The Dawn of the Data Intelligence Engineer",
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 137 # Comments: 76",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 145 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-11-13T09:08:18+00:00",
       "link": "https://motherduck.com/blog/the-data-intelligence-engineer/"
     },
     {
       "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 89 # Comments: 28",
+      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 89 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-11-13T00:38:41+00:00",
       "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
     },
     {
       "title": "Why You Should Expect an AI Crash",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 101 # Comments: 84",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 102 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-11-12T23:08:31+00:00",
       "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
     },
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 338 # Comments: 104",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 344 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-11-12T23:06:17+00:00",
       "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 355 # Comments: 150",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 357 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-11-12T21:56:11+00:00",
       "link": "https://unemploymentlabs.com/checkpoint-forensics"
@@ -332,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 196 # Comments: 232",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-11-12T21:09:49+00:00",
       "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
@@ -654,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 677 # Comments: 700",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 677 # Comments: 704",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -850,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1034 # Comments: 392",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1035 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-11-11T12:05:22+00:00",
       "link": "https://pietromiotti.com/latest/maya-site"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-09T18:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
-    },
-    {
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident.",
-      "source": "The Verge",
-      "published": "2026-11-09T17:36:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-09T17:05:43+00:00",
-      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
     }
   ]
 };
