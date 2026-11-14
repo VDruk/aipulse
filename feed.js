@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-14T11:58:05.769432+00:00",
+  "lastUpdated": "2026-11-14T15:22:57.770007+00:00",
   "items": [
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
+      "source": "The Verge",
+      "published": "2026-11-14T15:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "source": "Wired",
+      "published": "2026-11-14T13:00:00+00:00",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last.",
+      "source": "The Verge",
+      "published": "2026-11-14T12:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
     {
       "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
       "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-09T19:24:51+00:00",
       "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-    },
-    {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac.",
-      "source": "The Verge",
-      "published": "2026-11-09T19:09:58+00:00",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
-    },
-    {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges.",
-      "source": "The Verge",
-      "published": "2026-11-09T19:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-    },
-    {
-      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-      "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows.",
-      "source": "The Decoder",
-      "published": "2026-11-09T18:50:01+00:00",
-      "link": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/"
     }
   ]
 };
