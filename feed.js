@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-13T22:19:47.848625+00:00",
+  "lastUpdated": "2026-11-14T01:08:47.315531+00:00",
   "items": [
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11+00:00",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "source": "TechCrunch",
+      "published": "2026-11-13T22:43:00+00:00",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
     {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
       "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-13T20:07:34+00:00",
       "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
+    },
+    {
+      "title": "No AI Slop: A Manifesto",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 180 # Comments: 99",
+      "source": "Hacker News",
+      "published": "2026-11-13T19:51:56+00:00",
+      "link": "https://www.slopmanifesto.com/"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -44,11 +65,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
     },
     {
+      "title": "The avalanche that hit math is coming for AI development",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 59 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-11-13T18:39:42+00:00",
+      "link": "https://www.dwarkesh.com/p/rsi"
+    },
+    {
+      "title": "Are we just going to ignore that books are destroyed for AI?",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 51 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-11-13T18:14:38+00:00",
+      "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
+    },
+    {
       "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
       "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S.",
       "source": "The Decoder",
       "published": "2026-11-13T18:01:53+00:00",
       "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/"
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 319 # Comments: 90",
+      "source": "Hacker News",
+      "published": "2026-11-13T17:30:10+00:00",
+      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
     },
     {
       "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
@@ -93,6 +135,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/"
     },
     {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 164 # Comments: 162",
+      "source": "Hacker News",
+      "published": "2026-11-13T15:29:10+00:00",
+      "link": "https://text.npr.org/nx-s1-6029408"
+    },
+    {
       "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
       "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls.",
       "source": "The Decoder",
@@ -119,6 +168,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-13T15:08:57+00:00",
       "link": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/"
+    },
+    {
+      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 147 # Comments: 133",
+      "source": "Hacker News",
+      "published": "2026-11-13T15:08:44+00:00",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
     },
     {
       "title": "What’s really at stake in the Jensen Huang saga",
@@ -170,8 +226,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
     },
     {
+      "title": "AI is destroying the trust between writers and readers",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 309 # Comments: 195",
+      "source": "Hacker News",
+      "published": "2026-11-13T11:13:46+00:00",
+      "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+    },
+    {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 281 # Comments: 223",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 484 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-11-13T10:18:13+00:00",
       "link": "https://status.claude.com/incidents/nn11wk485zfn"
@@ -192,28 +255,28 @@ const FEED_DATA = {
     },
     {
       "title": "The Dawn of the Data Intelligence Engineer",
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 67 # Comments: 49",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 137 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-11-13T09:08:18+00:00",
       "link": "https://motherduck.com/blog/the-data-intelligence-engineer/"
     },
     {
       "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 81 # Comments: 24",
+      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 89 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-11-13T00:38:41+00:00",
       "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
     },
     {
       "title": "Why You Should Expect an AI Crash",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 96 # Comments: 80",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 101 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-11-12T23:08:31+00:00",
       "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
     },
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 281 # Comments: 82",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 338 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-11-12T23:06:17+00:00",
       "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 311 # Comments: 118",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 355 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-11-12T21:56:11+00:00",
       "link": "https://unemploymentlabs.com/checkpoint-forensics"
@@ -269,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 182 # Comments: 205",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 196 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-11-12T21:09:49+00:00",
       "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
@@ -591,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 674 # Comments: 697",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 677 # Comments: 700",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -640,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 195",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-11-11T19:06:43+00:00",
       "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
@@ -668,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 128 # Comments: 112",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 130 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-11-11T16:33:28+00:00",
       "link": "https://cabird.com/talks/shipping-faster/"
@@ -787,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1032 # Comments: 391",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1034 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-11-11T12:05:22+00:00",
       "link": "https://pietromiotti.com/latest/maya-site"
@@ -808,7 +871,7 @@ const FEED_DATA = {
     },
     {
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 65 # Comments: 114",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 65 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-11-11T08:51:45+00:00",
       "link": "https://osssaysno.com"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-09T17:05:43+00:00",
       "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
-    },
-    {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "source": "TechCrunch",
-      "published": "2026-11-09T16:56:54+00:00",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
-    },
-    {
-      "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
-      "summary": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-09T16:54:16+00:00",
-      "link": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/"
-    },
-    {
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "source": "TechCrunch",
-      "published": "2026-11-09T16:12:28+00:00",
-      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
-    },
-    {
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a...",
-      "source": "The Verge",
-      "published": "2026-11-09T15:50:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
-    },
-    {
-      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models.",
-      "source": "The Decoder",
-      "published": "2026-11-09T15:44:53+00:00",
-      "link": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/"
-    },
-    {
-      "title": "Disney and Adobe are building generative AI tools together",
-      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline.",
-      "source": "The Verge",
-      "published": "2026-11-09T15:38:56+00:00",
-      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
-    },
-    {
-      "title": "Hold up — I had a great time talking to the RIAA guy",
-      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music.",
-      "source": "The Verge",
-      "published": "2026-11-09T15:30:00+00:00",
-      "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music"
-    },
-    {
-      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-      "source": "Wired",
-      "published": "2026-11-09T14:30:56+00:00",
-      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/"
-    },
-    {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI.",
-      "source": "The Verge",
-      "published": "2026-11-09T14:30:00+00:00",
-      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech"
     }
   ]
 };
