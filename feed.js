@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-15T19:16:14.906913+00:00",
+  "lastUpdated": "2026-11-15T21:25:45.217558+00:00",
   "items": [
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
+      "source": "The Verge",
+      "published": "2026-11-15T20:43:49+00:00",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+    },
     {
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-10T07:19:38+00:00",
       "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
-    },
-    {
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "source": "Wired",
-      "published": "2026-11-10T07:00:00+00:00",
-      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
     }
   ]
 };
