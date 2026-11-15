@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-15T07:33:11.814850+00:00",
+  "lastUpdated": "2026-11-15T12:32:37.980851+00:00",
   "items": [
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "source": "Wired",
+      "published": "2026-11-15T12:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/"
+    },
+    {
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
+      "source": "The Decoder",
+      "published": "2026-11-15T11:35:12+00:00",
+      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "source": "Wired",
+      "published": "2026-11-15T11:00:00+00:00",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    },
+    {
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service.",
+      "source": "The Decoder",
+      "published": "2026-11-15T10:45:58+00:00",
+      "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/"
+    },
+    {
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5.",
+      "source": "The Decoder",
+      "published": "2026-11-15T10:06:06+00:00",
+      "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday...",
@@ -115,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1065 # Comments: 633",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1077 # Comments: 641",
       "source": "Hacker News",
       "published": "2026-11-14T02:52:59+00:00",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 98 # Comments: 91",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 99 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-11-14T00:28:11+00:00",
       "link": "https://claude.com/resources/articles/projects-redesigned"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 219 # Comments: 131",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 220 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-11-13T19:51:56+00:00",
       "link": "https://www.slopmanifesto.com/"
@@ -192,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "The avalanche that hit math is coming for AI development",
-      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 66 # Comments: 113",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 67 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-11-13T18:39:42+00:00",
       "link": "https://www.dwarkesh.com/p/rsi"
     },
     {
       "title": "Are we just going to ignore that books are destroyed for AI?",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 59 # Comments: 69",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 59 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-11-13T18:14:38+00:00",
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
@@ -213,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 427 # Comments: 108",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 430 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-11-13T17:30:10+00:00",
       "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
@@ -262,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 193",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-11-13T15:29:10+00:00",
       "link": "https://text.npr.org/nx-s1-6029408"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 468 # Comments: 692",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 471 # Comments: 707",
       "source": "Hacker News",
       "published": "2026-11-13T15:08:44+00:00",
       "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 229",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-11-13T11:13:46+00:00",
       "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
@@ -437,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 396 # Comments: 166",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 402 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-11-12T21:56:11+00:00",
       "link": "https://unemploymentlabs.com/checkpoint-forensics"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-10T01:27:12+00:00",
       "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-    },
-    {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI.",
-      "source": "The Verge",
-      "published": "2026-11-10T00:28:49+00:00",
-      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "source": "Wired",
-      "published": "2026-11-10T00:18:19+00:00",
-      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/"
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years.",
-      "source": "The Verge",
-      "published": "2026-11-09T23:51:58+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
-    },
-    {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
-      "source": "The Verge",
-      "published": "2026-11-09T23:47:46+00:00",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
-    },
-    {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
-      "source": "The Verge",
-      "published": "2026-11-09T23:07:59+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
     }
   ]
 };
