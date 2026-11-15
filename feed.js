@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-15T15:55:27.183095+00:00",
+  "lastUpdated": "2026-11-15T19:16:14.906913+00:00",
   "items": [
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
+      "source": "The Verge",
+      "published": "2026-11-15T19:15:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
     {
       "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
       "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-10T07:00:00+00:00",
       "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
-    },
-    {
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T07:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
     }
   ]
 };
