@@ -1,19 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-15T12:32:37.980851+00:00",
+  "lastUpdated": "2026-11-15T15:55:27.183095+00:00",
   "items": [
+    {
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do.",
+      "source": "The Decoder",
+      "published": "2026-11-15T15:42:03+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+    },
+    {
+      "title": "All AI-generated code should be Open Source",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 119 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-11-15T14:46:58+00:00",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    },
+    {
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
+      "source": "The Decoder",
+      "published": "2026-11-15T14:45:12+00:00",
+      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
+    },
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien.",
+      "source": "The Verge",
+      "published": "2026-11-15T13:00:00+00:00",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
     {
       "title": "AI DJs Completely Kill My Groove",
       "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
       "source": "Wired",
       "published": "2026-11-15T12:00:00+00:00",
       "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/"
-    },
-    {
-      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
-      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
-      "source": "The Decoder",
-      "published": "2026-11-15T11:35:12+00:00",
-      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
     },
     {
       "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
@@ -150,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1077 # Comments: 641",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1085 # Comments: 643",
       "source": "Hacker News",
       "published": "2026-11-14T02:52:59+00:00",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 99 # Comments: 93",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 99 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-11-14T00:28:11+00:00",
       "link": "https://claude.com/resources/articles/projects-redesigned"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 220 # Comments: 131",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 221 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-11-13T19:51:56+00:00",
       "link": "https://www.slopmanifesto.com/"
@@ -227,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "The avalanche that hit math is coming for AI development",
-      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 67 # Comments: 113",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 67 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-11-13T18:39:42+00:00",
       "link": "https://www.dwarkesh.com/p/rsi"
     },
     {
       "title": "Are we just going to ignore that books are destroyed for AI?",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 59 # Comments: 70",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 59 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-11-13T18:14:38+00:00",
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 430 # Comments: 110",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 431 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-11-13T17:30:10+00:00",
       "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 194",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-11-13T15:29:10+00:00",
       "link": "https://text.npr.org/nx-s1-6029408"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 471 # Comments: 707",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 475 # Comments: 721",
       "source": "Hacker News",
       "published": "2026-11-13T15:08:44+00:00",
       "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 232",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 368 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-11-13T11:13:46+00:00",
       "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
@@ -437,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 354 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-11-12T23:06:17+00:00",
       "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 402 # Comments: 176",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 408 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-11-12T21:56:11+00:00",
       "link": "https://unemploymentlabs.com/checkpoint-forensics"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 198 # Comments: 233",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 199 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-11-12T21:09:49+00:00",
       "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
@@ -815,7 +836,7 @@ const FEED_DATA = {
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 707",
       "source": "Hacker News",
       "published": "2026-11-11T21:24:35+00:00",
       "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-10T07:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
-    },
-    {
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal?",
-      "source": "Wired",
-      "published": "2026-11-10T05:01:00+00:00",
-      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
-    },
-    {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 196 # Comments: 193",
-      "source": "Hacker News",
-      "published": "2026-11-10T03:20:06+00:00",
-      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-    },
-    {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T01:27:12+00:00",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
     }
   ]
 };
