@@ -1,12 +1,145 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-16T13:24:50.051620+00:00",
+  "lastUpdated": "2026-11-16T18:58:30.003160+00:00",
   "items": [
+    {
+      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+      "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code.",
+      "source": "The Decoder",
+      "published": "2026-11-16T18:52:55+00:00",
+      "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/"
+    },
+    {
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC.",
+      "source": "The Verge",
+      "published": "2026-11-16T18:43:35+00:00",
+      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T18:11:10+00:00",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+    },
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:36:43+00:00",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+    },
+    {
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:10:00+00:00",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:02:43+00:00",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+    },
+    {
+      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts.",
+      "source": "The Decoder",
+      "published": "2026-11-16T16:56:04+00:00",
+      "link": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/"
+    },
+    {
+      "title": "Jensen Huang Is Gone. Now What?",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "source": "Wired",
+      "published": "2026-11-16T16:12:51+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/"
+    },
+    {
+      "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+      "summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-16T16:10:22+00:00",
+      "link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/"
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T16:04:28+00:00",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+    },
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T15:52:19+00:00",
+      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
+    },
+    {
+      "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+      "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin.",
+      "source": "The Decoder",
+      "published": "2026-11-16T15:25:48+00:00",
+      "link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T15:02:34+00:00",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+    },
+    {
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "source": "TechCrunch",
+      "published": "2026-11-16T14:48:13+00:00",
+      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
+    },
+    {
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it.",
+      "source": "The Verge",
+      "published": "2026-11-16T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability"
+    },
+    {
+      "title": "Google Maps can now create trip itineraries for you",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
+      "source": "The Verge",
+      "published": "2026-11-16T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
+    },
+    {
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet?",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
+    },
     {
       "title": "The Nvidia scandal isn’t slowing down",
       "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
       "source": "The Verge",
       "published": "2026-11-16T13:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
+    },
+    {
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
     },
     {
       "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
@@ -24,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 88 # Comments: 72",
+      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 93 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-11-16T01:31:30+00:00",
       "link": "https://www.hntrends.com/2026/november.html"
@@ -66,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 66 # Comments: 65",
+      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 68 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-11-15T19:39:46+00:00",
       "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
@@ -87,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1186 # Comments: 629",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1230 # Comments: 648",
       "source": "Hacker News",
       "published": "2026-11-15T14:46:58+00:00",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
@@ -248,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1104 # Comments: 651",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1109 # Comments: 649",
       "source": "Hacker News",
       "published": "2026-11-14T02:52:59+00:00",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 95",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-11-14T00:28:11+00:00",
       "link": "https://claude.com/resources/articles/projects-redesigned"
@@ -290,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 226 # Comments: 133",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 227 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-11-13T19:51:56+00:00",
       "link": "https://www.slopmanifesto.com/"
@@ -325,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "The avalanche that hit math is coming for AI development",
-      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 68 # Comments: 116",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 68 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-11-13T18:39:42+00:00",
       "link": "https://www.dwarkesh.com/p/rsi"
@@ -346,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 441 # Comments: 111",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 442 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-11-13T17:30:10+00:00",
       "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
@@ -395,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence for the Z80",
-      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 61 # Comments: 8",
+      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 74 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-13T15:50:43+00:00",
       "link": "https://www.dfsantos.com/en/libro-ia-z80"
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 196 # Comments: 196",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 197 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-11-13T15:29:10+00:00",
       "link": "https://text.npr.org/nx-s1-6029408"
@@ -437,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 487 # Comments: 728",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 489 # Comments: 731",
       "source": "Hacker News",
       "published": "2026-11-13T15:08:44+00:00",
       "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
@@ -493,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 371 # Comments: 236",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 371 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-11-13T11:13:46+00:00",
       "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
@@ -1267,139 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-10T17:30:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T17:30:00+00:00",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    },
-    {
-      "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
-      "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent.",
-      "source": "The Decoder",
-      "published": "2026-11-10T17:11:10+00:00",
-      "link": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T17:04:19+00:00",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.",
-      "source": "The Verge",
-      "published": "2026-11-10T16:20:30+00:00",
-      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
-    },
-    {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.",
-      "source": "The Verge",
-      "published": "2026-11-10T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:54:08+00:00",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
-    },
-    {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:29:30+00:00",
-      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
-    },
-    {
-      "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-      "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent.",
-      "source": "The Decoder",
-      "published": "2026-11-10T14:07:47+00:00",
-      "link": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.",
-      "source": "The Verge",
-      "published": "2026-11-10T14:06:54+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:05:10+00:00",
-      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:01:39+00:00",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
-    },
-    {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00+00:00",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
-    },
-    {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
-    },
-    {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
-    },
-    {
-      "title": "Adobe is going all in on agentic AI",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
-    },
-    {
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated.",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
-    },
-    {
-      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
-      "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative.",
-      "source": "The Decoder",
-      "published": "2026-11-10T13:37:16+00:00",
-      "link": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/"
-    },
-    {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "source": "TechCrunch",
-      "published": "2026-11-10T13:30:00+00:00",
-      "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
-    },
-    {
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time.",
-      "source": "The Verge",
-      "published": "2026-11-10T13:30:00+00:00",
-      "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
     }
   ]
 };
