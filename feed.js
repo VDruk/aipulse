@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-16T00:33:53.118862+00:00",
+  "lastUpdated": "2026-11-16T07:39:07.412952+00:00",
   "items": [
+    {
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 82 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-11-16T01:31:30+00:00",
+      "link": "https://www.hntrends.com/2026/november.html"
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "source": "TechCrunch",
+      "published": "2026-11-16T01:30:00+00:00",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
+      "source": "The Verge",
+      "published": "2026-11-16T01:26:56+00:00",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+    },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 59 # Comments: 60",
+      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 64 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-11-15T19:39:46+00:00",
       "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1062 # Comments: 579",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1139 # Comments: 611",
       "source": "Hacker News",
       "published": "2026-11-15T14:46:58+00:00",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1098 # Comments: 646",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1103 # Comments: 649",
       "source": "Hacker News",
       "published": "2026-11-14T02:52:59+00:00",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 222 # Comments: 133",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 224 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-11-13T19:51:56+00:00",
       "link": "https://www.slopmanifesto.com/"
@@ -290,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we just going to ignore that books are destroyed for AI?",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 61 # Comments: 71",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 61 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-11-13T18:14:38+00:00",
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
@@ -304,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 438 # Comments: 110",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 439 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-11-13T17:30:10+00:00",
       "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 195 # Comments: 196",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 196 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-11-13T15:29:10+00:00",
       "link": "https://text.npr.org/nx-s1-6029408"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 482 # Comments: 725",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 484 # Comments: 727",
       "source": "Hacker News",
       "published": "2026-11-13T15:08:44+00:00",
       "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
@@ -444,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 369 # Comments: 234",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 370 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-11-13T11:13:46+00:00",
       "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Dawn of the Data Intelligence Engineer",
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 158 # Comments: 78",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 159 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-11-13T09:08:18+00:00",
       "link": "https://motherduck.com/blog/the-data-intelligence-engineer/"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 355 # Comments: 105",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 357 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-11-12T23:06:17+00:00",
       "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
@@ -528,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 436 # Comments: 183",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 439 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-11-12T21:56:11+00:00",
       "link": "https://unemploymentlabs.com/checkpoint-forensics"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-10T12:57:24+00:00",
       "link": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"
-    },
-    {
-      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-      "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion.",
-      "source": "The Decoder",
-      "published": "2026-11-10T12:13:03+00:00",
-      "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
-    },
-    {
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "source": "Wired",
-      "published": "2026-11-10T11:00:00+00:00",
-      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/"
-    },
-    {
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "source": "Wired",
-      "published": "2026-11-10T11:00:00+00:00",
-      "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/"
     }
   ]
 };
