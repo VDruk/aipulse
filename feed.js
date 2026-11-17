@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-17T14:11:16.789027+00:00",
+  "lastUpdated": "2026-11-17T17:56:26.708797+00:00",
   "items": [
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 89 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-11-17T17:46:43+00:00",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T17:32:25+00:00",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    },
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T17:20:41+00:00",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+    },
+    {
+      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+      "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each.",
+      "source": "The Decoder",
+      "published": "2026-11-17T16:55:47+00:00",
+      "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
+    },
+    {
+      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+      "summary": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad.",
+      "source": "The Decoder",
+      "published": "2026-11-17T16:47:21+00:00",
+      "link": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
+    },
+    {
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T16:44:15+00:00",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T16:32:55+00:00",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+    },
+    {
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year.",
+      "source": "The Verge",
+      "published": "2026-11-17T16:19:03+00:00",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+    },
+    {
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.",
+      "source": "The Verge",
+      "published": "2026-11-17T16:09:57+00:00",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+    },
+    {
+      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software.",
+      "source": "The Decoder",
+      "published": "2026-11-17T15:02:03+00:00",
+      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
+    },
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+      "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail.",
+      "source": "The Decoder",
+      "published": "2026-11-17T14:59:50+00:00",
+      "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/"
+    },
+    {
+      "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+      "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials.",
+      "source": "The Decoder",
+      "published": "2026-11-17T14:57:02+00:00",
+      "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/"
+    },
+    {
+      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July.",
+      "source": "The Decoder",
+      "published": "2026-11-17T14:54:10+00:00",
+      "link": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/"
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:50:58+00:00",
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:26:46+00:00",
+      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 157 # Comments: 205",
+      "source": "Hacker News",
+      "published": "2026-11-17T14:19:59+00:00",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+    },
     {
       "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
       "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
@@ -374,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1271 # Comments: 660",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1277 # Comments: 665",
       "source": "Hacker News",
       "published": "2026-11-15T14:46:58+00:00",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
@@ -535,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1112 # Comments: 649",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1113 # Comments: 649",
       "source": "Hacker News",
       "published": "2026-11-14T02:52:59+00:00",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
@@ -577,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 228 # Comments: 133",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 230 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-11-13T19:51:56+00:00",
       "link": "https://www.slopmanifesto.com/"
@@ -619,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we just going to ignore that books are destroyed for AI?",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 61 # Comments: 73",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 61 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-11-13T18:14:38+00:00",
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
@@ -633,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 443 # Comments: 111",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 444 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-11-13T17:30:10+00:00",
       "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
@@ -682,14 +801,14 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence for the Z80",
-      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 82 # Comments: 8",
+      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 84 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-13T15:50:43+00:00",
       "link": "https://www.dfsantos.com/en/libro-ia-z80"
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 197 # Comments: 197",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 198 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-11-13T15:29:10+00:00",
       "link": "https://text.npr.org/nx-s1-6029408"
@@ -724,7 +843,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 490 # Comments: 738",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 494 # Comments: 746",
       "source": "Hacker News",
       "published": "2026-11-13T15:08:44+00:00",
       "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
@@ -787,7 +906,7 @@ const FEED_DATA = {
     },
     {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 393",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 494 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-11-13T10:18:13+00:00",
       "link": "https://status.claude.com/incidents/nn11wk485zfn"
@@ -808,7 +927,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Dawn of the Data Intelligence Engineer",
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 159 # Comments: 78",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 160 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-11-13T09:08:18+00:00",
       "link": "https://motherduck.com/blog/the-data-intelligence-engineer/"
@@ -1281,125 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-11T17:00:00+00:00",
       "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/"
-    },
-    {
-      "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 130 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-11-11T16:33:28+00:00",
-      "link": "https://cabird.com/talks/shipping-faster/"
-    },
-    {
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T16:16:07+00:00",
-      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
-    },
-    {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T16:14:44+00:00",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-    },
-    {
-      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
-      "source": "Wired",
-      "published": "2026-11-11T16:13:03+00:00",
-      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/"
-    },
-    {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.",
-      "source": "The Verge",
-      "published": "2026-11-11T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
-    },
-    {
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-      "source": "Wired",
-      "published": "2026-11-11T15:30:00+00:00",
-      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/"
-    },
-    {
-      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-      "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control.",
-      "source": "The Decoder",
-      "published": "2026-11-11T15:12:53+00:00",
-      "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/"
-    },
-    {
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
-    },
-    {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way...",
-      "source": "The Verge",
-      "published": "2026-11-11T15:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
-    },
-    {
-      "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-      "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention.",
-      "source": "The Decoder",
-      "published": "2026-11-11T14:25:20+00:00",
-      "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/"
-    },
-    {
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
-    },
-    {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by...",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
-    },
-    {
-      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic.",
-      "source": "The Decoder",
-      "published": "2026-11-11T13:51:11+00:00",
-      "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/"
-    },
-    {
-      "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
-      "summary": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language.",
-      "source": "The Decoder",
-      "published": "2026-11-11T13:50:30+00:00",
-      "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/"
-    },
-    {
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-11T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
-    },
-    {
-      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
-      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting.",
-      "source": "The Decoder",
-      "published": "2026-11-11T12:53:07+00:00",
-      "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/"
-    },
-    {
-      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
-      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue.",
-      "source": "The Decoder",
-      "published": "2026-11-11T12:12:47+00:00",
-      "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
     }
   ]
 };
