@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-17T00:36:05.562996+00:00",
+  "lastUpdated": "2026-11-17T03:18:51.767158+00:00",
   "items": [
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -262,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 94 # Comments: 83",
+      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 94 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-11-16T01:31:30+00:00",
       "link": "https://www.hntrends.com/2026/november.html"
@@ -304,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 68 # Comments: 67",
+      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 69 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-11-15T19:39:46+00:00",
       "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
@@ -325,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1255 # Comments: 651",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1266 # Comments: 656",
       "source": "Hacker News",
       "published": "2026-11-15T14:46:58+00:00",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
@@ -486,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1111 # Comments: 649",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1112 # Comments: 649",
       "source": "Hacker News",
       "published": "2026-11-14T02:52:59+00:00",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
@@ -633,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence for the Z80",
-      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 78 # Comments: 8",
+      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 80 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-13T15:50:43+00:00",
       "link": "https://www.dfsantos.com/en/libro-ia-z80"
@@ -738,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 392",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-11-13T10:18:13+00:00",
       "link": "https://status.claude.com/incidents/nn11wk485zfn"
