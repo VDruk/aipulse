@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-17T21:33:00.261018+00:00",
+  "lastUpdated": "2026-11-17T23:42:33.032860+00:00",
   "items": [
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "summary": "Microsoft CEO Satya Nadella say he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it.",
+      "source": "The Verge",
+      "published": "2026-11-17T23:41:18+00:00",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "source": "TechCrunch",
+      "published": "2026-11-17T23:37:48+00:00",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T23:04:35+00:00",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T22:42:27+00:00",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "source": "Ars Technica",
+      "published": "2026-11-17T22:32:16+00:00",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T22:29:05+00:00",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intent” to reinstate the company’s ousted CEO.",
+      "source": "Wired",
+      "published": "2026-11-17T22:19:19+00:00",
+      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T21:48:07+00:00",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    },
+    {
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.",
+      "source": "The Verge",
+      "published": "2026-11-17T21:40:59+00:00",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "source": "TechCrunch",
+      "published": "2026-11-17T21:34:50+00:00",
+      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    },
     {
       "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
       "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
@@ -51,6 +121,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
     },
     {
+      "title": "Not Everything Needs an LLM",
+      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 69 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-11-17T18:16:18+00:00",
+      "link": "https://newsletter.posthog.com/p/decision-models"
+    },
+    {
       "title": "As decision model use skyrockets, is customization the next frontier?",
       "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
       "source": "TechCrunch",
@@ -66,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 853 # Comments: 521",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1012 # Comments: 626",
       "source": "Hacker News",
       "published": "2026-11-17T17:46:43+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
@@ -178,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 177 # Comments: 232",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 184 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-11-17T14:19:59+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
@@ -556,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1278 # Comments: 668",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1279 # Comments: 668",
       "source": "Hacker News",
       "published": "2026-11-15T14:46:58+00:00",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
@@ -864,7 +941,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence for the Z80",
-      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 86 # Comments: 8",
+      "summary": "Article URL: https://www.dfsantos.com/en/libro-ia-z80 Comments URL: https://news.ycombinator.com/item?id=50485275 Points: 87 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-13T15:50:43+00:00",
       "link": "https://www.dfsantos.com/en/libro-ia-z80"
@@ -962,7 +1039,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 371 # Comments: 239",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 372 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-11-13T11:13:46+00:00",
       "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-12T13:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
-    },
-    {
-      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
-      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor.",
-      "source": "The Decoder",
-      "published": "2026-11-12T12:09:43+00:00",
-      "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/"
-    },
-    {
-      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-      "source": "Wired",
-      "published": "2026-11-12T10:30:00+00:00",
-      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/"
-    },
-    {
-      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-      "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
-      "source": "Wired",
-      "published": "2026-11-12T10:15:00+00:00",
-      "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/"
-    },
-    {
-      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
-      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations.",
-      "source": "The Decoder",
-      "published": "2026-11-12T10:09:56+00:00",
-      "link": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/"
-    },
-    {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T03:13:10+00:00",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:28:45+00:00",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:17:05+00:00",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
-      "source": "The Verge",
-      "published": "2026-11-11T22:44:36+00:00",
-      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
-      "source": "The Verge",
-      "published": "2026-11-11T21:54:21+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 707",
-      "source": "Hacker News",
-      "published": "2026-11-11T21:24:35+00:00",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
-    },
-    {
-      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-      "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video.",
-      "source": "The Decoder",
-      "published": "2026-11-11T20:12:46+00:00",
-      "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/"
     }
   ]
 };
