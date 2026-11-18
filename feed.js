@@ -1,12 +1,89 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-18T08:12:22.575481+00:00",
+  "lastUpdated": "2026-11-18T13:42:32.179300+00:00",
   "items": [
+    {
+      "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
+      "summary": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia.",
+      "source": "The Decoder",
+      "published": "2026-11-18T13:28:49+00:00",
+      "link": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/"
+    },
+    {
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-18T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+    },
+    {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year.",
+      "source": "The Verge",
+      "published": "2026-11-18T13:01:05+00:00",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+    },
+    {
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+    },
+    {
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:30:00+00:00",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+    },
+    {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform.",
+      "source": "The Verge",
+      "published": "2026-11-18T11:16:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+    },
+    {
+      "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+      "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-18T10:22:45+00:00",
+      "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-18T10:20:30+00:00",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+    },
+    {
+      "title": "AI is killing All About Berlin",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 527 # Comments: 502",
+      "source": "Hacker News",
+      "published": "2026-11-18T06:47:26+00:00",
+      "link": "https://nicolasbouliane.com/blog/death-by-ai"
+    },
     {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
       "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
       "source": "Wired",
       "published": "2026-11-18T05:01:00+00:00",
       "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+    },
+    {
+      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 86 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-11-18T01:45:11+00:00",
+      "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
     },
     {
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
@@ -17,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 107 # Comments: 63",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 539 # Comments: 398",
       "source": "Hacker News",
       "published": "2026-11-18T00:17:58+00:00",
       "link": "https://revscope.co/blog/search-seo-geo-2026/"
@@ -101,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 60 # Comments: 93",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 231 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-11-17T21:16:12+00:00",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
@@ -157,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Not Everything Needs an LLM",
-      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 104 # Comments: 42",
+      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 166 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-11-17T18:16:18+00:00",
       "link": "https://newsletter.posthog.com/p/decision-models"
@@ -178,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1104 # Comments: 706",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1301 # Comments: 813",
       "source": "Hacker News",
       "published": "2026-11-17T17:46:43+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
@@ -240,6 +317,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
     },
     {
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "summary": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium.",
+      "source": "Hacker News",
+      "published": "2026-11-17T16:01:04+00:00",
+      "link": "https://github.com/RunanywhereAI/trnrt"
+    },
+    {
       "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
       "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software.",
       "source": "The Decoder",
@@ -290,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 185 # Comments: 242",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 189 # Comments: 250",
       "source": "Hacker News",
       "published": "2026-11-17T14:19:59+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
@@ -450,6 +534,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
     },
     {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+      "summary": "Article URL: https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/ Comments URL: https://news.ycombinator.com/item?id=50520796 Points: 50 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-11-16T18:12:21+00:00",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+    },
+    {
       "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "source": "TechCrunch",
@@ -459,13 +550,6 @@ const FEED_DATA = {
     {
       "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:36:43+00:00",
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
-    },
-    {
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "source": "TechCrunch",
       "published": "2026-11-16T17:36:43+00:00",
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
@@ -668,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1279 # Comments: 669",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1281 # Comments: 670",
       "source": "Hacker News",
       "published": "2026-11-15T14:46:58+00:00",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
@@ -906,7 +990,7 @@ const FEED_DATA = {
     },
     {
       "title": "The avalanche that hit math is coming for AI development",
-      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 68 # Comments: 118",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 68 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-11-13T18:39:42+00:00",
       "link": "https://www.dwarkesh.com/p/rsi"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-12T17:00:00+00:00",
       "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
-    },
-    {
-      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning.",
-      "source": "The Decoder",
-      "published": "2026-11-12T16:58:11+00:00",
-      "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/"
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:36:37+00:00",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
-    },
-    {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:32:33+00:00",
-      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
-    },
-    {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode.",
-      "source": "The Verge",
-      "published": "2026-11-12T16:30:00+00:00",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump"
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:12:44+00:00",
-      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
-    },
-    {
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy.",
-      "source": "The Verge",
-      "published": "2026-11-12T15:48:12+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
-    },
-    {
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T15:37:29+00:00",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "summary": "This is the investment firm's largest fund to date.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T15:18:14+00:00",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
-    },
-    {
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "summary": "This is Fireworks' second data breach in as many months.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T15:02:28+00:00",
-      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
-      "source": "The Verge",
-      "published": "2026-11-12T15:01:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-    },
-    {
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-      "source": "Wired",
-      "published": "2026-11-12T14:14:33+00:00",
-      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/"
-    },
-    {
-      "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
-      "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-12T14:11:40+00:00",
-      "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/"
     }
   ]
 };
