@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-18T02:40:37.996322+00:00",
+  "lastUpdated": "2026-11-18T08:12:22.575481+00:00",
   "items": [
+    {
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "source": "Wired",
+      "published": "2026-11-18T05:01:00+00:00",
+      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+    },
     {
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-12T14:11:40+00:00",
       "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/"
-    },
-    {
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-      "source": "Wired",
-      "published": "2026-11-12T13:58:06+00:00",
-      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
     }
   ]
 };
