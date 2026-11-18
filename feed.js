@@ -1,6 +1,132 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-18T13:42:32.179300+00:00",
+  "lastUpdated": "2026-11-18T17:38:23.632421+00:00",
   "items": [
+    {
+      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation across the board.",
+      "source": "Wired",
+      "published": "2026-11-18T17:33:07+00:00",
+      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
+    },
+    {
+      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T17:32:10+00:00",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T16:59:00+00:00",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+    },
+    {
+      "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "source": "Wired",
+      "published": "2026-11-18T16:35:24+00:00",
+      "link": "https://www.wired.com/story/artex-ai-hacking-tools/"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T16:14:09+00:00",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
+    },
+    {
+      "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+      "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal texts as machine-written.",
+      "source": "The Decoder",
+      "published": "2026-11-18T16:09:08+00:00",
+      "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/"
+    },
+    {
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 108 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-11-18T16:08:24+00:00",
+      "link": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+      "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems.",
+      "source": "The Decoder",
+      "published": "2026-11-18T15:47:49+00:00",
+      "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/"
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws.",
+      "source": "The Verge",
+      "published": "2026-11-18T15:44:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+    },
+    {
+      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+      "source": "Wired",
+      "published": "2026-11-18T15:02:40+00:00",
+      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-18T14:42:44+00:00",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+    },
+    {
+      "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+      "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-18T14:40:52+00:00",
+      "link": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/"
+    },
+    {
+      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps.",
+      "source": "The Decoder",
+      "published": "2026-11-18T14:36:42+00:00",
+      "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/"
+    },
+    {
+      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+      "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away.",
+      "source": "The Decoder",
+      "published": "2026-11-18T14:33:44+00:00",
+      "link": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/"
+    },
+    {
+      "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+      "summary": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark. Over half of their electricity came from fossil fuels.",
+      "source": "The Decoder",
+      "published": "2026-11-18T14:25:04+00:00",
+      "link": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/"
+    },
+    {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems.",
+      "source": "The Verge",
+      "published": "2026-11-18T14:00:00+00:00",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
+    },
+    {
+      "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+      "summary": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet.",
+      "source": "The Decoder",
+      "published": "2026-11-18T13:55:49+00:00",
+      "link": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/"
+    },
+    {
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 59 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-11-18T13:51:03+00:00",
+      "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
+    },
     {
       "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
       "summary": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia.",
@@ -17,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia isn’t selling any more AI chips to China",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year.",
+      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year.",
       "source": "The Verge",
       "published": "2026-11-18T13:01:05+00:00",
       "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+    },
+    {
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
     },
     {
       "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
@@ -37,8 +170,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
     },
     {
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
       "source": "TechCrunch",
       "published": "2026-11-18T11:30:00+00:00",
       "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
@@ -66,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 527 # Comments: 502",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 692 # Comments: 635",
       "source": "Hacker News",
       "published": "2026-11-18T06:47:26+00:00",
       "link": "https://nicolasbouliane.com/blog/death-by-ai"
@@ -80,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 86 # Comments: 41",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 91 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-11-18T01:45:11+00:00",
       "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
@@ -94,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 539 # Comments: 398",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 654 # Comments: 506",
       "source": "Hacker News",
       "published": "2026-11-18T00:17:58+00:00",
       "link": "https://revscope.co/blog/search-seo-geo-2026/"
@@ -178,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 231 # Comments: 321",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 299 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-11-17T21:16:12+00:00",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
@@ -234,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Not Everything Needs an LLM",
-      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 166 # Comments: 71",
+      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 174 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-11-17T18:16:18+00:00",
       "link": "https://newsletter.posthog.com/p/decision-models"
@@ -255,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1301 # Comments: 813",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1327 # Comments: 838",
       "source": "Hacker News",
       "published": "2026-11-17T17:46:43+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
@@ -374,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 189 # Comments: 250",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 190 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-11-17T14:19:59+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
@@ -742,6 +875,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-15T19:15:43+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "title": "When AI Knows More Than It Can Offer",
+      "summary": "Article URL: https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e Comments URL: https://news.ycombinator.com/item?id=50507918 Points: 78 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-11-15T15:59:23+00:00",
+      "link": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e"
     },
     {
       "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
@@ -1260,146 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-12T21:27:10+00:00",
       "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
-    },
-    {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 199 # Comments: 234",
-      "source": "Hacker News",
-      "published": "2026-11-12T21:09:49+00:00",
-      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
-    },
-    {
-      "title": "Claude Meetings lets Anthropic's AI join your video calls",
-      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time.",
-      "source": "The Decoder",
-      "published": "2026-11-12T20:26:50+00:00",
-      "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/"
-    },
-    {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T20:26:47+00:00",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
-    },
-    {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group...",
-      "source": "MIT Tech Review",
-      "published": "2026-11-12T20:16:24+00:00",
-      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-    },
-    {
-      "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete.",
-      "source": "The Decoder",
-      "published": "2026-11-12T19:58:43+00:00",
-      "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/"
-    },
-    {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year.",
-      "source": "The Verge",
-      "published": "2026-11-12T19:42:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T19:27:45+00:00",
-      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T19:11:00+00:00",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
-    },
-    {
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "source": "Wired",
-      "published": "2026-11-12T18:59:58+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/"
-    },
-    {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T18:39:23+00:00",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
-    },
-    {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "source": "Wired",
-      "published": "2026-11-12T18:05:41+00:00",
-      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/"
-    },
-    {
-      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-      "source": "Wired",
-      "published": "2026-11-12T17:59:15+00:00",
-      "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/"
-    },
-    {
-      "title": "The Jensen Huang scandal is hardly over",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be?",
-      "source": "The Verge",
-      "published": "2026-11-12T17:44:33+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:36:40+00:00",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:17:58+00:00",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:00:52+00:00",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025.",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00+00:00",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
-    },
-    {
-      "title": "More game developers are using generative AI than they did last year",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. 40 percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025.",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00+00:00",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
     }
   ]
 };
