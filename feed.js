@@ -1,12 +1,103 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-18T17:38:23.632421+00:00",
+  "lastUpdated": "2026-11-18T21:08:56.158852+00:00",
   "items": [
     {
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens.",
+      "source": "The Decoder",
+      "published": "2026-11-18T21:03:23+00:00",
+      "link": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+    },
+    {
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T20:07:01+00:00",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"
+    },
+    {
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T19:56:39+00:00",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+    },
+    {
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags.",
+      "source": "The Verge",
+      "published": "2026-11-18T19:40:36+00:00",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+    },
+    {
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes.",
+      "source": "The Verge",
+      "published": "2026-11-18T19:30:00+00:00",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
+    },
+    {
+      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound.",
+      "source": "The Decoder",
+      "published": "2026-11-18T19:26:25+00:00",
+      "link": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/"
+    },
+    {
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.",
+      "source": "The Verge",
+      "published": "2026-11-18T19:07:29+00:00",
+      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
+    },
+    {
+      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+      "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft.",
+      "source": "The Decoder",
+      "published": "2026-11-18T18:47:36+00:00",
+      "link": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/"
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable.",
+      "source": "The Verge",
+      "published": "2026-11-18T18:34:15+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T18:04:05+00:00",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+    },
+    {
+      "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+      "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production.",
+      "source": "The Decoder",
+      "published": "2026-11-18T18:00:33+00:00",
+      "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
+    },
+    {
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous.",
+      "source": "The Verge",
+      "published": "2026-11-18T17:50:57+00:00",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
+    },
+    {
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation across the board.",
+      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
       "source": "Wired",
       "published": "2026-11-18T17:33:07+00:00",
       "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T17:32:10+00:00",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
     },
     {
       "title": "More banks says customers using AI agents are on their own — even if they get hacked",
@@ -21,6 +112,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-18T16:59:00+00:00",
       "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+    },
+    {
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485...",
+      "source": "Hacker News",
+      "published": "2026-11-18T16:41:22+00:00",
+      "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+    },
+    {
+      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "source": "Wired",
+      "published": "2026-11-18T16:35:24+00:00",
+      "link": "https://www.wired.com/story/artex-ai-hacking-tools/"
     },
     {
       "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
@@ -49,6 +154,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-18T16:08:24+00:00",
       "link": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 201 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-11-18T15:49:34+00:00",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
     },
     {
       "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
@@ -122,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 59 # Comments: 73",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 63 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-11-18T13:51:03+00:00",
       "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
@@ -199,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 692 # Comments: 635",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 734 # Comments: 665",
       "source": "Hacker News",
       "published": "2026-11-18T06:47:26+00:00",
       "link": "https://nicolasbouliane.com/blog/death-by-ai"
@@ -213,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 91 # Comments: 48",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 95 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-11-18T01:45:11+00:00",
       "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
@@ -227,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 654 # Comments: 506",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 677 # Comments: 525",
       "source": "Hacker News",
       "published": "2026-11-18T00:17:58+00:00",
       "link": "https://revscope.co/blog/search-seo-geo-2026/"
@@ -311,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 299 # Comments: 394",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 311 # Comments: 421",
       "source": "Hacker News",
       "published": "2026-11-17T21:16:12+00:00",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
@@ -367,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Not Everything Needs an LLM",
-      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 174 # Comments: 72",
+      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 176 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-11-17T18:16:18+00:00",
       "link": "https://newsletter.posthog.com/p/decision-models"
@@ -388,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1327 # Comments: 838",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1332 # Comments: 845",
       "source": "Hacker News",
       "published": "2026-11-17T17:46:43+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
@@ -507,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 190 # Comments: 254",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 255",
       "source": "Hacker News",
       "published": "2026-11-17T14:19:59+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
@@ -878,7 +990,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Knows More Than It Can Offer",
-      "summary": "Article URL: https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e Comments URL: https://news.ycombinator.com/item?id=50507918 Points: 78 # Comments: 48",
+      "summary": "Article URL: https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e Comments URL: https://news.ycombinator.com/item?id=50507918 Points: 88 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-11-15T15:59:23+00:00",
       "link": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e"
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-13T12:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
-    },
-    {
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "source": "Wired",
-      "published": "2026-11-13T11:45:00+00:00",
-      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
-    },
-    {
-      "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 372 # Comments: 239",
-      "source": "Hacker News",
-      "published": "2026-11-13T11:13:46+00:00",
-      "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
-    },
-    {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 494 # Comments: 394",
-      "source": "Hacker News",
-      "published": "2026-11-13T10:18:13+00:00",
-      "link": "https://status.claude.com/incidents/nn11wk485zfn"
-    },
-    {
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "summary": "Scientists have been working on ways to decode brain activity for decades.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-13T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-13T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
-    },
-    {
-      "title": "The Dawn of the Data Intelligence Engineer",
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 160 # Comments: 78",
-      "source": "Hacker News",
-      "published": "2026-11-13T09:08:18+00:00",
-      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/"
-    },
-    {
-      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 90 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-11-13T00:38:41+00:00",
-      "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
-    },
-    {
-      "title": "Why You Should Expect an AI Crash",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 103 # Comments: 84",
-      "source": "Hacker News",
-      "published": "2026-11-12T23:08:31+00:00",
-      "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
-    },
-    {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 357 # Comments: 105",
-      "source": "Hacker News",
-      "published": "2026-11-12T23:06:17+00:00",
-      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
-    },
-    {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T22:42:51+00:00",
-      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
-    },
-    {
-      "title": "Silicon Valley Is Still Defending Jensen Huang",
-      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-      "source": "Wired",
-      "published": "2026-11-12T22:29:43+00:00",
-      "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/"
-    },
-    {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T22:22:28+00:00",
-      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
-    },
-    {
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "source": "Wired",
-      "published": "2026-11-12T22:14:41+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"
-    },
-    {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 439 # Comments: 185",
-      "source": "Hacker News",
-      "published": "2026-11-12T21:56:11+00:00",
-      "link": "https://unemploymentlabs.com/checkpoint-forensics"
-    },
-    {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses.",
-      "source": "The Verge",
-      "published": "2026-11-12T21:55:32+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
-    },
-    {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "source": "TechCrunch",
-      "published": "2026-11-12T21:27:10+00:00",
-      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
     }
   ]
 };
