@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-19T14:10:25.498992+00:00",
+  "lastUpdated": "2026-11-19T17:46:12.533661+00:00",
   "items": [
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T17:38:40+00:00",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    },
+    {
+      "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+      "summary": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers.",
+      "source": "The Decoder",
+      "published": "2026-11-19T17:02:41+00:00",
+      "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+    },
+    {
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "source": "Wired",
+      "published": "2026-11-19T17:00:00+00:00",
+      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T16:59:23+00:00",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
+      "source": "The Verge",
+      "published": "2026-11-19T16:52:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T16:19:41+00:00",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps.",
+      "source": "The Verge",
+      "published": "2026-11-19T15:16:45+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:54:39+00:00",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
+      "source": "The Verge",
+      "published": "2026-11-19T14:25:37+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+    },
     {
       "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
       "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder.",
@@ -10,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
       "source": "TechCrunch",
       "published": "2026-11-19T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-14T15:58:57+00:00",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls"
-    },
-    {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
-      "source": "The Verge",
-      "published": "2026-11-14T15:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-    },
-    {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "source": "Wired",
-      "published": "2026-11-14T13:00:00+00:00",
-      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
-    },
-    {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last.",
-      "source": "The Verge",
-      "published": "2026-11-14T12:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
-    },
-    {
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary.",
-      "source": "The Decoder",
-      "published": "2026-11-14T11:40:51+00:00",
-      "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
-    },
-    {
-      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate.",
-      "source": "The Decoder",
-      "published": "2026-11-14T11:21:41+00:00",
-      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
-    },
-    {
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "source": "Wired",
-      "published": "2026-11-14T11:00:00+00:00",
-      "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
-    },
-    {
-      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark.",
-      "source": "The Decoder",
-      "published": "2026-11-14T09:45:45+00:00",
-      "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
-    },
-    {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "summary": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?What is accessible to learn just from the internet and experimentation, without a degree...",
-      "source": "Hacker News",
-      "published": "2026-11-14T06:56:42+00:00",
-      "link": "https://news.ycombinator.com/item?id=50494696"
-    },
-    {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1113 # Comments: 650",
-      "source": "Hacker News",
-      "published": "2026-11-14T02:52:59+00:00",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
-    },
-    {
-      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 97",
-      "source": "Hacker News",
-      "published": "2026-11-14T00:28:11+00:00",
-      "link": "https://claude.com/resources/articles/projects-redesigned"
     }
   ]
 };
