@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-19T02:09:09.206049+00:00",
+  "lastUpdated": "2026-11-19T08:23:38.210774+00:00",
   "items": [
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -56,6 +56,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-18T22:16:23+00:00",
       "link": "https://www.wired.com/story/guys-really-we-got-this/"
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:11:15+00:00",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
     },
     {
       "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-13T16:00:12+00:00",
       "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-    },
-    {
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "source": "Wired",
-      "published": "2026-11-13T16:00:00+00:00",
-      "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/"
     }
   ]
 };
