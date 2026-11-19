@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-19T21:13:30.701889+00:00",
+  "lastUpdated": "2026-11-19T23:22:00.632257+00:00",
   "items": [
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
+      "source": "The Verge",
+      "published": "2026-11-19T22:31:41+00:00",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
+      "source": "The Verge",
+      "published": "2026-11-19T21:59:35+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+    },
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:58:06+00:00",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+    },
+    {
+      "title": "What’s With All These Outages?",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "source": "Wired",
+      "published": "2026-11-19T21:57:01+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:42:31+00:00",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+    },
+    {
+      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error.",
+      "source": "The Decoder",
+      "published": "2026-11-19T21:15:01+00:00",
+      "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/"
+    },
     {
       "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
       "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him.",
@@ -37,11 +79,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/"
     },
     {
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T19:10:45+00:00",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+    },
+    {
       "title": "Anthropic’s IPO could deliver $156 billion to charity",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "source": "TechCrunch",
       "published": "2026-11-19T19:10:45+00:00",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+    },
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 57 # Comments: 99",
+      "source": "Hacker News",
+      "published": "2026-11-19T18:47:16+00:00",
+      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o"
     },
     {
       "title": "Gemini on Mac can now use your computer",
@@ -101,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome AI features wasting much bandwidth",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 97 # Comments: 38",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 120 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-11-19T16:54:25+00:00",
       "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
@@ -115,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 77 # Comments: 36",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 97 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-11-19T16:45:50+00:00",
       "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
     },
     {
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 333 # Comments: 122",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 444 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-11-19T16:30:18+00:00",
       "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
@@ -136,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 181 # Comments: 165",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 200 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-11-19T15:38:12+00:00",
       "link": "https://thedataexchange.media/pete-warden-moonshine/"
@@ -206,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 101 # Comments: 155",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 102 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-11-19T12:17:10+00:00",
       "link": "https://spectrum.ieee.org/ai-superintelligence-debate"
@@ -262,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 110 # Comments: 82",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 112 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-19T00:57:20+00:00",
       "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM assisted reverse engineering",
-      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 294 # Comments: 74",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 296 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-11-18T22:29:13+00:00",
       "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
@@ -542,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 480 # Comments: 247",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 481 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-11-18T15:49:34+00:00",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
@@ -696,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 801 # Comments: 709",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 801 # Comments: 710",
       "source": "Hacker News",
       "published": "2026-11-18T06:47:26+00:00",
       "link": "https://nicolasbouliane.com/blog/death-by-ai"
@@ -808,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 322 # Comments: 455",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 323 # Comments: 457",
       "source": "Hacker News",
       "published": "2026-11-17T21:16:12+00:00",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-15T23:30:00+00:00",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
-    },
-    {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "source": "TechCrunch",
-      "published": "2026-11-15T21:56:35+00:00",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
-    },
-    {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
-      "source": "The Verge",
-      "published": "2026-11-15T20:43:49+00:00",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
-    },
-    {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 69 # Comments: 67",
-      "source": "Hacker News",
-      "published": "2026-11-15T19:39:46+00:00",
-      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
-    },
-    {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
-      "source": "The Verge",
-      "published": "2026-11-15T19:15:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-    },
-    {
-      "title": "When AI Knows More Than It Can Offer",
-      "summary": "Article URL: https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e Comments URL: https://news.ycombinator.com/item?id=50507918 Points: 90 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-11-15T15:59:23+00:00",
-      "link": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do.",
-      "source": "The Decoder",
-      "published": "2026-11-15T15:42:03+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
-    },
-    {
-      "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1281 # Comments: 671",
-      "source": "Hacker News",
-      "published": "2026-11-15T14:46:58+00:00",
-      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
-    },
-    {
-      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
-      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
-      "source": "The Decoder",
-      "published": "2026-11-15T14:45:12+00:00",
-      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
     }
   ]
 };
