@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-19T08:23:38.210774+00:00",
+  "lastUpdated": "2026-11-19T14:10:25.498992+00:00",
   "items": [
+    {
+      "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+      "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder.",
+      "source": "The Decoder",
+      "published": "2026-11-19T14:02:22+00:00",
+      "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/"
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
+    },
+    {
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-19T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
+    },
+    {
+      "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+      "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks.",
+      "source": "The Decoder",
+      "published": "2026-11-19T13:08:35+00:00",
+      "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/"
+    },
+    {
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4.",
+      "source": "The Verge",
+      "published": "2026-11-19T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
+    },
+    {
+      "title": "Canva adds an AI ‘off’ button",
+      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.",
+      "source": "The Verge",
+      "published": "2026-11-19T12:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
+    },
+    {
+      "title": "The AI Superintelligence Debate Has Serious Flaws",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 72 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-11-19T12:17:10+00:00",
+      "link": "https://spectrum.ieee.org/ai-superintelligence-debate"
+    },
+    {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-19T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
+    },
+    {
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "source": "Wired",
+      "published": "2026-11-19T12:00:00+00:00",
+      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+    },
+    {
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price.",
+      "source": "The Decoder",
+      "published": "2026-11-19T11:18:18+00:00",
+      "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/"
+    },
+    {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "source": "Ars Technica",
+      "published": "2026-11-19T11:13:01+00:00",
+      "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+    },
+    {
+      "title": "What a billion-dollar deal says about the US battery market",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-19T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
+    },
+    {
+      "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
+      "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-19T09:28:01+00:00",
+      "link": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/"
+    },
+    {
+      "title": "AI will not make you rich (2025)",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 103 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-11-19T01:51:28+00:00",
+      "link": "https://colossus.com/article/ai-will-not-make-you-rich/"
+    },
+    {
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 104 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-11-19T00:57:20+00:00",
+      "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
@@ -45,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM assisted reverse engineering",
-      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 59 # Comments: 13",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 266 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-11-18T22:29:13+00:00",
       "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
@@ -219,6 +324,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
     },
     {
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh).",
+      "source": "Hacker News",
+      "published": "2026-11-18T17:26:28+00:00",
+      "link": "https://news.ycombinator.com/item?id=50549188"
+    },
+    {
       "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
       "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
       "source": "TechCrunch",
@@ -269,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 358 # Comments: 163",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 475 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-11-18T15:49:34+00:00",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
@@ -346,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 66 # Comments: 78",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 67 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-18T13:51:03+00:00",
       "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
@@ -423,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 759 # Comments: 684",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 793 # Comments: 701",
       "source": "Hacker News",
       "published": "2026-11-18T06:47:26+00:00",
       "link": "https://nicolasbouliane.com/blog/death-by-ai"
@@ -437,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 95 # Comments: 57",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 97 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-11-18T01:45:11+00:00",
       "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
@@ -451,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 689 # Comments: 539",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 705 # Comments: 556",
       "source": "Hacker News",
       "published": "2026-11-18T00:17:58+00:00",
       "link": "https://revscope.co/blog/search-seo-geo-2026/"
@@ -535,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 319 # Comments: 440",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 321 # Comments: 444",
       "source": "Hacker News",
       "published": "2026-11-17T21:16:12+00:00",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
@@ -591,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Not Everything Needs an LLM",
-      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 180 # Comments: 74",
+      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 185 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-11-17T18:16:18+00:00",
       "link": "https://newsletter.posthog.com/p/decision-models"
@@ -612,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1337 # Comments: 851",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1341 # Comments: 853",
       "source": "Hacker News",
       "published": "2026-11-17T17:46:43+00:00",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
@@ -731,7 +843,7 @@ const FEED_DATA = {
     },
     {
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 256",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-11-17T14:19:59+00:00",
       "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-14T00:28:11+00:00",
       "link": "https://claude.com/resources/articles/projects-redesigned"
-    },
-    {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-      "source": "The Verge",
-      "published": "2026-11-13T23:49:11+00:00",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "source": "TechCrunch",
-      "published": "2026-11-13T22:43:00+00:00",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
-      "source": "The Verge",
-      "published": "2026-11-13T20:45:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-    },
-    {
-      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
-      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally.",
-      "source": "The Decoder",
-      "published": "2026-11-13T20:07:34+00:00",
-      "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
-    },
-    {
-      "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 230 # Comments: 139",
-      "source": "Hacker News",
-      "published": "2026-11-13T19:51:56+00:00",
-      "link": "https://www.slopmanifesto.com/"
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch",
-      "published": "2026-11-13T19:37:57+00:00",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-    },
-    {
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "source": "Wired",
-      "published": "2026-11-13T19:08:57+00:00",
-      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
-    },
-    {
-      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens.",
-      "source": "The Decoder",
-      "published": "2026-11-13T18:55:21+00:00",
-      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "source": "TechCrunch",
-      "published": "2026-11-13T18:40:30+00:00",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-    },
-    {
-      "title": "The avalanche that hit math is coming for AI development",
-      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 68 # Comments: 119",
-      "source": "Hacker News",
-      "published": "2026-11-13T18:39:42+00:00",
-      "link": "https://www.dwarkesh.com/p/rsi"
-    },
-    {
-      "title": "Are we just going to ignore that books are destroyed for AI?",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 61 # Comments: 75",
-      "source": "Hacker News",
-      "published": "2026-11-13T18:14:38+00:00",
-      "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
-    },
-    {
-      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S.",
-      "source": "The Decoder",
-      "published": "2026-11-13T18:01:53+00:00",
-      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/"
-    },
-    {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 444 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-11-13T17:30:10+00:00",
-      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
-    },
-    {
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval.",
-      "source": "The Decoder",
-      "published": "2026-11-13T16:37:01+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/"
-    },
-    {
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "source": "Ars Technica",
-      "published": "2026-11-13T16:26:32+00:00",
-      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
-    },
-    {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "TechCrunch",
-      "published": "2026-11-13T16:00:12+00:00",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
     }
   ]
 };
