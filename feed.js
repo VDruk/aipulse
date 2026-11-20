@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-20T08:04:35.645827+00:00",
+  "lastUpdated": "2026-11-20T13:52:45.054980+00:00",
   "items": [
+    {
+      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks.",
+      "source": "The Decoder",
+      "published": "2026-11-20T13:19:31+00:00",
+      "link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-20T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
+      "source": "The Verge",
+      "published": "2026-11-20T12:30:47+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    },
+    {
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "source": "Wired",
+      "published": "2026-11-20T12:00:00+00:00",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 272 # Comments: 179",
+      "source": "Hacker News",
+      "published": "2026-11-20T10:01:41+00:00",
+      "link": "https://architectlabs.com/blog/frostbite"
+    },
+    {
+      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-20T09:59:51+00:00",
+      "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+    },
     {
       "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
       "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
@@ -24,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 64 # Comments: 18",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 66 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-11-19T22:56:59+00:00",
       "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
@@ -122,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 101 # Comments: 200",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 110 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-11-19T18:47:16+00:00",
       "link": "https://www.youtube.com/watch?v=lwfewYL7X0o"
@@ -140,6 +182,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-19T18:09:11+00:00",
       "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    },
+    {
+      "title": "AI came for the coders. Understanding why tells us who's next",
+      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 57 # Comments: 65",
+      "source": "Hacker News",
+      "published": "2026-11-19T17:43:38+00:00",
+      "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
     },
     {
       "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
@@ -185,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome AI features wasting much bandwidth",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 128 # Comments: 49",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 131 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-11-19T16:54:25+00:00",
       "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
@@ -199,21 +248,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 133 # Comments: 67",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 141 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-11-19T16:45:50+00:00",
       "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
     },
     {
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 533 # Comments: 216",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 571 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-11-19T16:30:18+00:00",
       "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
     },
     {
       "title": "US Intelligence Hawks Plot to Sneak Through Warrantless Spying",
-      "summary": "Article URL: https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/ Comments URL: https://news.ycombinator.com/item?id=50562242 Points: 56 # Comments: 6",
+      "summary": "Article URL: https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/ Comments URL: https://news.ycombinator.com/item?id=50562242 Points: 58 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-11-19T16:29:16+00:00",
       "link": "https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/"
@@ -226,8 +275,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
     },
     {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 226 # Comments: 210",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 263 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-11-19T15:38:12+00:00",
       "link": "https://thedataexchange.media/pete-warden-moonshine/"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 102 # Comments: 159",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 104 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-11-19T12:17:10+00:00",
       "link": "https://spectrum.ieee.org/ai-superintelligence-debate"
@@ -346,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI will not make you rich (2025)",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 107 # Comments: 68",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 107 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-11-19T01:51:28+00:00",
       "link": "https://colossus.com/article/ai-will-not-make-you-rich/"
     },
     {
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 117 # Comments: 89",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 117 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-11-19T00:57:20+00:00",
       "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
@@ -402,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM assisted reverse engineering",
-      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 302 # Comments: 77",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 307 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-11-18T22:29:13+00:00",
       "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
@@ -633,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 489 # Comments: 258",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 492 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-11-18T15:49:34+00:00",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
@@ -710,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 67 # Comments: 83",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 67 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-11-18T13:51:03+00:00",
       "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
@@ -787,7 +836,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 806 # Comments: 710",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 810 # Comments: 711",
       "source": "Hacker News",
       "published": "2026-11-18T06:47:26+00:00",
       "link": "https://nicolasbouliane.com/blog/death-by-ai"
@@ -815,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 563",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 564",
       "source": "Hacker News",
       "published": "2026-11-18T00:17:58+00:00",
       "link": "https://revscope.co/blog/search-seo-geo-2026/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-16T15:02:34+00:00",
       "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
-    },
-    {
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T14:48:13+00:00",
-      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
-    },
-    {
-      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it.",
-      "source": "The Verge",
-      "published": "2026-11-16T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability"
-    },
-    {
-      "title": "Google Maps can now create trip itineraries for you",
-      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
-      "source": "The Verge",
-      "published": "2026-11-16T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
-    },
-    {
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet?",
-      "source": "MIT Tech Review",
-      "published": "2026-11-16T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
-    },
-    {
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-16T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
-    },
-    {
-      "title": "The Nvidia scandal isn’t slowing down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
-      "source": "The Verge",
-      "published": "2026-11-16T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
-    },
-    {
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
     }
   ]
 };
