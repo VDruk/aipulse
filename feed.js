@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-21T07:58:49.463267+00:00",
+  "lastUpdated": "2026-11-21T13:16:39.741033+00:00",
   "items": [
+    {
+      "title": "The Outages Are Just Getting Started",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "source": "Wired",
+      "published": "2026-11-21T13:00:00+00:00",
+      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+    },
+    {
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages.",
+      "source": "The Decoder",
+      "published": "2026-11-21T11:19:49+00:00",
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+    },
+    {
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text.",
+      "source": "The Decoder",
+      "published": "2026-11-21T10:33:02+00:00",
+      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
+    },
+    {
+      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO.",
+      "source": "The Decoder",
+      "published": "2026-11-21T10:27:44+00:00",
+      "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/"
+    },
+    {
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases.",
+      "source": "The Decoder",
+      "published": "2026-11-21T09:17:24+00:00",
+      "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 105 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-11-21T05:38:01+00:00",
+      "link": "http://ricapar.net/ClawDOS/"
+    },
+    {
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 60 # Comments: 5",
+      "source": "Hacker News",
+      "published": "2026-11-20T21:18:46+00:00",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"
+    },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
@@ -65,6 +114,20 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     },
     {
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 277 # Comments: 214",
+      "source": "Hacker News",
+      "published": "2026-11-20T16:59:27+00:00",
+      "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
+    },
+    {
+      "title": "AI is giving everyone the same advice",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 96 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-11-20T16:58:05+00:00",
+      "link": "https://a90.com/experiments/same-advice/"
+    },
+    {
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
       "source": "The Verge",
@@ -107,6 +170,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
     },
     {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 366 # Comments: 665",
+      "source": "Hacker News",
+      "published": "2026-11-20T13:29:59+00:00",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    },
+    {
       "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
       "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 147 # Comments: 154",
       "source": "Hacker News",
@@ -135,6 +205,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
     },
     {
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 58 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-11-20T12:16:36+00:00",
+      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai"
+    },
+    {
       "title": "Muse Is Unleashing a World of Pettiness on Instagram",
       "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
       "source": "Wired",
@@ -143,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 466 # Comments: 268",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 651 # Comments: 340",
       "source": "Hacker News",
       "published": "2026-11-20T10:01:41+00:00",
       "link": "https://architectlabs.com/blog/frostbite"
@@ -154,6 +231,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-20T09:59:51+00:00",
       "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+    },
+    {
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 556 # Comments: 327",
+      "source": "Hacker News",
+      "published": "2026-11-20T09:42:16+00:00",
+      "link": "https://signal.org/blog/protecting-your-privacy/"
     },
     {
       "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
@@ -178,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 67 # Comments: 19",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 69 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-11-19T22:56:59+00:00",
       "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
@@ -276,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 110 # Comments: 231",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 114 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-11-19T18:47:16+00:00",
       "link": "https://www.youtube.com/watch?v=lwfewYL7X0o"
     },
     {
       "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 50 # Comments: 29",
+      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 51 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-11-19T18:42:13+00:00",
       "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/"
@@ -304,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI came for the coders. Understanding why tells us who's next",
-      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 59 # Comments: 72",
+      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 68 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-11-19T17:43:38+00:00",
       "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
@@ -353,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome AI features wasting much bandwidth",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 131 # Comments: 51",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 133 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-11-19T16:54:25+00:00",
       "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
@@ -367,21 +451,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 142 # Comments: 77",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 146 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-19T16:45:50+00:00",
       "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
     },
     {
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 582 # Comments: 238",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 609 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-11-19T16:30:18+00:00",
       "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
     },
     {
       "title": "US Intelligence Hawks Plot to Sneak Through Warrantless Spying",
-      "summary": "Article URL: https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/ Comments URL: https://news.ycombinator.com/item?id=50562242 Points: 60 # Comments: 6",
+      "summary": "Article URL: https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/ Comments URL: https://news.ycombinator.com/item?id=50562242 Points: 61 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-11-19T16:29:16+00:00",
       "link": "https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/"
@@ -395,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 265 # Comments: 242",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-11-19T15:38:12+00:00",
       "link": "https://thedataexchange.media/pete-warden-moonshine/"
@@ -465,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 104 # Comments: 162",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 105 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-11-19T12:17:10+00:00",
       "link": "https://spectrum.ieee.org/ai-superintelligence-debate"
@@ -514,14 +598,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI will not make you rich (2025)",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 108 # Comments: 69",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 108 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-11-19T01:51:28+00:00",
       "link": "https://colossus.com/article/ai-will-not-make-you-rich/"
     },
     {
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 118 # Comments: 90",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 118 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-11-19T00:57:20+00:00",
       "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-16T23:32:32+00:00",
       "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-    },
-    {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.",
-      "source": "The Verge",
-      "published": "2026-11-16T23:17:34+00:00",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T22:03:02+00:00",
-      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.",
-      "source": "The Verge",
-      "published": "2026-11-16T20:46:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
-    },
-    {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today.",
-      "source": "The Verge",
-      "published": "2026-11-16T20:41:28+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:37:47+00:00",
-      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
-    },
-    {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows.",
-      "source": "The Verge",
-      "published": "2026-11-16T20:27:58+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T20:07:13+00:00",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-    },
-    {
-      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
-      "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all.",
-      "source": "The Decoder",
-      "published": "2026-11-16T19:42:13+00:00",
-      "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/"
-    },
-    {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
-      "source": "The Verge",
-      "published": "2026-11-16T19:24:40+00:00",
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
-    },
-    {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
-      "source": "The Verge",
-      "published": "2026-11-16T19:23:45+00:00",
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof.",
-      "source": "The Decoder",
-      "published": "2026-11-16T19:19:56+00:00",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/"
-    },
-    {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T19:12:02+00:00",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
     }
   ]
 };
