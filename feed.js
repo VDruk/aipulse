@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-21T01:53:36.999676+00:00",
+  "lastUpdated": "2026-11-21T07:58:49.463267+00:00",
   "items": [
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
