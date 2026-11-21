@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-21T13:16:39.741033+00:00",
+  "lastUpdated": "2026-11-21T16:27:31.446336+00:00",
   "items": [
+    {
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative.",
+      "source": "The Decoder",
+      "published": "2026-11-21T16:23:45+00:00",
+      "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
+    },
+    {
+      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+      "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image.",
+      "source": "The Decoder",
+      "published": "2026-11-21T16:04:29+00:00",
+      "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "source": "TechCrunch",
+      "published": "2026-11-21T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
+      "source": "The Verge",
+      "published": "2026-11-21T15:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word.",
+      "source": "The Verge",
+      "published": "2026-11-21T14:00:00+00:00",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
+    {
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding.",
+      "source": "The Decoder",
+      "published": "2026-11-21T13:32:35+00:00",
+      "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/"
+    },
     {
       "title": "The Outages Are Just Getting Started",
       "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
@@ -38,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 105 # Comments: 28",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 127 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-11-21T05:38:01+00:00",
       "link": "http://ricapar.net/ClawDOS/"
     },
     {
       "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 60 # Comments: 5",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 62 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-11-20T21:18:46+00:00",
       "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"
@@ -115,14 +157,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 277 # Comments: 214",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 277 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-11-20T16:59:27+00:00",
       "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
     },
     {
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 96 # Comments: 38",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 108 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-11-20T16:58:05+00:00",
       "link": "https://a90.com/experiments/same-advice/"
@@ -171,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 366 # Comments: 665",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 422 # Comments: 748",
       "source": "Hacker News",
       "published": "2026-11-20T13:29:59+00:00",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
@@ -220,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 651 # Comments: 340",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 657 # Comments: 343",
       "source": "Hacker News",
       "published": "2026-11-20T10:01:41+00:00",
       "link": "https://architectlabs.com/blog/frostbite"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 556 # Comments: 327",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 559 # Comments: 329",
       "source": "Hacker News",
       "published": "2026-11-20T09:42:16+00:00",
       "link": "https://signal.org/blog/protecting-your-privacy/"
@@ -360,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 114 # Comments: 246",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 114 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-11-19T18:47:16+00:00",
       "link": "https://www.youtube.com/watch?v=lwfewYL7X0o"
@@ -458,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 609 # Comments: 249",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 613 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-11-19T16:30:18+00:00",
       "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
@@ -479,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 247",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-11-19T15:38:12+00:00",
       "link": "https://thedataexchange.media/pete-warden-moonshine/"
@@ -605,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 118 # Comments: 92",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 119 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-11-19T00:57:20+00:00",
       "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-17T14:05:30+00:00",
       "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
-    },
-    {
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "source": "Ars Technica",
-      "published": "2026-11-17T14:00:29+00:00",
-      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
-    },
-    {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
-    },
-    {
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-17T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
-    },
-    {
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "source": "Wired",
-      "published": "2026-11-17T11:00:00+00:00",
-      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/"
-    },
-    {
-      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-      "source": "Wired",
-      "published": "2026-11-17T10:47:45+00:00",
-      "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "source": "TechCrunch",
-      "published": "2026-11-16T23:32:32+00:00",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
     }
   ]
 };
