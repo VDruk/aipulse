@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-22T07:45:19.958634+00:00",
+  "lastUpdated": "2026-11-22T13:07:11.924949+00:00",
   "items": [
+    {
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure.",
+      "source": "The Decoder",
+      "published": "2026-11-22T13:00:43+00:00",
+      "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+    },
+    {
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests.",
+      "source": "The Decoder",
+      "published": "2026-11-22T12:07:56+00:00",
+      "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+    },
+    {
+      "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code.",
+      "source": "The Decoder",
+      "published": "2026-11-22T11:08:31+00:00",
+      "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "source": "Wired",
+      "published": "2026-11-22T11:00:00+00:00",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    },
+    {
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency.",
+      "source": "The Decoder",
+      "published": "2026-11-22T09:41:37+00:00",
+      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+    },
+    {
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 87 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-11-22T05:11:43+00:00",
+      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 86 # Comments: 185",
+      "source": "Hacker News",
+      "published": "2026-11-22T02:10:02+00:00",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -17,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 72 # Comments: 14",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 108 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-11-21T20:47:41+00:00",
       "link": "https://www.pandex.io"
@@ -115,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 162 # Comments: 51",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 166 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-11-21T05:38:01+00:00",
       "link": "http://ricapar.net/ClawDOS/"
     },
     {
       "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 53 # Comments: 6",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 56 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-20T21:53:39+00:00",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
@@ -199,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 281 # Comments: 228",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 282 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-11-20T16:59:27+00:00",
       "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
     },
     {
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 123 # Comments: 51",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 124 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-11-20T16:58:05+00:00",
       "link": "https://a90.com/experiments/same-advice/"
@@ -255,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 509 # Comments: 891",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 514 # Comments: 900",
       "source": "Hacker News",
       "published": "2026-11-20T13:29:59+00:00",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
@@ -304,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 670 # Comments: 359",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 671 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-11-20T10:01:41+00:00",
       "link": "https://architectlabs.com/blog/frostbite"
@@ -318,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 574 # Comments: 339",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 576 # Comments: 342",
       "source": "Hacker News",
       "published": "2026-11-20T09:42:16+00:00",
       "link": "https://signal.org/blog/protecting-your-privacy/"
@@ -346,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 70 # Comments: 21",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 71 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-11-19T22:56:59+00:00",
       "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-17T16:44:15+00:00",
       "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
-    },
-    {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T16:32:55+00:00",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year.",
-      "source": "The Verge",
-      "published": "2026-11-17T16:19:03+00:00",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.",
-      "source": "The Verge",
-      "published": "2026-11-17T16:09:57+00:00",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
-    },
-    {
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "summary": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium.",
-      "source": "Hacker News",
-      "published": "2026-11-17T16:01:04+00:00",
-      "link": "https://github.com/RunanywhereAI/trnrt"
-    },
-    {
-      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
-      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software.",
-      "source": "The Decoder",
-      "published": "2026-11-17T15:02:03+00:00",
-      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
-    },
-    {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
-    },
-    {
-      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
-      "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail.",
-      "source": "The Decoder",
-      "published": "2026-11-17T14:59:50+00:00",
-      "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/"
     }
   ]
 };
