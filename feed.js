@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-22T16:44:17.652033+00:00",
+  "lastUpdated": "2026-11-22T20:11:09.292323+00:00",
   "items": [
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
+      "source": "The Verge",
+      "published": "2026-11-22T17:25:20+00:00",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    },
     {
       "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
       "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-17T17:32:25+00:00",
       "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
-    },
-    {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T17:20:41+00:00",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
     }
   ]
 };
