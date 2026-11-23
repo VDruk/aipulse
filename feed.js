@@ -1,12 +1,138 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-23T08:34:31.866038+00:00",
+  "lastUpdated": "2026-11-23T15:44:43.840432+00:00",
   "items": [
+    {
+      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+      "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters.",
+      "source": "The Decoder",
+      "published": "2026-11-23T15:13:03+00:00",
+      "link": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+    },
+    {
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T15:04:01+00:00",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+    },
+    {
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-23T14:43:23+00:00",
+      "link": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T14:43:03+00:00",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    },
+    {
+      "title": "Jensen Huang Is Back as Nvidia CEO",
+      "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+      "source": "Wired",
+      "published": "2026-11-23T14:27:35+00:00",
+      "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+    },
+    {
+      "title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+      "summary": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately. The article Nvidia tried life without Jensen Huang and it lasted about two weeks appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-23T14:24:47+00:00",
+      "link": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+    },
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T14:21:59+00:00",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+    },
+    {
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr.",
+      "source": "The Verge",
+      "published": "2026-11-23T14:04:24+00:00",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+    },
+    {
+      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.",
+      "source": "The Decoder",
+      "published": "2026-11-23T13:59:36+00:00",
+      "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+    },
+    {
+      "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "summary": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang.",
+      "source": "The Decoder",
+      "published": "2026-11-23T13:45:32+00:00",
+      "link": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+    },
+    {
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "source": "Wired",
+      "published": "2026-11-23T13:11:48+00:00",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-23T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+    },
+    {
+      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 59 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-11-23T12:41:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
+    },
+    {
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib.",
+      "source": "The Decoder",
+      "published": "2026-11-23T12:17:01+00:00",
+      "link": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+    },
+    {
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it?",
+      "source": "Wired",
+      "published": "2026-11-23T12:00:00+00:00",
+      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/"
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant.",
+      "source": "The Verge",
+      "published": "2026-11-23T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+    },
+    {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+      "source": "Wired",
+      "published": "2026-11-23T11:00:00+00:00",
+      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+    },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "source": "TechCrunch",
       "published": "2026-11-23T01:25:53+00:00",
       "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 67 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-11-22T23:53:00+00:00",
+      "link": "https://0rwx.com/"
     },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -17,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 185 # Comments: 69",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 644 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "title": "Harvard CS 2881R AI Safety",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 75 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-11-22T18:01:54+00:00",
+      "link": "https://boazbk.github.io/mltheoryseminar/"
     },
     {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -31,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 471 # Comments: 328",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 649 # Comments: 418",
       "source": "Hacker News",
       "published": "2026-11-22T17:06:27+00:00",
       "link": "https://openai.com/index/perplexity-and-intelligence/"
@@ -52,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 268 # Comments: 62",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 350 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-22T13:56:58+00:00",
       "link": "https://github.com/gulivan/worker755"
@@ -66,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is becoming a disaster for the climate",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 101 # Comments: 44",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 131 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-11-22T12:19:46+00:00",
       "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
@@ -94,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 70 # Comments: 11",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 77 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-11-22T09:57:01+00:00",
       "link": "https://simonwillison.net/2026/Nov/21/muru/"
@@ -108,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 101 # Comments: 22",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 104 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-11-22T05:11:43+00:00",
       "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
     },
     {
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 165 # Comments: 474",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 179 # Comments: 530",
       "source": "Hacker News",
       "published": "2026-11-22T02:10:02+00:00",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
@@ -136,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 139 # Comments: 33",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 140 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-11-21T20:47:41+00:00",
       "link": "https://www.pandex.io"
@@ -234,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 174 # Comments: 52",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 175 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-11-21T05:38:01+00:00",
       "link": "http://ricapar.net/ClawDOS/"
     },
     {
       "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 61 # Comments: 8",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 67 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-20T21:53:39+00:00",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
@@ -318,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 283 # Comments: 229",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 284 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-11-20T16:59:27+00:00",
       "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
     },
     {
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 124 # Comments: 53",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 125 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-11-20T16:58:05+00:00",
       "link": "https://a90.com/experiments/same-advice/"
@@ -374,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 527 # Comments: 920",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 927",
       "source": "Hacker News",
       "published": "2026-11-20T13:29:59+00:00",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
@@ -423,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 678 # Comments: 362",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 682 # Comments: 364",
       "source": "Hacker News",
       "published": "2026-11-20T10:01:41+00:00",
       "link": "https://architectlabs.com/blog/frostbite"
@@ -437,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 578 # Comments: 346",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 581 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-11-20T09:42:16+00:00",
       "link": "https://signal.org/blog/protecting-your-privacy/"
@@ -1267,139 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-18T01:44:21+00:00",
       "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
-    },
-    {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 564",
-      "source": "Hacker News",
-      "published": "2026-11-18T00:17:58+00:00",
-      "link": "https://revscope.co/blog/search-seo-geo-2026/"
-    },
-    {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T00:16:50+00:00",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
-    },
-    {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it.",
-      "source": "The Verge",
-      "published": "2026-11-17T23:41:18+00:00",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "source": "TechCrunch",
-      "published": "2026-11-17T23:37:48+00:00",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T23:04:35+00:00",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T22:42:27+00:00",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
-    },
-    {
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "source": "Ars Technica",
-      "published": "2026-11-17T22:32:16+00:00",
-      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T22:29:05+00:00",
-      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
-    },
-    {
-      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
-      "source": "Wired",
-      "published": "2026-11-17T22:19:19+00:00",
-      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T21:48:07+00:00",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
-    },
-    {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.",
-      "source": "The Verge",
-      "published": "2026-11-17T21:40:59+00:00",
-      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
-    },
-    {
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T21:34:50+00:00",
-      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
-    },
-    {
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 325 # Comments: 459",
-      "source": "Hacker News",
-      "published": "2026-11-17T21:16:12+00:00",
-      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
-    },
-    {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
-      "source": "The Verge",
-      "published": "2026-11-17T21:00:55+00:00",
-      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
-    },
-    {
-      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors.",
-      "source": "The Decoder",
-      "published": "2026-11-17T20:30:50+00:00",
-      "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
-    },
-    {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T19:32:11+00:00",
-      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
-    },
-    {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T19:02:20+00:00",
-      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
-    },
-    {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use.",
-      "source": "The Verge",
-      "published": "2026-11-17T18:58:01+00:00",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-    },
-    {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T18:48:23+00:00",
-      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
     }
   ]
 };
