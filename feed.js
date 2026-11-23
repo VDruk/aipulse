@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-23T01:16:55.642503+00:00",
+  "lastUpdated": "2026-11-23T08:34:31.866038+00:00",
   "items": [
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T01:25:53+00:00",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
@@ -611,18 +618,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
     },
     {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-    },
-    {
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
       "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
       "source": "Wired",
       "published": "2026-11-19T17:00:00+00:00",
       "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "source": "TechCrunch",
+      "published": "2026-11-19T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
     },
     {
       "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-17T18:48:23+00:00",
       "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-17T18:46:47+00:00",
-      "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
     }
   ]
 };
