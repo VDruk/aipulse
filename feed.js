@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-23T15:44:43.840432+00:00",
+  "lastUpdated": "2026-11-23T20:38:37.259486+00:00",
   "items": [
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "source": "TechCrunch",
+      "published": "2026-11-23T19:14:46+00:00",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    },
+    {
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+      "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports.",
+      "source": "The Decoder",
+      "published": "2026-11-23T18:47:53+00:00",
+      "link": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+    },
+    {
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds.",
+      "source": "The Decoder",
+      "published": "2026-11-23T18:42:38+00:00",
+      "link": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/"
+    },
+    {
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T18:12:22+00:00",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    },
+    {
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+      "source": "Wired",
+      "published": "2026-11-23T17:52:56+00:00",
+      "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-23T17:36:08+00:00",
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T17:14:23+00:00",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T16:39:10+00:00",
+      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    },
+    {
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was.",
+      "source": "The Verge",
+      "published": "2026-11-23T16:30:11+00:00",
+      "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+    },
     {
       "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
       "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters.",
@@ -10,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
       "source": "TechCrunch",
       "published": "2026-11-23T15:04:01+00:00",
       "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-18T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
-    },
-    {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
-    },
-    {
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T11:30:00+00:00",
-      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
-    },
-    {
-      "title": "Suno now lets you make AI videos for your AI music",
-      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform.",
-      "source": "The Verge",
-      "published": "2026-11-18T11:16:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
-    },
-    {
-      "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
-      "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-18T10:22:45+00:00",
-      "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/"
-    },
-    {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-18T10:20:30+00:00",
-      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-    },
-    {
-      "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 812 # Comments: 711",
-      "source": "Hacker News",
-      "published": "2026-11-18T06:47:26+00:00",
-      "link": "https://nicolasbouliane.com/blog/death-by-ai"
-    },
-    {
-      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-      "source": "Wired",
-      "published": "2026-11-18T05:01:00+00:00",
-      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
-    },
-    {
-      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 98 # Comments: 58",
-      "source": "Hacker News",
-      "published": "2026-11-18T01:45:11+00:00",
-      "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
-    },
-    {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T01:44:21+00:00",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
     }
   ]
 };
