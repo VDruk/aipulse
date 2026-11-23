@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-22T22:15:45.763865+00:00",
+  "lastUpdated": "2026-11-23T01:16:55.642503+00:00",
   "items": [
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -9,11 +9,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
     },
     {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 185 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-11-22T21:01:16+00:00",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
       "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
       "source": "The Verge",
       "published": "2026-11-22T17:25:20+00:00",
       "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 471 # Comments: 328",
+      "source": "Hacker News",
+      "published": "2026-11-22T17:06:27+00:00",
+      "link": "https://openai.com/index/perplexity-and-intelligence/"
     },
     {
       "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 101 # Comments: 23",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 268 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-11-22T13:56:58+00:00",
       "link": "https://github.com/gulivan/worker755"
@@ -42,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-22T13:00:43+00:00",
       "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+    },
+    {
+      "title": "AI is becoming a disaster for the climate",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 101 # Comments: 44",
+      "source": "Hacker News",
+      "published": "2026-11-22T12:19:46+00:00",
+      "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
     },
     {
       "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
@@ -65,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
     },
     {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 70 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-11-22T09:57:01+00:00",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/"
+    },
+    {
       "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
       "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency.",
       "source": "The Decoder",
@@ -73,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 91 # Comments: 21",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 101 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-11-22T05:11:43+00:00",
       "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
     },
     {
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 124 # Comments: 328",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 165 # Comments: 474",
       "source": "Hacker News",
       "published": "2026-11-22T02:10:02+00:00",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 125 # Comments: 31",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 139 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-11-21T20:47:41+00:00",
       "link": "https://www.pandex.io"
@@ -199,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 167 # Comments: 52",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 174 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-11-21T05:38:01+00:00",
       "link": "http://ricapar.net/ClawDOS/"
     },
     {
       "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 59 # Comments: 8",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 61 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-20T21:53:39+00:00",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
@@ -339,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 521 # Comments: 910",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 527 # Comments: 920",
       "source": "Hacker News",
       "published": "2026-11-20T13:29:59+00:00",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
@@ -374,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Epic Games Turns to AI Coding for the Unreal Engine",
-      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 58 # Comments: 60",
+      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 58 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-11-20T12:16:36+00:00",
       "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai"
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 674 # Comments: 362",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 678 # Comments: 362",
       "source": "Hacker News",
       "published": "2026-11-20T10:01:41+00:00",
       "link": "https://architectlabs.com/blog/frostbite"
@@ -402,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 577 # Comments: 345",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 578 # Comments: 346",
       "source": "Hacker News",
       "published": "2026-11-20T09:42:16+00:00",
       "link": "https://signal.org/blog/protecting-your-privacy/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-11-17T18:46:47+00:00",
       "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
-    },
-    {
-      "title": "Not Everything Needs an LLM",
-      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 186 # Comments: 75",
-      "source": "Hacker News",
-      "published": "2026-11-17T18:16:18+00:00",
-      "link": "https://newsletter.posthog.com/p/decision-models"
-    },
-    {
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T18:10:00+00:00",
-      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
-    },
-    {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "source": "TechCrunch",
-      "published": "2026-11-17T18:04:16+00:00",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
-    },
-    {
-      "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1345 # Comments: 860",
-      "source": "Hacker News",
-      "published": "2026-11-17T17:46:43+00:00",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
     }
   ]
 };
