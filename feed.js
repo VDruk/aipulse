@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-24T03:07:00.285908+00:00",
+  "lastUpdated": "2026-11-24T05:05:45.656914+00:00",
   "items": [
     {
       "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -142,6 +142,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
     },
     {
+      "title": "How should an LLM see a computer?",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 50 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-11-23T17:19:25+00:00",
+      "link": "https://www.greptile.com/blog/trex-computer-use"
+    },
+    {
       "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
       "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
       "source": "TechCrunch",
@@ -248,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 74 # Comments: 81",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 74 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-23T12:41:14+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
@@ -304,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 743 # Comments: 297",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 748 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
     },
     {
       "title": "Harvard CS 2881R AI Safety",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 78 # Comments: 8",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 79 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-22T18:01:54+00:00",
       "link": "https://boazbk.github.io/mltheoryseminar/"
@@ -325,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 695 # Comments: 441",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 699 # Comments: 442",
       "source": "Hacker News",
       "published": "2026-11-22T17:06:27+00:00",
       "link": "https://openai.com/index/perplexity-and-intelligence/"
@@ -409,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 180 # Comments: 543",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 180 # Comments: 547",
       "source": "Hacker News",
       "published": "2026-11-22T02:10:02+00:00",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
@@ -535,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 69 # Comments: 8",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 70 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-20T21:53:39+00:00",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
@@ -668,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 931",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 932",
       "source": "Hacker News",
       "published": "2026-11-20T13:29:59+00:00",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-18T15:47:49+00:00",
       "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/"
-    },
-    {
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws.",
-      "source": "The Verge",
-      "published": "2026-11-18T15:44:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
     }
   ]
 };
