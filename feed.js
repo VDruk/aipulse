@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-24T15:35:59.715855+00:00",
+  "lastUpdated": "2026-11-24T19:45:26.701100+00:00",
   "items": [
+    {
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently.",
+      "source": "The Decoder",
+      "published": "2026-11-24T19:23:41+00:00",
+      "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T18:30:42+00:00",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film.",
+      "source": "The Verge",
+      "published": "2026-11-24T18:15:00+00:00",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T18:02:59+00:00",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    },
+    {
+      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+      "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade.",
+      "source": "The Decoder",
+      "published": "2026-11-24T18:01:55+00:00",
+      "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/"
+    },
+    {
+      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+      "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of...",
+      "source": "The Decoder",
+      "published": "2026-11-24T17:58:44+00:00",
+      "link": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/"
+    },
+    {
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "source": "Wired",
+      "published": "2026-11-24T17:44:53+00:00",
+      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.",
+      "source": "The Verge",
+      "published": "2026-11-24T17:17:09+00:00",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:46:00+00:00",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.",
+      "source": "The Verge",
+      "published": "2026-11-24T16:30:00+00:00",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+    },
+    {
+      "title": "Tidal bans AI-generated music",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 290 # Comments: 264",
+      "source": "Hacker News",
+      "published": "2026-11-24T16:12:38+00:00",
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:10:00+00:00",
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography...",
+      "source": "The Verge",
+      "published": "2026-11-24T16:09:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:02:37+00:00",
+      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
+    },
+    {
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "source": "Wired",
+      "published": "2026-11-24T16:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T15:51:07+00:00",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    },
     {
       "title": "Raising the stakes for enterprise networks with AI modernization",
       "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network.",
@@ -31,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 418 # Comments: 178",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 749 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -80,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 65 # Comments: 26",
+      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 77 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-11-24T09:39:50+00:00",
       "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 83 # Comments: 59",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 97 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
@@ -234,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "How should an LLM see a computer?",
-      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 57 # Comments: 25",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 58 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-11-23T17:19:25+00:00",
       "link": "https://www.greptile.com/blog/trex-computer-use"
@@ -346,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 76 # Comments: 82",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 77 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-23T12:41:14+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
@@ -402,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 766 # Comments: 312",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 769 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
     },
     {
       "title": "Harvard CS 2881R AI Safety",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 80 # Comments: 8",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 81 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-22T18:01:54+00:00",
       "link": "https://boazbk.github.io/mltheoryseminar/"
@@ -423,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 713 # Comments: 448",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 715 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-11-22T17:06:27+00:00",
       "link": "https://openai.com/index/perplexity-and-intelligence/"
@@ -444,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 359 # Comments: 89",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 360 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-11-22T13:56:58+00:00",
       "link": "https://github.com/gulivan/worker755"
@@ -514,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 556",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 559",
       "source": "Hacker News",
       "published": "2026-11-22T02:10:02+00:00",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
@@ -640,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 70 # Comments: 8",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 71 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-20T21:53:39+00:00",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
@@ -1281,125 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-18T22:11:15+00:00",
       "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
-    },
-    {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "source": "Wired",
-      "published": "2026-11-18T22:00:00+00:00",
-      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/"
-    },
-    {
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T21:57:40+00:00",
-      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
-    },
-    {
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T21:34:13+00:00",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
-    },
-    {
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T21:31:21+00:00",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
-    },
-    {
-      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-      "source": "Wired",
-      "published": "2026-11-18T21:15:00+00:00",
-      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/"
-    },
-    {
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens.",
-      "source": "The Decoder",
-      "published": "2026-11-18T21:03:23+00:00",
-      "link": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
-    },
-    {
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T20:07:01+00:00",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"
-    },
-    {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T19:56:39+00:00",
-      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
-    },
-    {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags.",
-      "source": "The Verge",
-      "published": "2026-11-18T19:40:36+00:00",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
-    },
-    {
-      "title": "Nvidia’s rise, visualized",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes.",
-      "source": "The Verge",
-      "published": "2026-11-18T19:30:00+00:00",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
-    },
-    {
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes.",
-      "source": "The Verge",
-      "published": "2026-11-18T19:30:00+00:00",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
-    },
-    {
-      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound.",
-      "source": "The Decoder",
-      "published": "2026-11-18T19:26:25+00:00",
-      "link": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/"
-    },
-    {
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.",
-      "source": "The Verge",
-      "published": "2026-11-18T19:07:29+00:00",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
-    },
-    {
-      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
-      "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft.",
-      "source": "The Decoder",
-      "published": "2026-11-18T18:47:36+00:00",
-      "link": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/"
-    },
-    {
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable.",
-      "source": "The Verge",
-      "published": "2026-11-18T18:34:15+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
-    },
-    {
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T18:04:05+00:00",
-      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
-    },
-    {
-      "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
-      "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production.",
-      "source": "The Decoder",
-      "published": "2026-11-18T18:00:33+00:00",
-      "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
     }
   ]
 };
