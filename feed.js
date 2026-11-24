@@ -1,12 +1,96 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-24T10:41:26.291849+00:00",
+  "lastUpdated": "2026-11-24T15:35:59.715855+00:00",
   "items": [
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-24T15:15:16+00:00",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+    },
+    {
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis.",
+      "source": "The Decoder",
+      "published": "2026-11-24T14:28:41+00:00",
+      "link": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/"
+    },
+    {
+      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled.",
+      "source": "The Decoder",
+      "published": "2026-11-24T14:02:31+00:00",
+      "link": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/"
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-24T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 418 # Comments: 178",
+      "source": "Hacker News",
+      "published": "2026-11-24T12:40:15+00:00",
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+    },
+    {
+      "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+      "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees.",
+      "source": "The Decoder",
+      "published": "2026-11-24T12:30:49+00:00",
+      "link": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "source": "Ars Technica",
+      "published": "2026-11-24T12:30:05+00:00",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+    },
+    {
+      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines.",
+      "source": "The Decoder",
+      "published": "2026-11-24T11:26:23+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-24T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+    },
+    {
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+      "source": "Wired",
+      "published": "2026-11-24T10:45:00+00:00",
+      "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+    },
     {
       "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
       "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
       "source": "Wired",
       "published": "2026-11-24T10:15:00+00:00",
       "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+    },
+    {
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 65 # Comments: 26",
+      "source": "Hacker News",
+      "published": "2026-11-24T09:39:50+00:00",
+      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
+    },
+    {
+      "title": "Declare is a UI language for you and your AI",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 83 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-11-24T02:36:56+00:00",
+      "link": "https://davidtemkin.github.io/declarelang/"
     },
     {
       "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -150,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "How should an LLM see a computer?",
-      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 50 # Comments: 23",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 57 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-11-23T17:19:25+00:00",
       "link": "https://www.greptile.com/blog/trex-computer-use"
@@ -262,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 74 # Comments: 82",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 76 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-23T12:41:14+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
@@ -304,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 69 # Comments: 17",
+      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 71 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-11-22T23:53:00+00:00",
       "link": "https://0rwx.com/"
@@ -318,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 748 # Comments: 302",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 766 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
     },
     {
       "title": "Harvard CS 2881R AI Safety",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 79 # Comments: 8",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 80 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-11-22T18:01:54+00:00",
       "link": "https://boazbk.github.io/mltheoryseminar/"
@@ -339,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 699 # Comments: 442",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 713 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-11-22T17:06:27+00:00",
       "link": "https://openai.com/index/perplexity-and-intelligence/"
@@ -360,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 357 # Comments: 89",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 359 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-11-22T13:56:58+00:00",
       "link": "https://github.com/gulivan/worker755"
@@ -416,14 +500,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 104 # Comments: 22",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 105 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-11-22T05:11:43+00:00",
       "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
     },
     {
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 50 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-11-22T03:06:35+00:00",
+      "link": "https://www.youtube.com/watch?v=zqzk43bSdDI"
+    },
+    {
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 180 # Comments: 547",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 556",
       "source": "Hacker News",
       "published": "2026-11-22T02:10:02+00:00",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
@@ -444,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 140 # Comments: 36",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 141 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-11-21T20:47:41+00:00",
       "link": "https://www.pandex.io"
@@ -542,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 175 # Comments: 52",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 176 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-21T05:38:01+00:00",
       "link": "http://ricapar.net/ClawDOS/"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-18T18:00:33+00:00",
       "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
-    },
-    {
-      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous.",
-      "source": "The Verge",
-      "published": "2026-11-18T17:50:57+00:00",
-      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
-    },
-    {
-      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "source": "Wired",
-      "published": "2026-11-18T17:33:07+00:00",
-      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
-    },
-    {
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T17:32:10+00:00",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
-    },
-    {
-      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T17:32:10+00:00",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
-    },
-    {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh).",
-      "source": "Hacker News",
-      "published": "2026-11-18T17:26:28+00:00",
-      "link": "https://news.ycombinator.com/item?id=50549188"
-    },
-    {
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T16:59:00+00:00",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
-    },
-    {
-      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485...",
-      "source": "Hacker News",
-      "published": "2026-11-18T16:41:22+00:00",
-      "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
-    },
-    {
-      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "source": "Wired",
-      "published": "2026-11-18T16:35:24+00:00",
-      "link": "https://www.wired.com/story/artex-ai-hacking-tools/"
-    },
-    {
-      "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "source": "Wired",
-      "published": "2026-11-18T16:35:24+00:00",
-      "link": "https://www.wired.com/story/artex-ai-hacking-tools/"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "source": "TechCrunch",
-      "published": "2026-11-18T16:14:09+00:00",
-      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
-    },
-    {
-      "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
-      "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal texts as machine-written.",
-      "source": "The Decoder",
-      "published": "2026-11-18T16:09:08+00:00",
-      "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/"
-    },
-    {
-      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 108 # Comments: 67",
-      "source": "Hacker News",
-      "published": "2026-11-18T16:08:24+00:00",
-      "link": "https://microsoft.ai/news/microsoft-ignite-2026/"
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 493 # Comments: 261",
-      "source": "Hacker News",
-      "published": "2026-11-18T15:49:34+00:00",
-      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
     }
   ]
 };
