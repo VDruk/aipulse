@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-25T15:20:32.614473+00:00",
+  "lastUpdated": "2026-11-25T18:52:05.568153+00:00",
   "items": [
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "source": "Ars Technica",
+      "published": "2026-11-25T18:38:29+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/"
+    },
+    {
+      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data.",
+      "source": "The Decoder",
+      "published": "2026-11-25T18:22:02+00:00",
+      "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T18:11:46+00:00",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
+      "source": "The Verge",
+      "published": "2026-11-25T17:44:51+00:00",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T17:35:58+00:00",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+      "title": "How data centers are driving a US natural-gas boom",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-25T17:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+    },
+    {
+      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results.",
+      "source": "The Decoder",
+      "published": "2026-11-25T16:44:37+00:00",
+      "link": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
+      "source": "The Verge",
+      "published": "2026-11-25T16:00:59+00:00",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T15:41:43+00:00",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+    },
     {
       "title": "Amazon is reportedly in talks to end Muse AI shopping block",
       "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune.",
@@ -45,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "source": "TechCrunch",
       "published": "2026-11-25T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-19T16:52:01+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
-    },
-    {
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-11-19T16:45:50+00:00",
-      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
-    },
-    {
-      "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 616 # Comments: 249",
-      "source": "Hacker News",
-      "published": "2026-11-19T16:30:18+00:00",
-      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
-    },
-    {
-      "title": "US Intelligence Hawks Plot to Sneak Through Warrantless Spying",
-      "summary": "Article URL: https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/ Comments URL: https://news.ycombinator.com/item?id=50562242 Points: 61 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-11-19T16:29:16+00:00",
-      "link": "https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/"
-    },
-    {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T16:19:41+00:00",
-      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-    },
-    {
-      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 248",
-      "source": "Hacker News",
-      "published": "2026-11-19T15:38:12+00:00",
-      "link": "https://thedataexchange.media/pete-warden-moonshine/"
-    },
-    {
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps.",
-      "source": "The Verge",
-      "published": "2026-11-19T15:16:45+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
-    },
-    {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T14:54:39+00:00",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
-    },
-    {
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
-      "source": "The Verge",
-      "published": "2026-11-19T14:25:37+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
-    },
-    {
-      "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-      "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder.",
-      "source": "The Decoder",
-      "published": "2026-11-19T14:02:22+00:00",
-      "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/"
     }
   ]
 };
