@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-25T18:52:05.568153+00:00",
+  "lastUpdated": "2026-11-25T22:11:07.191734+00:00",
   "items": [
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
+      "source": "The Verge",
+      "published": "2026-11-25T21:51:26+00:00",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report.",
+      "source": "The Decoder",
+      "published": "2026-11-25T20:51:02+00:00",
+      "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems.",
+      "source": "The Decoder",
+      "published": "2026-11-25T20:15:50+00:00",
+      "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:03:27+00:00",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T19:54:57+00:00",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T19:44:24+00:00",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
     {
       "title": "Backblaze explains why it's sharing customer information with advertisers",
       "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
@@ -28,6 +70,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-25T17:44:51+00:00",
       "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T17:35:58+00:00",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
     },
     {
       "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-19T17:38:40+00:00",
       "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-    },
-    {
-      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T17:38:40+00:00",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-    },
-    {
-      "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
-      "summary": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers.",
-      "source": "The Decoder",
-      "published": "2026-11-19T17:02:41+00:00",
-      "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
-    },
-    {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "source": "Wired",
-      "published": "2026-11-19T17:00:00+00:00",
-      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
-    },
-    {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T16:59:23+00:00",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-    },
-    {
-      "title": "Chrome AI features wasting much bandwidth",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 134 # Comments: 51",
-      "source": "Hacker News",
-      "published": "2026-11-19T16:54:25+00:00",
-      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
-    },
-    {
-      "title": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
-      "source": "The Verge",
-      "published": "2026-11-19T16:52:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
     }
   ]
 };
