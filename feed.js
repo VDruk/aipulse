@@ -1,8 +1,8 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-25T01:13:00.415616+00:00",
+  "lastUpdated": "2026-11-25T03:53:13.449904+00:00",
   "items": [
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the...",
       "source": "TechCrunch",
       "published": "2026-11-25T00:12:02+00:00",
