@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-26T18:41:00.273536+00:00",
+  "lastUpdated": "2026-11-26T22:09:30.823238+00:00",
   "items": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:03:54+00:00",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+      "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth.",
+      "source": "The Decoder",
+      "published": "2026-11-26T19:31:46+00:00",
+      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/"
+    },
     {
       "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
       "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-26T17:16:41+00:00",
       "link": "https://diseasescuredbyai.com/"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch",
+      "published": "2026-11-26T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
     },
     {
       "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-19T22:31:41+00:00",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-    },
-    {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
-      "source": "The Verge",
-      "published": "2026-11-19T21:59:35+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
-    },
-    {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T21:58:06+00:00",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-    },
-    {
-      "title": "What’s With All These Outages?",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-      "source": "Wired",
-      "published": "2026-11-19T21:57:01+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
     }
   ]
 };
