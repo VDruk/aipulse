@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-25T22:11:07.191734+00:00",
+  "lastUpdated": "2026-11-26T00:48:05.460092+00:00",
   "items": [
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "source": "TechCrunch",
+      "published": "2026-11-25T22:44:32+00:00",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
     {
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
@@ -199,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 184 # Comments: 74",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 217 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-25T03:47:42+00:00",
       "link": "https://www.marginalia.nu/log/a_141_marginalia_update/"
     },
     {
       "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 83 # Comments: 47",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 101 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-11-25T03:01:36+00:00",
       "link": "https://www.proofatlas.ai/open-problems/"
@@ -255,14 +262,14 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 78 # Comments: 69",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 88 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-11-24T21:07:38+00:00",
       "link": "https://www.anthropic.com/research/working-with-ai"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 314 # Comments: 92",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 350 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-11-24T21:02:22+00:00",
       "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
@@ -360,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 333 # Comments: 318",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 334 # Comments: 331",
       "source": "Hacker News",
       "published": "2026-11-24T16:12:38+00:00",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
@@ -430,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 986 # Comments: 406",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1000 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -486,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 113 # Comments: 93",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 115 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
@@ -801,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 773 # Comments: 315",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 776 # Comments: 318",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
@@ -822,10 +829,17 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 719 # Comments: 453",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 720 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-11-22T17:06:27+00:00",
       "link": "https://openai.com/index/perplexity-and-intelligence/"
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "summary": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems.",
+      "source": "Hacker News",
+      "published": "2026-11-22T16:44:48+00:00",
+      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
     },
     {
       "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-19T18:09:11+00:00",
       "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    },
-    {
-      "title": "AI came for the coders. Understanding why tells us who's next",
-      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 68 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-11-19T17:43:38+00:00",
-      "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
-    },
-    {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T17:38:40+00:00",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
     }
   ]
 };
