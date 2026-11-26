@@ -1,9 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-26T09:09:36.553290+00:00",
+  "lastUpdated": "2026-11-26T14:47:20.420710+00:00",
   "items": [
     {
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040.",
+      "source": "The Decoder",
+      "published": "2026-11-26T13:41:07+00:00",
+      "link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/"
+    },
+    {
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-26T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+    },
+    {
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement.",
+      "source": "The Decoder",
+      "published": "2026-11-26T11:30:06+00:00",
+      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/"
+    },
+    {
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia.",
+      "source": "The Decoder",
+      "published": "2026-11-26T11:21:16+00:00",
+      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    },
+    {
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "source": "Wired",
+      "published": "2026-11-26T10:51:27+00:00",
+      "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings.",
+      "source": "The Verge",
+      "published": "2026-11-26T09:54:40+00:00",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 86 # Comments: 95",
+      "source": "Hacker News",
+      "published": "2026-11-26T09:44:23+00:00",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+    },
+    {
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 222 # Comments: 112",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 371 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-11-26T03:36:58+00:00",
       "link": "https://twitter.com/thsottiaux/status/2125784147889393806"
@@ -21,6 +70,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-25T21:51:26+00:00",
       "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 491 # Comments: 410",
+      "source": "Hacker News",
+      "published": "2026-11-25T21:18:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
     },
     {
       "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
@@ -101,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York bans AI toys, including those using internet to talk to children",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 53 # Comments: 11",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 53 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-11-25T17:27:05+00:00",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
@@ -220,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 219 # Comments: 83",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 221 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-11-25T03:47:42+00:00",
       "link": "https://www.marginalia.nu/log/a_141_marginalia_update/"
     },
     {
       "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 103 # Comments: 53",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 104 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-25T03:01:36+00:00",
       "link": "https://www.proofatlas.ai/open-problems/"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 354 # Comments: 97",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 355 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-11-24T21:02:22+00:00",
       "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
@@ -381,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 336 # Comments: 333",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 333",
       "source": "Hacker News",
       "published": "2026-11-24T16:12:38+00:00",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
@@ -392,13 +448,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-24T16:10:00+00:00",
       "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography...",
-      "source": "The Verge",
-      "published": "2026-11-24T16:09:23+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
     },
     {
       "title": "Pinterest will now let parents limit the AI-generated content their teens see",
@@ -451,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1014 # Comments: 410",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1021 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -507,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 118 # Comments: 95",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 119 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
@@ -822,7 +871,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 777 # Comments: 318",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 778 # Comments: 319",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
@@ -871,7 +920,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 360 # Comments: 90",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 361 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-11-22T13:56:58+00:00",
       "link": "https://github.com/gulivan/worker755"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-11-19T20:22:17+00:00",
       "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T20:18:49+00:00",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
-      "title": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
-      "source": "The Verge",
-      "published": "2026-11-19T20:05:06+00:00",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
-    },
-    {
-      "title": "AI industry growth remains strong, but the pace is slowing",
-      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending.",
-      "source": "The Decoder",
-      "published": "2026-11-19T19:28:19+00:00",
-      "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/"
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T19:10:45+00:00",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T19:10:45+00:00",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-    },
-    {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 258",
-      "source": "Hacker News",
-      "published": "2026-11-19T18:47:16+00:00",
-      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o"
-    },
-    {
-      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 51 # Comments: 36",
-      "source": "Hacker News",
-      "published": "2026-11-19T18:42:13+00:00",
-      "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/"
     }
   ]
 };
