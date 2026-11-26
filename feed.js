@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-26T14:47:20.420710+00:00",
+  "lastUpdated": "2026-11-26T18:41:00.273536+00:00",
   "items": [
+    {
+      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+      "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week.",
+      "source": "The Decoder",
+      "published": "2026-11-26T17:28:56+00:00",
+      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+    },
+    {
+      "title": "Tracking Diseases Cured by AI",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 162 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-11-26T17:16:41+00:00",
+      "link": "https://diseasescuredbyai.com/"
+    },
+    {
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch",
+      "published": "2026-11-26T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data.",
+      "source": "The Decoder",
+      "published": "2026-11-26T15:45:08+00:00",
+      "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/"
+    },
     {
       "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
       "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040.",
@@ -45,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 86 # Comments: 95",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 96 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-11-26T09:44:23+00:00",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
     },
     {
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 371 # Comments: 205",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 431 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-11-26T03:36:58+00:00",
       "link": "https://twitter.com/thsottiaux/status/2125784147889393806"
@@ -73,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 491 # Comments: 410",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 582 # Comments: 476",
       "source": "Hacker News",
       "published": "2026-11-25T21:18:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York bans AI toys, including those using internet to talk to children",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 53 # Comments: 13",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 55 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-11-25T17:27:05+00:00",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 221 # Comments: 83",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 222 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-11-25T03:47:42+00:00",
       "link": "https://www.marginalia.nu/log/a_141_marginalia_update/"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 89 # Comments: 76",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 89 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-11-24T21:07:38+00:00",
       "link": "https://www.anthropic.com/research/working-with-ai"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 333",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 341",
       "source": "Hacker News",
       "published": "2026-11-24T16:12:38+00:00",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
@@ -500,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1021 # Comments: 411",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1025 # Comments: 412",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -556,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 119 # Comments: 96",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 120 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
@@ -871,7 +899,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 778 # Comments: 319",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 780 # Comments: 319",
       "source": "Hacker News",
       "published": "2026-11-22T21:01:16+00:00",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
@@ -892,7 +920,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 720 # Comments: 453",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 721 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-11-22T17:06:27+00:00",
       "link": "https://openai.com/index/perplexity-and-intelligence/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-11-19T21:57:01+00:00",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
-    },
-    {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "source": "TechCrunch",
-      "published": "2026-11-19T21:42:31+00:00",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
-    },
-    {
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error.",
-      "source": "The Decoder",
-      "published": "2026-11-19T21:15:01+00:00",
-      "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/"
-    },
-    {
-      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him.",
-      "source": "Wired",
-      "published": "2026-11-19T20:34:17+00:00",
-      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information.",
-      "source": "The Verge",
-      "published": "2026-11-19T20:22:17+00:00",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
     }
   ]
 };
