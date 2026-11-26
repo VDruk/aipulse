@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-26T00:48:05.460092+00:00",
+  "lastUpdated": "2026-11-26T03:18:48.008401+00:00",
   "items": [
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -206,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 217 # Comments: 82",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 219 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-11-25T03:47:42+00:00",
       "link": "https://www.marginalia.nu/log/a_141_marginalia_update/"
     },
     {
       "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 101 # Comments: 50",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 102 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-11-25T03:01:36+00:00",
       "link": "https://www.proofatlas.ai/open-problems/"
@@ -262,14 +262,14 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 88 # Comments: 75",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 88 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-11-24T21:07:38+00:00",
       "link": "https://www.anthropic.com/research/working-with-ai"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 350 # Comments: 96",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 353 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-11-24T21:02:22+00:00",
       "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
@@ -367,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 334 # Comments: 331",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 336 # Comments: 332",
       "source": "Hacker News",
       "published": "2026-11-24T16:12:38+00:00",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
@@ -437,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1000 # Comments: 410",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1005 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -493,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 115 # Comments: 94",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 117 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
