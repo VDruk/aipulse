@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-27T09:25:19.987740+00:00",
+  "lastUpdated": "2026-11-27T14:47:10.059308+00:00",
   "items": [
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget.",
+      "source": "The Verge",
+      "published": "2026-11-27T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    },
+    {
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-11-27T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
+    },
     {
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-11-20T09:42:16+00:00",
       "link": "https://signal.org/blog/protecting-your-privacy/"
-    },
-    {
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "source": "Wired",
-      "published": "2026-11-20T07:00:00+00:00",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:56:01+00:00",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
     }
   ]
 };
