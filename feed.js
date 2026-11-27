@@ -1,9 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-27T03:23:51.085338+00:00",
+  "lastUpdated": "2026-11-27T09:25:19.987740+00:00",
   "items": [
     {
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "source": "Wired",
+      "published": "2026-11-27T07:00:00+00:00",
+      "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 187 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-11-27T06:44:34+00:00",
+      "link": "https://construct22.com/"
+    },
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 54 # Comments: 27",
+      "source": "Hacker News",
+      "published": "2026-11-27T00:03:18+00:00",
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+    },
+    {
       "title": "AI made self-hosting fun again",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 385 # Comments: 211",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 654 # Comments: 336",
       "source": "Hacker News",
       "published": "2026-11-26T21:47:45+00:00",
       "link": "https://janlukas.blog/posts/ai-self-hosting"
@@ -31,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tracking Diseases Cured by AI",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 305 # Comments: 182",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 310 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-11-26T17:16:41+00:00",
       "link": "https://diseasescuredbyai.com/"
@@ -101,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 265 # Comments: 221",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 327 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-11-26T09:44:23+00:00",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
     },
     {
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 469 # Comments: 261",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 486 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-11-26T03:36:58+00:00",
       "link": "https://twitter.com/thsottiaux/status/2125784147889393806"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 657 # Comments: 523",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 671 # Comments: 530",
       "source": "Hacker News",
       "published": "2026-11-25T21:18:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
@@ -261,13 +282,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
     },
     {
-      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
-      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement.",
-      "source": "The Decoder",
-      "published": "2026-11-25T13:23:36+00:00",
-      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
-    },
-    {
       "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
       "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance.",
       "source": "The Decoder",
@@ -332,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 223 # Comments: 85",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 224 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-11-25T03:47:42+00:00",
       "link": "https://www.marginalia.nu/log/a_141_marginalia_update/"
     },
     {
       "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 104 # Comments: 53",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 105 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-11-25T03:01:36+00:00",
       "link": "https://www.proofatlas.ai/open-problems/"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 89 # Comments: 77",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 90 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-11-24T21:07:38+00:00",
       "link": "https://www.anthropic.com/research/working-with-ai"
@@ -556,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1030 # Comments: 413",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1032 # Comments: 414",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -612,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 122 # Comments: 97",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 123 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-20T00:56:01+00:00",
       "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-    },
-    {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:43:50+00:00",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-    },
-    {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 71 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-11-19T22:56:59+00:00",
-      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
     }
   ]
 };
