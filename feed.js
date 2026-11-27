@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-27T14:47:10.059308+00:00",
+  "lastUpdated": "2026-11-27T18:31:41.196083+00:00",
   "items": [
+    {
+      "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte.",
+      "source": "The Decoder",
+      "published": "2026-11-27T18:27:02+00:00",
+      "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+    },
+    {
+      "title": "I'm Scared of AI",
+      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 92 # Comments: 86",
+      "source": "Hacker News",
+      "published": "2026-11-27T17:45:31+00:00",
+      "link": "https://thesoapbox.email/archive/3"
+    },
+    {
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect.",
+      "source": "The Decoder",
+      "published": "2026-11-27T16:58:56+00:00",
+      "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
+    },
+    {
+      "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-27T16:06:43+00:00",
+      "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/"
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics.",
+      "source": "The Decoder",
+      "published": "2026-11-27T16:05:23+00:00",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/"
+    },
+    {
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch.",
+      "source": "The Decoder",
+      "published": "2026-11-27T15:37:47+00:00",
+      "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 127 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-11-27T15:03:17+00:00",
+      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+    },
+    {
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-11-27T14:57:25+00:00",
+      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/"
+    },
     {
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
       "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget.",
@@ -16,11 +72,25 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
     },
     {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 103 # Comments: 131",
+      "source": "Hacker News",
+      "published": "2026-11-27T11:09:04+00:00",
+      "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
+    },
+    {
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
       "source": "Wired",
       "published": "2026-11-27T07:00:00+00:00",
       "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 591 # Comments: 252",
+      "source": "Hacker News",
+      "published": "2026-11-27T06:44:34+00:00",
+      "link": "https://construct22.com/"
     },
     {
       "title": "The group chat where your AI talks behind your back",
@@ -31,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 54 # Comments: 27",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 56 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-11-27T00:03:18+00:00",
       "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
     },
     {
       "title": "AI made self-hosting fun again",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 654 # Comments: 336",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1004 # Comments: 475",
       "source": "Hacker News",
       "published": "2026-11-26T21:47:45+00:00",
       "link": "https://janlukas.blog/posts/ai-self-hosting"
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tracking Diseases Cured by AI",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 310 # Comments: 189",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 316 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-11-26T17:16:41+00:00",
       "link": "https://diseasescuredbyai.com/"
@@ -136,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 327 # Comments: 290",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 408 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-11-26T09:44:23+00:00",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
     },
     {
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 486 # Comments: 267",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 503 # Comments: 272",
       "source": "Hacker News",
       "published": "2026-11-26T03:36:58+00:00",
       "link": "https://twitter.com/thsottiaux/status/2125784147889393806"
@@ -164,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 671 # Comments: 530",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 678 # Comments: 543",
       "source": "Hacker News",
       "published": "2026-11-25T21:18:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
@@ -248,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York bans AI toys, including those using internet to talk to children",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 55 # Comments: 14",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 56 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-11-25T17:27:05+00:00",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
@@ -416,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 90 # Comments: 78",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 91 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-11-24T21:07:38+00:00",
       "link": "https://www.anthropic.com/research/working-with-ai"
@@ -521,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 344",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 346",
       "source": "Hacker News",
       "published": "2026-11-24T16:12:38+00:00",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
@@ -584,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1032 # Comments: 414",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1032 # Comments: 415",
       "source": "Hacker News",
       "published": "2026-11-24T12:40:15+00:00",
       "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
@@ -640,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 123 # Comments: 97",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 125 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-11-24T02:36:56+00:00",
       "link": "https://davidtemkin.github.io/declarelang/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-11-20T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 932",
-      "source": "Hacker News",
-      "published": "2026-11-20T13:29:59+00:00",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-    },
-    {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 147 # Comments: 154",
-      "source": "Hacker News",
-      "published": "2026-11-20T13:29:59+00:00",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-    },
-    {
-      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
-      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks.",
-      "source": "The Decoder",
-      "published": "2026-11-20T13:19:31+00:00",
-      "link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
-    },
-    {
-      "title": "The Download: inside the quest to make our minds immortal",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-11-20T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
-    },
-    {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-      "source": "The Verge",
-      "published": "2026-11-20T12:30:47+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
-    },
-    {
-      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
-      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 58 # Comments: 61",
-      "source": "Hacker News",
-      "published": "2026-11-20T12:16:36+00:00",
-      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai"
-    },
-    {
-      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-      "source": "Wired",
-      "published": "2026-11-20T12:00:00+00:00",
-      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
-    },
-    {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 684 # Comments: 366",
-      "source": "Hacker News",
-      "published": "2026-11-20T10:01:41+00:00",
-      "link": "https://architectlabs.com/blog/frostbite"
-    },
-    {
-      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
-      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-11-20T09:59:51+00:00",
-      "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
-    },
-    {
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 581 # Comments: 349",
-      "source": "Hacker News",
-      "published": "2026-11-20T09:42:16+00:00",
-      "link": "https://signal.org/blog/protecting-your-privacy/"
     }
   ]
 };
