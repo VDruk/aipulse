@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-26T22:09:30.823238+00:00",
+  "lastUpdated": "2026-11-27T00:54:24.366781+00:00",
   "items": [
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
