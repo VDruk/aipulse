@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-28T08:40:10.873852+00:00",
+  "lastUpdated": "2026-11-28T13:57:18.511882+00:00",
   "items": [
+    {
+      "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+      "summary": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4.",
+      "source": "The Decoder",
+      "published": "2026-11-28T13:42:00+00:00",
+      "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/"
+    },
+    {
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers.",
+      "source": "The Decoder",
+      "published": "2026-11-28T11:12:30+00:00",
+      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/"
+    },
+    {
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation.",
+      "source": "The Decoder",
+      "published": "2026-11-28T10:48:18+00:00",
+      "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/"
+    },
     {
       "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
       "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-11-20T15:56:03+00:00",
       "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
-    },
-    {
-      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.",
-      "source": "The Decoder",
-      "published": "2026-11-20T15:03:25+00:00",
-      "link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
-    },
-    {
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-      "source": "TechCrunch",
-      "published": "2026-11-20T14:55:44+00:00",
-      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-    },
-    {
-      "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-      "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information.",
-      "source": "The Decoder",
-      "published": "2026-11-20T14:53:50+00:00",
-      "link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/"
     }
   ]
 };
