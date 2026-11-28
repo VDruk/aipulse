@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-11-28T03:00:17.297945+00:00",
+  "lastUpdated": "2026-11-28T08:40:10.873852+00:00",
   "items": [
     {
       "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
